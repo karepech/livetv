@@ -250,19 +250,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: CFL+ (US), RDS, TSN2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260529120000 +0700" stop="20260529140000 +0700" channel="espnselectespnunlimitedtsn+">
-    <title lang="id">Charles Schwab Challenge Second Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260529080000 +0700" stop="20260529100000 +0700" channel="fubosportsespnselectespnunlimitedgolfchannelusagolfchannelcanada">
     <title lang="id">Charles Schwab Challenge Second Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Select, ESPN Unlimited, Golf Channel USA, Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260529110000 +0700" stop="20260529130000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
-    <title lang="id">Austrian Open Second Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260529040000 +0700" stop="20260529060000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
@@ -286,7 +276,7 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260529085000 +0700" stop="20260529105000 +0700" channel="peacock">
-    <title lang="id">Chevrolet Detroit Sports Car Classic Qualifying</title>
+    <title lang="id">Detroit Grand Prix Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -320,29 +310,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, TNT, truTV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260529013000 +0700" stop="20260529033000 +0700" channel="beinsports5beincanada">
-    <title lang="id">One Friday Fights</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: beIN SPORTS 5, beIN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260529100000 +0700" stop="20260529120000 +0700" channel="espndeportes">
     <title lang="id">LFA 234 Prelims</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Deportes</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260529094000 +0700" stop="20260529114000 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">Geelong Cats @ Carlton Blues</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260529103000 +0700" stop="20260529123000 +0700" channel="slingtvhbomaxtrutv">
-    <title lang="id">Feltre - Alleghe Stage 19 - 151 km</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, truTV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260529110000 +0700" stop="20260529130000 +0700" channel="slingtvhbomax">
-    <title lang="id">Boucles de la Mayenne Stage 1</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260529100000 +0700" stop="20260529120000 +0700" channel="espnselectespnunlimitedtsn+">
@@ -350,19 +320,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260529100000 +0700" stop="20260529120000 +0700" channel="foxsoccerplus">
-    <title lang="id">Manly Sea Eagles @ Cronulla Sharks</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260529064500 +0700" stop="20260529084500 +0700" channel="sportsnet+">
     <title lang="id">Bath @ Bristol</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260529093500 +0700" stop="20260529113500 +0700" channel="tsn+">
-    <title lang="id">Fijian Drua @ Reds</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260529064500 +0700" stop="20260529084500 +0700" channel="snworldsnnowsportsnet+">

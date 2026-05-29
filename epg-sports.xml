@@ -65,36 +65,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, Disney+, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260530080000 +0700" stop="20260530100000 +0700" channel="espnselectespnunlimitedsecn">
-    <title lang="id">Lamar @ Texas A&amp;M</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, SECN</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260530080000 +0700" stop="20260530100000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">South Dakota State @ Nebraska</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260530090000 +0700" stop="20260530110000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">The Citadel @ Oklahoma</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260530090000 +0700" stop="20260530110000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Binghamton @ West Virginia</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260530090000 +0700" stop="20260530110000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">VCU @ North Carolina</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260530090000 +0700" stop="20260530110000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Long Island University @ University of Georgia</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260530100000 +0700" stop="20260530120000 +0700" channel="ucffubosportsespnunlimitedespn2">
     <title lang="id">NC State @</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: UCF, Fubo Sports, ESPN Unlimited, ESPN2</desc>
@@ -113,6 +83,31 @@
   <programme start="20260530100000 +0700" stop="20260530120000 +0700" channel="espnunlimitedespnu">
     <title lang="id">Missouri State @ Arkansas</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, ESPN U</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260530100000 +0700" stop="20260530120000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">VCU @ North Carolina</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260530103000 +0700" stop="20260530123000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">The Citadel @ Oklahoma</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260530110000 +0700" stop="20260530130000 +0700" channel="espnunlimitedsecn">
+    <title lang="id">Alabama State @ Alabama</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, SECN</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260530110000 +0700" stop="20260530130000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Jacksonville State @ Virginia</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260530110000 +0700" stop="20260530130000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Louisiana @ Cincinnati</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260530100500 +0700" stop="20260530120500 +0700" channel="ballysportslivemilb.tv">
@@ -225,16 +220,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260530090000 +0700" stop="20260530110000 +0700" channel="espnselectespnunlimitedtsn3">
-    <title lang="id">Halifax Tides Ottawa Rapid</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN3</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260530080000 +0700" stop="20260530100000 +0700" channel="fanatiz">
-    <title lang="id">Envigado Real Cartagena</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260530110000 +0700" stop="20260530130000 +0700" channel="cfl+(us)">
     <title lang="id">Hamilton Tiger-Cats @ Toronto Argonauts Preseason</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: CFL+ (US)</desc>
@@ -243,26 +228,6 @@
   <programme start="20260530110000 +0700" stop="20260530130000 +0700" channel="cfl+(us)rdstsn2">
     <title lang="id">Montreal Alouettes @ Ottawa RedBlacks Preseason</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: CFL+ (US), RDS, TSN2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260530080000 +0700" stop="20260530100000 +0700" channel="fubosportsespnselectespnunlimitedgolfchannelusagolfchannelcanada">
-    <title lang="id">Charles Schwab Challenge Second Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Select, ESPN Unlimited, Golf Channel USA, Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260530080000 +0700" stop="20260530100000 +0700" channel="fubosportsfoxsports1">
-    <title lang="id">Allegiance 200 Practice</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260530090500 +0700" stop="20260530110500 +0700" channel="fubosportsfoxsports1">
-    <title lang="id">Allegiance 200 Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260530085000 +0700" stop="20260530105000 +0700" channel="peacock">
-    <title lang="id">Detroit Grand Prix Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260530111500 +0700" stop="20260530131500 +0700" channel="floracing">

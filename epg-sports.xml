@@ -30,11 +30,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260529073000 +0700" stop="20260529093000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Manawatu Jets @ Taranaki Mountainairs</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260529104000 +0700" stop="20260529124000 +0700" channel="mlbnetworkmlb.tvreds.tvbravesvision">
     <title lang="id">Atlanta Braves @ Cincinnati Reds</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: MLB Network, MLB.TV, Reds.TV, BravesVision</desc>
@@ -185,11 +180,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260529090000 +0700" stop="20260529110000 +0700" channel="nextlevelsports">
-    <title lang="id">Yomiuri Giants @ Nippon Ham Fighters</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260529110500 +0700" stop="20260529130500 +0700" channel="flohockey">
     <title lang="id">Toronto Marlies @ Wilkes-Barre/Scranton</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FloHockey</desc>
@@ -315,11 +305,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260529090000 +0700" stop="20260529110000 +0700" channel="tnttrutvtsn+more">
-    <title lang="id">French Open HBO Max Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TNT, truTV, TSN+, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260529030000 +0700" stop="20260529050000 +0700" channel="hbomaxtrutv">
     <title lang="id">French Open</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: HBO Max, truTV</desc>
@@ -355,6 +340,11 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, truTV</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260529110000 +0700" stop="20260529130000 +0700" channel="slingtvhbomax">
+    <title lang="id">Boucles de la Mayenne Stage 1</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260529100000 +0700" stop="20260529120000 +0700" channel="espnselectespnunlimitedtsn+">
     <title lang="id">Boston Cannons @ Maryland Whipsnakes</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
@@ -370,11 +360,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260529070500 +0700" stop="20260529090500 +0700" channel="tsn+">
-    <title lang="id">Red Hurricanes @ Crusaders</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260529093500 +0700" stop="20260529113500 +0700" channel="tsn+">
     <title lang="id">Fijian Drua @ Reds</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
@@ -383,11 +368,6 @@
   <programme start="20260529064500 +0700" stop="20260529084500 +0700" channel="snworldsnnowsportsnet+">
     <title lang="id">Connacht Eagles @ Glasgow Warriors</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: SN World, SN NOW, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260529080000 +0700" stop="20260529100000 +0700" channel="paramount+tsn+">
-    <title lang="id">Valladolid</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260529110000 +0700" stop="20260529130000 +0700" channel="fubosportsespnunlimitedespntsn+">

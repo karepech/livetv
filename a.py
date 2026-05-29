@@ -4,13 +4,9 @@ from datetime import datetime, timedelta
 import pytz
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
+import re
 
 tz_wib = pytz.timezone('Asia/Jakarta')
-
-URLS = {
-    'Soccer': 'https://www.livesportsontv.com/sport/soccer',
-    'Racing': 'https://www.livesportsontv.com/sport/motorsport'
-}
 
 def format_nama_channel(channel_asli):
     ch = channel_asli.strip().lower()
@@ -26,69 +22,75 @@ def scrape_livesports():
         browser = p.chromium.launch(headless=True)
         page = browser.new_page()
         
-        for kategori, url in URLS.items():
-            print(f"Membuka {kategori}...")
-            try:
-                # PERBAIKAN: Hapus networkidle, ubah jadi domcontentloaded
-                # Perpanjang waktu tunggu maksimal jadi 60 detik (60000ms)
-                page.goto(url, timeout=60000, wait_until='domcontentloaded')
-                
-                # Paksa bot menunggu 5 detik agar JavaScript merender jadwal TV
-                page.wait_for_timeout(5000) 
-            except Exception as e:
-                print(f"Timeout atau gagal memuat {url}: {e}")
-                continue # Kalau satu URL error, lanjut ke URL berikutnya, jangan berhenti total
-
-            html = page.content()
-            soup = BeautifulSoup(html, 'html.parser')
+        url = 'https://www.livesportsontv.com/'
+        print(f"Membuka halaman utama: {url}")
+        
+        try:
+            # Waktu tunggu diperpanjang, menunggu struktur dasar web dimuat
+            page.goto(url, timeout=60000, wait_until='domcontentloaded')
+            # Paksa bot menunggu 8 detik agar javascript merender daftar jadwal
+            page.wait_for_timeout(8000) 
+        except Exception as e:
+            print(f"Error memuat halaman: {e}")
+        
+        html = page.content()
+        soup = BeautifulSoup(html, 'html.parser')
+        
+        # Pencarian elemen diperluas untuk menangkap list atau div jadwal apapun
+        matches = soup.find_all(['div', 'li'], class_=lambda c: c and ('match' in c.lower() or 'event' in c.lower() or 'fixture' in c.lower() or 'item' in c.lower()))
+        
+        for match in matches:
+            acara_elem = match.find(class_=lambda c: c and ('title' in c.lower() or 'team' in c.lower() or 'name' in c.lower()))
+            waktu_elem = match.find(class_=lambda c: c and ('time' in c.lower() or 'date' in c.lower()))
+            channel_elem = match.find(class_=lambda c: c and ('channel' in c.lower() or 'network' in c.lower() or 'broadcaster' in c.lower() or 'tv' in c.lower()))
             
-            matches = soup.find_all('div', class_=lambda c: c and ('match' in c.lower() or 'event' in c.lower()))
+            # Abaikan jika tidak ada nama acara atau channel TV
+            if not channel_elem or not acara_elem: continue
+                
+            acara = acara_elem.get_text(strip=True)
+            tv_asli = channel_elem.get_text(strip=True)
+            waktu_teks = waktu_elem.get_text(strip=True) if waktu_elem else ''
             
-            for match in matches:
-                acara_elem = match.find(class_=lambda c: c and 'title' in c.lower())
-                waktu_elem = match.find(class_=lambda c: c and 'time' in c.lower())
-                channel_elem = match.find(class_=lambda c: c and 'channel' in c.lower())
-                status_elem = match.find(class_=lambda c: c and 'live' in c.lower())
+            # Cek status (Apakah Live atau hanya jadwal biasa)
+            status_tayang = 'Akan Tayang'
+            status_elem = match.find(class_=lambda c: c and 'live' in c.lower())
+            if status_elem or 'live' in match.get('class', []):
+                status_tayang = 'Sedang Tayang'
                 
-                if not channel_elem or not acara_elem: continue
-                    
-                acara = acara_elem.get_text(strip=True)
-                tv_asli = channel_elem.get_text(strip=True)
-                status_teks = status_elem.get_text(strip=True) if status_elem else ''
-                waktu_teks = waktu_elem.get_text(strip=True) if waktu_elem else ''
-                
-                is_live = 'live' in status_teks.lower() or 'live' in match.get('class', [])
-                if not is_live: continue
-                    
-                kategori_epg = 'Grand Prix' if kategori == 'Racing' else 'Olahraga'
-                tv_bersih = format_nama_channel(tv_asli)
-                
-                sekarang = datetime.now(tz_wib)
-                jam_xmltv = sekarang.strftime('%Y%m%d%H%M%S %z')
-                
-                if waktu_teks:
-                    try:
-                        jam, menit = map(int, waktu_teks.split(':'))
+            tv_bersih = format_nama_channel(tv_asli)
+            
+            sekarang = datetime.now(tz_wib)
+            jam_xmltv = sekarang.strftime('%Y%m%d%H%M%S %z')
+            
+            # Ekstraksi jam tayang jika formatnya HH:MM
+            if waktu_teks:
+                try:
+                    waktu_match = re.search(r'(\d{1,2}):(\d{2})', waktu_teks)
+                    if waktu_match:
+                        jam = int(waktu_match.group(1))
+                        menit = int(waktu_match.group(2))
                         dt_event = sekarang.replace(hour=jam, minute=menit, second=0)
                         jam_xmltv = dt_event.strftime('%Y%m%d%H%M%S %z')
-                    except: pass
-                
-                jadwal_ekstrak.append({
-                    'acara': acara,
-                    'kategori': kategori_epg,
-                    'status': 'Sedang Tayang',
-                    'tv': tv_bersih,
-                    'start_xml': jam_xmltv
-                })
+                except: pass
+            
+            jadwal_ekstrak.append({
+                'acara': acara,
+                'kategori': 'Olahraga', # Menjaga kategori terpisah dari TV Lokal
+                'status': status_tayang,
+                'tv': tv_bersih,
+                'start_xml': jam_xmltv
+            })
+            
         browser.close()
     return jadwal_ekstrak
 
 def generate_xmltv(data_jadwal):
-    tv = ET.Element('tv', {'generator-info-name': 'Auto EPG'})
+    print(f"Menyimpan {len(data_jadwal)} jadwal ke XML...")
+    tv = ET.Element('tv', {'generator-info-name': 'Auto EPG All Sports'})
     
     for item in data_jadwal:
         start_dt = datetime.strptime(item['start_xml'], '%Y%m%d%H%M%S %z')
-        stop_dt = start_dt + timedelta(hours=2)
+        stop_dt = start_dt + timedelta(hours=2) # Asumsi durasi 2 jam
         stop_xml = stop_dt.strftime('%Y%m%d%H%M%S %z')
         channel_id = item['tv'].replace(' ', '').replace(',', '').lower()
         
@@ -98,10 +100,11 @@ def generate_xmltv(data_jadwal):
         ET.SubElement(prog, 'category', {'lang': 'id'}).text = item['kategori']
 
     xmlstr = minidom.parseString(ET.tostring(tv)).toprettyxml(indent="  ")
+    
+    # PERBAIKAN: Selalu tulis file meskipun data kosong, agar git add tidak error
     with open("epg-sports.xml", "w", encoding="utf-8") as f:
         f.write(xmlstr)
 
 if __name__ == "__main__":
     data = scrape_livesports()
-    if data:
-        generate_xmltv(data)
+    generate_xmltv(data) # Eksekusi tanpa syarat if data:

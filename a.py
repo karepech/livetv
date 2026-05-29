@@ -27,7 +27,18 @@ def scrape_livesports():
         page = browser.new_page()
         
         for kategori, url in URLS.items():
-            page.goto(url, wait_until='networkidle')
+            print(f"Membuka {kategori}...")
+            try:
+                # PERBAIKAN: Hapus networkidle, ubah jadi domcontentloaded
+                # Perpanjang waktu tunggu maksimal jadi 60 detik (60000ms)
+                page.goto(url, timeout=60000, wait_until='domcontentloaded')
+                
+                # Paksa bot menunggu 5 detik agar JavaScript merender jadwal TV
+                page.wait_for_timeout(5000) 
+            except Exception as e:
+                print(f"Timeout atau gagal memuat {url}: {e}")
+                continue # Kalau satu URL error, lanjut ke URL berikutnya, jangan berhenti total
+
             html = page.content()
             soup = BeautifulSoup(html, 'html.parser')
             
@@ -94,4 +105,3 @@ if __name__ == "__main__":
     data = scrape_livesports()
     if data:
         generate_xmltv(data)
-              

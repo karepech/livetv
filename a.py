@@ -1,10 +1,10 @@
+import re
 from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 import pytz
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
-import re
 
 tz_wib = pytz.timezone('Asia/Jakarta')
 
@@ -21,61 +21,86 @@ def scrape_livesports():
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         page = browser.new_page()
-        
         url = 'https://www.livesportsontv.com/'
-        print(f"Membuka halaman utama: {url}")
         
         try:
-            # Waktu tunggu diperpanjang, menunggu struktur dasar web dimuat
             page.goto(url, timeout=60000, wait_until='domcontentloaded')
-            # Paksa bot menunggu 8 detik agar javascript merender daftar jadwal
-            page.wait_for_timeout(8000) 
+            page.wait_for_timeout(8000)
         except Exception as e:
-            print(f"Error memuat halaman: {e}")
+            print(f"Peringatan muat halaman: {e}")
         
         html = page.content()
         soup = BeautifulSoup(html, 'html.parser')
         
-        # Pencarian elemen diperluas untuk menangkap list atau div jadwal apapun
-        matches = soup.find_all(['div', 'li'], class_=lambda c: c and ('match' in c.lower() or 'event' in c.lower() or 'fixture' in c.lower() or 'item' in c.lower()))
+        # 1. HAPUS SAMPAH: Buang Header, Judul Web, dan Menu agar tidak ikut tersedot
+        for tag in soup(['head', 'header', 'footer', 'nav', 'script', 'style', 'svg']):
+            tag.decompose()
+            
+        # 2. JANGKAR WAKTU: Cari semua teks yang mirip jam (Misal 14:00, 02:30)
+        time_pattern = re.compile(r'\b\d{1,2}:\d{2}\b')
+        semua_teks_waktu = soup.find_all(string=time_pattern)
         
-        for match in matches:
-            acara_elem = match.find(class_=lambda c: c and ('title' in c.lower() or 'team' in c.lower() or 'name' in c.lower()))
-            waktu_elem = match.find(class_=lambda c: c and ('time' in c.lower() or 'date' in c.lower()))
-            channel_elem = match.find(class_=lambda c: c and ('channel' in c.lower() or 'network' in c.lower() or 'broadcaster' in c.lower() or 'tv' in c.lower()))
+        diproses = set() # Untuk mencegah jadwal ganda
+        
+        for teks_waktu in semua_teks_waktu:
+            waktu_teks = teks_waktu.strip()
+            waktu_match = re.search(r'(\d{1,2}):(\d{2})', waktu_teks)
+            if not waktu_match: continue
             
-            # Abaikan jika tidak ada nama acara atau channel TV
-            if not channel_elem or not acara_elem: continue
-                
-            acara = acara_elem.get_text(strip=True)
-            tv_asli = channel_elem.get_text(strip=True)
-            waktu_teks = waktu_elem.get_text(strip=True) if waktu_elem else ''
+            # 3. CARI BUNGKUSNYA: Naik ke elemen HTML di atasnya untuk mengambil 1 baris jadwal utuh
+            parent = teks_waktu.parent
+            row = parent
+            for _ in range(4): # Naik maksimal 4 tingkat
+                if parent.parent and parent.parent.name in ['div', 'li', 'tr', 'a']:
+                    if len(parent.parent.get_text(strip=True)) < 300: # Asumsi 1 baris tidak lebih dari 300 huruf
+                        row = parent.parent
+                parent = parent.parent
             
-            # Cek status (Apakah Live atau hanya jadwal biasa)
-            status_tayang = 'Akan Tayang'
-            status_elem = match.find(class_=lambda c: c and 'live' in c.lower())
-            if status_elem or 'live' in match.get('class', []):
-                status_tayang = 'Sedang Tayang'
-                
+            # Hindari memproses baris yang sama berulang kali
+            row_text_full = row.get_text(separator=" ", strip=True)
+            if row_text_full in diproses: continue
+            diproses.add(row_text_full)
+            
+            # 4. EKSTRAK NAMA ACARA
+            teks_waktu.extract() # Cabut teks waktu agar tidak menyatu dengan nama pertandingan
+            sisa_teks = list(row.stripped_strings)
+            acara = " ".join(sisa_teks)
+            
+            # Filter agar judul web tidak lolos
+            if len(acara) < 5 or "Live Sports" in acara: continue
+            
+            # 5. EKSTRAK LOGO TV (Membaca gambar alt/title)
+            channels = []
+            for img in row.find_all('img'):
+                alt = img.get('alt', '').strip()
+                title = img.get('title', '').strip()
+                # Ambil nama TV dari logo jika ada
+                if alt and len(alt) < 25: channels.append(alt)
+                elif title and len(title) < 25: channels.append(title)
+            
+            if not channels:
+                channels = ["TV Belum Diketahui"]
+            
+            tv_asli = ", ".join(set(channels)) # Gabungkan jika disiarkan di banyak TV
             tv_bersih = format_nama_channel(tv_asli)
             
+            # 6. KONVERSI JAM
             sekarang = datetime.now(tz_wib)
-            jam_xmltv = sekarang.strftime('%Y%m%d%H%M%S %z')
+            jam = int(waktu_match.group(1))
+            menit = int(waktu_match.group(2))
             
-            # Ekstraksi jam tayang jika formatnya HH:MM
-            if waktu_teks:
-                try:
-                    waktu_match = re.search(r'(\d{1,2}):(\d{2})', waktu_teks)
-                    if waktu_match:
-                        jam = int(waktu_match.group(1))
-                        menit = int(waktu_match.group(2))
-                        dt_event = sekarang.replace(hour=jam, minute=menit, second=0)
-                        jam_xmltv = dt_event.strftime('%Y%m%d%H%M%S %z')
-                except: pass
+            try:
+                dt_event = sekarang.replace(hour=jam, minute=menit, second=0)
+                jam_xmltv = dt_event.strftime('%Y%m%d%H%M%S %z')
+            except:
+                jam_xmltv = sekarang.strftime('%Y%m%d%H%M%S %z')
+            
+            # 7. CEK STATUS LIVE
+            status_tayang = 'Sedang Tayang' if 'live' in row_text_full.lower() else 'Akan Tayang'
             
             jadwal_ekstrak.append({
                 'acara': acara,
-                'kategori': 'Olahraga', # Menjaga kategori terpisah dari TV Lokal
+                'kategori': 'Olahraga',
                 'status': status_tayang,
                 'tv': tv_bersih,
                 'start_xml': jam_xmltv
@@ -85,13 +110,14 @@ def scrape_livesports():
     return jadwal_ekstrak
 
 def generate_xmltv(data_jadwal):
-    print(f"Menyimpan {len(data_jadwal)} jadwal ke XML...")
-    tv = ET.Element('tv', {'generator-info-name': 'Auto EPG All Sports'})
+    print(f"Berhasil menarik {len(data_jadwal)} pertandingan. Membuat XML...")
+    tv = ET.Element('tv', {'generator-info-name': 'Auto EPG Smart Sports'})
     
     for item in data_jadwal:
         start_dt = datetime.strptime(item['start_xml'], '%Y%m%d%H%M%S %z')
-        stop_dt = start_dt + timedelta(hours=2) # Asumsi durasi 2 jam
+        stop_dt = start_dt + timedelta(hours=2) # Durasi default 2 jam
         stop_xml = stop_dt.strftime('%Y%m%d%H%M%S %z')
+        
         channel_id = item['tv'].replace(' ', '').replace(',', '').lower()
         
         prog = ET.SubElement(tv, 'programme', {'start': item['start_xml'], 'stop': stop_xml, 'channel': channel_id})
@@ -101,10 +127,9 @@ def generate_xmltv(data_jadwal):
 
     xmlstr = minidom.parseString(ET.tostring(tv)).toprettyxml(indent="  ")
     
-    # PERBAIKAN: Selalu tulis file meskipun data kosong, agar git add tidak error
     with open("epg-sports.xml", "w", encoding="utf-8") as f:
         f.write(xmlstr)
 
 if __name__ == "__main__":
     data = scrape_livesports()
-    generate_xmltv(data) # Eksekusi tanpa syarat if data:
+    generate_xmltv(data)

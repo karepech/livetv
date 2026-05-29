@@ -8,6 +8,16 @@ from xml.dom import minidom
 
 tz_wib = pytz.timezone('Asia/Jakarta')
 
+# Daftar kata kunci untuk mendeteksi nama TV/Channel dari teks
+TV_KEYWORDS = [
+    'tv', 'espn', 'fox', 'bein', 'dazn', 'tsn', 'fubo', 'sports', 'network', 
+    'fanatiz', 'peacock', 'paramount', 'bally', 'flo', 'ion', 'tnt', 'trutv', 
+    'cbs', 'nbc', 'abc', 'hbo', 'sling', 'vix', 'apple', 'amazon', 'optus', 
+    'sky', 'rds', 'sn ', 'now', 'mlb', 'media', 'masn', 'nesn', 'wkyc', 
+    'marquee', 'matrix', 'midwest', 'chsn', 'disney+', 'accn', 'secn', 
+    'wgnt', 'nwsl+', 'golazo', 'onesoccer', 'cfl+', 'golf channel', 'vision'
+]
+
 def format_nama_channel(channel_asli):
     ch = channel_asli.strip().lower()
     if ch in ['bein sports 1', 'bein sports']: return 'beIN Sports 1 Indonesia'
@@ -32,59 +42,64 @@ def scrape_livesports():
         html = page.content()
         soup = BeautifulSoup(html, 'html.parser')
         
-        # 1. HAPUS SAMPAH: Buang Header, Judul Web, dan Menu agar tidak ikut tersedot
-        for tag in soup(['head', 'header', 'footer', 'nav', 'script', 'style', 'svg']):
+        # Bersihkan elemen yang tidak perlu
+        for tag in soup(['head', 'header', 'footer', 'nav', 'script', 'style', 'svg', 'img']):
             tag.decompose()
             
-        # 2. JANGKAR WAKTU: Cari semua teks yang mirip jam (Misal 14:00, 02:30)
+        # Cari elemen berdasarkan jam
         time_pattern = re.compile(r'\b\d{1,2}:\d{2}\b')
         semua_teks_waktu = soup.find_all(string=time_pattern)
         
-        diproses = set() # Untuk mencegah jadwal ganda
+        diproses = set()
         
         for teks_waktu in semua_teks_waktu:
             waktu_teks = teks_waktu.strip()
             waktu_match = re.search(r'(\d{1,2}):(\d{2})', waktu_teks)
             if not waktu_match: continue
             
-            # 3. CARI BUNGKUSNYA: Naik ke elemen HTML di atasnya untuk mengambil 1 baris jadwal utuh
-            parent = teks_waktu.parent
-            row = parent
-            for _ in range(4): # Naik maksimal 4 tingkat
-                if parent.parent and parent.parent.name in ['div', 'li', 'tr', 'a']:
-                    if len(parent.parent.get_text(strip=True)) < 300: # Asumsi 1 baris tidak lebih dari 300 huruf
-                        row = parent.parent
-                parent = parent.parent
+            # Ambil container baris utuh
+            row = teks_waktu.parent
+            for _ in range(4):
+                if row.parent and row.parent.name in ['div', 'li', 'tr', 'a']:
+                    if len(row.parent.get_text(strip=True)) < 300:
+                        row = row.parent
             
-            # Hindari memproses baris yang sama berulang kali
-            row_text_full = row.get_text(separator=" ", strip=True)
-            if row_text_full in diproses: continue
+            # Ambil semua teks yang ada di baris tersebut secara berurutan
+            teks_array = list(row.stripped_strings)
+            row_text_full = " ".join(teks_array)
+            
+            if row_text_full in diproses or "Live Sports" in row_text_full: continue
             diproses.add(row_text_full)
             
-            # 4. EKSTRAK NAMA ACARA
-            teks_waktu.extract() # Cabut teks waktu agar tidak menyatu dengan nama pertandingan
-            sisa_teks = list(row.stripped_strings)
-            acara = " ".join(sisa_teks)
+            # Hapus teks jam dan kata 'live' dari array agar tidak mengganggu
+            teks_array = [t for t in teks_array if t != waktu_teks and t.lower() != 'live']
             
-            # Filter agar judul web tidak lolos
-            if len(acara) < 5 or "Live Sports" in acara: continue
-            
-            # 5. EKSTRAK LOGO TV (Membaca gambar alt/title)
             channels = []
-            for img in row.find_all('img'):
-                alt = img.get('alt', '').strip()
-                title = img.get('title', '').strip()
-                # Ambil nama TV dari logo jika ada
-                if alt and len(alt) < 25: channels.append(alt)
-                elif title and len(title) < 25: channels.append(title)
+            acara_parts = []
             
-            if not channels:
-                channels = ["TV Belum Diketahui"]
-            
-            tv_asli = ", ".join(set(channels)) # Gabungkan jika disiarkan di banyak TV
+            # TRIK: Baca teks dari belakang (Kanan ke Kiri)
+            is_channel_zone = True
+            for teks in reversed(teks_array):
+                t_low = teks.lower()
+                
+                # Deteksi apakah teks ini adalah Channel TV
+                is_kw_match = any(kw in t_low for kw in TV_KEYWORDS)
+                is_short_channel = len(teks) <= 4 and teks.isupper() # Menangkap nama seperti ION, TSN
+                
+                if is_channel_zone and (is_kw_match or is_short_channel or t_low in ['dazn canada', 'fanatiz']):
+                    channels.insert(0, teks) # Masukkan ke list channel (di depan)
+                else:
+                    # Kalau sudah nabrak nama tim, berarti sisa teks di depannya adalah acara
+                    is_channel_zone = False
+                    acara_parts.insert(0, teks)
+                    
+            acara = " ".join(acara_parts)
+            tv_asli = ", ".join(channels) if channels else "TV Belum Tersedia"
             tv_bersih = format_nama_channel(tv_asli)
             
-            # 6. KONVERSI JAM
+            if len(acara) < 5: continue
+            
+            # Konversi Jam
             sekarang = datetime.now(tz_wib)
             jam = int(waktu_match.group(1))
             menit = int(waktu_match.group(2))
@@ -95,7 +110,6 @@ def scrape_livesports():
             except:
                 jam_xmltv = sekarang.strftime('%Y%m%d%H%M%S %z')
             
-            # 7. CEK STATUS LIVE
             status_tayang = 'Sedang Tayang' if 'live' in row_text_full.lower() else 'Akan Tayang'
             
             jadwal_ekstrak.append({
@@ -110,12 +124,11 @@ def scrape_livesports():
     return jadwal_ekstrak
 
 def generate_xmltv(data_jadwal):
-    print(f"Berhasil menarik {len(data_jadwal)} pertandingan. Membuat XML...")
     tv = ET.Element('tv', {'generator-info-name': 'Auto EPG Smart Sports'})
     
     for item in data_jadwal:
         start_dt = datetime.strptime(item['start_xml'], '%Y%m%d%H%M%S %z')
-        stop_dt = start_dt + timedelta(hours=2) # Durasi default 2 jam
+        stop_dt = start_dt + timedelta(hours=2)
         stop_xml = stop_dt.strftime('%Y%m%d%H%M%S %z')
         
         channel_id = item['tv'].replace(' ', '').replace(',', '').lower()

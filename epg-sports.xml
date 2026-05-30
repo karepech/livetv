@@ -10,11 +10,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: NBCS Boston, Spectrum SportsNet, NBA TV Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260530123000 +0700" stop="20260530143000 +0700" channel="nextlevelsports">
-    <title lang="id">Telekom Baskets Bonn @ FC Bayern München</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260530023000 +0700" stop="20260530043000 +0700" channel="nextlevelsports">
     <title lang="id">Bamberg @ Alba Berlin</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports</desc>
@@ -80,11 +75,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX, MLB.TV, SN NOW, Sportsnet+, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260530010000 +0700" stop="20260530030000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Long Island University @ University of Georgia</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260530020000 +0700" stop="20260530040000 +0700" channel="espnunlimitedespnu">
     <title lang="id">Oklahoma The Citadel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, ESPN U</desc>
@@ -122,6 +112,11 @@
   </programme>
   <programme start="20260530060000 +0700" stop="20260530080000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Holy Cross UC Santa Barbara</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260530060000 +0700" stop="20260530080000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Virginia @ Southern Mississippi</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -295,11 +290,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260530120000 +0700" stop="20260530140000 +0700" channel="foxsoccerplusvixdazncanada">
-    <title lang="id">Scotland Curaçao</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus, ViX, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260530113000 +0700" stop="20260530133000 +0700" channel="tvbelumtersedia">
     <title lang="id">Ecuador Saudi Arabia Fanatiz In Demand 1</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
@@ -345,11 +335,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Birmingham Stallions, Fubo Sports, ESPN Unlimited, ESPN2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260530123000 +0700" stop="20260530143000 +0700" channel="espnselectespnunlimitedtsn+">
-    <title lang="id">Charles Schwab Challenge Third Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260530053000 +0700" stop="20260530073000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
     <title lang="id">Charles Schwab Challenge Third Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
@@ -368,11 +353,6 @@
   <programme start="20260530073000 +0700" stop="20260530093000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
     <title lang="id">Shoprite LPGA Classic Second Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260530010000 +0700" stop="20260530030000 +0700" channel="fubosportsfoxsports1foxonetsn+">
-    <title lang="id">Chevrolet Detroit Grand Prix Practice</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, FOX One, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260530050000 +0700" stop="20260530070000 +0700" channel="fubosportsfoxsports1foxonetsn+">
@@ -405,19 +385,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: CW, MyTV, Peachtree TV, KUNS-TV, TSN+, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260530010000 +0700" stop="20260530030000 +0700" channel="fubosportsfoxsports2foxsportsracingsnnowsportsnet+">
-    <title lang="id">Italian Grand Prix Sprint Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, FOX Sports Racing, SN NOW, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260530081000 +0700" stop="20260530101000 +0700" channel="peacocknbcrevtv">
     <title lang="id">Detroit Grand Prix Race</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBC, REV TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260530120000 +0700" stop="20260530140000 +0700" channel="fubosportsfoxsports1foxone">
-    <title lang="id">Detroit Grand Prix Practice</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, FOX One</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260530040000 +0700" stop="20260530060000 +0700" channel="fubosportsfoxsports1foxone">
@@ -470,31 +440,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: WMBC TV 63</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260530121000 +0700" stop="20260530141000 +0700" channel="dazndazncanada">
-    <title lang="id">Rajadamnern World Series</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260530113000 +0700" stop="20260530133000 +0700" channel="paramount+sportsnet+">
-    <title lang="id">Carlston Harris Jake Matthews</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260530120000 +0700" stop="20260530140000 +0700" channel="paramount+sportsnet+">
-    <title lang="id">Cameron Smotherman Kai Asakura .</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260530123000 +0700" stop="20260530143000 +0700" channel="paramount+sportsnet+">
-    <title lang="id">Tallison Teixeira Sergey Pavlovich .</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260530010000 +0700" stop="20260530030000 +0700" channel="paramount+sportsnet+">
-    <title lang="id">Alonzo Menifield Zhang Mingyang .</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260530013000 +0700" stop="20260530033000 +0700" channel="paramount+sportsnet+">
     <title lang="id">Deiveson Figueiredo Yadong Song .</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
@@ -508,11 +453,6 @@
   <programme start="20260530030000 +0700" stop="20260530050000 +0700" channel="paramount+sportsnet+">
     <title lang="id">Jake Matthews Carlston Harris .</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260530122000 +0700" stop="20260530142000 +0700" channel="slingtvhbomax">
-    <title lang="id">Boucles de la Mayenne Stage 2</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260530023000 +0700" stop="20260530043000 +0700" channel="slingtvhbomax">
@@ -555,11 +495,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260530120000 +0700" stop="20260530140000 +0700" channel="sportsnet+">
-    <title lang="id">Harlequins @ Saracens</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260530020000 +0700" stop="20260530040000 +0700" channel="sportsnet+">
     <title lang="id">Gloucester @ Northampton Saints</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sportsnet+</desc>
@@ -568,11 +503,6 @@
   <programme start="20260530064500 +0700" stop="20260530084500 +0700" channel="sportsnet+">
     <title lang="id">Sale Sharks @ Newcastle Red Bulls</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260530123000 +0700" stop="20260530143000 +0700" channel="tv5international">
-    <title lang="id">Aviron Bayonnais @ Stade Francais Paris</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV5 International</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260530013000 +0700" stop="20260530033000 +0700" channel="snworldsnnowsportsnet+">

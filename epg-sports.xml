@@ -85,6 +85,11 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260530020000 +0700" stop="20260530040000 +0700" channel="espnunlimitedespnu">
+    <title lang="id">Oklahoma The Citadel</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, ESPN U</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260530040000 +0700" stop="20260530060000 +0700" channel="fubosportsespnselectespnunlimitedespn">
     <title lang="id">VCU Tennessee</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Select, ESPN Unlimited, ESPN</desc>
@@ -100,14 +105,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Select, ESPN Unlimited, ESPN2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260530050000 +0700" stop="20260530070000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Florida State Coastal Carolina</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260530050000 +0700" stop="20260530070000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Troy Rider</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+  <programme start="20260530040000 +0700" stop="20260530060000 +0700" channel="ucfespnselectespnunlimited">
+    <title lang="id">NC State @</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: UCF, ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260530050000 +0700" stop="20260530070000 +0700" channel="espnselectespnunlimited">
@@ -270,9 +270,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260530110000 +0700" stop="20260530130000 +0700" channel="peacock">
+  <programme start="20260530110000 +0700" stop="20260530130000 +0700" channel="peacockdazncanada">
     <title lang="id">Lexington SC Carolina Ascent</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260530070000 +0700" stop="20260530090000 +0700" channel="foxsoccerplustsn5onesoccer">
@@ -365,11 +365,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: RDS, TSN4</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260530110000 +0700" stop="20260530130000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
-    <title lang="id">Austrian Open Third Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260530073000 +0700" stop="20260530093000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
     <title lang="id">Shoprite LPGA Classic Second Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
@@ -395,9 +390,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260530060000 +0700" stop="20260530080000 +0700" channel="tvbelumtersedia">
+  <programme start="20260530060000 +0700" stop="20260530080000 +0700" channel="tsn+">
     <title lang="id">Sports Illustrated Resorts 250 Practice CW App</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260530070500 +0700" stop="20260530090500 +0700" channel="tvbelumtersedia">
@@ -430,24 +425,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, FOX One</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260530081500 +0700" stop="20260530101500 +0700" channel="dazndazncanada">
-    <title lang="id">Rally Japan Stage 13</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260530111400 +0700" stop="20260530131400 +0700" channel="dazndazncanada">
     <title lang="id">Rally Japan Stage 15</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260530090000 +0700" stop="20260530110000 +0700" channel="tnttrutvmore">
-    <title lang="id">French Open Sling TV HBO Max Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TNT, truTV, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260530110000 +0700" stop="20260530130000 +0700" channel="tsn+tsn2rds2">
-    <title lang="id">French Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+, TSN2, RDS 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260530030000 +0700" stop="20260530050000 +0700" channel="hbomaxtrutv">
@@ -495,46 +475,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260530080000 +0700" stop="20260530100000 +0700" channel="paramount+sportsnet+">
-    <title lang="id">Jaqueline Amorim Loma Lookboonmee .</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260530082000 +0700" stop="20260530102000 +0700" channel="paramount+sportsnet+">
-    <title lang="id">Rodrigo Vera Kangjie Zhu</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260530084000 +0700" stop="20260530104000 +0700" channel="paramount+sportsnet+">
-    <title lang="id">Angela Hill Jingnan Xiong .</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260530090000 +0700" stop="20260530110000 +0700" channel="paramount+sportsnet+">
-    <title lang="id">Jesus Santos Aguilar Rei Tsuruya .</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260530092000 +0700" stop="20260530112000 +0700" channel="paramount+sportsnet+">
-    <title lang="id">Qileng Aori Cody Haddon .</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260530094000 +0700" stop="20260530114000 +0700" channel="paramount+sportsnet+">
-    <title lang="id">Jose Henrique Meng Ding .</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260530100000 +0700" stop="20260530120000 +0700" channel="paramount+sportsnet+">
-    <title lang="id">Yi-Sak Lee Luis Felipe Dias .</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260530110000 +0700" stop="20260530130000 +0700" channel="paramount+sportsnet+">
-    <title lang="id">Su Mudaerji Alex Perez .</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260530113000 +0700" stop="20260530133000 +0700" channel="paramount+sportsnet+">
     <title lang="id">Carlston Harris Jake Matthews</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
@@ -568,16 +508,6 @@
   <programme start="20260530030000 +0700" stop="20260530050000 +0700" channel="paramount+sportsnet+">
     <title lang="id">Jake Matthews Carlston Harris .</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260530093500 +0700" stop="20260530113500 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">Collingwood Magpies @ Western Bulldogs</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260530090000 +0700" stop="20260530110000 +0700" channel="slingtvhbomaxtrutv">
-    <title lang="id">Gemona del Friuli - Piancavallo Stage 20 - 200 km</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, truTV</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260530122000 +0700" stop="20260530142000 +0700" channel="slingtvhbomax">
@@ -620,16 +550,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260530093500 +0700" stop="20260530113500 +0700" channel="foxsoccerplus">
-    <title lang="id">Sydney Roosters @ Melbourne Storm</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260530103500 +0700" stop="20260530123500 +0700" channel="sportsnet+">
-    <title lang="id">St Helens W @ Wigan Warriors W</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260530080000 +0700" stop="20260530100000 +0700" channel="tvbelumtersedia">
     <title lang="id">Chicago Hounds @ Old Glory DC ESPN Select ESPN Unlimited MyTV Monumental SN</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
@@ -650,19 +570,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260530093500 +0700" stop="20260530113500 +0700" channel="tsn+">
-    <title lang="id">Waratahs @ Western Force</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260530123000 +0700" stop="20260530143000 +0700" channel="tv5international">
     <title lang="id">Aviron Bayonnais @ Stade Francais Paris</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV5 International</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260530110000 +0700" stop="20260530130000 +0700" channel="snworldsnnowsportsnet+">
-    <title lang="id">Munster @ Bulls</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: SN World, SN NOW, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260530013000 +0700" stop="20260530033000 +0700" channel="snworldsnnowsportsnet+">
@@ -685,9 +595,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260530110000 +0700" stop="20260530130000 +0700" channel="fubosportsespnunlimitedespn">
+  <programme start="20260530110000 +0700" stop="20260530130000 +0700" channel="fubosportsespnunlimitedespntsn+">
     <title lang="id">Nebraska @ Alabama</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260530081500 +0700" stop="20260530101500 +0700" channel="espnselectespnunlimited">

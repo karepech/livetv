@@ -25,11 +25,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260530073000 +0700" stop="20260530093000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Nelson Giants @ Canterbury Rams</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260530061000 +0700" stop="20260530081000 +0700" channel="espnunlimiteddetroitsportsnetchsnmlb.tv">
     <title lang="id">Detroit Tigers @ Chicago White Sox</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, Detroit SportsNet, CHSN, MLB.TV</desc>
@@ -105,9 +100,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Select, ESPN Unlimited, ESPN2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260530050000 +0700" stop="20260530070000 +0700" channel="tbdespnselectespnunlimited">
-    <title lang="id">Rider</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TBD, ESPN Select, ESPN Unlimited</desc>
+  <programme start="20260530050000 +0700" stop="20260530070000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Florida State Coastal Carolina</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260530050000 +0700" stop="20260530070000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Troy Rider</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260530050000 +0700" stop="20260530070000 +0700" channel="espnselectespnunlimited">
@@ -185,11 +185,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260530050000 +0700" stop="20260530070000 +0700" channel="ryzsportsnetwork">
-    <title lang="id">Yomiuri Giants @ Nippon Ham Fighters Prime Video</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Ryz Sports Network</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260530012000 +0700" stop="20260530032000 +0700" channel="fubosportsnhlnetworkrdstsn4">
     <title lang="id">Switzerland Norway Semifinal</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, NHL Network, RDS, TSN4</desc>
@@ -198,6 +193,11 @@
   <programme start="20260530060000 +0700" stop="20260530080000 +0700" channel="fubosportsnhlnetworkrdstsn4">
     <title lang="id">Canada Finland Semifinal</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, NHL Network, RDS, TSN4</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260530111000 +0700" stop="20260530131000 +0700" channel="flohockey">
+    <title lang="id">Florida Everblades @ Wheeling Nailers</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: FloHockey</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260530040000 +0700" stop="20260530060000 +0700" channel="fubosportsparamount+dazncbstudnmore">
@@ -430,11 +430,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, FOX One</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260530053800 +0700" stop="20260530073800 +0700" channel="dazndazncanada">
-    <title lang="id">Rally Japan Stage 11</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260530081500 +0700" stop="20260530101500 +0700" channel="dazndazncanada">
     <title lang="id">Rally Japan Stage 13</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
@@ -445,9 +440,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260530090000 +0700" stop="20260530110000 +0700" channel="tnttrutvtsn+more">
-    <title lang="id">French Open HBO Max Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TNT, truTV, TSN+, MORE</desc>
+  <programme start="20260530090000 +0700" stop="20260530110000 +0700" channel="tnttrutvmore">
+    <title lang="id">French Open Sling TV HBO Max Tennis Channel</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TNT, truTV, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260530110000 +0700" stop="20260530130000 +0700" channel="tsn+tsn2rds2">
@@ -460,8 +455,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: HBO Max, truTV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260530060000 +0700" stop="20260530080000 +0700" channel="slingtvhbomaxtnttrutv">
-    <title lang="id">French Open</title>
+  <programme start="20260530061500 +0700" stop="20260530081500 +0700" channel="slingtvhbomaxtnttrutv">
+    <title lang="id">Felix Auger-Aliassime Brandon Nakashima</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, TNT, truTV</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -575,11 +570,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260530061500 +0700" stop="20260530081500 +0700" channel="brisbanelionsfubosportsfoxsports2tsn2">
-    <title lang="id">Fremantle Dockers @</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Brisbane Lions, Fubo Sports, FOX Sports 2, TSN2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260530093500 +0700" stop="20260530113500 +0700" channel="fubosportsfoxsports2">
     <title lang="id">Collingwood Magpies @ Western Bulldogs</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
@@ -620,9 +610,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ABC, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260530093000 +0700" stop="20260530113000 +0700" channel="espnselectespnunlimited">
+  <programme start="20260530093000 +0700" stop="20260530113000 +0700" channel="espnselectespnunlimitedtsn+">
     <title lang="id">Utah Archers @ Maryland Whipsnakes</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260530020000 +0700" stop="20260530040000 +0700" channel="foxsoccerplussportsnet+">
@@ -660,6 +650,11 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260530093500 +0700" stop="20260530113500 +0700" channel="tsn+">
+    <title lang="id">Waratahs @ Western Force</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260530123000 +0700" stop="20260530143000 +0700" channel="tv5international">
     <title lang="id">Aviron Bayonnais @ Stade Francais Paris</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV5 International</desc>
@@ -680,11 +675,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: SN World, SN NOW, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260530074500 +0700" stop="20260530094500 +0700" channel="paramount+">
-    <title lang="id">Valladolid</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260530070000 +0700" stop="20260530090000 +0700" channel="fubosportsespnunlimitedabctsn+">
     <title lang="id">Tennessee Texas Tech</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ABC, TSN+</desc>
@@ -698,6 +688,11 @@
   <programme start="20260530110000 +0700" stop="20260530130000 +0700" channel="fubosportsespnunlimitedespn">
     <title lang="id">Nebraska @ Alabama</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260530081500 +0700" stop="20260530101500 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Paris Junior College - Temple College</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

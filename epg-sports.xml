@@ -420,11 +420,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX, FOX Sports Racing</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260531090000 +0700" stop="20260531110000 +0700" channel="tnttrutvmore">
-    <title lang="id">French Open Sling TV HBO Max Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TNT, truTV, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260531110000 +0700" stop="20260531130000 +0700" channel="slingtvhbomaxtnt">
     <title lang="id">French Open</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, TNT</desc>
@@ -443,11 +438,6 @@
   <programme start="20260531123000 +0700" stop="20260531143000 +0700" channel="dazndazncanada">
     <title lang="id">Brave CF</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260531092000 +0700" stop="20260531112000 +0700" channel="foxsoccerplus">
-    <title lang="id">Essendon Bombers @ West Coast Eagles</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260531020000 +0700" stop="20260531040000 +0700" channel="slingtvhbomaxtrutv">
@@ -483,11 +473,6 @@
   <programme start="20260531060000 +0700" stop="20260531080000 +0700" channel="wsn">
     <title lang="id">Denver Onyx @ New York Exiles</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: WSN</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260531080000 +0700" stop="20260531100000 +0700" channel="paramount+">
-    <title lang="id">Valladolid</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

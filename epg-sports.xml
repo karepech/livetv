@@ -105,6 +105,56 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260531030000 +0700" stop="20260531050000 +0700" channel="floridastateespnunlimitedespnu">
+    <title lang="id">Coastal Carolina @</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Florida State, ESPN Unlimited, ESPN U</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260531040000 +0700" stop="20260531060000 +0700" channel="espnunlimitedaccn">
+    <title lang="id">Troy Miami</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, ACCN</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260531040000 +0700" stop="20260531060000 +0700" channel="fubosportsespnunlimitedespn2">
+    <title lang="id">West Virginia Wake Forest</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260531040000 +0700" stop="20260531060000 +0700" channel="vcuespnselectespnunlimited">
+    <title lang="id">East Carolina</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: VCU, ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260531040000 +0700" stop="20260531060000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Liberty Boston College</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260531050000 +0700" stop="20260531070000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Tarleton State UC Santa Barbara</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260531050000 +0700" stop="20260531070000 +0700" channel="espnunlimitedespnu">
+    <title lang="id">Northeastern Arkansas</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, ESPN U</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260531050000 +0700" stop="20260531070000 +0700" channel="espnunlimitedsecn">
+    <title lang="id">The Citadel Oklahoma</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, SECN</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260531050000 +0700" stop="20260531070000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Mississippi @ Nebraska</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260531060000 +0700" stop="20260531080000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Northern Illinois St. John's (NY)</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260531050500 +0700" stop="20260531070500 +0700" channel="ballysportslivemilb.tv">
     <title lang="id">Lehigh Valley IronPigs @ Buffalo Bisons</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
@@ -225,11 +275,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus, OneSoccer</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260531113000 +0700" stop="20260531133000 +0700" channel="vix">
-    <title lang="id">Spain U17 Croatia U17</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ViX</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260531010000 +0700" stop="20260531030000 +0700" channel="fubosportsfoxsports2vixdazncanada">
     <title lang="id">Switzerland Jordan</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, ViX, DAZN Canada</desc>
@@ -275,9 +320,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260531043000 +0700" stop="20260531063000 +0700" channel="espnselectespnunlimited">
+  <programme start="20260531043000 +0700" stop="20260531063000 +0700" channel="espnselectespnunlimitedtsn+">
     <title lang="id">Castellón Eibar</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260531043000 +0700" stop="20260531063000 +0700" channel="espnselectespnunlimitedespndeportes">
@@ -295,23 +340,13 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260531100000 +0700" stop="20260531120000 +0700" channel="dazndazncanada">
-    <title lang="id">Real Sociedad Atletico Madrid</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260531100000 +0700" stop="20260531120000 +0700" channel="dazndazncanada">
-    <title lang="id">Real Madrid Granada</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260531020000 +0700" stop="20260531040000 +0700" channel="dazndazncanada">
     <title lang="id">Madrid FC Barcelona Femení</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260531010000 +0700" stop="20260531030000 +0700" channel="foxdeportes">
-    <title lang="id">China PR U20 Saudi Arabia U23</title>
+    <title lang="id">China PR U20 Saudi Arabia U21</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Deportes</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -370,9 +405,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX, FOX 4K</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260531120000 +0700" stop="20260531140000 +0700" channel="espnselectespnunlimited">
+  <programme start="20260531120000 +0700" stop="20260531140000 +0700" channel="espnselectespnunlimitedtsn+">
     <title lang="id">Charles Schwab Challenge Final Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260531050000 +0700" stop="20260531070000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
@@ -385,23 +420,18 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, CBS, TSN3, RDS Info</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260531100000 +0700" stop="20260531120000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
-    <title lang="id">Austrian Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260531013000 +0700" stop="20260531033000 +0700" channel="fubosportsfoxsports1foxone">
     <title lang="id">Chevrolet Detroit Grand Prix Warm Up</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, FOX One</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260531043000 +0700" stop="20260531063000 +0700" channel="fubosportsfoxfoxonetsn5">
+  <programme start="20260531043000 +0700" stop="20260531063000 +0700" channel="fubosportsfoxfoxonetsn+tsn5">
     <title lang="id">Chevrolet Detroit Grand Prix Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX, FOX One, TSN5</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX, FOX One, TSN+, TSN5</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260531110000 +0700" stop="20260531130000 +0700" channel="hbomaxtsn5">
-    <title lang="id">Cracker Barrel 400 Race Prime Video</title>
+    <title lang="id">Cracker Barrel 400 Race Sling TV Prime Video</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: HBO Max, TSN5</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -418,11 +448,6 @@
   <programme start="20260531070000 +0700" stop="20260531090000 +0700" channel="fubosportsfoxfoxsportsracing">
     <title lang="id">NHRA Potomac Nationals Race</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX, FOX Sports Racing</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260531110000 +0700" stop="20260531130000 +0700" channel="slingtvhbomaxtnt">
-    <title lang="id">French Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, TNT</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260531030000 +0700" stop="20260531050000 +0700" channel="hbomaxtrutv">
@@ -445,16 +470,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, truTV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260531113000 +0700" stop="20260531133000 +0700" channel="slingtvhbomax">
-    <title lang="id">Boucles de la Mayenne Stage 3</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260531104500 +0700" stop="20260531124500 +0700" channel="slingtvhbomax">
-    <title lang="id">Giro d'Italia Femminile Stage 2</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260531040000 +0700" stop="20260531060000 +0700" channel="fubosportsfoxsports1foxsportsracing">
     <title lang="id">America's Day at the Races</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, FOX Sports Racing</desc>
@@ -473,6 +488,16 @@
   <programme start="20260531060000 +0700" stop="20260531080000 +0700" channel="wsn">
     <title lang="id">Denver Onyx @ New York Exiles</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: WSN</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260531070000 +0700" stop="20260531090000 +0700" channel="fubosportsespnunlimitedabctsn+">
+    <title lang="id">Texas Nebraska</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ABC, TSN+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260531110000 +0700" stop="20260531130000 +0700" channel="fubosportsespnunlimitedespntsn+">
+    <title lang="id">UCLA Texas Tech</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

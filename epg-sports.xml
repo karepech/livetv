@@ -10,14 +10,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, Fanatiz, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260531010000 +0700" stop="20260531030000 +0700" channel="nbatvnbatvcanada">
-    <title lang="id">Al Ahly @ Al Ahly</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: NBA TV, NBA TV Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260531040000 +0700" stop="20260531060000 +0700" channel="nbatvnbatvcanada">
+  <programme start="20260531040000 +0700" stop="20260531060000 +0700" channel="nbatvtsn+nbatvcanada">
     <title lang="id">RSSB Tigers (Rwa) @ Petro Atletico</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: NBA TV, NBA TV Canada</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: NBA TV, TSN+, NBA TV Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260531041500 +0700" stop="20260531061500 +0700" channel="peacocknbcsnetworksportsnetsnonesnnowmore">
@@ -275,11 +270,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus, OneSoccer</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260531010000 +0700" stop="20260531030000 +0700" channel="fubosportsfoxsports2vixdazncanada">
-    <title lang="id">Switzerland Jordan</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, ViX, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260531020000 +0700" stop="20260531040000 +0700" channel="vixdazncanada">
     <title lang="id">Czechia Kosovo</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ViX, DAZN Canada</desc>
@@ -345,14 +335,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260531010000 +0700" stop="20260531030000 +0700" channel="foxdeportes">
-    <title lang="id">China PR U20 Saudi Arabia U21</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Deportes</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260531043000 +0700" stop="20260531063000 +0700" channel="foxdeportes">
     <title lang="id">Congo DR U20 Tunisia U23</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Deportes</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260531080000 +0700" stop="20260531100000 +0700" channel="tsn+">
+    <title lang="id">Calgary Wild AFC Toronto</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260531020000 +0700" stop="20260531040000 +0700" channel="internacionalfanatiz">
@@ -405,11 +395,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX, FOX 4K</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260531120000 +0700" stop="20260531140000 +0700" channel="espnselectespnunlimitedtsn+">
-    <title lang="id">Charles Schwab Challenge Final Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260531050000 +0700" stop="20260531070000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
     <title lang="id">Charles Schwab Challenge Final Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
@@ -435,11 +420,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: HBO Max, TSN5</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260531120000 +0700" stop="20260531140000 +0700" channel="fubosportsfoxsports1foxsportsracingsnworldsnnowmore">
-    <title lang="id">Italian Grand Prix Grand Prix</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, FOX Sports Racing, SN World, SN NOW, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260531023000 +0700" stop="20260531043000 +0700" channel="fubosportsfoxsports1foxonerevtv">
     <title lang="id">Detroit Grand Prix Race</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, FOX One, REV TV</desc>
@@ -458,11 +438,6 @@
   <programme start="20260531061500 +0700" stop="20260531081500 +0700" channel="tnttrutv">
     <title lang="id">Casper Ruud Joao Fonseca Sling TV HBO Max Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TNT, truTV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260531123000 +0700" stop="20260531143000 +0700" channel="dazndazncanada">
-    <title lang="id">Brave CF</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260531020000 +0700" stop="20260531040000 +0700" channel="slingtvhbomaxtrutv">

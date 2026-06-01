@@ -1,15 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
-  <programme start="20260602043000 +0700" stop="20260602063000 +0700" channel="nextlevelsports">
-    <title lang="id">Bamberg @ Alba Berlin</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260602063000 +0700" stop="20260602083000 +0700" channel="nextlevelsports">
-    <title lang="id">Telekom Baskets Bonn @ FC Bayern München</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260602104000 +0700" stop="20260602124000 +0700" channel="detroitsportsnetmlb.tvrays.tvsportsnetsnnow">
     <title lang="id">Detroit Tigers @ Tampa Bay Rays</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Detroit SportsNet, MLB.TV, Rays.TV, Sportsnet, SN NOW</desc>
@@ -40,19 +30,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: RSN, MLB.TV, Cardinals.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260602040000 +0700" stop="20260602060000 +0700" channel="espnunlimitedespnu">
-    <title lang="id">Florida State @ St. John's (NY)</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, ESPN U</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260602070000 +0700" stop="20260602090000 +0700" channel="espnunlimitedespnu">
-    <title lang="id">Georgia Tech @ Oklahoma</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, ESPN U</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260602080000 +0700" stop="20260602100000 +0700" channel="espnselectespnunlimitedaccn">
-    <title lang="id">Florida State St. John's (NY)</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, ACCN</desc>
+  <programme start="20260602080000 +0700" stop="20260602100000 +0700" channel="floridastateespnselectespnunlimitedaccn">
+    <title lang="id">St. John's (NY)</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Florida State, ESPN Select, ESPN Unlimited, ACCN</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260602100000 +0700" stop="20260602120000 +0700" channel="fubosportsespnunlimitedespn2">
@@ -75,59 +55,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: FloHockey</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260602050000 +0700" stop="20260602070000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Würzburger Kickers Lokomotive Leipzig Play-off</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260602070000 +0700" stop="20260602090000 +0700" channel="fanatizbeinsportsxtrabeinsportsxtraca">
-    <title lang="id">Morocco U17 Egypt U17</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, beIN SPORTS Xtra, beIN SPORTS Xtra CA</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260602040000 +0700" stop="20260602060000 +0700" channel="vixdazncanada">
-    <title lang="id">Bulgaria Montenegro</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ViX, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260602040000 +0700" stop="20260602060000 +0700" channel="vixdazncanada">
-    <title lang="id">Slovakia Malta</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ViX, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260602050000 +0700" stop="20260602070000 +0700" channel="fubosportsfoxsports2vixdazncanada">
-    <title lang="id">Norway Sweden</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, ViX, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260602053000 +0700" stop="20260602073000 +0700" channel="dazncanada">
-    <title lang="id">Türkiye North Macedonia</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260602064500 +0700" stop="20260602084500 +0700" channel="fubosportsvixfubosportsnetworkdazncanada">
-    <title lang="id">Austria Tunisia</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ViX, fubo Sports Network, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260602110000 +0700" stop="20260602130000 +0700" channel="tln">
     <title lang="id">Colombia Costa Rica Fanatiz In Demand 1</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TLN</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260602043000 +0700" stop="20260602063000 +0700" channel="foxdeportes">
-    <title lang="id">Venezuela U20 Canada U20</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Deportes</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260602061500 +0700" stop="20260602081500 +0700" channel="tnttrutv">
-    <title lang="id">Aryna Sabalenka Naomi Osaka Sling TV HBO Max Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TNT, truTV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260602040000 +0700" stop="20260602060000 +0700" channel="fubosportsespnunlimitedespntsn+">
-    <title lang="id">Tennessee Texas</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260602110000 +0700" stop="20260602130000 +0700" channel="fubosportsespnunlimitedespntsn+">

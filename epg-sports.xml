@@ -10,11 +10,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260601030000 +0700" stop="20260601050000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Wellington Saints @ Manawatu Jets</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260601104000 +0700" stop="20260601124000 +0700" channel="detroitsportsnetmlb.tvrays.tvsportsnetsnnow">
     <title lang="id">Detroit Tigers @ Tampa Bay Rays</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Detroit SportsNet, MLB.TV, Rays.TV, Sportsnet, SN NOW</desc>
@@ -45,19 +40,34 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: RSN, MLB.TV, Cardinals.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260601070000 +0700" stop="20260601090000 +0700" channel="espnselectespnunlimited">
+  <programme start="20260601040000 +0700" stop="20260601060000 +0700" channel="espnunlimitedespnu">
+    <title lang="id">Florida State @ St. John's (NY)</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, ESPN U</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260601070000 +0700" stop="20260601090000 +0700" channel="espnunlimitedespnu">
     <title lang="id">Georgia Tech @ Oklahoma</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, ESPN U</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260601100000 +0700" stop="20260601120000 +0700" channel="espnselectespnunlimited">
+  <programme start="20260601080000 +0700" stop="20260601100000 +0700" channel="floridastateespnunlimitedaccn">
+    <title lang="id">St. John's (NY)</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Florida State, ESPN Unlimited, ACCN</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260601100000 +0700" stop="20260601120000 +0700" channel="fubosportsespnunlimitedespn2">
     <title lang="id">Kentucky @ West Virginia</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260601100000 +0700" stop="20260601120000 +0700" channel="floridaespnselectespnunlimited">
+  <programme start="20260601100000 +0700" stop="20260601120000 +0700" channel="floridaespnunlimitedsecn">
     <title lang="id">Troy @</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Florida, ESPN Select, ESPN Unlimited</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Florida, ESPN Unlimited, SECN</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260601100000 +0700" stop="20260601120000 +0700" channel="espnunlimitedespnu">
+    <title lang="id">Milwaukee @ Auburn</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, ESPN U</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260601110000 +0700" stop="20260601130000 +0700" channel="flohockey">
@@ -115,11 +125,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Deportes</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260601090000 +0700" stop="20260601110000 +0700" channel="tnttrutvmore">
-    <title lang="id">French Open Sling TV HBO Max Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TNT, truTV, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260601110000 +0700" stop="20260601130000 +0700" channel="tntrds">
     <title lang="id">French Open Sling TV HBO Max Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TNT, RDS</desc>
@@ -130,8 +135,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: HBO Max, truTV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260601060000 +0700" stop="20260601080000 +0700" channel="tnttrutv">
-    <title lang="id">French Open Sling TV HBO Max Tennis Channel</title>
+  <programme start="20260601061500 +0700" stop="20260601081500 +0700" channel="tnttrutv">
+    <title lang="id">Aryna Sabalenka Naomi Osaka Sling TV HBO Max Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TNT, truTV</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -141,23 +146,28 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260601013000 +0700" stop="20260601033000 +0700" channel="slingtvhbomax">
+    <title lang="id">Tour de Wallonie Stage 1</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260601013000 +0700" stop="20260601033000 +0700" channel="slingtvhbomax">
     <title lang="id">Giro d'Italia Femminile Stage 3</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260601040000 +0700" stop="20260601060000 +0700" channel="fubosportsespnunlimitedespn">
+  <programme start="20260601040000 +0700" stop="20260601060000 +0700" channel="fubosportsespnunlimitedespntsn+">
     <title lang="id">Tennessee Texas</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260601063000 +0700" stop="20260601083000 +0700" channel="fubosportsespnunlimitedespn">
+  <programme start="20260601063000 +0700" stop="20260601083000 +0700" channel="fubosportsespnunlimitedespntsn+">
     <title lang="id">Texas Tennessee</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260601110000 +0700" stop="20260601130000 +0700" channel="tbdfubosportsespnunlimitedespn">
-    <title lang="id">Alabama</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TBD, Fubo Sports, ESPN Unlimited, ESPN</desc>
+  <programme start="20260601110000 +0700" stop="20260601130000 +0700" channel="fubosportsespnunlimitedespntsn+">
+    <title lang="id">Texas Tech Alabama</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

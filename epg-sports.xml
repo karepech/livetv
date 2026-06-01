@@ -30,11 +30,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: RSN, MLB.TV, Cardinals.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260602080000 +0700" stop="20260602100000 +0700" channel="floridastateespnselectespnunlimitedaccn">
-    <title lang="id">St. John's (NY)</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Florida State, ESPN Select, ESPN Unlimited, ACCN</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260602100000 +0700" stop="20260602120000 +0700" channel="fubosportsespnunlimitedespn2">
     <title lang="id">Kentucky @ West Virginia</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2</desc>
@@ -43,11 +38,6 @@
   <programme start="20260602100000 +0700" stop="20260602120000 +0700" channel="floridaespnunlimitedsecn">
     <title lang="id">Troy @</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Florida, ESPN Unlimited, SECN</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260602100000 +0700" stop="20260602120000 +0700" channel="espnunlimitedespnu">
-    <title lang="id">Milwaukee @ Auburn</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, ESPN U</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260602110000 +0700" stop="20260602130000 +0700" channel="flohockey">

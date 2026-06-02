@@ -1,10 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
-  <programme start="20260602020000 +0700" stop="20260602040000 +0700" channel="more">
-    <title lang="id">Minnesota Lynx @ Phoenix Mercury Peacock NBCS Network AZ Family Sports AZFS Merc+</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260602113000 +0700" stop="20260602133000 +0700" channel="tsn2">
     <title lang="id">Connecticut Sun @ Atlanta Dream NBCS Boston Peachtree TV Victory+</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN2</desc>
@@ -13,6 +8,11 @@
   <programme start="20260602113000 +0700" stop="20260602133000 +0700" channel="nbatvcanada">
     <title lang="id">Chicago Sky @ Washington Mystics Monumental SN The U</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: NBA TV Canada</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260602050000 +0700" stop="20260602070000 +0700" channel="fanatiz">
+    <title lang="id">Barcelona @ Murcia</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260602104000 +0700" stop="20260602124000 +0700" channel="detroitsportsnetmlb.tvrays.tv">
@@ -25,9 +25,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, NBCS Philadelphia, TBS, truTV, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260602104500 +0700" stop="20260602124500 +0700" channel="masnnesnmlb.tv">
+  <programme start="20260602104500 +0700" stop="20260602124500 +0700" channel="fanatizmasnnesnmlb.tv">
     <title lang="id">Baltimore Orioles @ Boston Red Sox</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: MASN, NESN, MLB.TV</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, MASN, NESN, MLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260602104500 +0700" stop="20260602124500 +0700" channel="washingtonnationalsmlb.tvnationals.tvmarlins.tv">
@@ -150,8 +150,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TNT, truTV, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260602110000 +0700" stop="20260602130000 +0700" channel="slingtvhbomaxtnt">
-    <title lang="id">French Open</title>
+  <programme start="20260602120000 +0700" stop="20260602140000 +0700" channel="slingtvhbomaxtnt">
+    <title lang="id">Rafael Jodar Alexander Zverev Quarter-final</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, TNT</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -160,8 +160,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, TNT, truTV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260602060000 +0700" stop="20260602080000 +0700" channel="tnttrutvmore">
-    <title lang="id">French Open Sling TV HBO Max Tennis Channel</title>
+  <programme start="20260602061500 +0700" stop="20260602081500 +0700" channel="tnttrutvmore">
+    <title lang="id">Jakub Mensik Joao Fonseca Quarter-final Sling TV HBO Max Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TNT, truTV, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -178,11 +178,6 @@
   <programme start="20260602121500 +0700" stop="20260602141500 +0700" channel="slingtvhbomax">
     <title lang="id">Giro d'Italia Femminile Stage 4</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260602020000 +0700" stop="20260602040000 +0700" channel="fubosportsespnunlimitedespntsn+">
-    <title lang="id">Alabama Texas Tech</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

@@ -10,11 +10,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: NBA TV Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260603070000 +0700" stop="20260603090000 +0700" channel="dazndazncanada">
-    <title lang="id">Tenerife @ Real Madrid</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260603104000 +0700" stop="20260603124000 +0700" channel="detroitsportsnetmlb.tvrays.tv">
     <title lang="id">Detroit Tigers @ Tampa Bay Rays</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Detroit SportsNet, MLB.TV, Rays.TV</desc>
@@ -103,11 +98,6 @@
   <programme start="20260603113800 +0700" stop="20260603133800 +0700" channel="ballysportslivemilb.tv">
     <title lang="id">Toledo Mud Hens @ Iowa Cubs</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260603070000 +0700" stop="20260603090000 +0700" channel="fanatizbeinsportsxtrabeinsportsxtraca">
-    <title lang="id">Senegal U17 Tanzania U17</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, beIN SPORTS Xtra, beIN SPORTS Xtra CA</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260603100000 +0700" stop="20260603120000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">

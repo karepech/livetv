@@ -10,9 +10,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: NBA TV Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260602050000 +0700" stop="20260602070000 +0700" channel="fanatiz">
+  <programme start="20260602050000 +0700" stop="20260602070000 +0700" channel="daznfanatizdazncanada">
     <title lang="id">Barcelona @ Murcia</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, Fanatiz, DAZN Canada</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260602070000 +0700" stop="20260602090000 +0700" channel="dazndazncanada">
+    <title lang="id">Tenerife @ Real Madrid</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260602104000 +0700" stop="20260602124000 +0700" channel="detroitsportsnetmlb.tvrays.tv">
@@ -125,11 +130,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, ViX, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260602010000 +0700" stop="20260602030000 +0700" channel="foxdeportes">
-    <title lang="id">China PR U20 Congo DR U20</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Deportes</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260602043000 +0700" stop="20260602063000 +0700" channel="foxdeportes">
     <title lang="id">Saudi Arabia U21 Colombia U19</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Deportes</desc>
@@ -145,16 +145,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260602090000 +0700" stop="20260602110000 +0700" channel="tnttrutvmore">
-    <title lang="id">French Open Sling TV HBO Max Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TNT, truTV, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260602120000 +0700" stop="20260602140000 +0700" channel="slingtvhbomaxtnt">
-    <title lang="id">Rafael Jodar Alexander Zverev Quarter-final</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, TNT</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260602030000 +0700" stop="20260602050000 +0700" channel="slingtvhbomaxtnttrutv">
     <title lang="id">French Open</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, TNT, truTV</desc>
@@ -163,21 +153,6 @@
   <programme start="20260602061500 +0700" stop="20260602081500 +0700" channel="tnttrutvmore">
     <title lang="id">Jakub Mensik Joao Fonseca Quarter-final Sling TV HBO Max Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TNT, truTV, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260602120000 +0700" stop="20260602140000 +0700" channel="t2">
-    <title lang="id">Birmingham Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: T2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260602013000 +0700" stop="20260602033000 +0700" channel="slingtvhbomax">
-    <title lang="id">Tour de Wallonie Stage 2</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260602121500 +0700" stop="20260602141500 +0700" channel="slingtvhbomax">
-    <title lang="id">Giro d'Italia Femminile Stage 4</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

@@ -1,10 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
-  <programme start="20260604074000 +0700" stop="20260604094000 +0700" channel="mlbnetworksnymlb.tvmariners.tv">
-    <title lang="id">New York Mets @ Seattle Mariners</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: MLB Network, SNY, MLB.TV, Mariners.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260604104000 +0700" stop="20260604124000 +0700" channel="nbcsphiladelphiapadres.tvmlb.tv">
     <title lang="id">San Diego Padres @ Philadelphia Phillies</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: NBCS Philadelphia, Padres.TV, MLB.TV</desc>
@@ -38,11 +33,6 @@
   <programme start="20260604114500 +0700" stop="20260604134500 +0700" channel="espnunlimitedrsnmlb.tvcardinals.tv">
     <title lang="id">Texas Rangers @ St. Louis Cardinals</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, RSN, MLB.TV, Cardinals.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260604080500 +0700" stop="20260604100500 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Scranton/WB @ Syracuse Mets</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260604100500 +0700" stop="20260604120500 +0700" channel="ballysportslivemilb.tv">
@@ -83,11 +73,6 @@
   <programme start="20260604113000 +0700" stop="20260604133000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Greenville Triumph Forward Madison</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260604080000 +0700" stop="20260604100000 +0700" channel="marquee">
-    <title lang="id">IHSSA Class 3A Tournament, Second Semifinal</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Marquee</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

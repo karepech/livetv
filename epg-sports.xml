@@ -170,29 +170,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ViX, fubo Sports Network, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260603120000 +0700" stop="20260603140000 +0700" channel="dazn">
-    <title lang="id">Indonesia Singapore</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260603010000 +0700" stop="20260603030000 +0700" channel="foxdeportes">
-    <title lang="id">Japan U20 Portugal U20</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Deportes</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260603043000 +0700" stop="20260603063000 +0700" channel="foxdeportes">
     <title lang="id">Côte d'Ivoire U20 Venezuela U20</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Deportes</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260603120000 +0700" stop="20260603140000 +0700" channel="slingtvhbomaxtnttsn+">
-    <title lang="id">Felix Auger-Aliassime Flavio Cobolli Quarter-final</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, TNT, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260603010000 +0700" stop="20260603030000 +0700" channel="slingtvhbomaxtnt">
-    <title lang="id">French Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, TNT</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260603030000 +0700" stop="20260603050000 +0700" channel="slingtvhbomaxtnttrutv">
@@ -203,26 +183,6 @@
   <programme start="20260603061500 +0700" stop="20260603081500 +0700" channel="slingtvhbomaxtnttrutvrds2">
     <title lang="id">Matteo Berrettini Matteo Arnaldi Quarter-final</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, TNT, truTV, RDS 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260603010000 +0700" stop="20260603030000 +0700" channel="t2">
-    <title lang="id">Birmingham Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: T2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260603120000 +0700" stop="20260603140000 +0700" channel="slingtvhbomax">
-    <title lang="id">Mercan'tour Classic</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260603013000 +0700" stop="20260603033000 +0700" channel="slingtvhbomax">
-    <title lang="id">Tour de Wallonie Stage 3</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260603013000 +0700" stop="20260603033000 +0700" channel="slingtvhbomax">
-    <title lang="id">Giro d'Italia Femminile Stage 5</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260603043000 +0700" stop="20260603063000 +0700" channel="fubosportsfoxsports2foxsportsracing">

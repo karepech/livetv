@@ -10,11 +10,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, Fanatiz, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260603070000 +0700" stop="20260603090000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Canterbury Rams @ Auckland Tuatara</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260603050500 +0700" stop="20260603070500 +0700" channel="washingtonnationalsmlb.tvnationals.tvmarlins.tv">
     <title lang="id">Miami Marlins @</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Washington Nationals, MLB.TV, Nationals.TV, Marlins.TV</desc>
@@ -175,6 +170,11 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ViX, fubo Sports Network, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260603120000 +0700" stop="20260603140000 +0700" channel="dazn">
+    <title lang="id">Indonesia Singapore</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260603010000 +0700" stop="20260603030000 +0700" channel="foxdeportes">
     <title lang="id">Japan U20 Portugal U20</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Deportes</desc>
@@ -185,14 +185,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Deportes</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260603090000 +0700" stop="20260603110000 +0700" channel="tnttrutvmore">
-    <title lang="id">French Open Sling TV HBO Max Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TNT, truTV, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260603120000 +0700" stop="20260603140000 +0700" channel="slingtvhbomaxtnt">
+  <programme start="20260603120000 +0700" stop="20260603140000 +0700" channel="slingtvhbomaxtnttsn+">
     <title lang="id">Felix Auger-Aliassime Flavio Cobolli Quarter-final</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, TNT</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, TNT, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260603010000 +0700" stop="20260603030000 +0700" channel="slingtvhbomaxtnt">

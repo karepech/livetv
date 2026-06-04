@@ -25,11 +25,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260604070000 +0700" stop="20260604090000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Nelson Giants @ Bay Hawks</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260604050500 +0700" stop="20260604070500 +0700" channel="fanatiznbc10nbcsphiladelphiapadres.tvmlb.tv">
     <title lang="id">San Diego Padres @ Philadelphia Phillies</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, NBC 10, NBCS Philadelphia, Padres.TV, MLB.TV</desc>
@@ -115,6 +110,11 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ViX</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260604050000 +0700" stop="20260604070000 +0700" channel="marquee">
+    <title lang="id">Regina Catholic - West Central Valley</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Marquee</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260604040000 +0700" stop="20260604060000 +0700" channel="vixdazncanada">
     <title lang="id">Northern Ireland Guinea</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ViX, DAZN Canada</desc>
@@ -150,9 +150,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, CBSSN, RDS, TSN1, TSN4, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260604114500 +0700" stop="20260604134500 +0700" channel="disney+">
+  <programme start="20260604114500 +0700" stop="20260604134500 +0700" channel="disney+tsn+">
     <title lang="id">Memorial Tournament First Round ESPN Select ESPN Unlimited Hulu</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Disney+</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Disney+, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260604025500 +0700" stop="20260604045500 +0700" channel="espnselectespnunlimited">
@@ -195,24 +195,24 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBCS Network, TSN2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260604090000 +0700" stop="20260604110000 +0700" channel="trutv">
-    <title lang="id">French Open Sling TV HBO Max Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: truTV</desc>
+  <programme start="20260604090000 +0700" stop="20260604110000 +0700" channel="trutvtsn+">
+    <title lang="id">French Open Doubles Sling TV HBO Max Tennis Channel</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: truTV, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260604100000 +0700" stop="20260604120000 +0700" channel="slingtvhbomaxtnttrutvtsn1">
-    <title lang="id">French Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, TNT, truTV, TSN1</desc>
+  <programme start="20260604100000 +0700" stop="20260604120000 +0700" channel="slingtvhbomaxtnttrutvtsn+more">
+    <title lang="id">French Open Mixed Doubles</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, TNT, truTV, TSN+, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260604010000 +0700" stop="20260604030000 +0700" channel="slingtvhbomaxtnttrutvrdsmore">
-    <title lang="id">French Open</title>
+    <title lang="id">Marta Kostyuk Mirra Andreeva Semifinal</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, TNT, truTV, RDS, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260604060000 +0700" stop="20260604080000 +0700" channel="tnttrutv">
+  <programme start="20260604060000 +0700" stop="20260604080000 +0700" channel="tnttrutvmore">
     <title lang="id">French Open Sling TV HBO Max Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TNT, truTV</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TNT, truTV, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260604110000 +0700" stop="20260604130000 +0700" channel="t2">
@@ -223,11 +223,6 @@
   <programme start="20260604110000 +0700" stop="20260604130000 +0700" channel="fubosportsnetworkfightnetworkcanada">
     <title lang="id">BKFC Fight Night Fubo Sports Stadium</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: fubo Sports Network, Fight Network Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260604050000 +0700" stop="20260604070000 +0700" channel="tsn2">
-    <title lang="id">AEW Dynamite</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260604093000 +0700" stop="20260604113000 +0700" channel="foxsoccerplus">

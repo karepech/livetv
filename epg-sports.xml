@@ -15,11 +15,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260605073000 +0700" stop="20260605093000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Franklin Bulls @ Otago Nuggets</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260605062000 +0700" stop="20260605082000 +0700" channel="marqueemlbnetworknbcsbayareamlb.tv">
     <title lang="id">San Francisco Giants @ Chicago Cubs</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Marquee, MLB Network, NBCS Bay Area, MLB.TV</desc>
@@ -75,11 +70,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Troy Super Regional, Fubo Sports, ESPN Unlimited, ESPN U</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260605020500 +0700" stop="20260605040500 +0700" channel="fox5vegasballysportslivemilb.tv">
-    <title lang="id">Reno Aces @ Las Vegas Aviators SSSEN</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: FOX 5 Vegas, Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260605100500 +0700" stop="20260605120500 +0700" channel="nesnplusballysportslivemilb.tv">
     <title lang="id">Buffalo Bisons @ Worcester</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: NESN Plus, Bally Sports Live, MiLB.TV</desc>
@@ -123,11 +113,6 @@
   <programme start="20260605110000 +0700" stop="20260605130000 +0700" channel="flohockey">
     <title lang="id">Wilkes-Barre/Scranton @ Toronto Marlies</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FloHockey</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260605020000 +0700" stop="20260605040000 +0700" channel="foxdeportestudnunivisionvix">
-    <title lang="id">Mexico Serbia</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Deportes, TUDN, Univision, ViX</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260605010000 +0700" stop="20260605030000 +0700" channel="dazndazncanada">
@@ -200,14 +185,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, CBS Golazo Network, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260605114500 +0700" stop="20260605134500 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Memorial Tournament</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+  <programme start="20260605070000 +0700" stop="20260605090000 +0700" channel="fubosportscbssn">
+    <title lang="id">Spain England</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, CBSSN</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260605021000 +0700" stop="20260605041000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Ludvig Åberg i Memorial Tournament Second Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+  <programme start="20260605114500 +0700" stop="20260605134500 +0700" channel="espnselectespnunlimitedtsn+">
+    <title lang="id">Memorial Tournament Second Round</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260605060000 +0700" stop="20260605080000 +0700" channel="fubosportsespnselectespnunlimitedgolfchannelusagolfchannelcanada">
@@ -268,6 +253,16 @@
   <programme start="20260605090000 +0700" stop="20260605110000 +0700" channel="fubosportsfoxsports2revtv">
     <title lang="id">Michigan ARCA 200</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, REV TV</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260605011000 +0700" stop="20260605031000 +0700" channel="tsn+">
+    <title lang="id">Monaco Grand Prix Qualifying</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260605090500 +0700" stop="20260605110500 +0700" channel="tsn+">
+    <title lang="id">Monaco Grand Prix Qualifying</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260605100000 +0700" stop="20260605120000 +0700" channel="trutv">
@@ -335,9 +330,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, FOX Sports Racing</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260605100000 +0700" stop="20260605120000 +0700" channel="espnselectespnunlimited">
+  <programme start="20260605100000 +0700" stop="20260605120000 +0700" channel="espnselectespnunlimitedtsn+">
     <title lang="id">Utah Archers @ Carolina Chaos</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260605080000 +0700" stop="20260605100000 +0700" channel="fubosportsfoxsports2">

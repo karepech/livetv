@@ -115,9 +115,24 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: FloHockey</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260605010000 +0700" stop="20260605030000 +0700" channel="dazndazncanada">
-    <title lang="id">Indonesia Oman</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
+  <programme start="20260605110000 +0700" stop="20260605130000 +0700" channel="vix">
+    <title lang="id">Argentina Peru</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ViX</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260605110000 +0700" stop="20260605130000 +0700" channel="vix">
+    <title lang="id">Bolivia Paraguay</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ViX</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260605110000 +0700" stop="20260605130000 +0700" channel="vix">
+    <title lang="id">Chile Ecuador</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ViX</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260605110000 +0700" stop="20260605130000 +0700" channel="vix">
+    <title lang="id">Colombia Uruguay</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ViX</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260605040000 +0700" stop="20260605060000 +0700" channel="vixdazncanada">
@@ -160,11 +175,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, RDS, TSN4, TSN5, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260605010000 +0700" stop="20260605030000 +0700" channel="foxdeportes">
-    <title lang="id">Colombia U19 China PR U20</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Deportes</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260605043000 +0700" stop="20260605063000 +0700" channel="foxdeportes">
     <title lang="id">Saudi Arabia U21 Tunisia U23</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Deportes</desc>
@@ -190,39 +200,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, CBSSN</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260605114500 +0700" stop="20260605134500 +0700" channel="espnselectespnunlimitedtsn+">
-    <title lang="id">Memorial Tournament Second Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260605060000 +0700" stop="20260605080000 +0700" channel="fubosportsespnselectespnunlimitedgolfchannelusagolfchannelcanada">
     <title lang="id">Memorial Tournament Second Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Select, ESPN Unlimited, Golf Channel USA, Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260605110000 +0700" stop="20260605130000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
-    <title lang="id">KLM Open Second Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260605010000 +0700" stop="20260605030000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
-    <title lang="id">BMW Charity Pro-Am Second Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260605110000 +0700" stop="20260605130000 +0700" channel="fubosportsfoxsports1dazncanada">
-    <title lang="id">LIV Golf Andalucia Second Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260605120000 +0700" stop="20260605140000 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">LIV Golf Andalucia Second Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260605020000 +0700" stop="20260605040000 +0700" channel="fubosportsfoxsports1">
-    <title lang="id">LIV Golf Andalucia Second Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260605060000 +0700" stop="20260605080000 +0700" channel="usanetworktsn2">
@@ -240,11 +220,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBCS Network, TSN2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260605113000 +0700" stop="20260605133000 +0700" channel="appletv">
-    <title lang="id">Monaco Grand Prix First Practice</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260605030000 +0700" stop="20260605050000 +0700" channel="appletvtsn2">
     <title lang="id">Monaco Grand Prix Second Practice</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV, TSN2</desc>
@@ -253,16 +228,6 @@
   <programme start="20260605090000 +0700" stop="20260605110000 +0700" channel="fubosportsfoxsports2revtv">
     <title lang="id">Michigan ARCA 200</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, REV TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260605011000 +0700" stop="20260605031000 +0700" channel="tsn+">
-    <title lang="id">Monaco Grand Prix Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260605123000 +0700" stop="20260605143000 +0700" channel="slingtvhbomaxtnttrutvrdsmore">
-    <title lang="id">Jakub Mensik Alexander Zverev Semifinal</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, TNT, truTV, RDS, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260605050000 +0700" stop="20260605070000 +0700" channel="slingtvhbomaxtnttrutvrdsmore">
@@ -278,21 +243,6 @@
   <programme start="20260605113000 +0700" stop="20260605133000 +0700" channel="fubosportsfubosportsnetwork">
     <title lang="id">Edward Vazquez - Daniel Lugo</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, fubo Sports Network</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260605013000 +0700" stop="20260605033000 +0700" channel="beinusabeinsports5beincanada">
-    <title lang="id">One Friday Fights</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: beIN USA, beIN SPORTS 5, beIN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260605011000 +0700" stop="20260605031000 +0700" channel="slingtvhbomax">
-    <title lang="id">Tour de Wallonie Stage 5</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260605010000 +0700" stop="20260605030000 +0700" channel="slingtvhbomax">
-    <title lang="id">Giro d'Italia Femminile Stage 7</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260605033000 +0700" stop="20260605053000 +0700" channel="fubosportsfoxsports2foxsportsracing">

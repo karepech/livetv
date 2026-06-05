@@ -260,16 +260,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260605090500 +0700" stop="20260605110500 +0700" channel="tsn+">
-    <title lang="id">Monaco Grand Prix Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260605100000 +0700" stop="20260605120000 +0700" channel="trutv">
-    <title lang="id">M. Granollers / H. Zeballos - S. Bolelli / A. Vavassori Doubles Sling TV HBO Max Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: truTV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260605123000 +0700" stop="20260605143000 +0700" channel="slingtvhbomaxtnttrutvrdsmore">
     <title lang="id">Jakub Mensik Alexander Zverev Semifinal</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, TNT, truTV, RDS, MORE</desc>
@@ -278,11 +268,6 @@
   <programme start="20260605050000 +0700" stop="20260605070000 +0700" channel="slingtvhbomaxtnttrutvrdsmore">
     <title lang="id">Matteo Arnaldi Flavio Cobolli Semifinal</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, TNT, truTV, RDS, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260605093000 +0700" stop="20260605113000 +0700" channel="t2">
-    <title lang="id">Birmingham Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: T2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260605110000 +0700" stop="20260605130000 +0700" channel="msgsn2">
@@ -298,11 +283,6 @@
   <programme start="20260605013000 +0700" stop="20260605033000 +0700" channel="beinusabeinsports5beincanada">
     <title lang="id">One Friday Fights</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: beIN USA, beIN SPORTS 5, beIN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260605094000 +0700" stop="20260605114000 +0700" channel="foxsoccerplus">
-    <title lang="id">Western Bulldogs @ Hawthorn Hawks</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260605011000 +0700" stop="20260605031000 +0700" channel="slingtvhbomax">
@@ -335,11 +315,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260605080000 +0700" stop="20260605100000 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">Newcastle Knights @ Melbourne Storm</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260605070000 +0700" stop="20260605090000 +0700" channel="sportsnet+">
     <title lang="id">Leigh Leopards @ Castleford Tigers</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sportsnet+</desc>
@@ -353,11 +328,6 @@
   <programme start="20260605070000 +0700" stop="20260605090000 +0700" channel="snworldsnnowsportsnet+">
     <title lang="id">Hull FC @ Warrington Wolves</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: SN World, SN NOW, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260605090500 +0700" stop="20260605110500 +0700" channel="paramount+">
-    <title lang="id">Bordeaux</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

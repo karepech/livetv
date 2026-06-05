@@ -5,16 +5,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Chicago Sky, ION</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260606070000 +0700" stop="20260606090000 +0700" channel="dazndazncanada">
-    <title lang="id">Saski Baskonia @ Joventut Badalona</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260606062000 +0700" stop="20260606082000 +0700" channel="marqueemlbnetworknbcsbayareamlb.tv">
-    <title lang="id">San Francisco Giants @ Chicago Cubs</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Marquee, MLB Network, NBCS Bay Area, MLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260606104000 +0700" stop="20260606124000 +0700" channel="fubosportsdetroitsportsnetfoxmlbnetworkmlb.tvmore">
     <title lang="id">Seattle Mariners @ Detroit Tigers</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Detroit SportsNet, FOX, MLB Network, MLB.TV, MORE</desc>
@@ -48,11 +38,6 @@
   <programme start="20260606113000 +0700" stop="20260606133000 +0700" channel="slingtvhbomaxtrutv">
     <title lang="id">Savannah Bananas - Indianapolis Clowns</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, truTV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260606070000 +0700" stop="20260606090000 +0700" channel="chapelhillsuperregionalfubosportsespnunlimitedespn2">
-    <title lang="id">Southern Cal @ North Carolina</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Chapel Hill Super Regional, Fubo Sports, ESPN Unlimited, ESPN2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260606090000 +0700" stop="20260606110000 +0700" channel="troysuperregionalfubosportsespnunlimitedespnu">
@@ -125,34 +110,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ViX</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260606060000 +0700" stop="20260606080000 +0700" channel="vixdazncanada">
-    <title lang="id">Azerbaijan Malta</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ViX, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260606113000 +0700" stop="20260606133000 +0700" channel="fubosportsfoxsports2rdstsn4tsn5more">
     <title lang="id">Canada Republic of Ireland</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, RDS, TSN4, TSN5, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260606063500 +0700" stop="20260606083500 +0700" channel="dazncbsgolazonetworkdazncanada">
-    <title lang="id">Germany Norway</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, CBS Golazo Network, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260606070000 +0700" stop="20260606090000 +0700" channel="fubosportscbssn">
-    <title lang="id">Spain England</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, CBSSN</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260606060000 +0700" stop="20260606080000 +0700" channel="fubosportsespnselectespnunlimitedgolfchannelusagolfchannelcanada">
-    <title lang="id">Memorial Tournament Second Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Select, ESPN Unlimited, Golf Channel USA, Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260606060000 +0700" stop="20260606080000 +0700" channel="usanetworktsn2">
-    <title lang="id">U.S. Women's Open Second Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: USA Network, TSN2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260606100000 +0700" stop="20260606120000 +0700" channel="rdsinfo">
@@ -193,21 +153,6 @@
   <programme start="20260606100000 +0700" stop="20260606120000 +0700" channel="espnselectespnunlimitedtsn+">
     <title lang="id">Utah Archers @ Carolina Chaos</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260606070000 +0700" stop="20260606090000 +0700" channel="sportsnet+">
-    <title lang="id">Leigh Leopards @ Castleford Tigers</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260606070000 +0700" stop="20260606090000 +0700" channel="sportsnet+">
-    <title lang="id">York Knights @ Bradford</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260606070000 +0700" stop="20260606090000 +0700" channel="snworldsnnowsportsnet+">
-    <title lang="id">Hull FC @ Warrington Wolves</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: SN World, SN NOW, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

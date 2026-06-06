@@ -245,16 +245,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN2, OneSoccer</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260606010000 +0700" stop="20260606030000 +0700" channel="fubosportsvixfubosportsnetworkdazncanada">
-    <title lang="id">Belgium Tunisia</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ViX, fubo Sports Network, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260606010000 +0700" stop="20260606030000 +0700" channel="latviafoxsoccerplusdazncanada">
-    <title lang="id">Lithuania</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Latvia, FOX Soccer Plus, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260606020000 +0700" stop="20260606040000 +0700" channel="vixdazncanada">
     <title lang="id">Armenia Kazakhstan</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ViX, DAZN Canada</desc>
@@ -325,11 +315,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260606010000 +0700" stop="20260606030000 +0700" channel="foxdeportes">
-    <title lang="id">Japan U20 Canada U20</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Deportes</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260606043000 +0700" stop="20260606063000 +0700" channel="foxdeportes">
     <title lang="id">Portugal U20 Côte d'Ivoire U20</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Deportes</desc>
@@ -353,11 +338,6 @@
   <programme start="20260606110000 +0700" stop="20260606130000 +0700" channel="yahoo!sports">
     <title lang="id">San Antonio Gunslingers @ Jacksonville Sharks</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Yahoo! Sports</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260606124500 +0700" stop="20260606144500 +0700" channel="espnselectespnunlimitedtsn+">
-    <title lang="id">Memorial Tournament Third Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260606020000 +0700" stop="20260606040000 +0700" channel="espnselectespnunlimited">
@@ -440,19 +420,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV, RDS, TSN5</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260606010000 +0700" stop="20260606030000 +0700" channel="fubosportsfoxsports2foxsportsracingsnnowsportsnet+">
-    <title lang="id">Hungarian Grand Prix Sprint</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, FOX Sports Racing, SN NOW, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260606050000 +0700" stop="20260606070000 +0700" channel="peacocknbcsnetwork">
     <title lang="id">Hangtown Motocross Classic Race Day Live</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Peacock, NBCS Network</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260606121500 +0700" stop="20260606141500 +0700" channel="tsn+">
-    <title lang="id">Monaco Grand Prix Sprint Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260606070000 +0700" stop="20260606090000 +0700" channel="fubosportsfoxsports2">
@@ -485,11 +455,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260606010000 +0700" stop="20260606030000 +0700" channel="slingtvhbomaxtnttrutvtsn1more">
-    <title lang="id">Maja Chwalinska Mirra Andreeva Final</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, TNT, truTV, TSN1, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260606033000 +0700" stop="20260606053000 +0700" channel="tsn1tsn4">
     <title lang="id">French Open</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN1, TSN4</desc>
@@ -513,11 +478,6 @@
   <programme start="20260606053000 +0700" stop="20260606073000 +0700" channel="dazncanada">
     <title lang="id">Brave CF</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260606121000 +0700" stop="20260606141000 +0700" channel="dazndazncanada">
-    <title lang="id">Rajadamnern World Series</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260606090000 +0700" stop="20260606110000 +0700" channel="paramount+sportsnet+">
@@ -553,11 +513,6 @@
   <programme start="20260606110000 +0700" stop="20260606130000 +0700" channel="paramount+sportsnet+">
     <title lang="id">Alessandro Costa Matt Schnell .</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260606123000 +0700" stop="20260606143000 +0700" channel="slingtvhbomax">
-    <title lang="id">BMX World Cup Day 1</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260606013000 +0700" stop="20260606033000 +0700" channel="slingtvhbomax">

@@ -315,11 +315,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus, ViX, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260606091500 +0700" stop="20260606111500 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Australia Mexico</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260606093000 +0700" stop="20260606113000 +0700" channel="slingtvpeacockeshbomaxnbcuniversotntmore">
     <title lang="id">Brazil United States</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, Peacock ES, HBO Max, NBC Universo, TNT, MORE</desc>
@@ -380,19 +375,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, CBS, RDS, TSN1, TSN5</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260606110000 +0700" stop="20260606130000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
-    <title lang="id">KLM Open Third Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260606090000 +0700" stop="20260606110000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
     <title lang="id">BMW Charity Pro-Am Third Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260606110000 +0700" stop="20260606130000 +0700" channel="fubosportsfoxsports1dazncanada">
-    <title lang="id">LIV Golf Andalucia Third Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260606090000 +0700" stop="20260606110000 +0700" channel="usanetworktsn4">
@@ -450,11 +435,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, FOX One, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260606103000 +0700" stop="20260606123000 +0700" channel="appletv">
-    <title lang="id">Monaco Grand Prix Third Practice</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260606020000 +0700" stop="20260606040000 +0700" channel="appletvrdstsn5">
     <title lang="id">Monaco Grand Prix Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV, RDS, TSN5</desc>
@@ -505,11 +485,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260606090000 +0700" stop="20260606110000 +0700" channel="tnttrutvmore">
-    <title lang="id">M. Granollers / H. Zeballos - H. Heliövaara / H. Patten Doubles Final Sling TV HBO Max Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TNT, truTV, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260606010000 +0700" stop="20260606030000 +0700" channel="slingtvhbomaxtnttrutvtsn1more">
     <title lang="id">Maja Chwalinska Mirra Andreeva Final</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, TNT, truTV, TSN1, MORE</desc>
@@ -518,11 +493,6 @@
   <programme start="20260606033000 +0700" stop="20260606053000 +0700" channel="tsn1tsn4">
     <title lang="id">French Open</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN1, TSN4</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260606100000 +0700" stop="20260606120000 +0700" channel="t2">
-    <title lang="id">Birmingham Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: T2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260606033000 +0700" stop="20260606053000 +0700" channel="paramount+">
@@ -583,11 +553,6 @@
   <programme start="20260606110000 +0700" stop="20260606130000 +0700" channel="paramount+sportsnet+">
     <title lang="id">Alessandro Costa Matt Schnell .</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260606101500 +0700" stop="20260606121500 +0700" channel="foxsoccerplus">
-    <title lang="id">Port Adelaide Power @ West Coast Eagles</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260606123000 +0700" stop="20260606143000 +0700" channel="slingtvhbomax">

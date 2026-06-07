@@ -5,59 +5,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: NBA TV, Spectrum SportsNet, Rose City SportsNet, NBA TV Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260608080000 +0700" stop="20260608100000 +0700" channel="rds2">
-    <title lang="id">Edmonton Stingers @ Montreal Alliance</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: RDS 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260608081000 +0700" stop="20260608101000 +0700" channel="fdsnwestmytvsportsnetlafox11plusmlb.tvmore">
-    <title lang="id">Los Angeles Angels @ Los Angeles Dodgers</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FDSN West, MyTV, SportsNet LA, Fox 11 Plus, MLB.TV, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260608081000 +0700" stop="20260608101000 +0700" channel="snypadres.tvmlb.tv">
-    <title lang="id">New York Mets @ San Diego Padres</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: SNY, Padres.TV, MLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260608073000 +0700" stop="20260608093000 +0700" channel="tvbelumtersedia">
-    <title lang="id">The Party Animals - Loco Beach Coconuts CW MyTV Peachtree TV KUNS-TV WGN Canada</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260608080000 +0700" stop="20260608100000 +0700" channel="fubosportsespnunlimitedespnuespn2">
-    <title lang="id">Alabama @ St. John's (NY)</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN U, ESPN2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260608100000 +0700" stop="20260608120000 +0700" channel="fubosportsespnunlimitedespn">
     <title lang="id">Kansas @ Oklahoma</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260608080500 +0700" stop="20260608100500 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Tacoma Rainiers @ Sacramento River Cats</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260608090500 +0700" stop="20260608110500 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Charlotte Knights @ Durham Bulls</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260608100500 +0700" stop="20260608120500 +0700" channel="flohockey">
     <title lang="id">Toronto Marlies @ Wilkes-Barre/Scranton</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FloHockey</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260608073000 +0700" stop="20260608093000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Brooklyn FC Portland Hearts of Pine</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260608080000 +0700" stop="20260608100000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Ecuador Guatemala Fanatiz In Demand 1</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260608110000 +0700" stop="20260608130000 +0700" channel="tln">
@@ -70,24 +25,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX, FOX 4K, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260608090000 +0700" stop="20260608110000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
-    <title lang="id">BMW Charity Pro-Am Final Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260608090000 +0700" stop="20260608110000 +0700" channel="peacocknbctsn3tsn4ctv2more">
-    <title lang="id">U.S. Women's Open Final Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBC, TSN3, TSN4, CTV2, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260608103000 +0700" stop="20260608123000 +0700" channel="rds2">
     <title lang="id">U.S. Women's Open Final Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: RDS 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260608080000 +0700" stop="20260608100000 +0700" channel="nbc">
-    <title lang="id">Hangtown Motocross Classic Gate Drop</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: NBC</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260608093000 +0700" stop="20260608113000 +0700" channel="fubosportsfoxsports1revtv">
@@ -103,16 +43,6 @@
   <programme start="20260608093000 +0700" stop="20260608113000 +0700" channel="fubosportsfoxsports2">
     <title lang="id">America's Day at the Races</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260608080000 +0700" stop="20260608100000 +0700" channel="espnselectespnunlimitedmytvnbcsboston">
-    <title lang="id">Chicago Hounds @ New England Free Jacks</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, MyTV, NBCS Boston</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260608080000 +0700" stop="20260608100000 +0700" channel="wsn">
-    <title lang="id">New York Exiles @ TC Gemini</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: WSN</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260608100000 +0700" stop="20260608120000 +0700" channel="wsn">

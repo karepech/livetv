@@ -200,6 +200,11 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus, OneSoccer</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260607050000 +0700" stop="20260607070000 +0700" channel="vix">
+    <title lang="id">Belgium U17 Italy U17</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ViX</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260607010000 +0700" stop="20260607030000 +0700" channel="fubosportsfoxsports2vixdazncanada">
     <title lang="id">Liechtenstein Cyprus</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, ViX, DAZN Canada</desc>
@@ -210,9 +215,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, ViX, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260607060000 +0700" stop="20260607080000 +0700" channel="vix">
+  <programme start="20260607060000 +0700" stop="20260607080000 +0700" channel="vixdazncanada">
     <title lang="id">Kosovo Andorra</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ViX</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ViX, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260607064500 +0700" stop="20260607084500 +0700" channel="fubosportsfoxsports2vixdazncanada">
@@ -265,9 +270,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Yahoo! Sports</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260607113000 +0700" stop="20260607133000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Memorial Tournament Third Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+  <programme start="20260607070000 +0700" stop="20260607090000 +0700" channel="fubosportsespnunlimitedabctsn+">
+    <title lang="id">D.C. Defenders @ Orlando Storm</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ABC, TSN+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260607100000 +0700" stop="20260607120000 +0700" channel="fubosportsfoxfox4ktsn+">
+    <title lang="id">Louisville Kings @ St. Louis Battlehawks</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX, FOX 4K, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260607124500 +0700" stop="20260607144500 +0700" channel="espnselectespnunlimitedtsn+">
@@ -285,19 +295,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, CBS, RDS, TSN1</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260607103000 +0700" stop="20260607123000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
-    <title lang="id">KLM Open Final Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260607090000 +0700" stop="20260607110000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
     <title lang="id">BMW Charity Pro-Am Final Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260607110000 +0700" stop="20260607130000 +0700" channel="fubosportsfoxsports1dazncanada">
-    <title lang="id">LIV Golf Andalucia</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260607070000 +0700" stop="20260607090000 +0700" channel="peacocknbcsnetworkrdsinfo">
@@ -330,11 +330,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV, TSN+, RDS, TSN5</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260607120000 +0700" stop="20260607140000 +0700" channel="fubosportsfoxsports2foxsportsracingsnonesnnow">
-    <title lang="id">Hungarian Grand Prix Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, FOX Sports Racing, SN One, SN NOW</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260607080000 +0700" stop="20260607100000 +0700" channel="nbc">
     <title lang="id">Hangtown Motocross Classic Gate Drop</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: NBC</desc>
@@ -360,11 +355,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: FloRacing</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260607120000 +0700" stop="20260607140000 +0700" channel="peacock">
-    <title lang="id">Mid-Ohio Sports Car Course Race 2</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260607010000 +0700" stop="20260607030000 +0700" channel="slingtvhbomaxtnttrutvtsn1more">
     <title lang="id">Flavio Cobolli Alexander Zverev Final</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, TNT, truTV, TSN1, MORE</desc>
@@ -375,19 +365,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN1, TSN4</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260607100000 +0700" stop="20260607120000 +0700" channel="t2">
-    <title lang="id">Birmingham Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: T2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260607123000 +0700" stop="20260607143000 +0700" channel="slingtvhbomax">
     <title lang="id">BMX World Cup Day 2</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260607111000 +0700" stop="20260607131000 +0700" channel="peacocknbcsnetwork">
-    <title lang="id">Tour Auvergne Rhone Alpes Stage 1</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBCS Network</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260607013000 +0700" stop="20260607033000 +0700" channel="slingtvhbomax">

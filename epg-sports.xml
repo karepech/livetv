@@ -10,9 +10,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: NBA TV, Spectrum SportsNet, Rose City SportsNet, NBA TV Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260607050000 +0700" stop="20260607070000 +0700" channel="dazncanada">
+  <programme start="20260607050000 +0700" stop="20260607070000 +0700" channel="dazndazncanada">
     <title lang="id">Joventut Badalona @ Saski Baskonia</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN Canada</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260607080000 +0700" stop="20260607100000 +0700" channel="rds2">
@@ -340,11 +340,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: NBC</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260607073000 +0700" stop="20260607093000 +0700" channel="tsn+">
-    <title lang="id">Monaco Grand Prix Race 2</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260607041500 +0700" stop="20260607061500 +0700" channel="peacock">
     <title lang="id">O'Reilly Auto Parts 4 Hours of Mid-Ohio Race</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
@@ -365,19 +360,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: FloRacing</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260607081500 +0700" stop="20260607101500 +0700" channel="dazndazncanada">
-    <title lang="id">Circuit Paul Ricard Race 2</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260607120000 +0700" stop="20260607140000 +0700" channel="peacock">
     <title lang="id">Mid-Ohio Sports Car Course Race 2</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260607090000 +0700" stop="20260607110000 +0700" channel="tnttrutvmore">
-    <title lang="id">K. Siniakova / T. Townsend - A. Danilina / A. Krunic Doubles Final Sling TV HBO Max Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TNT, truTV, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260607010000 +0700" stop="20260607030000 +0700" channel="slingtvhbomaxtnttrutvtsn1more">
@@ -393,11 +378,6 @@
   <programme start="20260607100000 +0700" stop="20260607120000 +0700" channel="t2">
     <title lang="id">Birmingham Open</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: T2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260607092000 +0700" stop="20260607112000 +0700" channel="foxsoccerplus">
-    <title lang="id">Carlton Blues @ Essendon Bombers</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260607123000 +0700" stop="20260607143000 +0700" channel="slingtvhbomax">
@@ -428,11 +408,6 @@
   <programme start="20260607080000 +0700" stop="20260607100000 +0700" channel="espnselectespnunlimitedmytvnbcsboston">
     <title lang="id">Chicago Hounds @ New England Free Jacks</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, MyTV, NBCS Boston</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260607084500 +0700" stop="20260607104500 +0700" channel="paramount+tsn+">
-    <title lang="id">Bordeaux</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260607080000 +0700" stop="20260607100000 +0700" channel="wsn">

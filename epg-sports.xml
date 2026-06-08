@@ -60,11 +60,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, ViX, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260608010000 +0700" stop="20260608030000 +0700" channel="foxdeportes">
-    <title lang="id">Côte d'Ivoire U20 Canada U20</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Deportes</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260608043000 +0700" stop="20260608063000 +0700" channel="foxdeportes">
     <title lang="id">Venezuela U20 Portugal U20</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Deportes</desc>
@@ -80,19 +75,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260608123000 +0700" stop="20260608143000 +0700" channel="tsn+">
-    <title lang="id">Libema Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260608050000 +0700" stop="20260608070000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Stuttgart Open Tennis Channel</title>
+  <programme start="20260608060000 +0700" stop="20260608080000 +0700" channel="tvbelumtersedia">
+    <title lang="id">WTA &amp; ATP Tournaments Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260608012000 +0700" stop="20260608032000 +0700" channel="peacocknbcsnetwork">
-    <title lang="id">Tour Auvergne Rhone Alpes Stage 2</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBCS Network</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

@@ -15,9 +15,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: MASN, MLB.TV, Mariners.TV, TSN2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260609104000 +0700" stop="20260609124000 +0700" channel="nesnmlb.tvrays.tvrds2">
+  <programme start="20260609104000 +0700" stop="20260609124000 +0700" channel="fanatiznesnmlb.tvrays.tvrds2">
     <title lang="id">Boston Red Sox @ Tampa Bay Rays</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: NESN, MLB.TV, Rays.TV, RDS 2</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, NESN, MLB.TV, Rays.TV, RDS 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260609104000 +0700" stop="20260609124000 +0700" channel="fubosportsfoxdeportesfoxsports1yesguardians.tvmore">
@@ -30,11 +30,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: NBCS Philadelphia, MLB.TV, Sportsnet, SN One, SN NOW, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260609050000 +0700" stop="20260609070000 +0700" channel="lawrencesuperregionalfubosportsespnunlimitedespn2">
-    <title lang="id">Kansas @ Oklahoma</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Lawrence Super Regional, Fubo Sports, ESPN Unlimited, ESPN2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260609103000 +0700" stop="20260609123000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Sanford Mainers - Keene Swamp Bats</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
@@ -45,34 +40,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260609064500 +0700" stop="20260609084500 +0700" channel="foxsoccerplusvixdazncanada">
-    <title lang="id">Netherlands Uzbekistan</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus, ViX, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260609071000 +0700" stop="20260609091000 +0700" channel="fubosportsfoxsports2vixdazncanada">
-    <title lang="id">France Northern Ireland</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, ViX, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260609043000 +0700" stop="20260609063000 +0700" channel="foxdeportes">
-    <title lang="id">Venezuela U20 Portugal U20</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Deportes</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260609070000 +0700" stop="20260609090000 +0700" channel="wwax">
-    <title lang="id">Columbus Crew 2 - CT United FC</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: WWAX</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260609100000 +0700" stop="20260609120000 +0700" channel="fanatiz">
     <title lang="id">Atlético Nacional Junior</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260609060000 +0700" stop="20260609080000 +0700" channel="tvbelumtersedia">
-    <title lang="id">WTA &amp; ATP Tournaments Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

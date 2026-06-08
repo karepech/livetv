@@ -1,13 +1,13 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
   <programme start="20260608110000 +0700" stop="20260608130000 +0700" channel="fox5newyork">
-    <title lang="id">New York Liberty @ Connecticut Sun Fubo Sports FOX NBCS Boston Liberty Live</title>
+    <title lang="id">New York Liberty @ Connecticut Sun NBCS Boston Liberty Live</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: FOX 5 New York</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260608110000 +0700" stop="20260608130000 +0700" channel="more">
-    <title lang="id">Indiana Fever @ Washington Mystics Fubo Sports Peacock FOX NBCS Network Monumental SN</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: MORE</desc>
+  <programme start="20260608110000 +0700" stop="20260608130000 +0700" channel="nbatvcanada">
+    <title lang="id">Indiana Fever @ Washington Mystics Peacock NBCS Network Monumental SN WTHR Channel 13</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: NBA TV Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260608103500 +0700" stop="20260608123500 +0700" channel="masnmlb.tvmariners.tvtsn2">
@@ -28,6 +28,16 @@
   <programme start="20260608110700 +0700" stop="20260608130700 +0700" channel="nbcsphiladelphiamlb.tvsportsnetsnonesnnowmore">
     <title lang="id">Philadelphia Phillies @ Toronto Blue Jays</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: NBCS Philadelphia, MLB.TV, Sportsnet, SN One, SN NOW, MORE</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260608040000 +0700" stop="20260608060000 +0700" channel="tuscaloosasuperregionalfubosportsespnunlimitedespn2">
+    <title lang="id">Alabama @ St. John's (NY)</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Tuscaloosa Super Regional, Fubo Sports, ESPN Unlimited, ESPN2</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260608050000 +0700" stop="20260608070000 +0700" channel="lawrencesuperregionalfubosportsespnunlimitedespn2">
+    <title lang="id">Kansas @ Oklahoma</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Lawrence Super Regional, Fubo Sports, ESPN Unlimited, ESPN2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260608103000 +0700" stop="20260608123000 +0700" channel="espnselectespnunlimited">
@@ -80,24 +90,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260608090000 +0700" stop="20260608110000 +0700" channel="tvbelumtersedia">
-    <title lang="id">WTA &amp; ATP Tournaments Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260608051500 +0700" stop="20260608071500 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">Melbourne Demons @ Collingwood Magpies</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260608012000 +0700" stop="20260608032000 +0700" channel="peacock">
+  <programme start="20260608012000 +0700" stop="20260608032000 +0700" channel="peacocknbcsnetwork">
     <title lang="id">Tour Auvergne Rhone Alpes Stage 2</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260608060500 +0700" stop="20260608080500 +0700" channel="foxsoccerplus">
-    <title lang="id">Parramatta Eels @ Canterbury Bulldogs</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBCS Network</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

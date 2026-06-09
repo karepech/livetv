@@ -170,11 +170,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ViX</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260609010000 +0700" stop="20260609030000 +0700" channel="dazndazncanada">
-    <title lang="id">Indonesia Mozambique</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260609040000 +0700" stop="20260609060000 +0700" channel="fubosportsvixfubosportsnetworkdazncanada">
     <title lang="id">Armenia Moldova</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ViX, fubo Sports Network, DAZN Canada</desc>
@@ -193,11 +188,6 @@
   <programme start="20260609060000 +0700" stop="20260609080000 +0700" channel="vixdazncanada">
     <title lang="id">Azerbaijan San Marino</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ViX, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260609010000 +0700" stop="20260609030000 +0700" channel="dazncanada">
-    <title lang="id">Germany U19 USA U19</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260609070000 +0700" stop="20260609090000 +0700" channel="espnselectespnunlimitedespndeportestsn+">
@@ -228,11 +218,6 @@
   <programme start="20260609070000 +0700" stop="20260609090000 +0700" channel="fubosportscbssn">
     <title lang="id">England Ukraine</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, CBSSN</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260609100000 +0700" stop="20260609120000 +0700" channel="tvbelumtersedia">
-    <title lang="id">WTA &amp; ATP Tournaments Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260609043000 +0700" stop="20260609063000 +0700" channel="tvasports">

@@ -5,16 +5,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Chicago Sky, Fubo Sports, ESPN Unlimited, ESPN, TSN2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260610060000 +0700" stop="20260610080000 +0700" channel="dazndazncanada">
-    <title lang="id">Tenerife @ Barcelona</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260610063000 +0700" stop="20260610083000 +0700" channel="nextlevelsports">
-    <title lang="id">Bamberg @ Alba Berlin</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260610103500 +0700" stop="20260610123500 +0700" channel="fanatizmasnmlb.tvmariners.tv">
     <title lang="id">Seattle Mariners @ Baltimore Orioles</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, MASN, MLB.TV, Mariners.TV</desc>
@@ -73,11 +63,6 @@
   <programme start="20260610103000 +0700" stop="20260610123000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Danbury Westerners - Newport Gulls</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260610063500 +0700" stop="20260610083500 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Albuquerque Isotopes @ Tacoma Rainiers</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260610100500 +0700" stop="20260610120500 +0700" channel="ballysportslivemilb.tv">
@@ -170,54 +155,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, ViX</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260610043000 +0700" stop="20260610063000 +0700" channel="foxsoccerplusvixdazncanada">
-    <title lang="id">Belarus Burkina Faso</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus, ViX, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260610050000 +0700" stop="20260610070000 +0700" channel="fubosportsfoxsports2vixdazncanada">
-    <title lang="id">Hungary Kazakhstan</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, ViX, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260610060000 +0700" stop="20260610080000 +0700" channel="vixdazncanada">
-    <title lang="id">Azerbaijan San Marino</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ViX, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260610070000 +0700" stop="20260610090000 +0700" channel="espnselectespnunlimitedespndeportestsn+">
-    <title lang="id">Almería Castellón</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, ESPN Deportes, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260610050000 +0700" stop="20260610070000 +0700" channel="fubosportscbssn">
-    <title lang="id">Sweden Italy</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, CBSSN</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260610070000 +0700" stop="20260610090000 +0700" channel="cbsgolazonetwork">
-    <title lang="id">France Ireland</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: CBS Golazo Network</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260610070000 +0700" stop="20260610090000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Netherlands Poland</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260610070000 +0700" stop="20260610090000 +0700" channel="fubosportscbssn">
-    <title lang="id">England Ukraine</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, CBSSN</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260610094500 +0700" stop="20260610114500 +0700" channel="floracing">
     <title lang="id">Indiana Midget Week at Circle City Raceway</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FloRacing</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260610043000 +0700" stop="20260610063000 +0700" channel="tvasports">
-    <title lang="id">The HSBC Championships Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TVA Sports</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260610090000 +0700" stop="20260610110000 +0700" channel="fubosportscbssn">

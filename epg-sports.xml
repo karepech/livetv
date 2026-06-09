@@ -135,11 +135,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260609090000 +0700" stop="20260609110000 +0700" channel="seibulionsnextlevelsports">
-    <title lang="id">Hiroshima Carp @</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Seibu Lions, Next Level Sports</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260609110000 +0700" stop="20260609130000 +0700" channel="mytv">
     <title lang="id">Sioux Falls City FC - Minnesota Aurora FC</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: MyTV</desc>
@@ -200,11 +195,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ViX, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260609090000 +0700" stop="20260609110000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Australia Mexico</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260609010000 +0700" stop="20260609030000 +0700" channel="dazncanada">
     <title lang="id">Germany U19 USA U19</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN Canada</desc>
@@ -240,24 +230,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, CBSSN</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260609090000 +0700" stop="20260609110000 +0700" channel="tsn+">
-    <title lang="id">Stuttgart Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260609090000 +0700" stop="20260609110000 +0700" channel="tsn+">
-    <title lang="id">Libema Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260609100000 +0700" stop="20260609120000 +0700" channel="tvbelumtersedia">
     <title lang="id">WTA &amp; ATP Tournaments Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260609043000 +0700" stop="20260609063000 +0700" channel="tvbelumtersedia">
+  <programme start="20260609043000 +0700" stop="20260609063000 +0700" channel="tvasports">
     <title lang="id">The HSBC Championships Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TVA Sports</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260609012000 +0700" stop="20260609032000 +0700" channel="peacock">

@@ -145,11 +145,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260610090000 +0700" stop="20260610110000 +0700" channel="seibulionsnextlevelsports">
-    <title lang="id">Hiroshima Carp @</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Seibu Lions, Next Level Sports</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260610113000 +0700" stop="20260610133000 +0700" channel="floridaeverbladesflohockey">
     <title lang="id">Kansas City @</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Florida Everblades, FloHockey</desc>
@@ -210,19 +205,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, ESPN Deportes, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260610113000 +0700" stop="20260610133000 +0700" channel="foxdeportes">
-    <title lang="id">Congo DR U20 Saudi Arabia U21</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Deportes</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260610050000 +0700" stop="20260610070000 +0700" channel="foxdeportes">
     <title lang="id">Colombia U19 Tunisia U23</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Deportes</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260610120000 +0700" stop="20260610140000 +0700" channel="slingtvhbomax">
-    <title lang="id">24 Hours of Le Mans Practice</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260610044500 +0700" stop="20260610064500 +0700" channel="slingtvhbomax">
@@ -235,34 +220,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260610090000 +0700" stop="20260610110000 +0700" channel="tsn+">
-    <title lang="id">Stuttgart Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260610110000 +0700" stop="20260610130000 +0700" channel="tsn+">
-    <title lang="id">Libema Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260610090000 +0700" stop="20260610110000 +0700" channel="tvbelumtersedia">
-    <title lang="id">WTA &amp; ATP Tournaments Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260610100000 +0700" stop="20260610120000 +0700" channel="tvbelumtersedia">
-    <title lang="id">WTA &amp; ATP Tournaments Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260610060000 +0700" stop="20260610080000 +0700" channel="tvbelumtersedia">
     <title lang="id">WTA &amp; ATP Tournaments Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260610012000 +0700" stop="20260610032000 +0700" channel="peacock">
-    <title lang="id">Tour Auvergne Rhone Alpes Stage 4</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260610023000 +0700" stop="20260610043000 +0700" channel="slingtvhbomax">

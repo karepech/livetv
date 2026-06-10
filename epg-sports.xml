@@ -5,26 +5,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: NBCS Boston, TSN5, CTV2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260611060000 +0700" stop="20260611080000 +0700" channel="daznfanatizdazncanada">
-    <title lang="id">Joventut Badalona @ Valencia</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, Fanatiz, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260611051000 +0700" stop="20260611071000 +0700" channel="nesnmlb.tvrays.tvsnonesnnow">
-    <title lang="id">Boston Red Sox @ Tampa Bay Rays</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: NESN, MLB.TV, Rays.TV, SN One, SN NOW</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260611051000 +0700" stop="20260611071000 +0700" channel="mlbnetworkyesguardians.tvmlb.tvsneastmore">
-    <title lang="id">New York Yankees @ Cleveland Guardians</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: MLB Network, YES, Guardians.TV, MLB.TV, SN East, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260611074500 +0700" stop="20260611094500 +0700" channel="nbcsbayareamlb.tvnationals.tv">
-    <title lang="id">Washington Nationals @ San Francisco Giants</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: NBCS Bay Area, MLB.TV, Nationals.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260611081000 +0700" stop="20260611101000 +0700" channel="mlbnetworkpadres.tvmlb.tvreds.tv">
     <title lang="id">Cincinnati Reds @ San Diego Padres</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: MLB Network, Padres.TV, MLB.TV, Reds.TV</desc>
@@ -83,16 +63,6 @@
   <programme start="20260611103000 +0700" stop="20260611123000 +0700" channel="wwax">
     <title lang="id">Norwich Sea Unicorns - New Britain Bees</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: WWAX</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260611050500 +0700" stop="20260611070500 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Las Vegas Aviators @ Omaha Storm Chasers</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260611053500 +0700" stop="20260611073500 +0700" channel="sportsnetpittsburghballysportslivemilb.tv">
-    <title lang="id">Columbus Clippers @ Indianapolis Indians</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: SportsNet Pittsburgh, Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260611103500 +0700" stop="20260611123500 +0700" channel="ballysportslivemilb.tv">
@@ -185,39 +155,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260611074500 +0700" stop="20260611094500 +0700" channel="foxsoccerplusvixtlndazncanada">
-    <title lang="id">Portugal Nigeria</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus, ViX, TLN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260611080000 +0700" stop="20260611100000 +0700" channel="fubosportsfoxsports2vixdazncanada">
     <title lang="id">England Costa Rica</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, ViX, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260611070000 +0700" stop="20260611090000 +0700" channel="espnselectespnunlimitedespndeportestsn+">
-    <title lang="id">Málaga Las Palmas</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, ESPN Deportes, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260611050000 +0700" stop="20260611070000 +0700" channel="foxdeportes">
-    <title lang="id">Colombia U19 Tunisia U23</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Deportes</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260611044500 +0700" stop="20260611064500 +0700" channel="slingtvhbomax">
-    <title lang="id">24 Hours of Le Mans Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260611080000 +0700" stop="20260611100000 +0700" channel="slingtvhbomax">
     <title lang="id">24 Hours of Le Mans Practice</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260611060000 +0700" stop="20260611080000 +0700" channel="tvbelumtersedia">
-    <title lang="id">WTA &amp; ATP Tournaments Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260611100000 +0700" stop="20260611120000 +0700" channel="yesrosecitysportsnet">

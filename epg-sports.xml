@@ -10,11 +10,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260612071000 +0700" stop="20260612091000 +0700" channel="espnunlimitedmarqueerockies.tvmlb.tv">
-    <title lang="id">Chicago Cubs @ Colorado Rockies</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, Marquee, Rockies.TV, MLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260612104000 +0700" stop="20260612124000 +0700" channel="more">
     <title lang="id">Los Angeles Dodgers @ Pittsburgh Pirates Fanatiz SportsNet Pittsburgh SportsNet LA MLB.TV SNLA+</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: MORE</desc>
@@ -48,11 +43,6 @@
   <programme start="20260612103000 +0700" stop="20260612123000 +0700" channel="wwax">
     <title lang="id">Worcester Bravehearts - New Britain Bees</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: WWAX</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260612070500 +0700" stop="20260612090500 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Rochester Red Wings @ Worcester</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260612103500 +0700" stop="20260612123500 +0700" channel="ballysportslivemilb.tv">
@@ -98,26 +88,6 @@
   <programme start="20260612114500 +0700" stop="20260612134500 +0700" channel="ballysportslivemilb.tv">
     <title lang="id">El Paso Chihuahuas @ Round Rock Express</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260612070000 +0700" stop="20260612090000 +0700" channel="fubosportspeacockesfoxfox4kfoxsports4kmore">
-    <title lang="id">Mexico South Africa</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX, FOX 4K, FOX Sports 4K, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260612070000 +0700" stop="20260612090000 +0700" channel="fubosportsespnselectespnunlimitedgolfchannelusatsn5more">
-    <title lang="id">Canadian Open First Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Select, ESPN Unlimited, Golf Channel USA, TSN5, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260612090000 +0700" stop="20260612110000 +0700" channel="slingtvhbomax">
-    <title lang="id">24 Hours of Le Mans Free Practice</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260612090000 +0700" stop="20260612110000 +0700" channel="fubosportscbssn">
-    <title lang="id">Carolina Blaze - Portland Cascade</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, CBSSN</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260612110000 +0700" stop="20260612130000 +0700" channel="rosecitysportsnet">

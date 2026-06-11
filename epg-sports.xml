@@ -140,19 +140,9 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260611090000 +0700" stop="20260611110000 +0700" channel="seibulionsnextlevelsports">
-    <title lang="id">Hiroshima Carp @</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Seibu Lions, Next Level Sports</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260611070000 +0700" stop="20260611090000 +0700" channel="fubosportspeacockesfoxfox4kfoxsports4kmore">
     <title lang="id">Mexico South Africa</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX, FOX 4K, FOX Sports 4K, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260611113000 +0700" stop="20260611133000 +0700" channel="foxdeportes">
-    <title lang="id">Venezuela U20 Japan U20</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Deportes</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260611050000 +0700" stop="20260611070000 +0700" channel="foxdeportes">
@@ -160,24 +150,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Deportes</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260611110000 +0700" stop="20260611130000 +0700" channel="disney+tsn+more">
-    <title lang="id">Canadian Open First Round ESPN Select ESPN Unlimited Hulu</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Disney+, TSN+, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260611070000 +0700" stop="20260611090000 +0700" channel="fubosportsgolfchannelusatsn5rds2golfchannelcanada">
+  <programme start="20260611070000 +0700" stop="20260611090000 +0700" channel="fubosportsespnselectespnunlimitedgolfchannelusatsn5more">
     <title lang="id">Canadian Open First Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, TSN5, RDS 2, Golf Channel Canada</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Select, ESPN Unlimited, Golf Channel USA, TSN5, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260611030000 +0700" stop="20260611050000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
     <title lang="id">Dow Championship First Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260611124500 +0700" stop="20260611144500 +0700" channel="slingtvhbomax">
-    <title lang="id">24 Hours of Le Mans Free Practice</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260611060000 +0700" stop="20260611080000 +0700" channel="slingtvhbomax">
@@ -190,49 +170,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260611090000 +0700" stop="20260611110000 +0700" channel="tsn+">
-    <title lang="id">Stuttgart Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260611110000 +0700" stop="20260611130000 +0700" channel="tsn+">
-    <title lang="id">Libema Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260611100000 +0700" stop="20260611120000 +0700" channel="tvbelumtersedia">
-    <title lang="id">WTA &amp; ATP Tournaments Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260611060000 +0700" stop="20260611080000 +0700" channel="tvbelumtersedia">
     <title lang="id">WTA &amp; ATP Tournaments Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260611090000 +0700" stop="20260611110000 +0700" channel="tsn+dazncanada">
-    <title lang="id">Libema Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260611093000 +0700" stop="20260611113000 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">Adelaide Crows @ Western Bulldogs</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260611012500 +0700" stop="20260611032500 +0700" channel="peacock">
-    <title lang="id">Tour Auvergne Rhone Alpes Stage 5</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260611050000 +0700" stop="20260611070000 +0700" channel="fubosportsfoxsports2foxsportsracing">
     <title lang="id">America's Day at the Races</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, FOX Sports Racing</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260611095000 +0700" stop="20260611115000 +0700" channel="foxsoccerplus">
-    <title lang="id">Brisbane Broncos @ South Sydney Rabbitohs</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260611090000 +0700" stop="20260611110000 +0700" channel="fubosportscbssn">

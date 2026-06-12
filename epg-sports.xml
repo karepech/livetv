@@ -130,11 +130,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260612090000 +0700" stop="20260612110000 +0700" channel="nextlevelsports">
-    <title lang="id">Hanshin Tigers @ Orix Buffaloes</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260612113000 +0700" stop="20260612133000 +0700" channel="floridaeverbladesflohockey">
     <title lang="id">Kansas City @</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Florida Everblades, FloHockey</desc>
@@ -160,11 +155,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: CFL+ (US), RDS, TSN3, TSN5</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260612110000 +0700" stop="20260612130000 +0700" channel="espnselectespnunlimitedtsn+tsn5">
-    <title lang="id">Canadian Open Second Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+, TSN5</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260612070000 +0700" stop="20260612090000 +0700" channel="fubosportsespnselectespnunlimitedgolfchannelusatsn5more">
     <title lang="id">Canadian Open Second Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Select, ESPN Unlimited, Golf Channel USA, TSN5, MORE</desc>
@@ -185,11 +175,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260612113000 +0700" stop="20260612133000 +0700" channel="appletv">
-    <title lang="id">Catalunya Grand Prix First Practice</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260612030000 +0700" stop="20260612050000 +0700" channel="appletvtsn2">
     <title lang="id">Catalunya Grand Prix Second Practice</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV, TSN2</desc>
@@ -205,34 +190,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260612125500 +0700" stop="20260612145500 +0700" channel="tsn+">
-    <title lang="id">Grand Prix of Barcelona Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260612094500 +0700" stop="20260612114500 +0700" channel="floracing">
     <title lang="id">Indiana Midget Week at Bloomington Speedway</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FloRacing</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260612090000 +0700" stop="20260612110000 +0700" channel="tsn+">
-    <title lang="id">Stuttgart Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260612103000 +0700" stop="20260612123000 +0700" channel="tsn+">
-    <title lang="id">Libema Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260612090000 +0700" stop="20260612110000 +0700" channel="tvbelumtersedia">
-    <title lang="id">WTA &amp; ATP Tournaments Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260612100000 +0700" stop="20260612120000 +0700" channel="tvbelumtersedia">
-    <title lang="id">WTA &amp; ATP Tournaments Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260612060000 +0700" stop="20260612080000 +0700" channel="tvbelumtersedia">
@@ -240,19 +200,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260612090000 +0700" stop="20260612110000 +0700" channel="tsn+dazncanada">
-    <title lang="id">Libema Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260612013000 +0700" stop="20260612033000 +0700" channel="beinusabeinsports5beincanada">
     <title lang="id">One Friday Fights</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: beIN USA, beIN SPORTS 5, beIN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260612094000 +0700" stop="20260612114000 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">Gold Coast Suns @ Geelong Cats</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260612012500 +0700" stop="20260612032500 +0700" channel="peacock">
@@ -260,19 +210,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260612113000 +0700" stop="20260612133000 +0700" channel="slingtvhbomax">
-    <title lang="id">Tour of Pyrenees Stage 1</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260612050000 +0700" stop="20260612070000 +0700" channel="fubosportsfoxsports2foxsportsracing">
     <title lang="id">America's Day at the Races</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, FOX Sports Racing</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260612100000 +0700" stop="20260612120000 +0700" channel="foxsoccerplus">
-    <title lang="id">Sydney Roosters @ Dolphins</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260612050000 +0700" stop="20260612070000 +0700" channel="foxsoccerplussportsnet+">

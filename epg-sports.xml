@@ -10,11 +10,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260612073000 +0700" stop="20260612093000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Whai @ Taranaki Mountainairs</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260612072000 +0700" stop="20260612092000 +0700" channel="beinsports4">
     <title lang="id">Vienna</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: beIN SPORTS 4</desc>
@@ -75,19 +70,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, truTV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260612060000 +0700" stop="20260612080000 +0700" channel="fubosportsespnunlimitedespn">
+  <programme start="20260612060000 +0700" stop="20260612080000 +0700" channel="fubosportsespnunlimitedespntsn+">
     <title lang="id">West Virginia Troy Men’s College World Series</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260612110000 +0700" stop="20260612130000 +0700" channel="fubosportsespnunlimitedespn">
+  <programme start="20260612110000 +0700" stop="20260612130000 +0700" channel="fubosportsespnunlimitedespntsn+">
     <title lang="id">North Carolina Mississippi Men’s College World Series</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260612020500 +0700" stop="20260612040500 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Albuquerque Isotopes @ Tacoma Rainiers</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260612100500 +0700" stop="20260612120500 +0700" channel="ballysportslivemilb.tv">
@@ -170,9 +160,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: CFL+ (US), RDS, TSN3, TSN5</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260612110000 +0700" stop="20260612130000 +0700" channel="espnselectespnunlimitedtsn5">
+  <programme start="20260612110000 +0700" stop="20260612130000 +0700" channel="espnselectespnunlimitedtsn+tsn5">
     <title lang="id">Canadian Open Second Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN5</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+, TSN5</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260612070000 +0700" stop="20260612090000 +0700" channel="fubosportsespnselectespnunlimitedgolfchannelusatsn5more">
@@ -180,9 +170,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Select, ESPN Unlimited, Golf Channel USA, TSN5, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260612100000 +0700" stop="20260612120000 +0700" channel="fubosportsgolfchannelusa">
+  <programme start="20260612043000 +0700" stop="20260612063000 +0700" channel="tsn+">
     <title lang="id">Curtis Cup First Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260612100000 +0700" stop="20260612120000 +0700" channel="fubosportsgolfchannelusatsn+">
+    <title lang="id">Curtis Cup First Round</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260612030000 +0700" stop="20260612050000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
@@ -205,9 +200,29 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, REV TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260612015000 +0700" stop="20260612035000 +0700" channel="tsn+">
+    <title lang="id">Grand Prix of Barcelona Qualifying</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260612125500 +0700" stop="20260612145500 +0700" channel="tsn+">
+    <title lang="id">Grand Prix of Barcelona Qualifying</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260612094500 +0700" stop="20260612114500 +0700" channel="floracing">
     <title lang="id">Indiana Midget Week at Bloomington Speedway</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FloRacing</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260612090000 +0700" stop="20260612110000 +0700" channel="tsn+">
+    <title lang="id">Stuttgart Open</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260612103000 +0700" stop="20260612123000 +0700" channel="tsn+">
+    <title lang="id">Libema Open</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260612090000 +0700" stop="20260612110000 +0700" channel="tvbelumtersedia">
@@ -225,9 +240,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260612090000 +0700" stop="20260612110000 +0700" channel="dazncanada">
+  <programme start="20260612090000 +0700" stop="20260612110000 +0700" channel="tsn+dazncanada">
     <title lang="id">Libema Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN Canada</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260612013000 +0700" stop="20260612033000 +0700" channel="beinusabeinsports5beincanada">

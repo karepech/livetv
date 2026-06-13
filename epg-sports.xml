@@ -10,11 +10,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260613073000 +0700" stop="20260613093000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Canterbury Rams @ Otago Nuggets</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260613061000 +0700" stop="20260613081000 +0700" channel="fanatizmlbnetworktwins.tvmlb.tvcardinals.tv">
     <title lang="id">St. Louis Cardinals @ Minnesota Twins</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, MLB Network, Twins.TV, MLB.TV, Cardinals.TV</desc>
@@ -350,19 +345,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260613090000 +0700" stop="20260613110000 +0700" channel="tvbelumtersedia">
-    <title lang="id">WTA &amp; ATP Tournaments Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260613100000 +0700" stop="20260613120000 +0700" channel="tvbelumtersedia">
     <title lang="id">WTA &amp; ATP Tournaments Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260613090000 +0700" stop="20260613110000 +0700" channel="tsn+dazncanada">
-    <title lang="id">Libema Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260613050000 +0700" stop="20260613070000 +0700" channel="dazndazncanada">
@@ -400,11 +385,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260613093500 +0700" stop="20260613113500 +0700" channel="foxsoccerplus">
-    <title lang="id">Sydney Swans @ Port Adelaide Power</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260613020000 +0700" stop="20260613040000 +0700" channel="slingtvhbomax">
     <title lang="id">BMX World Cup</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
@@ -416,23 +396,18 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260613110000 +0700" stop="20260613130000 +0700" channel="slingtvhbomax">
-    <title lang="id">Tour of Pyrenees Stage 2</title>
+    <title lang="id">Copenhagen Sprint</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260613120000 +0700" stop="20260613140000 +0700" channel="slingtvhbomax">
-    <title lang="id">Copenhagen Sprint</title>
+  <programme start="20260613110000 +0700" stop="20260613130000 +0700" channel="slingtvhbomax">
+    <title lang="id">Tour of Pyrenees Stage 2</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260613043000 +0700" stop="20260613063000 +0700" channel="fubosportsfoxsports1foxsportsracing">
     <title lang="id">America's Day at the Races</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, FOX Sports Racing</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260613093500 +0700" stop="20260613113500 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">Canberra Raiders @ Parramatta Eels</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260613020000 +0700" stop="20260613040000 +0700" channel="snworldsnnowsportsnet+">

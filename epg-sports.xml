@@ -5,21 +5,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: NBA TV Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260614060000 +0700" stop="20260614080000 +0700" channel="dazndazncanada">
-    <title lang="id">Barcelona @ Tenerife</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260614061000 +0700" stop="20260614081000 +0700" channel="fanatizmlbnetworktwins.tvmlb.tvcardinals.tv">
-    <title lang="id">St. Louis Cardinals @ Minnesota Twins</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, MLB Network, Twins.TV, MLB.TV, Cardinals.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260614070700 +0700" stop="20260614090700 +0700" channel="yesmlb.tvsportsnetsnonesnnowmore">
-    <title lang="id">New York Yankees @ Toronto Blue Jays</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: YES, MLB.TV, Sportsnet, SN One, SN NOW, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260614080500 +0700" stop="20260614100500 +0700" channel="masnpadres.tvmlb.tv">
     <title lang="id">San Diego Padres @ Baltimore Orioles</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: MASN, Padres.TV, MLB.TV</desc>
@@ -73,11 +58,6 @@
   <programme start="20260614103500 +0700" stop="20260614123500 +0700" channel="ryzsportsnetwork">
     <title lang="id">Sioux Falls Canaries - Kansas City Monarchs Prime Video</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Ryz Sports Network</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260614070000 +0700" stop="20260614090000 +0700" channel="fubosportsespnunlimitedespntsn+">
-    <title lang="id">Alabama Oklahoma Men’s College World Series</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260614103000 +0700" stop="20260614123000 +0700" channel="espnselectespnunlimited">
@@ -150,11 +130,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Florida Everblades, FloHockey</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260614070000 +0700" stop="20260614090000 +0700" channel="fubosportspeacockesfoxfox4kfoxsports4kmore">
-    <title lang="id">Qatar Switzerland</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX, FOX 4K, FOX Sports 4K, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260614100000 +0700" stop="20260614120000 +0700" channel="fubosportspeacockesfoxfox4kfoxsports14kmore">
     <title lang="id">Brazil Morocco</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX, FOX 4K, FOX Sports 1 4K, MORE</desc>
@@ -220,49 +195,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, CBSSN, TSN3</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260614090000 +0700" stop="20260614110000 +0700" channel="sanantoniogunslingersyahoo!sports">
-    <title lang="id">New Mexico Chupacabras @</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: San Antonio Gunslingers, Yahoo! Sports</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260614060000 +0700" stop="20260614080000 +0700" channel="championshippeacocknbc">
-    <title lang="id">OT7 Football</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Championship, Peacock, NBC</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260614070000 +0700" stop="20260614090000 +0700" channel="fubosportsespnunlimitedabcespndeportes">
-    <title lang="id">D.C. Defenders @ Louisville Kings United Bowl 26</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ABC, ESPN Deportes</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260614070000 +0700" stop="20260614090000 +0700" channel="paramount+cbstsn5rds2ctv2more">
-    <title lang="id">Canadian Open Third Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, CBS, TSN5, RDS 2, CTV2, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260614053000 +0700" stop="20260614073000 +0700" channel="tsn+">
-    <title lang="id">Curtis Cup Second Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260614110000 +0700" stop="20260614130000 +0700" channel="fubosportsgolfchannelusa">
     <title lang="id">Curtis Cup Second Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260614070000 +0700" stop="20260614090000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
-    <title lang="id">Dow Championship Third Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260614090000 +0700" stop="20260614110000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
     <title lang="id">Principal Charity Classic Second Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260614061000 +0700" stop="20260614081000 +0700" channel="tsn+">
-    <title lang="id">Great American Getaway 400</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260614080000 +0700" stop="20260614100000 +0700" channel="cwmytvpeachtreetvkuns-tvtsn+more">
@@ -285,34 +225,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: FloRacing</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260614070000 +0700" stop="20260614090000 +0700" channel="peacocknbc">
-    <title lang="id">Thunder Valley Nationals Gate Drop</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBC</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260614110000 +0700" stop="20260614130000 +0700" channel="msgsn2wmbctv63">
     <title lang="id">TBL Team Boxing League Estrella TV MSGSN</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: MSGSN 2, WMBC TV 63</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260614070500 +0700" stop="20260614090500 +0700" channel="sectionpaloisetv5international">
-    <title lang="id">Racing 92 @</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Section Paloise, TV5 International</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260614060000 +0700" stop="20260614080000 +0700" channel="wsn">
-    <title lang="id">TC Gemini @ New York Exiles</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: WSN</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260614110000 +0700" stop="20260614130000 +0700" channel="wsn">
     <title lang="id">Denver Onyx - Boston Banshees</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: WSN</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260614060000 +0700" stop="20260614080000 +0700" channel="fubosportsespnunlimitedespn2tsn+">
-    <title lang="id">Chicago Bandits - Oklahoma City Spark</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260614080000 +0700" stop="20260614100000 +0700" channel="fubosportscbssn">

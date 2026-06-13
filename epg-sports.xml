@@ -210,6 +210,11 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Union Omaha, ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260613050000 +0700" stop="20260613070000 +0700" channel="foxdeportes">
+    <title lang="id">Portugal U20 Tunisia U23</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Deportes</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260613043000 +0700" stop="20260613063000 +0700" channel="espnselectespnunlimitedtsn2">
     <title lang="id">Halifax Tides Calgary Wild</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN2</desc>
@@ -240,16 +245,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ABC, ESPN Deportes</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260613111500 +0700" stop="20260613131500 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Canadian Open Third Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260613114500 +0700" stop="20260613134500 +0700" channel="tsn5">
-    <title lang="id">Canadian Open Third Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN5</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260613050000 +0700" stop="20260613070000 +0700" channel="fubosportsgolfchannelusatsn5golfchannelcanada">
     <title lang="id">Canadian Open Third Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, TSN5, Golf Channel Canada</desc>
@@ -275,14 +270,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260613080000 +0700" stop="20260613100000 +0700" channel="more">
-    <title lang="id">MillerTech Battery 250 Race CW MyTV Peachtree TV KUNS-TV WGN Canada</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260613103000 +0700" stop="20260613123000 +0700" channel="appletv">
-    <title lang="id">Catalunya Grand Prix Third Practice</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV</desc>
+  <programme start="20260613080000 +0700" stop="20260613100000 +0700" channel="cwmytvpeachtreetvkuns-tvtsn+more">
+    <title lang="id">MillerTech Battery 250 Race</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: CW, MyTV, Peachtree TV, KUNS-TV, TSN+, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260613020000 +0700" stop="20260613040000 +0700" channel="qualificationappletvrdstsn3">
@@ -293,11 +283,6 @@
   <programme start="20260613040000 +0700" stop="20260613060000 +0700" channel="peacock">
     <title lang="id">Race Day Live: Thunder Valley</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Peacock</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260613100000 +0700" stop="20260613120000 +0700" channel="slingtvhbomax">
-    <title lang="id">24 Hours of Le Mans Warm Up</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260613010000 +0700" stop="20260613030000 +0700" channel="slingtvhbomax">
@@ -315,11 +300,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260613121000 +0700" stop="20260613141000 +0700" channel="tsn+">
-    <title lang="id">Grand Prix of Barcelona Sprint Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260613092000 +0700" stop="20260613112000 +0700" channel="beinsports4">
     <title lang="id">GT World Challenge America Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: beIN SPORTS 4</desc>
@@ -335,19 +315,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBC</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260613100000 +0700" stop="20260613120000 +0700" channel="tsn+">
-    <title lang="id">Stuttgart Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260613010000 +0700" stop="20260613030000 +0700" channel="tsn+">
     <title lang="id">Libema Open</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260613100000 +0700" stop="20260613120000 +0700" channel="tvbelumtersedia">
-    <title lang="id">WTA &amp; ATP Tournaments Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260613050000 +0700" stop="20260613070000 +0700" channel="dazndazncanada">
@@ -380,11 +350,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260613121000 +0700" stop="20260613141000 +0700" channel="dazndazncanada">
-    <title lang="id">Rajadamnern World Series</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260613020000 +0700" stop="20260613040000 +0700" channel="slingtvhbomax">
     <title lang="id">BMX World Cup</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
@@ -393,16 +358,6 @@
   <programme start="20260613122500 +0700" stop="20260613142500 +0700" channel="peacock">
     <title lang="id">Tour Auvergne Rhone Alpes Stage 7</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260613110000 +0700" stop="20260613130000 +0700" channel="slingtvhbomax">
-    <title lang="id">Copenhagen Sprint</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260613110000 +0700" stop="20260613130000 +0700" channel="slingtvhbomax">
-    <title lang="id">Tour of Pyrenees Stage 2</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260613043000 +0700" stop="20260613063000 +0700" channel="fubosportsfoxsports1foxsportsracing">

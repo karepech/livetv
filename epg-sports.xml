@@ -5,46 +5,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: NBA TV Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260614080500 +0700" stop="20260614100500 +0700" channel="masnpadres.tvmlb.tv">
-    <title lang="id">San Diego Padres @ Baltimore Orioles</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: MASN, Padres.TV, MLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260614080500 +0700" stop="20260614100500 +0700" channel="washingtonnationalsmlb.tvnationals.tvmariners.tv">
-    <title lang="id">Seattle Mariners @</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Washington Nationals, MLB.TV, Nationals.TV, Mariners.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260614080500 +0700" stop="20260614100500 +0700" channel="sportsnetpittsburghmlb.tvmarlins.tv">
-    <title lang="id">Miami Marlins @ Pittsburgh Pirates</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: SportsNet Pittsburgh, MLB.TV, Marlins.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260614081000 +0700" stop="20260614101000 +0700" channel="espnunlimiteddbacks.tvmlb.tvreds.tv">
-    <title lang="id">Arizona Diamondbacks @ Cincinnati Reds</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, Dbacks.TV, MLB.TV, Reds.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260614081000 +0700" stop="20260614101000 +0700" channel="nesnrsnmlb.tv">
-    <title lang="id">Texas Rangers @ Boston Red Sox</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: NESN, RSN, MLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260614081000 +0700" stop="20260614101000 +0700" channel="mlbnetworksnymlb.tvbravesvision">
-    <title lang="id">Atlanta Braves @ New York Mets</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: MLB Network, SNY, MLB.TV, BravesVision</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260614081000 +0700" stop="20260614101000 +0700" channel="more">
-    <title lang="id">Los Angeles Dodgers @ Chicago White Sox MLB Network CHSN SportsNet LA MLB.TV SNLA+</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260614081000 +0700" stop="20260614101000 +0700" channel="detroitsportsnetguardians.tvmlb.tv">
-    <title lang="id">Detroit Tigers @ Cleveland Guardians</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Detroit SportsNet, Guardians.TV, MLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260614111000 +0700" stop="20260614131000 +0700" channel="mlb.tvroyals.tv">
     <title lang="id">Houston Astros @ Kansas City Royals Fanatiz Space City HN</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: MLB.TV, Royals.TV</desc>
@@ -185,11 +145,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Union Omaha, ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260614080000 +0700" stop="20260614100000 +0700" channel="espnselectespnunlimitedtsn+rdsinfo">
-    <title lang="id">AFC Toronto Montréal Roses</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+, RDS Info</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260614110000 +0700" stop="20260614130000 +0700" channel="fubosportscbssntsn3">
     <title lang="id">BC Lions @ Saskatchewan Roughriders</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, CBSSN, TSN3</desc>
@@ -203,11 +158,6 @@
   <programme start="20260614090000 +0700" stop="20260614110000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
     <title lang="id">Principal Charity Classic Second Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260614080000 +0700" stop="20260614100000 +0700" channel="cwmytvpeachtreetvkuns-tvtsn+more">
-    <title lang="id">MillerTech Battery 250 Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: CW, MyTV, Peachtree TV, KUNS-TV, TSN+, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260614100000 +0700" stop="20260614120000 +0700" channel="slingtvhbomax">
@@ -233,11 +183,6 @@
   <programme start="20260614110000 +0700" stop="20260614130000 +0700" channel="wsn">
     <title lang="id">Denver Onyx - Boston Banshees</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: WSN</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260614080000 +0700" stop="20260614100000 +0700" channel="fubosportscbssn">
-    <title lang="id">Utah Talons - Portland Cascade</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, CBSSN</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

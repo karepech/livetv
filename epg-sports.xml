@@ -270,9 +270,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, CBS, TSN3, RDS 2, CTV2, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260614100000 +0700" stop="20260614120000 +0700" channel="fubosportsgolfchannelusa">
+  <programme start="20260614100000 +0700" stop="20260614120000 +0700" channel="fubosportsgolfchannelusatsn+">
     <title lang="id">Curtis Cup Third Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260614040000 +0700" stop="20260614060000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
@@ -298,11 +298,6 @@
   <programme start="20260614010000 +0700" stop="20260614030000 +0700" channel="appletvrdstsn5">
     <title lang="id">Catalunya Grand Prix Race</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV, RDS, TSN5</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260614092000 +0700" stop="20260614112000 +0700" channel="tsn+">
-    <title lang="id">Grand Prix of Barcelona Race 2</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260614061000 +0700" stop="20260614081000 +0700" channel="beinsports4">
@@ -347,11 +342,6 @@
   </programme>
   <programme start="20260614010000 +0700" stop="20260614030000 +0700" channel="slingtvhbomax">
     <title lang="id">BMX World Cup</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260614083000 +0700" stop="20260614103000 +0700" channel="slingtvhbomax">
-    <title lang="id">Copenhagen Sprint</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
     <category lang="id">Olahraga</category>
   </programme>

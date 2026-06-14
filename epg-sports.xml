@@ -15,16 +15,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, Fanatiz, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260614030000 +0700" stop="20260614050000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Wellington Saints @ Auckland Tuatara</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260614060000 +0700" stop="20260614080000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Whai @ Manawatu Jets</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260614053000 +0700" stop="20260614073000 +0700" channel="beinusabeincanada">
     <title lang="id">Vienna Final</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: beIN USA, beIN Canada</desc>
@@ -205,19 +195,9 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260614040000 +0700" stop="20260614060000 +0700" channel="nextlevelsportsryzsportsnetwork">
-    <title lang="id">Hanshin Tigers @ Orix Buffaloes Prime Video</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports, Ryz Sports Network</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260614080000 +0700" stop="20260614100000 +0700" channel="mytvflohockey">
     <title lang="id">Toronto Marlies @ Chicago Wolves</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: MyTV, FloHockey</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260614040000 +0700" stop="20260614060000 +0700" channel="fubosportspeacockesfoxsports1foxsportsplus4kfoxonemore">
-    <title lang="id">Australia Türkiye</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX Sports 1, FOX Sports Plus 4K, FOX One, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260614050000 +0700" stop="20260614070000 +0700" channel="fubosportspeacockesfoxfox4kfoxsports4kmore">
@@ -233,11 +213,6 @@
   <programme start="20260614110000 +0700" stop="20260614130000 +0700" channel="fubosportspeacockesfoxsports1foxsportsplus4kfoxonemore">
     <title lang="id">Ivory Coast Ecuador</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX Sports 1, FOX Sports Plus 4K, FOX One, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260614030000 +0700" stop="20260614050000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Alta Spokane Velocity</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260614110000 +0700" stop="20260614130000 +0700" channel="tvbelumtersedia">
@@ -325,11 +300,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV, RDS, TSN5</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260614050000 +0700" stop="20260614070000 +0700" channel="slingtvhbomax">
-    <title lang="id">24 Hours of Le Mans Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260614092000 +0700" stop="20260614112000 +0700" channel="tsn+">
     <title lang="id">Grand Prix of Barcelona Race 2</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
@@ -373,16 +343,6 @@
   <programme start="20260614110000 +0700" stop="20260614130000 +0700" channel="tvbelumtersedia">
     <title lang="id">Miami Assassins - NYC Attitude MSGSN</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260614031000 +0700" stop="20260614051000 +0700" channel="foxsoccerplustsn3">
-    <title lang="id">Brisbane Lions @ Richmond Tigers</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus, TSN3</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260614051500 +0700" stop="20260614071500 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">Greater Western Sydney Giants @ St. Kilda Saints</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260614010000 +0700" stop="20260614030000 +0700" channel="slingtvhbomax">

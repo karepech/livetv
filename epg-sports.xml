@@ -250,11 +250,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Championship, Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260614114500 +0700" stop="20260614134500 +0700" channel="tsn+tsn3">
-    <title lang="id">Canadian Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+, TSN3</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260614023000 +0700" stop="20260614043000 +0700" channel="espnselectespnunlimitedtsn3">
     <title lang="id">Canadian Open Final Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN3</desc>
@@ -305,24 +300,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: beIN SPORTS 4</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260614120000 +0700" stop="20260614140000 +0700" channel="tsn+">
-    <title lang="id">Stuttgart Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260614123000 +0700" stop="20260614143000 +0700" channel="tsn+">
     <title lang="id">Libema Open</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260614100000 +0700" stop="20260614120000 +0700" channel="tvbelumtersedia">
-    <title lang="id">London-WTA, Stuttgart-ATP &amp; s-Hertogenbosch-ATP/WTA Finals Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260614100000 +0700" stop="20260614120000 +0700" channel="tsn+dazncanada">
-    <title lang="id">Libema Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260614010000 +0700" stop="20260614030000 +0700" channel="dazndazncanada">
@@ -348,11 +328,6 @@
   <programme start="20260614012000 +0700" stop="20260614032000 +0700" channel="peacock">
     <title lang="id">Tour Auvergne Rhone Alpes Stage 8</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260614114500 +0700" stop="20260614134500 +0700" channel="slingtvhbomax">
-    <title lang="id">Tour of Pyrenees Stage 3</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260614014500 +0700" stop="20260614034500 +0700" channel="fubosportsfoxsports2foxsportsracing">

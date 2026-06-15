@@ -10,9 +10,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Washington Nationals, ESPN Unlimited, MLB.TV, Nationals.TV, Royals.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260615111000 +0700" stop="20260615131000 +0700" channel="mlbnetworksnygraymediamlb.tvfox 19nowmore">
+  <programme start="20260615111000 +0700" stop="20260615131000 +0700" channel="fanatizmlbnetworksnygraymediamlb.tvmore">
     <title lang="id">New York Mets @ Cincinnati Reds</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: MLB Network, SNY, Gray Media, MLB.TV, Fox 19 Now, MORE</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, MLB Network, SNY, Gray Media, MLB.TV, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260615114500 +0700" stop="20260615134500 +0700" channel="padres.tvmlb.tvcardinals.tv">
@@ -20,14 +20,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Padres.TV, MLB.TV, Cardinals.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260615060000 +0700" stop="20260615080000 +0700" channel="fubosportsespnunlimitedespn">
+  <programme start="20260615060000 +0700" stop="20260615080000 +0700" channel="fubosportsespnunlimitedespntsn+">
     <title lang="id">Texas Alabama Men’s College World Series</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260615110000 +0700" stop="20260615130000 +0700" channel="fubosportsespnunlimitedespn">
+  <programme start="20260615110000 +0700" stop="20260615130000 +0700" channel="fubosportsespnunlimitedespntsn+">
     <title lang="id">Oklahoma University of Georgia Men’s College World Series</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260615103500 +0700" stop="20260615123500 +0700" channel="espnselectespnunlimited">
@@ -60,9 +60,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: WWAX</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260615093000 +0700" stop="20260615113000 +0700" channel="tsn+">
-    <title lang="id">Halle Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
+  <programme start="20260615100000 +0700" stop="20260615120000 +0700" channel="floracing">
+    <title lang="id">NAPA ASCoC Ohio Sprint Speedweek at Wayne County Speedway</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: FloRacing</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260615013000 +0700" stop="20260615033000 +0700" channel="rds2">
@@ -70,24 +70,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: RDS 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260615090000 +0700" stop="20260615110000 +0700" channel="tvbelumtersedia">
-    <title lang="id">WTA &amp; ATP Tournaments Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260615013000 +0700" stop="20260615033000 +0700" channel="dazncanada">
     <title lang="id">German Open</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260615030000 +0700" stop="20260615050000 +0700" channel="paramount+sportsnet+dazncanada">
-    <title lang="id">Justin Gaethje Ilia Topuria . Title Fight</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260615110000 +0700" stop="20260615130000 +0700" channel="fubosportsespnunlimitedespn2">
+  <programme start="20260615110000 +0700" stop="20260615130000 +0700" channel="fubosportsespnunlimitedespn2tsn+">
     <title lang="id">Carolina Blaze - Texas Volts</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

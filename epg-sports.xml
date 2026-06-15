@@ -1,58 +1,93 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
-  <programme start="20260615112000 +0700" stop="20260615132000 +0700" channel="peacocknbcnbcuniversotsn2rds2">
-    <title lang="id">Texas Rangers @ Boston Red Sox</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBC, NBC Universo, TSN2, RDS 2</desc>
+  <programme start="20260615104000 +0700" stop="20260615124000 +0700" channel="nbcsphiladelphiamlb.tvmarlins.tvrds2">
+    <title lang="id">Miami Marlins @ Philadelphia Phillies</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: NBCS Philadelphia, MLB.TV, Marlins.TV, RDS 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260615110000 +0700" stop="20260615130000 +0700" channel="fubosportsespnunlimitedespn">
-    <title lang="id">North Carolina West Virginia Men’s College World Series</title>
+  <programme start="20260615104500 +0700" stop="20260615124500 +0700" channel="washingtonnationalsespnunlimitedmlb.tvnationals.tvroyals.tv">
+    <title lang="id">Kansas City Royals @</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Washington Nationals, ESPN Unlimited, MLB.TV, Nationals.TV, Royals.TV</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260615111000 +0700" stop="20260615131000 +0700" channel="mlbnetworksnygraymediamlb.tvfox 19nowmore">
+    <title lang="id">New York Mets @ Cincinnati Reds</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: MLB Network, SNY, Gray Media, MLB.TV, Fox 19 Now, MORE</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260615114500 +0700" stop="20260615134500 +0700" channel="padres.tvmlb.tvcardinals.tv">
+    <title lang="id">San Diego Padres @ St. Louis Cardinals</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Padres.TV, MLB.TV, Cardinals.TV</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260615060000 +0700" stop="20260615080000 +0700" channel="fubosportsespnunlimitedespn">
+    <title lang="id">Texas Alabama Men’s College World Series</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260615110500 +0700" stop="20260615130500 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">El Paso Chihuahuas @ Round Rock Express</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
+  <programme start="20260615110000 +0700" stop="20260615130000 +0700" channel="fubosportsespnunlimitedespn">
+    <title lang="id">Oklahoma University of Georgia Men’s College World Series</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260615113500 +0700" stop="20260615133500 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Sacramento River Cats @ Sugar Land Space Cowboys</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
+  <programme start="20260615103500 +0700" stop="20260615123500 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Martha's Vineyard Sharks - Danbury Westerners</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260615110000 +0700" stop="20260615130000 +0700" channel="fubosportspeacockesfoxsports1foxsportsplus4kfoxonemore">
-    <title lang="id">Ivory Coast Ecuador</title>
+  <programme start="20260615103500 +0700" stop="20260615123500 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Newport Gulls - North Shore Navigators</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260615040000 +0700" stop="20260615060000 +0700" channel="fubosportspeacockesfoxfox4kfoxsports4kmore">
+    <title lang="id">Spain Cape Verde</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX, FOX 4K, FOX Sports 4K, MORE</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260615070000 +0700" stop="20260615090000 +0700" channel="fubosportspeacockesfoxfox4kfoxsports4kmore">
+    <title lang="id">Belgium Egypt</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX, FOX 4K, FOX Sports 4K, MORE</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260615100000 +0700" stop="20260615120000 +0700" channel="fubosportspeacockesfoxsports1foxsportsplus4kfoxonemore">
+    <title lang="id">Saudi Arabia Uruguay</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX Sports 1, FOX Sports Plus 4K, FOX One, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260615110000 +0700" stop="20260615130000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Westchester SC Greenville Triumph ESPN Select ESPN Unlimited MSGSN</title>
+  <programme start="20260615110000 +0700" stop="20260615130000 +0700" channel="wwax">
+    <title lang="id">Hartford Athletic - New England Mutiny</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: WWAX</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260615093000 +0700" stop="20260615113000 +0700" channel="tsn+">
+    <title lang="id">Halle Open</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260615013000 +0700" stop="20260615033000 +0700" channel="rds2">
+    <title lang="id">Halle Open</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: RDS 2</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260615090000 +0700" stop="20260615110000 +0700" channel="tvbelumtersedia">
+    <title lang="id">WTA &amp; ATP Tournaments Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260615100000 +0700" stop="20260615120000 +0700" channel="fubosportsfoxsports2onesoccer">
-    <title lang="id">Vancouver FC Pacific</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, OneSoccer</desc>
+  <programme start="20260615013000 +0700" stop="20260615033000 +0700" channel="dazncanada">
+    <title lang="id">German Open</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260615100000 +0700" stop="20260615120000 +0700" channel="fubosportsgolfchannelusatsn+">
-    <title lang="id">Curtis Cup Third Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, TSN+</desc>
+  <programme start="20260615030000 +0700" stop="20260615050000 +0700" channel="paramount+sportsnet+dazncanada">
+    <title lang="id">Justin Gaethje Ilia Topuria . Title Fight</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260615110000 +0700" stop="20260615130000 +0700" channel="estrellatvmsgsn2wmbctv63">
-    <title lang="id">TBL Team Boxing League</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Estrella TV, MSGSN 2, WMBC TV 63</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260615110000 +0700" stop="20260615130000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Miami Assassins - NYC Attitude MSGSN</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260615100000 +0700" stop="20260615120000 +0700" channel="wsn">
-    <title lang="id">Bay Breakers @ Chicago Tempest</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: WSN</desc>
+  <programme start="20260615110000 +0700" stop="20260615130000 +0700" channel="fubosportsespnunlimitedespn2">
+    <title lang="id">Carolina Blaze - Texas Volts</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

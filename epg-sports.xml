@@ -15,11 +15,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: NBC, NBC 10, NBCS Philadelphia, MLB.TV, Marlins.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260617060500 +0700" stop="20260617080500 +0700" channel="nbcsbayareagraymediabravesvision">
-    <title lang="id">San Francisco Giants @ Atlanta Braves</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: NBCS Bay Area, Gray Media, BravesVision</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260617061000 +0700" stop="20260617081000 +0700" channel="detroitsportsnetmlb.tv">
     <title lang="id">Detroit Tigers @ Houston Astros Fanatiz Space City HN</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Detroit SportsNet, MLB.TV</desc>
@@ -66,7 +61,12 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260617110000 +0700" stop="20260617130000 +0700" channel="fubosportsespnunlimitedespn">
-    <title lang="id">TBD TBD Men’s College World Series</title>
+    <title lang="id">University of Georgia Oklahoma Men’s College World Series</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260617110000 +0700" stop="20260617130000 +0700" channel="fubosportsespnunlimitedespn">
+    <title lang="id">Oklahoma @ University of Georgia</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -140,11 +140,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260617040000 +0700" stop="20260617060000 +0700" channel="fubosportspeacockesfoxsports1foxsportsplus4kfoxonemore">
-    <title lang="id">Austria Jordan</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX Sports 1, FOX Sports Plus 4K, FOX One, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260617050000 +0700" stop="20260617070000 +0700" channel="fubosportspeacockesfoxfox4kfoxsports4kmore">
     <title lang="id">Portugal DR Congo</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX, FOX 4K, FOX Sports 4K, MORE</desc>
@@ -180,24 +175,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260617070000 +0700" stop="20260617090000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Manawatu Jets @ Nelson Giants</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+  <programme start="20260617093000 +0700" stop="20260617113000 +0700" channel="tsn+">
+    <title lang="id">Halle Open</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260617013000 +0700" stop="20260617033000 +0700" channel="rds2">
     <title lang="id">Halle Open</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: RDS 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260617090000 +0700" stop="20260617110000 +0700" channel="tvbelumtersedia">
-    <title lang="id">WTA &amp; ATP Tournaments Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260617090000 +0700" stop="20260617110000 +0700" channel="dazncanada">
-    <title lang="id">German Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260617073000 +0700" stop="20260617093000 +0700" channel="dazndazncanada">
@@ -220,9 +205,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260617123000 +0700" stop="20260617143000 +0700" channel="peacock">
+  <programme start="20260617123000 +0700" stop="20260617143000 +0700" channel="peacocknbcsnetwork">
     <title lang="id">Royal Ascot</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBCS Network</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260617100500 +0700" stop="20260617120500 +0700" channel="fubosportsfoxsports2">

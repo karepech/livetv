@@ -15,6 +15,11 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: NBC, NBC 10, NBCS Philadelphia, MLB.TV, Marlins.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260617060000 +0700" stop="20260617080000 +0700" channel="nbcsbayareagraymediabravesvision">
+    <title lang="id">San Francisco Giants @ Atlanta Braves</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: NBCS Bay Area, Gray Media, BravesVision</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260617061000 +0700" stop="20260617081000 +0700" channel="detroitsportsnetmlb.tv">
     <title lang="id">Detroit Tigers @ Houston Astros Fanatiz Space City HN</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Detroit SportsNet, MLB.TV</desc>
@@ -175,44 +180,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260617093000 +0700" stop="20260617113000 +0700" channel="tsn+">
-    <title lang="id">Halle Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260617013000 +0700" stop="20260617033000 +0700" channel="rds2">
-    <title lang="id">Halle Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: RDS 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260617073000 +0700" stop="20260617093000 +0700" channel="dazndazncanada">
     <title lang="id">FCE5 Day 1</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260617113000 +0700" stop="20260617133000 +0700" channel="slingtvhbomax">
-    <title lang="id">Tour of Slovenia Stage 1</title>
+  <programme start="20260617014500 +0700" stop="20260617034500 +0700" channel="slingtvhbomax">
+    <title lang="id">Tour of Switzerland Stage 1</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260617123000 +0700" stop="20260617143000 +0700" channel="slingtvhbomax">
-    <title lang="id">Giro d'Italia U23 Stage 4</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260617013000 +0700" stop="20260617033000 +0700" channel="slingtvhbomax">
-    <title lang="id">Tour of Belgium Stage 1</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260617123000 +0700" stop="20260617143000 +0700" channel="peacocknbcsnetwork">
-    <title lang="id">Royal Ascot</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBCS Network</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260617100500 +0700" stop="20260617120500 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">Queensland @ New South Wales</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260617100000 +0700" stop="20260617120000 +0700" channel="fubosportscbssn">

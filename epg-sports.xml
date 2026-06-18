@@ -145,11 +145,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, NHL Network, FloHockey</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260618103000 +0700" stop="20260618123000 +0700" channel="usanetworktsn2">
-    <title lang="id">U.S. Open First Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: USA Network, TSN2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260618090000 +0700" stop="20260618110000 +0700" channel="peacocknbcsnetworktsn2">
     <title lang="id">U.S. Open First Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBCS Network, TSN2</desc>
@@ -171,68 +166,13 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260618094500 +0700" stop="20260618114500 +0700" channel="floracing">
-    <title lang="id">NAPA ASCoC Ohio Sprint Speedweek at Waynesfield Raceway Park</title>
+    <title lang="id">NAPA ASCoC Ohio Sprint Speedweek</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FloRacing</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260618093000 +0700" stop="20260618113000 +0700" channel="tsn+">
-    <title lang="id">Halle Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260618013000 +0700" stop="20260618033000 +0700" channel="rds2">
-    <title lang="id">Halle Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: RDS 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260618090000 +0700" stop="20260618110000 +0700" channel="tvbelumtersedia">
-    <title lang="id">WTA &amp; ATP Tournaments Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260618090000 +0700" stop="20260618110000 +0700" channel="dazncanada">
-    <title lang="id">German Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260618103000 +0700" stop="20260618123000 +0700" channel="dazncanada">
-    <title lang="id">Nottingham Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260618070000 +0700" stop="20260618090000 +0700" channel="dazndazncanada">
     <title lang="id">FCE5 Day 2</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260618101000 +0700" stop="20260618121000 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">Geelong Cats @ Fremantle Dockers</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260618113000 +0700" stop="20260618133000 +0700" channel="slingtvhbomax">
-    <title lang="id">Tour of Slovenia Stage 2</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260618122500 +0700" stop="20260618142500 +0700" channel="slingtvhbomax">
-    <title lang="id">Route d'Occitanie Stage 1</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260618123000 +0700" stop="20260618143000 +0700" channel="slingtvhbomax">
-    <title lang="id">Giro d'Italia U23 Stage 5</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260618013000 +0700" stop="20260618033000 +0700" channel="slingtvhbomax">
-    <title lang="id">Tour of Belgium Stage 2</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260618123000 +0700" stop="20260618143000 +0700" channel="peacocknbcsnetwork">
-    <title lang="id">Royal Ascot</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBCS Network</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260618050000 +0700" stop="20260618070000 +0700" channel="fubosportsfoxsports2foxsportsracing">

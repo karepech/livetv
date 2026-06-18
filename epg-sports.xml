@@ -125,9 +125,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: WWAX</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260618020000 +0700" stop="20260618040000 +0700" channel="espnselectespnunlimited">
+  <programme start="20260618020000 +0700" stop="20260618040000 +0700" channel="espnselectespnunlimitedtsn+">
     <title lang="id">Vancouver Rise Halifax Tides</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260618113000 +0700" stop="20260618133000 +0700" channel="tvbelumtersedia">
@@ -138,11 +138,6 @@
   <programme start="20260618060000 +0700" stop="20260618080000 +0700" channel="dazndazncanada">
     <title lang="id">Barcelona @ Valencia</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260618070000 +0700" stop="20260618090000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Taranaki Mountainairs @ Southland Sharks</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260618110000 +0700" stop="20260618130000 +0700" channel="fubosportsnhlnetworkflohockey">
@@ -178,6 +173,11 @@
   <programme start="20260618094500 +0700" stop="20260618114500 +0700" channel="floracing">
     <title lang="id">NAPA ASCoC Ohio Sprint Speedweek at Waynesfield Raceway Park</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FloRacing</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260618093000 +0700" stop="20260618113000 +0700" channel="tsn+">
+    <title lang="id">Halle Open</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260618013000 +0700" stop="20260618033000 +0700" channel="rds2">
@@ -230,9 +230,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260618123000 +0700" stop="20260618143000 +0700" channel="peacock">
+  <programme start="20260618123000 +0700" stop="20260618143000 +0700" channel="peacocknbcsnetwork">
     <title lang="id">Royal Ascot</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBCS Network</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260618050000 +0700" stop="20260618070000 +0700" channel="fubosportsfoxsports2foxsportsracing">
@@ -240,9 +240,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, FOX Sports Racing</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260618110000 +0700" stop="20260618130000 +0700" channel="fubosportsespnunlimitedespn2">
+  <programme start="20260618110000 +0700" stop="20260618130000 +0700" channel="fubosportsespnunlimitedespntsn+">
     <title lang="id">Texas Volts - Utah Talons</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260618100000 +0700" stop="20260618120000 +0700" channel="peacock">

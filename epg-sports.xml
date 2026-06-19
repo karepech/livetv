@@ -90,11 +90,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260619090000 +0700" stop="20260619110000 +0700" channel="nextlevelsports">
-    <title lang="id">Fukuoka @ Nippon Ham Fighters</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260619070000 +0700" stop="20260619090000 +0700" channel="fubosportspeacockesfoxfox4kfoxsports4kmore">
     <title lang="id">United States Australia</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX, FOX 4K, FOX Sports 4K, MORE</desc>
@@ -140,11 +135,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: CFL+ (US), TSN3</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260619103000 +0700" stop="20260619123000 +0700" channel="peacocknbcsnetworktsn5">
-    <title lang="id">U.S. Open Second Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBCS Network, TSN5</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260619053000 +0700" stop="20260619073000 +0700" channel="peacocknbcnbcsnetworktsn5rds2">
     <title lang="id">U.S. Open Second Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBC, NBCS Network, TSN5, RDS 2</desc>
@@ -158,11 +148,6 @@
   <programme start="20260619113000 +0700" stop="20260619133000 +0700" channel="peacocknbcsnetwork">
     <title lang="id">U.S. Open Second Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBCS Network</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260619123000 +0700" stop="20260619143000 +0700" channel="tsn+">
-    <title lang="id">The Amateur Championship Semifinals</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260619070000 +0700" stop="20260619090000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
@@ -205,29 +190,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260619093000 +0700" stop="20260619113000 +0700" channel="tsn+">
-    <title lang="id">Halle Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260619013000 +0700" stop="20260619033000 +0700" channel="rds2">
     <title lang="id">Halle Open</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: RDS 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260619090000 +0700" stop="20260619110000 +0700" channel="tvbelumtersedia">
-    <title lang="id">WTA &amp; ATP Tournaments Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260619090000 +0700" stop="20260619110000 +0700" channel="dazncanada">
-    <title lang="id">German Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260619100000 +0700" stop="20260619120000 +0700" channel="dazncanada">
-    <title lang="id">Nottingham Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260619013000 +0700" stop="20260619033000 +0700" channel="beinusabeincanada">
@@ -240,26 +205,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Deportes</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260619094000 +0700" stop="20260619114000 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">Hawthorn Hawks @ Gold Coast Suns</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260619110000 +0700" stop="20260619130000 +0700" channel="slingtvhbomax">
-    <title lang="id">Tour of Slovenia Stage 3</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260619122500 +0700" stop="20260619142500 +0700" channel="slingtvhbomax">
-    <title lang="id">Route d'Occitanie Stage 2</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260619123000 +0700" stop="20260619143000 +0700" channel="slingtvhbomax">
-    <title lang="id">Giro d'Italia U23 Stage 6</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260619013000 +0700" stop="20260619033000 +0700" channel="slingtvhbomax">
     <title lang="id">Tour of Belgium Stage 3</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
@@ -268,11 +213,6 @@
   <programme start="20260619023000 +0700" stop="20260619043000 +0700" channel="slingtvhbomax">
     <title lang="id">Volta a Catalunya Stage 1</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260619123000 +0700" stop="20260619143000 +0700" channel="peacock">
-    <title lang="id">Royal Ascot</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260619070000 +0700" stop="20260619090000 +0700" channel="fubosportsfoxsports2foxsportsracing">
@@ -288,11 +228,6 @@
   <programme start="20260619100000 +0700" stop="20260619120000 +0700" channel="espnselectespnunlimitedtsn+">
     <title lang="id">Boston Cannons @ New York Atlas</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260619100000 +0700" stop="20260619120000 +0700" channel="foxsoccerplus">
-    <title lang="id">St. George Illawarra Dragons @ Newcastle Knights</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260619070500 +0700" stop="20260619090500 +0700" channel="tv5international">

@@ -115,28 +115,13 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: CFL+ (US), TSN3</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260620080000 +0700" stop="20260620100000 +0700" channel="rdsinfo">
-    <title lang="id">U.S. Open Second Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: RDS Info</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260620113000 +0700" stop="20260620133000 +0700" channel="peacocknbcsnetwork">
     <title lang="id">U.S. Open Second Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBCS Network</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260620080000 +0700" stop="20260620100000 +0700" channel="fubosportsfoxsports2tsn+">
-    <title lang="id">Road America Grand Prix Practice</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260620090000 +0700" stop="20260620110000 +0700" channel="tsn+">
     <title lang="id">Anduril 250 Practice Prime Video</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260620073000 +0700" stop="20260620093000 +0700" channel="tsn+">
-    <title lang="id">United Rentals Driven to Serve 250 Practice CW App</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -148,11 +133,6 @@
   <programme start="20260620113000 +0700" stop="20260620133000 +0700" channel="espndeportes">
     <title lang="id">Andrew Stewart - Zayne Havener Prelims</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Deportes</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260620080000 +0700" stop="20260620100000 +0700" channel="fubosportsfoxsports1foxsportsracing">
-    <title lang="id">America's Day at the Races</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, FOX Sports Racing</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260620100000 +0700" stop="20260620120000 +0700" channel="espnselectespnunlimitedtsn+">

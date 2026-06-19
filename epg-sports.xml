@@ -30,9 +30,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: MLB Network, MLB.TV, Brewers.TV, BravesVision</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260619110000 +0700" stop="20260619130000 +0700" channel="fubosportsespnunlimitedespnespn2">
+  <programme start="20260619110000 +0700" stop="20260619130000 +0700" channel="fubosportsespnunlimitedespnespn2tsn+">
     <title lang="id">Indianapolis Clowns - Savannah Bananas</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, ESPN2</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, ESPN2, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260619100000 +0700" stop="20260619120000 +0700" channel="espnselectespnunlimited">
@@ -43,6 +43,11 @@
   <programme start="20260619103500 +0700" stop="20260619123500 +0700" channel="espnselectespnunlimited">
     <title lang="id">Keene Swamp Bats - Vermont Mountaineers</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260619090500 +0700" stop="20260619110500 +0700" channel="ballysportslivemilb.tv">
+    <title lang="id">Louisville Bats @ Gwinnett Stripers</title>
+    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260619093000 +0700" stop="20260619113000 +0700" channel="ballysportslivemilb.tv">
@@ -110,9 +115,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ION</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260619113000 +0700" stop="20260619133000 +0700" channel="nbcsboston">
+  <programme start="20260619113000 +0700" stop="20260619133000 +0700" channel="nbcsbostontsn2">
     <title lang="id">Toronto Tempo @ Connecticut Sun</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: NBCS Boston</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: NBCS Boston, TSN2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260619063000 +0700" stop="20260619083000 +0700" channel="nextlevelsports">
@@ -120,14 +125,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260619073000 +0700" stop="20260619093000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Whai @ Canterbury Rams</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+  <programme start="20260619040000 +0700" stop="20260619060000 +0700" channel="beinusabeinusaespanolbeinsports4beincanadabeincanadaespanol">
+    <title lang="id">Amsterdam</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: beIN USA, beIN USA Espanol, beIN SPORTS 4, beIN Canada, beIN Canada Espanol</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260619040000 +0700" stop="20260619060000 +0700" channel="beinusaespanolbeinsports4beincanadabeincanadaespanol">
-    <title lang="id">Amsterdam</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: beIN USA Espanol, beIN SPORTS 4, beIN Canada, beIN Canada Espanol</desc>
+  <programme start="20260619110000 +0700" stop="20260619130000 +0700" channel="flohockey">
+    <title lang="id">Chicago Wolves @ Toronto Marlies</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: FloHockey</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260619113000 +0700" stop="20260619133000 +0700" channel="cfl+(us)tsn3">
@@ -135,9 +140,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: CFL+ (US), TSN3</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260619103000 +0700" stop="20260619123000 +0700" channel="peacocktsn5">
+  <programme start="20260619103000 +0700" stop="20260619123000 +0700" channel="peacocknbcsnetworktsn5">
     <title lang="id">U.S. Open Second Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, TSN5</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBCS Network, TSN5</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260619053000 +0700" stop="20260619073000 +0700" channel="peacocknbcnbcsnetworktsn5rds2">
@@ -155,6 +160,11 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBCS Network</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260619123000 +0700" stop="20260619143000 +0700" channel="tsn+">
+    <title lang="id">The Amateur Championship Semifinals</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260619070000 +0700" stop="20260619090000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
     <title lang="id">Meijer LPGA Classic Second Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
@@ -170,9 +180,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260619073000 +0700" stop="20260619093000 +0700" channel="tvbelumtersedia">
+  <programme start="20260619073000 +0700" stop="20260619093000 +0700" channel="tsn+">
     <title lang="id">United Rentals Driven to Serve 250 Practice CW App</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260619040000 +0700" stop="20260619060000 +0700" channel="fubosportsfoxsports2">
@@ -185,9 +195,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260619110000 +0700" stop="20260619130000 +0700" channel="fubosportsfoxsports1foxone">
+  <programme start="20260619110000 +0700" stop="20260619130000 +0700" channel="fubosportsfoxsports1foxonetsn+">
     <title lang="id">Navy 250 Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, FOX One</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, FOX One, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260619070000 +0700" stop="20260619090000 +0700" channel="fubosportsfoxsports1">

@@ -1,15 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
-  <programme start="20260621053500 +0700" stop="20260621073500 +0700" channel="yesreds.tv">
-    <title lang="id">Cincinnati Reds @ New York Yankees</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: YES, Reds.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260621062000 +0700" stop="20260621082000 +0700" channel="marqueesportsnetsnnowtvasports">
-    <title lang="id">Toronto Blue Jays @ Chicago Cubs</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Marquee, Sportsnet, SN NOW, TVA Sports</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260621080500 +0700" stop="20260621100500 +0700" channel="padres.tvrsn">
     <title lang="id">San Diego Padres @ Texas Rangers</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Padres.TV, RSN</desc>
@@ -53,11 +43,6 @@
   <programme start="20260621110000 +0700" stop="20260621130000 +0700" channel="fubosportsespnunlimitedespndisney+">
     <title lang="id">Indianapolis Clowns - Savannah Bananas</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, Disney+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260621070000 +0700" stop="20260621090000 +0700" channel="championshipseriesgame1fubosportsespnunlimitedespnespnutsn+">
-    <title lang="id">North Carolina Oklahoma</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Championship Series Game 1, Fubo Sports, ESPN Unlimited, ESPN, ESPN U, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260621103000 +0700" stop="20260621123000 +0700" channel="espnselectespnunlimited">
@@ -195,29 +180,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: MyTV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260621070000 +0700" stop="20260621090000 +0700" channel="espnselectespnunlimitedespndeportestsn+">
-    <title lang="id">Almería Málaga</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, ESPN Deportes, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260621070000 +0700" stop="20260621090000 +0700" channel="fubosportsespnunlimitedabc">
-    <title lang="id">Seattle Storm @ Phoenix Mercury</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ABC</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260621060000 +0700" stop="20260621080000 +0700" channel="daznfanatizdazncanada">
-    <title lang="id">Barcelona @ Valencia</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, Fanatiz, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260621080000 +0700" stop="20260621100000 +0700" channel="paramount+cbs">
     <title lang="id">BIG3 Basketball</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, CBS</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260621093000 +0700" stop="20260621113000 +0700" channel="fubosportsnetwork">
-    <title lang="id">Triplets @ Houston Rig Hands Fubo Sports Space City HN</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: fubo Sports Network</desc>
+  <programme start="20260621093000 +0700" stop="20260621113000 +0700" channel="fubosportsfubosportsnetwork">
+    <title lang="id">Triplets @ Houston Rig Hands</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, fubo Sports Network</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260621080000 +0700" stop="20260621100000 +0700" channel="cfl+(us)rdstsn3">
@@ -233,21 +203,6 @@
   <programme start="20260621110000 +0700" stop="20260621130000 +0700" channel="yahoo!sports">
     <title lang="id">Iowa Barnstormers @ Fishers Freight</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Yahoo! Sports</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260621070000 +0700" stop="20260621090000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
-    <title lang="id">Meijer LPGA Classic Third Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260621060000 +0700" stop="20260621080000 +0700" channel="fubosportsfoxsports1tsn+">
-    <title lang="id">Road America Grand Prix Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260621063000 +0700" stop="20260621083000 +0700" channel="tsn+">
-    <title lang="id">Anduril 250 Qualifying Prime Video</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260621090000 +0700" stop="20260621110000 +0700" channel="cwmytvpeachtreetvkuns-tvtsn+more">
@@ -313,21 +268,6 @@
   <programme start="20260621073000 +0700" stop="20260621093000 +0700" channel="fubosportsfoxsports1foxsportsracing">
     <title lang="id">America's Day at the Races</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, FOX Sports Racing</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260621070000 +0700" stop="20260621090000 +0700" channel="foxsoccerplussnworldsnnowsportsnet+">
-    <title lang="id">Toulouse Olympique @ Castleford Tigers</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus, SN World, SN NOW, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260621070500 +0700" stop="20260621090500 +0700" channel="tv5international">
-    <title lang="id">Stade Francais Paris @ Montpellier</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV5 International</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260621071500 +0700" stop="20260621091500 +0700" channel="peacock">
-    <title lang="id">Swimming World Cup</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

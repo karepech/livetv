@@ -235,11 +235,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: fubo Sports Network</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260620073000 +0700" stop="20260620093000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Taranaki Mountainairs @ Otago Nuggets</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260620050000 +0700" stop="20260620070000 +0700" channel="cfl+(us)tsn3">
     <title lang="id">Toronto Argonauts @ Ottawa RedBlacks</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: CFL+ (US), TSN3</desc>
@@ -325,11 +320,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260620092500 +0700" stop="20260620112500 +0700" channel="dazndazncanada">
-    <title lang="id">Formula 4 Italian Championship Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260620032500 +0700" stop="20260620052500 +0700" channel="dazndazncanada">
     <title lang="id">Formula 4 Italian Championship Race</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
@@ -345,11 +335,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, REV TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260620090500 +0700" stop="20260620110500 +0700" channel="daznbeinsports5dazncanada">
-    <title lang="id">Lausitzring Race 1</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, beIN SPORTS 5, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260620050000 +0700" stop="20260620070000 +0700" channel="peacock">
     <title lang="id">High Point Gate Drop</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
@@ -358,16 +343,6 @@
   <programme start="20260620010000 +0700" stop="20260620030000 +0700" channel="tsn+rds2">
     <title lang="id">Halle Open</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+, RDS 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260620093000 +0700" stop="20260620113000 +0700" channel="tvbelumtersedia">
-    <title lang="id">London-ATP, Halle-ATP, Berlin-WTA, &amp; Nottingham-WTA Semifinals Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260620093000 +0700" stop="20260620113000 +0700" channel="tvasportsdazncanada">
-    <title lang="id">German Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TVA Sports, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260620100000 +0700" stop="20260620120000 +0700" channel="dazncanada">
@@ -435,11 +410,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260620093500 +0700" stop="20260620113500 +0700" channel="foxsoccerplus">
-    <title lang="id">Port Adelaide Power @ Collingwood Magpies</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260620113000 +0700" stop="20260620133000 +0700" channel="slingtvhbomax">
     <title lang="id">Tour of Slovenia Stage 4</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
@@ -447,6 +417,11 @@
   </programme>
   <programme start="20260620122500 +0700" stop="20260620142500 +0700" channel="slingtvhbomax">
     <title lang="id">Route d'Occitanie Stage 3</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260620123000 +0700" stop="20260620143000 +0700" channel="slingtvhbomax">
+    <title lang="id">Giro d'Italia U23 Stage 7</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
     <category lang="id">Olahraga</category>
   </programme>

@@ -295,9 +295,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: CW, MyTV, Peachtree TV, KUNS-TV, TSN+, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260620010000 +0700" stop="20260620030000 +0700" channel="fubosportsfoxsports1foxsportsracingsnworldsnnowmore">
+  <programme start="20260620010000 +0700" stop="20260620030000 +0700" channel="fubosportsslingtvhbomaxfoxsports1foxsportsracingmore">
     <title lang="id">Grand Prix of Czechia Sprint</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, FOX Sports Racing, SN World, SN NOW, MORE</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Sling TV, HBO Max, FOX Sports 1, FOX Sports Racing, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260620020000 +0700" stop="20260620040000 +0700" channel="peacock">
@@ -345,16 +345,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+, RDS 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260620100000 +0700" stop="20260620120000 +0700" channel="dazncanada">
-    <title lang="id">Nottingham Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260620120000 +0700" stop="20260620140000 +0700" channel="tvasports">
-    <title lang="id">German Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TVA Sports</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260620040000 +0700" stop="20260620060000 +0700" channel="dazndazncanada">
     <title lang="id">Ryan Garner - Michael Magnesi Prelims</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
@@ -368,11 +358,6 @@
   <programme start="20260620110000 +0700" stop="20260620130000 +0700" channel="wmbctv63">
     <title lang="id">TBL Team Boxing League Estrella TV MSGSN</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: WMBC TV 63</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260620121000 +0700" stop="20260620141000 +0700" channel="dazndazncanada">
-    <title lang="id">Rajadamnern World Series</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260620090000 +0700" stop="20260620110000 +0700" channel="paramount+sportsnet+">
@@ -410,16 +395,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260620113000 +0700" stop="20260620133000 +0700" channel="slingtvhbomax">
-    <title lang="id">Tour of Slovenia Stage 4</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260620122500 +0700" stop="20260620142500 +0700" channel="slingtvhbomax">
-    <title lang="id">Route d'Occitanie Stage 3</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260620123000 +0700" stop="20260620143000 +0700" channel="slingtvhbomax">
     <title lang="id">Giro d'Italia U23 Stage 7</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
@@ -427,11 +402,6 @@
   </programme>
   <programme start="20260620013000 +0700" stop="20260620033000 +0700" channel="slingtvhbomax">
     <title lang="id">Tour of Belgium Stage 4</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260620103000 +0700" stop="20260620123000 +0700" channel="slingtvhbomax">
-    <title lang="id">Volta a Catalunya Stage 2</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
     <category lang="id">Olahraga</category>
   </programme>

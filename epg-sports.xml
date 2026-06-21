@@ -205,11 +205,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Yahoo! Sports</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260621010000 +0700" stop="20260621030000 +0700" channel="peacockusanetworktsn3">
-    <title lang="id">U.S. Open Final Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, USA Network, TSN3</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260621040000 +0700" stop="20260621060000 +0700" channel="peacocknbctsn3rds2ctv2more">
     <title lang="id">U.S. Open Final Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBC, TSN3, RDS 2, CTV2, MORE</desc>
@@ -235,18 +230,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: HBO Max, TSN5</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260621120000 +0700" stop="20260621140000 +0700" channel="fubosportsfoxsports1foxsportsracingsnonesnnow">
-    <title lang="id">Grand Prix of Czechia Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, FOX Sports Racing, SN One, SN NOW</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260621093000 +0700" stop="20260621113000 +0700" channel="dazndazncanada">
     <title lang="id">Ferrari Challenge North America Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260621115500 +0700" stop="20260621135500 +0700" channel="dazndazncanada">
-    <title lang="id">Formula 4 Italian Championship Race</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -260,11 +245,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+, RDS 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260621110000 +0700" stop="20260621130000 +0700" channel="tvasportsdazncanada">
-    <title lang="id">Nottingham Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TVA Sports, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260621040000 +0700" stop="20260621060000 +0700" channel="tvbelumtersedia">
     <title lang="id">Bad Homburg Open Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
@@ -273,26 +253,6 @@
   <programme start="20260621082000 +0700" stop="20260621102000 +0700" channel="espnselectespnunlimited">
     <title lang="id">WGP Kickboxing</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260621110000 +0700" stop="20260621130000 +0700" channel="slingtvhbomax">
-    <title lang="id">Tour of Slovenia Stage 5</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260621115500 +0700" stop="20260621135500 +0700" channel="slingtvhbomax">
-    <title lang="id">Andorra Classic</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260621010000 +0700" stop="20260621030000 +0700" channel="slingtvhbomax">
-    <title lang="id">Tour of Belgium Stage 5</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260621103000 +0700" stop="20260621123000 +0700" channel="slingtvhbomax">
-    <title lang="id">Volta a Catalunya Stage 3</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260621043000 +0700" stop="20260621063000 +0700" channel="fubosportsfoxsports2foxsportsracing">

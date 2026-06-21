@@ -255,29 +255,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, REV TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260621092500 +0700" stop="20260621112500 +0700" channel="daznbeinsports5dazncanada">
-    <title lang="id">Lausitzring Race 2</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, beIN SPORTS 5, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260621013000 +0700" stop="20260621033000 +0700" channel="tsn+rds2">
     <title lang="id">Halle Open</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+, RDS 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260621100000 +0700" stop="20260621120000 +0700" channel="tvbelumtersedia">
-    <title lang="id">WTA &amp; ATP Tournaments Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260621090000 +0700" stop="20260621110000 +0700" channel="dazncanada">
-    <title lang="id">Bad Homburg Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260621100000 +0700" stop="20260621120000 +0700" channel="tvasportsdazncanada">
-    <title lang="id">German Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TVA Sports, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260621110000 +0700" stop="20260621130000 +0700" channel="tvasportsdazncanada">
@@ -323,11 +303,6 @@
   <programme start="20260621050000 +0700" stop="20260621070000 +0700" channel="fubosportsfoxsports1foxsportsracing">
     <title lang="id">America's Day at the Races</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, FOX Sports Racing</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260621081500 +0700" stop="20260621101500 +0700" channel="foxsoccerplus">
-    <title lang="id">Cronulla Sharks @ Sydney Roosters</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260621020000 +0700" stop="20260621040000 +0700" channel="foxsoccerplussnpacificsnnowsportsnet+">

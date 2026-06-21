@@ -1,28 +1,8 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
-  <programme start="20260622080500 +0700" stop="20260622100500 +0700" channel="fdsnwestnbcscaliforniamlb.tvabtv">
-    <title lang="id">Los Angeles Angels @ Athletics</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FDSN West, NBCS California, MLB.TV, ABTV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260622081000 +0700" stop="20260622101000 +0700" channel="snonemore">
-    <title lang="id">Baltimore Orioles @ Los Angeles Dodgers MASN SportsNet LA MLB.TV SNLA+</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: SN One, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260622081000 +0700" stop="20260622101000 +0700" channel="nesnmlb.tvmariners.tv">
-    <title lang="id">Boston Red Sox @ Seattle Mariners</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: NESN, MLB.TV, Mariners.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260622112000 +0700" stop="20260622132000 +0700" channel="peacocknbcnbcuniversotsn2rds2">
     <title lang="id">New York Mets @ Philadelphia Phillies</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBC, NBC Universo, TSN2, RDS 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260622083000 +0700" stop="20260622103000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Sanford Mainers - Valley Blue Sox</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260622103000 +0700" stop="20260622123000 +0700" channel="espnselectespnunlimited">
@@ -50,11 +30,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: SportsNet Pittsburgh</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260622080000 +0700" stop="20260622100000 +0700" channel="paramount+cbs">
-    <title lang="id">Golden State Valkyries @ Las Vegas Aces</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, CBS</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260622100000 +0700" stop="20260622120000 +0700" channel="tvbelumtersedia">
     <title lang="id">Washington Mystics @ Minnesota Lynx NBA TV Monumental SN Victory+</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
@@ -65,29 +40,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Yahoo! Sports</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260622080000 +0700" stop="20260622100000 +0700" channel="hbomaxtsn5">
-    <title lang="id">Anduril 250 Race Sling TV Prime Video</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: HBO Max, TSN5</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260622093000 +0700" stop="20260622113000 +0700" channel="dazndazncanada">
     <title lang="id">Ferrari Challenge North America Race</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260622082000 +0700" stop="20260622102000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">WGP Kickboxing</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260622090000 +0700" stop="20260622110000 +0700" channel="wsn">
     <title lang="id">New York Exiles @ Denver Onyx</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: WSN</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260622073000 +0700" stop="20260622093000 +0700" channel="peacock">
-    <title lang="id">Swimming World Cup</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

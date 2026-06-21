@@ -160,21 +160,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260621040000 +0700" stop="20260621060000 +0700" channel="nextlevelsports">
-    <title lang="id">Seibu Lions @ Orix Buffaloes</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260621040000 +0700" stop="20260621060000 +0700" channel="ryzsportsnetwork">
-    <title lang="id">Fukuoka @ Nippon Ham Fighters Prime Video</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Ryz Sports Network</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260621040000 +0700" stop="20260621060000 +0700" channel="fubosportspeacockesfoxsports1foxsportsplus4kfoxonemore">
-    <title lang="id">Tunisia Japan</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX Sports 1, FOX Sports Plus 4K, FOX One, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260621040000 +0700" stop="20260621060000 +0700" channel="fubosportspeacockesfoxfox4kfoxsports4kmore">
     <title lang="id">Spain Saudi Arabia</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX, FOX 4K, FOX Sports 4K, MORE</desc>
@@ -188,11 +173,6 @@
   <programme start="20260621100000 +0700" stop="20260621120000 +0700" channel="fubosportspeacockesfoxsports1foxsportsplus4kfoxonemore">
     <title lang="id">Uruguay Cape Verde</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX Sports 1, FOX Sports Plus 4K, FOX One, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260621030000 +0700" stop="20260621050000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Sacramento Republic New Mexico United</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260621100000 +0700" stop="20260621120000 +0700" channel="sportsnetpittsburgh">
@@ -213,11 +193,6 @@
   <programme start="20260621100000 +0700" stop="20260621120000 +0700" channel="tvbelumtersedia">
     <title lang="id">Washington Mystics @ Minnesota Lynx NBA TV Monumental SN Victory+</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260621030000 +0700" stop="20260621050000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Wellington Saints @ Franklin Bulls</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260621080000 +0700" stop="20260621100000 +0700" channel="yahoo!sports">
@@ -255,28 +230,18 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260621080000 +0700" stop="20260621100000 +0700" channel="tsn5">
-    <title lang="id">Anduril 250 Race Prime Video</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN5</desc>
+  <programme start="20260621080000 +0700" stop="20260621100000 +0700" channel="hbomaxtsn5">
+    <title lang="id">Anduril 250 Race Sling TV Prime Video</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: HBO Max, TSN5</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260621120000 +0700" stop="20260621140000 +0700" channel="fubosportsslingtvhbomaxfoxsports1foxsportsracingmore">
+  <programme start="20260621120000 +0700" stop="20260621140000 +0700" channel="fubosportsfoxsports1foxsportsracingsnonesnnow">
     <title lang="id">Grand Prix of Czechia Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Sling TV, HBO Max, FOX Sports 1, FOX Sports Racing, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260621051000 +0700" stop="20260621071000 +0700" channel="daznbeinsports4dazncanada">
-    <title lang="id">Ferrari Challenge Australasia Race 2</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, beIN SPORTS 4, DAZN Canada</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, FOX Sports Racing, SN One, SN NOW</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260621093000 +0700" stop="20260621113000 +0700" channel="dazndazncanada">
     <title lang="id">Ferrari Challenge North America Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260621072500 +0700" stop="20260621092500 +0700" channel="dazndazncanada">
-    <title lang="id">Formula 4 Italian Championship Race</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -328,21 +293,6 @@
   <programme start="20260621082000 +0700" stop="20260621102000 +0700" channel="espnselectespnunlimited">
     <title lang="id">WGP Kickboxing</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260621031000 +0700" stop="20260621051000 +0700" channel="foxsoccerplus">
-    <title lang="id">North Melbourne Kangaroos @ Richmond Tigers</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260621051500 +0700" stop="20260621071500 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">Western Bulldogs @ St. Kilda Saints</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260621093000 +0700" stop="20260621113000 +0700" channel="slingtvhbomax">
-    <title lang="id">Giro d'Italia U23 Stage 8</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260621110000 +0700" stop="20260621130000 +0700" channel="slingtvhbomax">

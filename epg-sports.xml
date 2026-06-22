@@ -55,21 +55,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Championship Series Game 3, Fubo Sports, ESPN Unlimited, ESPN, ESPN U, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260623100000 +0700" stop="20260623120000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Upper Valley Nighthawks - Danbury Westerners</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260623103000 +0700" stop="20260623123000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Valley Blue Sox - Mystic Schooners</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260623050000 +0700" stop="20260623070000 +0700" channel="fubosportspeacockesfoxfox4kfoxsports4kmore">
-    <title lang="id">Argentina Austria</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX, FOX 4K, FOX Sports 4K, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260623090000 +0700" stop="20260623110000 +0700" channel="fubosportspeacockesfoxfox4kfoxsports4kmore">
     <title lang="id">France Iraq</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX, FOX 4K, FOX Sports 4K, MORE</desc>
@@ -88,11 +73,6 @@
   <programme start="20260623113000 +0700" stop="20260623133000 +0700" channel="tsn2">
     <title lang="id">Toronto Tempo @ Atlanta Dream Atlanta News First PSN Victory+</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260623060000 +0700" stop="20260623080000 +0700" channel="daznfanatizdazncanada">
-    <title lang="id">Valencia @ Barcelona</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, Fanatiz, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

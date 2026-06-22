@@ -50,9 +50,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Dbacks.TV, MLB.TV, Cardinals.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260622110000 +0700" stop="20260622130000 +0700" channel="championshipseriesgame3fubosportsespnunlimitedespnespnu">
+  <programme start="20260622110000 +0700" stop="20260622130000 +0700" channel="championshipseriesgame3fubosportsespnunlimitedespnespnutsn+">
     <title lang="id">North Carolina Oklahoma</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Championship Series Game 3, Fubo Sports, ESPN Unlimited, ESPN, ESPN U</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Championship Series Game 3, Fubo Sports, ESPN Unlimited, ESPN, ESPN U, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260622100000 +0700" stop="20260622120000 +0700" channel="espnselectespnunlimited">
@@ -63,11 +63,6 @@
   <programme start="20260622103000 +0700" stop="20260622123000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Valley Blue Sox - Mystic Schooners</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260622090000 +0700" stop="20260622110000 +0700" channel="nextlevelsports">
-    <title lang="id">Seibu Lions @ Tohoku</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260622050000 +0700" stop="20260622070000 +0700" channel="fubosportspeacockesfoxfox4kfoxsports4kmore">
@@ -90,9 +85,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260622113000 +0700" stop="20260622133000 +0700" channel="tvbelumtersedia">
+  <programme start="20260622113000 +0700" stop="20260622133000 +0700" channel="tsn2">
     <title lang="id">Toronto Tempo @ Atlanta Dream Atlanta News First PSN Victory+</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260622060000 +0700" stop="20260622080000 +0700" channel="dazndazncanada">
@@ -100,29 +95,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260622070000 +0700" stop="20260622090000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Southland Sharks @ Bay Hawks</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260622090000 +0700" stop="20260622110000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Center Court Live Tennis Channel</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260622103000 +0700" stop="20260622123000 +0700" channel="tvbelumtersedia">
     <title lang="id">WTA &amp; ATP Tournaments Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260622100000 +0700" stop="20260622120000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Wimbledon Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260622090000 +0700" stop="20260622110000 +0700" channel="dazncanada">
-    <title lang="id">Bad Homburg Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

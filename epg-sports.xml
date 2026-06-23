@@ -140,16 +140,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX, FOX 4K, FOX Sports 4K, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260623103000 +0700" stop="20260623123000 +0700" channel="tvbelumtersedia">
-    <title lang="id">WTA &amp; ATP Tournaments Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260623100000 +0700" stop="20260623120000 +0700" channel="espnselectespnunlimitedtsn+">
-    <title lang="id">Wimbledon Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260623110000 +0700" stop="20260623130000 +0700" channel="fubosportsespnunlimitedespn2tsn+">
     <title lang="id">Texas Volts - Chicago Bandits</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2, TSN+</desc>

@@ -70,11 +70,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: WWAX</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260624040000 +0700" stop="20260624060000 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Myrtle Beach Pelicans @ Salem RidgeYaks WZBJ 24</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260624103500 +0700" stop="20260624123500 +0700" channel="ballysportslivemilb.tv">
     <title lang="id">St. Paul @ Louisville Bats</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
@@ -123,11 +118,6 @@
   <programme start="20260624113800 +0700" stop="20260624133800 +0700" channel="ballysportslivemilb.tv">
     <title lang="id">Buffalo Bisons @ Iowa Cubs</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260624050000 +0700" stop="20260624070000 +0700" channel="fubosportspeacockesfoxfox4kfoxsports4kmore">
-    <title lang="id">Portugal Uzbekistan</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX, FOX 4K, FOX Sports 4K, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260624080000 +0700" stop="20260624100000 +0700" channel="fubosportspeacockesfoxfox4kfoxsports4kmore">

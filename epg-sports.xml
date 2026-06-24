@@ -150,11 +150,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260624020000 +0700" stop="20260624040000 +0700" channel="fubosportspeacockesfoxsports1foxsportsplus4kfoxonemore">
-    <title lang="id">Colombia DR Congo</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX Sports 1, FOX Sports Plus 4K, FOX One, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260624070000 +0700" stop="20260624090000 +0700" channel="fubosportspeacockesfoxfox4kfoxsports4kmore">
     <title lang="id">Switzerland Canada</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX, FOX 4K, FOX Sports 4K, MORE</desc>
@@ -193,11 +188,6 @@
   <programme start="20260624113000 +0700" stop="20260624133000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Charlotte Independence Greenville Triumph</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260624020000 +0700" stop="20260624040000 +0700" channel="tvbelumtersedia">
-    <title lang="id">New York Liberty @ Las Vegas Aces USA Network My9 Liberty Live Vegas 34</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260624113000 +0700" stop="20260624133000 +0700" channel="tvbelumtersedia">

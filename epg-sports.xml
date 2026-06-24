@@ -1,15 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
-  <programme start="20260625041000 +0700" stop="20260625061000 +0700" channel="mlbnetworkrsnmlb.tvmarlins.tv">
-    <title lang="id">Texas Rangers @ Miami Marlins</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: MLB Network, RSN, MLB.TV, Marlins.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260625051000 +0700" stop="20260625071000 +0700" channel="marqueesnymlb.tv">
-    <title lang="id">Chicago Cubs @ New York Mets</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Marquee, SNY, MLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260625061000 +0700" stop="20260625081000 +0700" channel="fanatizchsnguardians.tvmlb.tv">
     <title lang="id">Cleveland Guardians @ Chicago White Sox</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, CHSN, Guardians.TV, MLB.TV</desc>
@@ -83,31 +73,6 @@
   <programme start="20260625103500 +0700" stop="20260625123500 +0700" channel="espnselectespnunlimited">
     <title lang="id">Newport Gulls - Valley Blue Sox</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260625040500 +0700" stop="20260625060500 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">El Paso Chihuahuas @ Sugar Land Space Cowboys</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260625040500 +0700" stop="20260625060500 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Memphis Redbirds @ Jacksonville Jumbo Shrimp</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260625040500 +0700" stop="20260625060500 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">St. Paul @ Louisville Bats</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260625050800 +0700" stop="20260625070800 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Buffalo Bisons @ Iowa Cubs</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260625053500 +0700" stop="20260625073500 +0700" channel="sportsnetpittsburghballysportslivemilb.tv">
-    <title lang="id">Scranton/WB @ Indianapolis Indians</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: SportsNet Pittsburgh, Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260625070500 +0700" stop="20260625090500 +0700" channel="ballysportslivemilb.tv">

@@ -205,19 +205,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, Fanatiz, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260624070000 +0700" stop="20260624090000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Southland Sharks @ Whai</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260624103000 +0700" stop="20260624123000 +0700" channel="tvbelumtersedia">
     <title lang="id">WTA &amp; ATP Tournaments Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260624100000 +0700" stop="20260624120000 +0700" channel="espnselectespnunlimited">
+  <programme start="20260624100000 +0700" stop="20260624120000 +0700" channel="espnselectespnunlimitedtsn+">
     <title lang="id">Wimbledon Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260624090000 +0700" stop="20260624110000 +0700" channel="dazncanada">

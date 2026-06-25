@@ -155,11 +155,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Spectrum SportsNet</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260625070000 +0700" stop="20260625090000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Otago Nuggets @ Manawatu Jets</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260625120000 +0700" stop="20260625140000 +0700" channel="disney+">
     <title lang="id">Travelers Championship First Round ESPN Select ESPN Unlimited Hulu</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Disney+</desc>
@@ -188,11 +183,6 @@
   <programme start="20260625053500 +0700" stop="20260625073500 +0700" channel="beinsports5">
     <title lang="id">GT World Challenge Europe Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: beIN SPORTS 5</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260625060100 +0700" stop="20260625080100 +0700" channel="dazndazncanada">
-    <title lang="id">Rally Greece Shakedown</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260625040500 +0700" stop="20260625060500 +0700" channel="dazndazncanada">

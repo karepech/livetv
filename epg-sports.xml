@@ -1,15 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
-  <programme start="20260626041000 +0700" stop="20260626061000 +0700" channel="mlbnetworkmlb.tvroyals.tvrays.tv">
-    <title lang="id">Kansas City Royals @ Tampa Bay Rays</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: MLB Network, MLB.TV, Royals.TV, Rays.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260626043500 +0700" stop="20260626063500 +0700" channel="sportsnetpittsburghmlb.tvmariners.tvsnnowsportsnet+">
-    <title lang="id">Seattle Mariners @ Pittsburgh Pirates</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: SportsNet Pittsburgh, MLB.TV, Mariners.TV, SN NOW, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260626074500 +0700" stop="20260626094500 +0700" channel="nbcsbayareanbcscaliforniamlb.tv">
     <title lang="id">Athletics @ San Francisco Giants</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: NBCS Bay Area, NBCS California, MLB.TV</desc>
@@ -58,16 +48,6 @@
   <programme start="20260626103500 +0700" stop="20260626123500 +0700" channel="espnselectespnunlimited">
     <title lang="id">Keene Swamp Bats - North Shore Navigators</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260626040500 +0700" stop="20260626060500 +0700" channel="masnballysportslivemilb.tv">
-    <title lang="id">Durham Bulls @ Norfolk Tides</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: MASN, Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260626060500 +0700" stop="20260626080500 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Salt Lake Bees @ Albuquerque Isotopes</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260626103000 +0700" stop="20260626123000 +0700" channel="sportsnetpittsburghballysportslivemilb.tv">
@@ -150,34 +130,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Spectrum SportsNet</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260626070000 +0700" stop="20260626090000 +0700" channel="fubosportsespnselectespnunlimitedgolfchannelusagolfchannelcanada">
-    <title lang="id">Travelers Championship First Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Select, ESPN Unlimited, Golf Channel USA, Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260626100000 +0700" stop="20260626120000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
     <title lang="id">Women's PGA Championship First Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260626053500 +0700" stop="20260626073500 +0700" channel="beinsports5">
-    <title lang="id">GT World Challenge Europe Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: beIN SPORTS 5</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260626040500 +0700" stop="20260626060500 +0700" channel="dazndazncanada">
-    <title lang="id">Rally Greece Stage 1</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260626050000 +0700" stop="20260626070000 +0700" channel="fubosportsfoxsports2foxsportsracing">
-    <title lang="id">America's Day at the Races</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, FOX Sports Racing</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260626070000 +0700" stop="20260626090000 +0700" channel="foxsoccerplussnworldsnnowsportsnet+">
-    <title lang="id">Catalans Dragons @ Warrington Wolves</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus, SN World, SN NOW, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260626110000 +0700" stop="20260626130000 +0700" channel="fubosportsespnunlimitedespnespndeportestsn+">

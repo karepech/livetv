@@ -55,11 +55,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260627080500 +0700" stop="20260627100500 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">St. Paul @ Louisville Bats</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260627100500 +0700" stop="20260627120500 +0700" channel="ballysportslivemilb.tv">
     <title lang="id">St. Paul @ Louisville Bats</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
@@ -130,24 +125,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260627080000 +0700" stop="20260627100000 +0700" channel="tsn+">
-    <title lang="id">Pit Boss/FoodMaxx 250 Practice CW App</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260627090500 +0700" stop="20260627110500 +0700" channel="tvbelumtersedia">
-    <title lang="id">Pit Boss/FoodMaxx 250 Qualifying CW App</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260627103000 +0700" stop="20260627123000 +0700" channel="floracing">
     <title lang="id">General Tire 150</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FloRacing</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260627080000 +0700" stop="20260627100000 +0700" channel="peacock">
-    <title lang="id">IMSA Lambo Watkins Glen R1</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260627110000 +0700" stop="20260627130000 +0700" channel="tvbelumtersedia">

@@ -135,16 +135,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, Sportsnet, SN NOW</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260626120000 +0700" stop="20260626140000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Travelers Championship Second Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260626121500 +0700" stop="20260626141500 +0700" channel="espnselectespnunlimitedtsn+">
-    <title lang="id">Alex Noren i Travelers Championship Second Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260626030000 +0700" stop="20260626050000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Travelers Championship Second Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
@@ -153,11 +143,6 @@
   <programme start="20260626070000 +0700" stop="20260626090000 +0700" channel="fubosportsespnselectespnunlimitedgolfchannelusagolfchannelcanada">
     <title lang="id">Travelers Championship Second Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Select, ESPN Unlimited, Golf Channel USA, Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260626110000 +0700" stop="20260626130000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
-    <title lang="id">Italian Open Second Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260626030000 +0700" stop="20260626050000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
@@ -170,11 +155,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260626123000 +0700" stop="20260626143000 +0700" channel="tsn+">
-    <title lang="id">Women's Amateur Championship Semifinals</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260626080000 +0700" stop="20260626100000 +0700" channel="tsn+">
     <title lang="id">Pit Boss/FoodMaxx 250 Practice CW App</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
@@ -185,39 +165,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260626113000 +0700" stop="20260626133000 +0700" channel="appletv">
-    <title lang="id">Austria Grand Prix First Practice</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260626030000 +0700" stop="20260626050000 +0700" channel="appletvtsn2">
     <title lang="id">Austria Grand Prix Second Practice</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV, TSN2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260626010000 +0700" stop="20260626030000 +0700" channel="tsn+">
-    <title lang="id">Dutch Grand Prix Practice</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260626103000 +0700" stop="20260626123000 +0700" channel="floracing">
     <title lang="id">General Tire 150</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FloRacing</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260626010000 +0700" stop="20260626030000 +0700" channel="dazndazncanada">
-    <title lang="id">Ferrari Challenge UK Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260626015000 +0700" stop="20260626035000 +0700" channel="tsn+">
-    <title lang="id">Austria Grand Prix Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260626010000 +0700" stop="20260626030000 +0700" channel="beinsports5">
-    <title lang="id">GT World Challenge Europe Superpole</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: beIN SPORTS 5</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260626080000 +0700" stop="20260626100000 +0700" channel="peacock">
@@ -230,36 +185,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260626103500 +0700" stop="20260626123500 +0700" channel="dazndazncanada">
-    <title lang="id">Rally Greece Stage 5</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260626114600 +0700" stop="20260626134600 +0700" channel="dazndazncanada">
-    <title lang="id">Rally Greece Stage 6</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260626015600 +0700" stop="20260626035600 +0700" channel="dazndazncanada">
-    <title lang="id">Rally Greece Stage 7</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260626110000 +0700" stop="20260626130000 +0700" channel="tvbelumtersedia">
-    <title lang="id">WTA &amp; ATP Tournaments Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260626110000 +0700" stop="20260626130000 +0700" channel="tvasportsdazncanada">
-    <title lang="id">Bad Homburg Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TVA Sports, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260626010000 +0700" stop="20260626030000 +0700" channel="tvasports">
-    <title lang="id">Bad Homburg Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TVA Sports</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260626060000 +0700" stop="20260626080000 +0700" channel="dazndazncanada">
     <title lang="id">Padraig McCrory - Ondrej Budera</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
@@ -270,9 +195,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260626013000 +0700" stop="20260626033000 +0700" channel="beinusabeinusaespanolbeincanadabeincanadaespanol">
-    <title lang="id">One Friday Fights</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: beIN USA, beIN USA Espanol, beIN Canada, beIN Canada Espanol</desc>
+  <programme start="20260626113000 +0700" stop="20260626133000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">LFA 236 Prelims</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260626050000 +0700" stop="20260626070000 +0700" channel="fubosportsfoxsports2foxsportsracing">

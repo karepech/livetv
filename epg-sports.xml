@@ -105,11 +105,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260626090000 +0700" stop="20260626110000 +0700" channel="seibulionsnextlevelsports">
-    <title lang="id">Nippon Ham Fighters @</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Seibu Lions, Next Level Sports</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260626070000 +0700" stop="20260626090000 +0700" channel="fubosportspeacockesfoxfox4kfoxsports4kmore">
     <title lang="id">Norway France</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX, FOX 4K, FOX Sports 4K, MORE</desc>
@@ -235,11 +230,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260626081400 +0700" stop="20260626101400 +0700" channel="dazndazncanada">
-    <title lang="id">Rally Greece Stage 4</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260626103500 +0700" stop="20260626123500 +0700" channel="dazndazncanada">
     <title lang="id">Rally Greece Stage 5</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
@@ -285,19 +275,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: beIN USA, beIN USA Espanol, beIN Canada, beIN Canada Espanol</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260626093000 +0700" stop="20260626113000 +0700" channel="foxsoccerplus">
-    <title lang="id">Greater Western Sydney Giants @ Hawthorn Hawks</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260626050000 +0700" stop="20260626070000 +0700" channel="fubosportsfoxsports2foxsportsracing">
     <title lang="id">America's Day at the Races</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, FOX Sports Racing</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260626100000 +0700" stop="20260626120000 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">Sydney Roosters @ Brisbane Broncos</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260626070000 +0700" stop="20260626090000 +0700" channel="foxsoccerplussnworldsnnowsportsnet+">

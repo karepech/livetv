@@ -55,8 +55,13 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260626020500 +0700" stop="20260626040500 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Round Rock Express @ Tacoma Rainiers</title>
+  <programme start="20260626080500 +0700" stop="20260626100500 +0700" channel="ballysportslivemilb.tv">
+    <title lang="id">St. Paul @ Louisville Bats</title>
+    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260626100500 +0700" stop="20260626120500 +0700" channel="ballysportslivemilb.tv">
+    <title lang="id">St. Paul @ Louisville Bats</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -95,11 +100,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260626111500 +0700" stop="20260626131500 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">St. Paul @ Louisville Bats</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260626113500 +0700" stop="20260626133500 +0700" channel="ballysportslivemilb.tv">
     <title lang="id">Gwinnett Stripers @ Nashville Sounds</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
@@ -135,11 +135,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Chicago Sky, ION</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260626073000 +0700" stop="20260626093000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Nelson Giants @ Wellington Saints</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260626110000 +0700" stop="20260626130000 +0700" channel="fubosportsespnunlimitedespnsportsnetsnnow">
     <title lang="id">2026 NHL Draft Round 1</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, Sportsnet, SN NOW</desc>
@@ -150,9 +145,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260626121500 +0700" stop="20260626141500 +0700" channel="espnselectespnunlimited">
+  <programme start="20260626121500 +0700" stop="20260626141500 +0700" channel="espnselectespnunlimitedtsn+">
     <title lang="id">Alex Noren i Travelers Championship Second Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260626030000 +0700" stop="20260626050000 +0700" channel="espnselectespnunlimited">
@@ -180,9 +175,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260626080000 +0700" stop="20260626100000 +0700" channel="tvbelumtersedia">
+  <programme start="20260626123000 +0700" stop="20260626143000 +0700" channel="tsn+">
+    <title lang="id">Women's Amateur Championship Semifinals</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260626080000 +0700" stop="20260626100000 +0700" channel="tsn+">
     <title lang="id">Pit Boss/FoodMaxx 250 Practice CW App</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260626090500 +0700" stop="20260626110500 +0700" channel="tvbelumtersedia">
@@ -200,6 +200,11 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV, TSN2</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260626010000 +0700" stop="20260626030000 +0700" channel="tsn+">
+    <title lang="id">Dutch Grand Prix Practice</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260626103000 +0700" stop="20260626123000 +0700" channel="floracing">
     <title lang="id">General Tire 150</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FloRacing</desc>
@@ -208,6 +213,11 @@
   <programme start="20260626010000 +0700" stop="20260626030000 +0700" channel="dazndazncanada">
     <title lang="id">Ferrari Challenge UK Race</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260626015000 +0700" stop="20260626035000 +0700" channel="tsn+">
+    <title lang="id">Austria Grand Prix Qualifying</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260626010000 +0700" stop="20260626030000 +0700" channel="beinsports5">
@@ -223,16 +233,6 @@
   <programme start="20260626055500 +0700" stop="20260626075500 +0700" channel="peacock">
     <title lang="id">Watkins Glen International Race 1</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260626054800 +0700" stop="20260626074800 +0700" channel="dazndazncanada">
-    <title lang="id">Rally Greece Stage 2</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260626065100 +0700" stop="20260626085100 +0700" channel="dazndazncanada">
-    <title lang="id">Rally Greece Stage 3</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260626081400 +0700" stop="20260626101400 +0700" channel="dazndazncanada">

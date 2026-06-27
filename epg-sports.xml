@@ -185,14 +185,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Yahoo! Sports</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260627123000 +0700" stop="20260627143000 +0700" channel="espnselectespnunlimited">
+  <programme start="20260627050000 +0700" stop="20260627070000 +0700" channel="fubosportsespnselectespnunlimitedgolfchannelusagolfchannelcanada">
     <title lang="id">Travelers Championship Third Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260627050000 +0700" stop="20260627070000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
-    <title lang="id">Travelers Championship Third Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Select, ESPN Unlimited, Golf Channel USA, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260627070000 +0700" stop="20260627090000 +0700" channel="peacocknbcnbcconnecticuttsn5rdsinfomore">
@@ -225,11 +220,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260627123000 +0700" stop="20260627143000 +0700" channel="tsn+">
-    <title lang="id">Women's Amateur Championship Final</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260627060000 +0700" stop="20260627080000 +0700" channel="slingtvhbomaxtrutvtsn+">
     <title lang="id">Toyota / Save Mart 350 Practice</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, truTV, TSN+</desc>
@@ -250,19 +240,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV, RDS, TSN5</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260627010000 +0700" stop="20260627030000 +0700" channel="fubosportsfoxsports1foxsportsracingsnworldsnnowmore">
-    <title lang="id">Dutch Grand Prix Sprint Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, FOX Sports Racing, SN World, SN NOW, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260627014500 +0700" stop="20260627034500 +0700" channel="daznbeinsports5dazncanada">
     <title lang="id">Ferrari Challenge UK Race</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, beIN SPORTS 5, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260627121000 +0700" stop="20260627141000 +0700" channel="tsn+">
-    <title lang="id">Austria Grand Prix Sprint Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260627050500 +0700" stop="20260627070500 +0700" channel="peacock">
@@ -280,14 +260,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260627115500 +0700" stop="20260627135500 +0700" channel="peacock">
-    <title lang="id">IMSA Mustang Watkins Glen R2</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260627010000 +0700" stop="20260627030000 +0700" channel="peacock">
-    <title lang="id">IMSA Carrera Cup Watkins Glen R2</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
+  <programme start="20260627073000 +0700" stop="20260627093000 +0700" channel="floracing">
+    <title lang="id">NASCAR Local Racing Series</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: FloRacing</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260627013900 +0700" stop="20260627033900 +0700" channel="dazndazncanada">
@@ -300,11 +275,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260627010000 +0700" stop="20260627030000 +0700" channel="tsn+">
-    <title lang="id">Mallorca Championship Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260627013000 +0700" stop="20260627033000 +0700" channel="tsn+tvasports">
     <title lang="id">Rothesay International Eastbourne Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+, TVA Sports</desc>
@@ -315,18 +285,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260627121000 +0700" stop="20260627141000 +0700" channel="dazndazncanada">
-    <title lang="id">Rajadamnern World Series</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260627010000 +0700" stop="20260627030000 +0700" channel="paramount+sportsnet+">
-    <title lang="id">Jefferson Nascimento Tahir Abdullayev</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260627012000 +0700" stop="20260627032000 +0700" channel="paramount+sportsnet+">
-    <title lang="id">Jean Matsumoto Bekzat Almakhan .</title>
+  <programme start="20260627013000 +0700" stop="20260627033000 +0700" channel="paramount+sportsnet+">
+    <title lang="id">Jean Matsumoto Bekzat Almakhan</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -383,11 +343,6 @@
   <programme start="20260627063000 +0700" stop="20260627083000 +0700" channel="paramount+sportsnet+">
     <title lang="id">Manuel Torres Rafael Fiziev .</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260627120000 +0700" stop="20260627140000 +0700" channel="slingtvhbomax">
-    <title lang="id">French National Road Championships Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260627083000 +0700" stop="20260627103000 +0700" channel="peacock">

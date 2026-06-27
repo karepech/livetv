@@ -170,6 +170,11 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, CBS</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260628100000 +0700" stop="20260628120000 +0700" channel="fubosportsfubosportsnetwork">
+    <title lang="id">Ball Hogs @ Houston Rig Hands</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, fubo Sports Network</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260628110000 +0700" stop="20260628130000 +0700" channel="bclionsfubosportscbssntsn3">
     <title lang="id">Calgary Stampeders @</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: BC Lions, Fubo Sports, CBSSN, TSN3</desc>
@@ -180,19 +185,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Yahoo! Sports</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260628050000 +0700" stop="20260628070000 +0700" channel="fubosportsespnselectespnunlimitedgolfchannelusagolfchannelcanada">
-    <title lang="id">Travelers Championship Third Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Select, ESPN Unlimited, Golf Channel USA, Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260628070000 +0700" stop="20260628090000 +0700" channel="peacocknbcnbcconnecticuttsn5rdsinfomore">
     <title lang="id">Travelers Championship Third Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBC, NBC Connecticut, TSN5, RDS Info, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260628040000 +0700" stop="20260628060000 +0700" channel="peacocknbc">
-    <title lang="id">Women's PGA Championship Third Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBC</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260628070000 +0700" stop="20260628090000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
@@ -225,11 +220,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: CW, MyTV, Peachtree TV, KUNS-TV, TSN+, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260628050500 +0700" stop="20260628070500 +0700" channel="peacock">
-    <title lang="id">LP Building Solutions 120 At The Glen Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260628074000 +0700" stop="20260628094000 +0700" channel="peacock">
     <title lang="id">Sahlen's Six Hours of The Glen Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
@@ -250,33 +240,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260628050000 +0700" stop="20260628070000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Floyd Mayweather - Mike Zambidis In Demand 1</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260628033000 +0700" stop="20260628053000 +0700" channel="paramount+sportsnet+">
-    <title lang="id">Farman Hasanov Eric Nolan</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260628040000 +0700" stop="20260628060000 +0700" channel="paramount+sportsnet+">
-    <title lang="id">Michal Oleksiejczuk Abusupiyan Magomedov</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260628043000 +0700" stop="20260628063000 +0700" channel="paramount+sportsnet+">
-    <title lang="id">Ikram Aliskerov Brunno Ferreira .</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260628050000 +0700" stop="20260628070000 +0700" channel="paramount+sportsnet+">
-    <title lang="id">Charles Johnson Assu Almabaev .</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260628053000 +0700" stop="20260628073000 +0700" channel="paramount+sportsnet+">
-    <title lang="id">Matheus Camilo Nazim Sadykhov .</title>
+    <title lang="id">Matheus Camilo Nazim Sadykhov</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -300,11 +265,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260628050000 +0700" stop="20260628070000 +0700" channel="sportsnet+">
-    <title lang="id">Leigh Leopards @ Toulouse Olympique</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260628070000 +0700" stop="20260628090000 +0700" channel="snworldsnnowsportsnet+">
     <title lang="id">St Helens @ Bradford</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: SN World, SN NOW, Sportsnet+</desc>
@@ -313,16 +273,6 @@
   <programme start="20260628070000 +0700" stop="20260628090000 +0700" channel="tv5international">
     <title lang="id">Montpellier @ Stade Toulousain</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV5 International</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260628043000 +0700" stop="20260628063000 +0700" channel="paramount+">
-    <title lang="id">Spain U20 @ Australia U20</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260628043000 +0700" stop="20260628063000 +0700" channel="fubosportsparamount+cbssn">
-    <title lang="id">Uruguay U20 @ South Africa U20</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Paramount+, CBSSN</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260628060000 +0700" stop="20260628080000 +0700" channel="fubosportsespnunlimitedespntsn+">

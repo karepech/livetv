@@ -1,15 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
-  <programme start="20260628051000 +0700" stop="20260628071000 +0700" channel="detroitsportsnetmlb.tv">
-    <title lang="id">Houston Astros @ Detroit Tigers Fanatiz Space City HN</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Detroit SportsNet, MLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260628051000 +0700" stop="20260628071000 +0700" channel="fubosportsespnunlimitedabcespndeportessnnowmore">
-    <title lang="id">New York Yankees @ Boston Red Sox</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ABC, ESPN Deportes, SN NOW, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260628070700 +0700" stop="20260628090700 +0700" channel="rsnmlb.tvsportsnetsnnowtvasports">
     <title lang="id">Texas Rangers @ Toronto Blue Jays</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: RSN, MLB.TV, Sportsnet, SN NOW, TVA Sports</desc>
@@ -160,11 +150,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260628060000 +0700" stop="20260628080000 +0700" channel="paramount+cbstsn1tsn3">
-    <title lang="id">Phoenix Mercury @ Toronto Tempo</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, CBS, TSN1, TSN3</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260628080000 +0700" stop="20260628100000 +0700" channel="paramount+cbs">
     <title lang="id">Week 2: Detroit</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, CBS</desc>
@@ -178,11 +163,6 @@
   <programme start="20260628110000 +0700" stop="20260628130000 +0700" channel="bclionsfubosportscbssntsn3">
     <title lang="id">Calgary Stampeders @</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: BC Lions, Fubo Sports, CBSSN, TSN3</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260628090000 +0700" stop="20260628110000 +0700" channel="yahoo!sports">
-    <title lang="id">Fishers Freight @ Green Bay Blizzard</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Yahoo! Sports</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260628070000 +0700" stop="20260628090000 +0700" channel="peacocknbcnbcconnecticuttsn5rdsinfomore">
@@ -205,9 +185,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260628060000 +0700" stop="20260628080000 +0700" channel="slingtvhbomaxtrutvtsn+">
-    <title lang="id">Toyota / Save Mart 350 Practice</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, truTV, TSN+</desc>
+  <programme start="20260628071000 +0700" stop="20260628091000 +0700" channel="slingtvhbomax">
+    <title lang="id">Toyota / Save Mart 350</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260628071000 +0700" stop="20260628091000 +0700" channel="slingtvhbomaxtrutv">
@@ -235,26 +215,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: FloRacing</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260628060000 +0700" stop="20260628080000 +0700" channel="dazndazncanada">
-    <title lang="id">Rally Greece</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260628053000 +0700" stop="20260628073000 +0700" channel="paramount+sportsnet+">
-    <title lang="id">Matheus Camilo Nazim Sadykhov</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260628060000 +0700" stop="20260628080000 +0700" channel="paramount+sportsnet+">
-    <title lang="id">Michel Pereira Shara Magomedov .</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260628063000 +0700" stop="20260628083000 +0700" channel="paramount+sportsnet+">
-    <title lang="id">Manuel Torres Rafael Fiziev .</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260628083000 +0700" stop="20260628103000 +0700" channel="peacock">
     <title lang="id">Stephen Foster Stakes</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
@@ -273,11 +233,6 @@
   <programme start="20260628070000 +0700" stop="20260628090000 +0700" channel="tv5international">
     <title lang="id">Montpellier @ Stade Toulousain</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV5 International</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260628060000 +0700" stop="20260628080000 +0700" channel="fubosportsespnunlimitedespntsn+">
-    <title lang="id">Carolina Blaze - Utah Talons</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260628090000 +0700" stop="20260628110000 +0700" channel="fubosportscbssn">

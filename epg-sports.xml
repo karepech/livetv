@@ -175,7 +175,7 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260628110500 +0700" stop="20260628130500 +0700" channel="ballysportslivemilb.tv">
+  <programme start="20260628103500 +0700" stop="20260628123500 +0700" channel="ballysportslivemilb.tv">
     <title lang="id">Gwinnett Stripers @ Nashville Sounds</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
@@ -183,11 +183,6 @@
   <programme start="20260628113500 +0700" stop="20260628133500 +0700" channel="ballysportslivemilb.tv">
     <title lang="id">El Paso Chihuahuas @ Sugar Land Space Cowboys</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260628090000 +0700" stop="20260628110000 +0700" channel="nextlevelsportsryzsportsnetwork">
-    <title lang="id">Nippon Ham Fighters @ Seibu Lions Prime Video</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports, Ryz Sports Network</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260628070000 +0700" stop="20260628090000 +0700" channel="fubosportspeacockesfoxfox4kfoxsports4kmore">
@@ -223,11 +218,6 @@
   <programme start="20260628110000 +0700" stop="20260628130000 +0700" channel="fubosportsespnunlimitedespndisney+">
     <title lang="id">New York Liberty @ Golden State Valkyries</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, Disney+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260628070000 +0700" stop="20260628090000 +0700" channel="beinsports4">
-    <title lang="id">Ulaanbaatar</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: beIN SPORTS 4</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260628110000 +0700" stop="20260628130000 +0700" channel="fubosportscbssnrdstsn1tsn3more">
@@ -300,14 +290,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV, RDS, TSN5</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260628120000 +0700" stop="20260628140000 +0700" channel="fubosportsfoxsports1foxsportsracingsnonesnnow">
+  <programme start="20260628120000 +0700" stop="20260628140000 +0700" channel="fubosportsslingtvhbomaxfoxsports1foxsportsracingmore">
     <title lang="id">Dutch Grand Prix Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, FOX Sports Racing, SN One, SN NOW</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260628080500 +0700" stop="20260628100500 +0700" channel="tsn+">
-    <title lang="id">Austria Grand Prix Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Sling TV, HBO Max, FOX Sports 1, FOX Sports Racing, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260628040000 +0700" stop="20260628060000 +0700" channel="peacockrevtv">
@@ -315,24 +300,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, REV TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260628091000 +0700" stop="20260628111000 +0700" channel="dazndazncanada">
-    <title lang="id">Rally Greece Stage 16</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260628090000 +0700" stop="20260628110000 +0700" channel="paramount+">
-    <title lang="id">Edwin de los Santos - Jose Valenzuela</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260628110000 +0700" stop="20260628130000 +0700" channel="dazndazncanada">
     <title lang="id">AEW Forbidden Door</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260628071000 +0700" stop="20260628091000 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">Gold Coast Suns @ Fremantle Dockers</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260628011500 +0700" stop="20260628031500 +0700" channel="slingtvhbomax">

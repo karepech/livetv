@@ -10,9 +10,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: SportsNet Pittsburgh, NBCS Philadelphia, MLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260629110500 +0700" stop="20260629130500 +0700" channel="detroitsportsnetyesmlb.tvsnonesnnow">
+  <programme start="20260629110500 +0700" stop="20260629130500 +0700" channel="fanatizdetroitsportsnetyesmlb.tvsnonemore">
     <title lang="id">Detroit Tigers @ New York Yankees</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Detroit SportsNet, YES, MLB.TV, SN One, SN NOW</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, Detroit SportsNet, YES, MLB.TV, SN One, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260629110700 +0700" stop="20260629130700 +0700" channel="snymlb.tvsportsnetsnnowtvasports">
@@ -80,14 +80,34 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260629010000 +0700" stop="20260629030000 +0700" channel="fubosportspeacockgolfchannelusanbcsnetworktsn3more">
+    <title lang="id">Travelers Championship Play-off - Scottie Scheffler vs Viktor Hovland</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock, Golf Channel USA, NBCS Network, TSN3, MORE</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260629100000 +0700" stop="20260629120000 +0700" channel="fubosportsespnunlimitedespnespndeportesdisney+more">
     <title lang="id">Wimbledon</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, ESPN Deportes, Disney+, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260629110000 +0700" stop="20260629130000 +0700" channel="fubosportsespnunlimitedespn2">
+  <programme start="20260629123000 +0700" stop="20260629143000 +0700" channel="fubosportsespnunlimitedtsn+">
+    <title lang="id">Jannik Sinner Miomir Kecmanovic</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, TSN+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260629033000 +0700" stop="20260629053000 +0700" channel="fubosportsespnunlimitedtsn+">
+    <title lang="id">Aryna Sabalenka Teodora Kostovic</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, TSN+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260629060000 +0700" stop="20260629080000 +0700" channel="fubosportsespnunlimited">
+    <title lang="id">Wu Yibing Novak Djokovic</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260629110000 +0700" stop="20260629130000 +0700" channel="fubosportsespnunlimitedespn2tsn+">
     <title lang="id">Oklahoma City Spark - Carolina Blaze</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

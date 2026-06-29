@@ -25,9 +25,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: NESN, NESN Plus, MLB.TV, Nationals.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260629111000 +0700" stop="20260629131000 +0700" channel="fubosportsespnunlimitedespnespndeportesmlb.tv">
+  <programme start="20260629111000 +0700" stop="20260629131000 +0700" channel="fubosportsespnunlimitedespnespndeportes">
     <title lang="id">Texas Rangers @ Cleveland Guardians</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, ESPN Deportes, MLB.TV</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, ESPN Deportes</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260629114000 +0700" stop="20260629134000 +0700" channel="mlb.tvbrewers.tvreds.tv">
@@ -60,11 +60,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX, FOX 4K, FOX Sports 4K, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260629013000 +0700" stop="20260629033000 +0700" channel="dazndazncanada">
-    <title lang="id">Syria @ Iran Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260629040000 +0700" stop="20260629060000 +0700" channel="dazndazncanada">
     <title lang="id">Saudi Arabia @ Qatar Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
@@ -78,21 +73,6 @@
   <programme start="20260629060000 +0700" stop="20260629080000 +0700" channel="dazndazncanada">
     <title lang="id">India @ Lebanon Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260629010000 +0700" stop="20260629030000 +0700" channel="fubosportspeacockgolfchannelusanbcsnetworktsn3more">
-    <title lang="id">Travelers Championship Play-off - Scottie Scheffler vs Viktor Hovland</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock, Golf Channel USA, NBCS Network, TSN3, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260629100000 +0700" stop="20260629120000 +0700" channel="fubosportsespnunlimitedespnespndeportesdisney+more">
-    <title lang="id">Wimbledon</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, ESPN Deportes, Disney+, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260629123000 +0700" stop="20260629143000 +0700" channel="fubosportsespnunlimitedtsn+">
-    <title lang="id">Jannik Sinner Miomir Kecmanovic</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260629033000 +0700" stop="20260629053000 +0700" channel="fubosportsespnunlimitedtsn+">

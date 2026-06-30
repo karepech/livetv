@@ -115,23 +115,13 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260630100000 +0700" stop="20260630120000 +0700" channel="fubosportsespnunlimitedespnespndeportestsn+more">
-    <title lang="id">Wimbledon</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, ESPN Deportes, TSN+, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260630120000 +0700" stop="20260630140000 +0700" channel="tsn+">
-    <title lang="id">Wimbledon</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260630123000 +0700" stop="20260630143000 +0700" channel="fubosportsespnunlimitedtsn+">
     <title lang="id">Taylor Townsend Iga Swiatek</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260630033000 +0700" stop="20260630053000 +0700" channel="fubosportsespnunlimited">
-    <title lang="id">Taylor Fritz Jack Draper</title>
+    <title lang="id">Taylor Fritz Dusan Lajovic</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>

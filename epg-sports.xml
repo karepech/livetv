@@ -5,9 +5,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: MASN, CHSN, MLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260630104000 +0700" stop="20260630124000 +0700" channel="rsnguardians.tvmlb.tv">
+  <programme start="20260630104000 +0700" stop="20260630124000 +0700" channel="fanatizrsnguardians.tvmlb.tv">
     <title lang="id">Texas Rangers @ Cleveland Guardians</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: RSN, Guardians.TV, MLB.TV</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, RSN, Guardians.TV, MLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260630104000 +0700" stop="20260630124000 +0700" channel="sportsnetpittsburghnbcsphiladelphiamlb.tv">
@@ -115,14 +115,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260630100000 +0700" stop="20260630120000 +0700" channel="fubosportsespnunlimitedespnespndeportestsn2more">
+  <programme start="20260630100000 +0700" stop="20260630120000 +0700" channel="fubosportsespnunlimitedespnespndeportestsn+more">
     <title lang="id">Wimbledon</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, ESPN Deportes, TSN2, MORE</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, ESPN Deportes, TSN+, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260630123000 +0700" stop="20260630143000 +0700" channel="fubosportsespnunlimited">
+  <programme start="20260630123000 +0700" stop="20260630143000 +0700" channel="fubosportsespnunlimitedtsn+">
     <title lang="id">Taylor Townsend Iga Swiatek</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260630033000 +0700" stop="20260630053000 +0700" channel="fubosportsespnunlimited">
@@ -133,6 +133,11 @@
   <programme start="20260630060000 +0700" stop="20260630080000 +0700" channel="fubosportsespnunlimited">
     <title lang="id">Serena Williams Maya Joint</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260630110000 +0700" stop="20260630130000 +0700" channel="tsn+">
+    <title lang="id">Portland Cascade - Chicago Bandits</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

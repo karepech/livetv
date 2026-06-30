@@ -60,11 +60,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: WWAX</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260701040500 +0700" stop="20260701060500 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Iowa Cubs @ Toledo Mud Hens</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260701103500 +0700" stop="20260701123500 +0700" channel="ballysportslivemilb.tv">
     <title lang="id">Worcester @ Syracuse Mets</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
@@ -100,11 +95,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260701050000 +0700" stop="20260701070000 +0700" channel="fubosportspeacockesfoxfox4kfoxsports4kmore">
-    <title lang="id">Ivory Coast Norway Round of 32</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX, FOX 4K, FOX Sports 4K, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260701090000 +0700" stop="20260701110000 +0700" channel="fubosportspeacockesfoxfox4kfoxsports4kmore">
     <title lang="id">France Sweden Round of 32</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX, FOX 4K, FOX Sports 4K, MORE</desc>
@@ -113,11 +103,6 @@
   <programme start="20260701110000 +0700" stop="20260701130000 +0700" channel="tvbelumtersedia">
     <title lang="id">Las Vegas Aces @ New York Liberty Prime Video</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260701060000 +0700" stop="20260701080000 +0700" channel="fubosportsespnunlimited">
-    <title lang="id">Serena Williams Maya Joint</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260701110000 +0700" stop="20260701130000 +0700" channel="fubosportsespnunlimitedespn2tsn+">

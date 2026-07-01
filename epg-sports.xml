@@ -160,11 +160,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, OneSoccer</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260701123000 +0700" stop="20260701143000 +0700" channel="fubosportsespnunlimitedtsn+">
-    <title lang="id">Jannik Sinner Nuno Borges</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260701023000 +0700" stop="20260701043000 +0700" channel="fubosportsespnunlimited">
     <title lang="id">Barbora Krejcikova Mirra Andreeva</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited</desc>

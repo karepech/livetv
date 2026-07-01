@@ -5,9 +5,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: MASN, MLB Network, CHSN, MLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260701051000 +0700" stop="20260701071000 +0700" channel="mlbnetworkrsnguardians.tvmlb.tv">
+  <programme start="20260701051000 +0700" stop="20260701071000 +0700" channel="rsnguardians.tvmlb.tv">
     <title lang="id">Texas Rangers @ Cleveland Guardians</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: MLB Network, RSN, Guardians.TV, MLB.TV</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: RSN, Guardians.TV, MLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260701053500 +0700" stop="20260701073500 +0700" channel="nesnmlb.tvnationals.tv">
@@ -30,14 +30,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, SNY, MLB.TV, Sportsnet, SN NOW, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260701104000 +0700" stop="20260701124000 +0700" channel="sportsnetpittsburghnbcsphiladelphiamlb.tvsportsnetsnnow">
+  <programme start="20260701104000 +0700" stop="20260701124000 +0700" channel="sportsnetpittsburghnbcsphiladelphiamlb.tvsportsnetsnnowmore">
     <title lang="id">Pittsburgh Pirates @ Philadelphia Phillies</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: SportsNet Pittsburgh, NBCS Philadelphia, MLB.TV, Sportsnet, SN NOW</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: SportsNet Pittsburgh, NBCS Philadelphia, MLB.TV, Sportsnet, SN NOW, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260701111500 +0700" stop="20260701131500 +0700" channel="mlbnetworkmlb.tvcardinals.tvbravesvisionrds2">
+  <programme start="20260701111500 +0700" stop="20260701131500 +0700" channel="mlb.tvcardinals.tvbravesvisionrds2">
     <title lang="id">St. Louis Cardinals @ Atlanta Braves</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: MLB Network, MLB.TV, Cardinals.TV, BravesVision, RDS 2</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: MLB.TV, Cardinals.TV, BravesVision, RDS 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260701114000 +0700" stop="20260701134000 +0700" channel="mlb.tvroyals.tvrays.tv">
@@ -165,14 +165,19 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, OneSoccer</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260701070000 +0700" stop="20260701090000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Canterbury Rams @ Southland Sharks</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+  <programme start="20260701100000 +0700" stop="20260701120000 +0700" channel="fubosportsespnunlimitedespnespndeportestsn+more">
+    <title lang="id">Wimbledon</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, ESPN Deportes, TSN+, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260701100000 +0700" stop="20260701120000 +0700" channel="fubosportsespnunlimitedespnespndeportestsn2more">
-    <title lang="id">Wimbledon</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, ESPN Deportes, TSN2, MORE</desc>
+  <programme start="20260701120000 +0700" stop="20260701140000 +0700" channel="tsn+">
+    <title lang="id">McCartney Kessler @ Aryna Sabalenka</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260701123000 +0700" stop="20260701143000 +0700" channel="tsn+">
+    <title lang="id">Nuno Borges @ Jannik Sinner</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260701040000 +0700" stop="20260701060000 +0700" channel="espnselectespnunlimited">
@@ -190,9 +195,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, ESPN U</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260701110000 +0700" stop="20260701130000 +0700" channel="fubosportsespnunlimitedespn2">
+  <programme start="20260701110000 +0700" stop="20260701130000 +0700" channel="fubosportsespnunlimitedespn2tsn+">
     <title lang="id">Oklahoma City Spark - Carolina Blaze</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

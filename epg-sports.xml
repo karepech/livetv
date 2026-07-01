@@ -1,15 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
-  <programme start="20260702062000 +0700" stop="20260702082000 +0700" channel="fanatizmarqueemlbnetworkpadres.tvmlb.tv">
-    <title lang="id">San Diego Padres @ Chicago Cubs</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, Marquee, MLB Network, Padres.TV, MLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260702070700 +0700" stop="20260702090700 +0700" channel="espnunlimitedsnymlb.tvsportsnetsnnowmore">
-    <title lang="id">New York Mets @ Toronto Blue Jays</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, SNY, MLB.TV, Sportsnet, SN NOW, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260702104000 +0700" stop="20260702124000 +0700" channel="sportsnetpittsburghnbcsphiladelphiamlb.tvsportsnetsnnowmore">
     <title lang="id">Pittsburgh Pirates @ Philadelphia Phillies</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: SportsNet Pittsburgh, NBCS Philadelphia, MLB.TV, Sportsnet, SN NOW, MORE</desc>
@@ -40,14 +30,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260702103000 +0700" stop="20260702123000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Vermont Mountaineers - Sanford Mainers</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260702103000 +0700" stop="20260702123000 +0700" channel="wwax">
     <title lang="id">Lowell Spinners at Norwich Sea Unicorns</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: WWAX</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260702090000 +0700" stop="20260702110000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Texas - Oklahoma</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260702103500 +0700" stop="20260702123500 +0700" channel="ballysportslivemilb.tv">
@@ -95,11 +85,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260702080000 +0700" stop="20260702100000 +0700" channel="fubosportspeacockesfoxsports1foxsportsplus4kfoxonemore">
-    <title lang="id">Belgium Senegal Round of 32</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX Sports 1, FOX Sports Plus 4K, FOX One, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260702093000 +0700" stop="20260702113000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Charlotte Independence Corpus Christi</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
@@ -108,16 +93,6 @@
   <programme start="20260702110000 +0700" stop="20260702130000 +0700" channel="tvbelumtersedia">
     <title lang="id">Chattanooga Red Wolves Westchester SC ESPN Select ESPN Unlimited MSGSN</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260702080000 +0700" stop="20260702100000 +0700" channel="fubosportsfoxsports2onesoccer">
-    <title lang="id">HFX Wanderers Atlético Ottawa</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, OneSoccer</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260702080000 +0700" stop="20260702100000 +0700" channel="espnunlimitedespnu">
-    <title lang="id">Naptown Lacrosse Challenge</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, ESPN U</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260702100000 +0700" stop="20260702120000 +0700" channel="espnunlimitedespnu">

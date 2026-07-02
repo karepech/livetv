@@ -1,53 +1,83 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
-  <programme start="20260702104000 +0700" stop="20260702124000 +0700" channel="sportsnetpittsburghnbcsphiladelphiamlb.tvsportsnetsnnowmore">
+  <programme start="20260702014000 +0700" stop="20260702034000 +0700" channel="more">
+    <title lang="id">Los Angeles Dodgers @ Athletics NBCS California SportsNet LA FOX 5 Vegas MLB.TV SNLA+</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: MORE</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702014000 +0700" stop="20260702034000 +0700" channel="nbcsbayareadbacks.tvmlb.tv">
+    <title lang="id">San Francisco Giants @ Arizona Diamondbacks</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: NBCS Bay Area, Dbacks.TV, MLB.TV</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702043500 +0700" stop="20260702063500 +0700" channel="sportsnetpittsburghmlbnetworknbcsphiladelphiamlb.tvsnnowmore">
     <title lang="id">Pittsburgh Pirates @ Philadelphia Phillies</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: SportsNet Pittsburgh, NBCS Philadelphia, MLB.TV, Sportsnet, SN NOW, MORE</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: SportsNet Pittsburgh, MLB Network, NBCS Philadelphia, MLB.TV, SN NOW, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260702111500 +0700" stop="20260702131500 +0700" channel="mlb.tvcardinals.tvbravesvisionrds2">
+  <programme start="20260702061000 +0700" stop="20260702081000 +0700" channel="mlb.tvbrewers.tvreds.tvsportsnetsnnow">
+    <title lang="id">Cincinnati Reds @ Milwaukee Brewers</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: MLB.TV, Brewers.TV, Reds.TV, Sportsnet, SN NOW</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702071000 +0700" stop="20260702091000 +0700" channel="mlbnetworkrockies.tvmlb.tvmarlins.tv">
+    <title lang="id">Miami Marlins @ Colorado Rockies</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: MLB Network, Rockies.TV, MLB.TV, Marlins.TV</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702104000 +0700" stop="20260702124000 +0700" channel="fanatizchsnguardians.tvmlb.tvsportsnetmore">
+    <title lang="id">Chicago White Sox @ Cleveland Guardians</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, CHSN, Guardians.TV, MLB.TV, Sportsnet, MORE</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702111500 +0700" stop="20260702131500 +0700" channel="mlb.tvcardinals.tvbravesvisiontsn2">
     <title lang="id">St. Louis Cardinals @ Atlanta Braves</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: MLB.TV, Cardinals.TV, BravesVision, RDS 2</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: MLB.TV, Cardinals.TV, BravesVision, TSN2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260702114000 +0700" stop="20260702134000 +0700" channel="mlb.tvroyals.tvrays.tv">
+  <programme start="20260702114000 +0700" stop="20260702134000 +0700" channel="mlb.tvroyals.tvrays.tvtvasports">
     <title lang="id">Tampa Bay Rays @ Kansas City Royals</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: MLB.TV, Royals.TV, Rays.TV</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: MLB.TV, Royals.TV, Rays.TV, TVA Sports</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260702113000 +0700" stop="20260702133000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Sioux Falls Canaries - Sioux City Explorers AZFS GCSEN</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260702113000 +0700" stop="20260702133000 +0700" channel="kfve">
-    <title lang="id">Chicago Dogs - Milwaukee Milkmen</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: KFVE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260702103000 +0700" stop="20260702123000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Keene Swamp Bats - North Shore Navigators</title>
+  <programme start="20260702100000 +0700" stop="20260702120000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">North Shore Navigators - Vermont Mountaineers</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260702103000 +0700" stop="20260702123000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Vermont Mountaineers - Sanford Mainers</title>
+    <title lang="id">Danbury Westerners - Keene Swamp Bats</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260702103000 +0700" stop="20260702123000 +0700" channel="wwax">
-    <title lang="id">Lowell Spinners at Norwich Sea Unicorns</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: WWAX</desc>
+  <programme start="20260702030000 +0700" stop="20260702050000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Massachusetts - Maryland</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260702103500 +0700" stop="20260702123500 +0700" channel="ballysportslivemilb.tv">
+  <programme start="20260702060000 +0700" stop="20260702080000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Utah - Hawaii</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702020500 +0700" stop="20260702040500 +0700" channel="ballysportslivemilb.tv">
+    <title lang="id">Reno Aces @ Tacoma Rainiers</title>
+    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702103000 +0700" stop="20260702123000 +0700" channel="sportsnetpittsburghballysportslivemilb.tv">
+    <title lang="id">Daytona Tortugas @ Bradenton Marauders</title>
+    <desc lang="id">[Sedang Tayang] Disiarkan di: SportsNet Pittsburgh, Bally Sports Live, MiLB.TV</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702103500 +0700" stop="20260702123500 +0700" channel="snyballysportslivemilb.tv">
     <title lang="id">Worcester @ Syracuse Mets</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
+    <desc lang="id">[Sedang Tayang] Disiarkan di: SNY, Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260702104500 +0700" stop="20260702124500 +0700" channel="ballysportslivemilb.tv">
+  <programme start="20260702104500 +0700" stop="20260702124500 +0700" channel="yesballysportslivemilb.tv">
     <title lang="id">Gwinnett Stripers @ Durham Bulls</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
+    <desc lang="id">[Sedang Tayang] Disiarkan di: YES, Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260702104500 +0700" stop="20260702124500 +0700" channel="ballysportslivemilb.tv">
@@ -55,9 +85,14 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260702110000 +0700" stop="20260702130000 +0700" channel="marqueeballysportslivemilb.tv">
-    <title lang="id">Hickory Crawdads @ Myrtle Beach Pelicans</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Marquee, Bally Sports Live, MiLB.TV</desc>
+  <programme start="20260702110000 +0700" stop="20260702130000 +0700" channel="yesballysportslivemilb.tv">
+    <title lang="id">Wilmington Blue Rocks @ Hudson Valley Renegades</title>
+    <desc lang="id">[Sedang Tayang] Disiarkan di: YES, Bally Sports Live, MiLB.TV</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702110000 +0700" stop="20260702130000 +0700" channel="ballysportslivemilb.tv">
+    <title lang="id">Lansing Lugnuts @ Dayton Dragons Dayton's CW</title>
+    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260702110500 +0700" stop="20260702130500 +0700" channel="ballysportslivemilb.tv">
@@ -65,9 +100,9 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260702110500 +0700" stop="20260702130500 +0700" channel="yesballysportslivemilb.tv">
+  <programme start="20260702110500 +0700" stop="20260702130500 +0700" channel="ballysportslivemilb.tv">
     <title lang="id">Norfolk Tides @ Scranton/WB</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: YES, Bally Sports Live, MiLB.TV</desc>
+    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260702110500 +0700" stop="20260702130500 +0700" channel="ballysportslivemilb.tv">
@@ -85,24 +120,244 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260702093000 +0700" stop="20260702113000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Charlotte Independence Corpus Christi</title>
+  <programme start="20260702090000 +0700" stop="20260702110000 +0700" channel="nextlevelsports">
+    <title lang="id">Seibu Lions @ Fukuoka</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702070000 +0700" stop="20260702090000 +0700" channel="fubosportspeacockesfoxfox4kfoxsports4kmore">
+    <title lang="id">Spain Austria Round of 32</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX, FOX 4K, FOX Sports 4K, MORE</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702110000 +0700" stop="20260702130000 +0700" channel="fubosportspeacockesfoxfox4kfoxsports4kmore">
+    <title lang="id">Portugal Croatia Round of 32</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX, FOX 4K, FOX Sports 4K, MORE</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702023000 +0700" stop="20260702043000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Union Omaha Alta</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260702110000 +0700" stop="20260702130000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Chattanooga Red Wolves Westchester SC ESPN Select ESPN Unlimited MSGSN</title>
+  <programme start="20260702113000 +0700" stop="20260702133000 +0700" channel="tvbelumtersedia">
+    <title lang="id">Atlanta Dream @ Washington Mystics Monumental SN Atlanta News First PSN Victory+</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260702100000 +0700" stop="20260702120000 +0700" channel="espnunlimitedespnu">
-    <title lang="id">Naptown Lacrosse Challenge</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, ESPN U</desc>
+  <programme start="20260702090000 +0700" stop="20260702110000 +0700" channel="dazndazncanada">
+    <title lang="id">Rwanda @ Guinea Qualifying</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260702110000 +0700" stop="20260702130000 +0700" channel="fubosportsespnunlimitedespn2tsn+">
-    <title lang="id">Oklahoma City Spark - Carolina Blaze</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2, TSN+</desc>
+  <programme start="20260702120000 +0700" stop="20260702140000 +0700" channel="dazndazncanada">
+    <title lang="id">Nigeria @ Tunisia Qualifying</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702123000 +0700" stop="20260702143000 +0700" channel="dazndazncanada">
+    <title lang="id">Qatar @ India Qualifying</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702013000 +0700" stop="20260702033000 +0700" channel="dazndazncanada">
+    <title lang="id">Iraq @ Syria Qualifying</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702020000 +0700" stop="20260702040000 +0700" channel="dazndazncanada">
+    <title lang="id">South Sudan @ Libya Qualifying</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702030000 +0700" stop="20260702050000 +0700" channel="dazndazncanada">
+    <title lang="id">Mali @ Egypt Qualifying</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702030000 +0700" stop="20260702050000 +0700" channel="dazndazncanada">
+    <title lang="id">D.R. Congo @ Madagascar Qualifying</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702033000 +0700" stop="20260702053000 +0700" channel="dazndazncanada">
+    <title lang="id">Great Britain @ Lithuania Qualifying</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702033000 +0700" stop="20260702053000 +0700" channel="dazndazncanada">
+    <title lang="id">Georgia @ Ukraine Qualifying</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702040000 +0700" stop="20260702060000 +0700" channel="dazndazncanada">
+    <title lang="id">Greece @ Romania Qualifying</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702043000 +0700" stop="20260702063000 +0700" channel="dazndazncanada">
+    <title lang="id">Iran @ Jordan Qualifying</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702050000 +0700" stop="20260702070000 +0700" channel="dazndazncanada">
+    <title lang="id">Cameroon @ Cape Verde Qualifying</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702050000 +0700" stop="20260702070000 +0700" channel="dazndazncanada">
+    <title lang="id">Lebanon @ Saudi Arabia Qualifying</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702050000 +0700" stop="20260702070000 +0700" channel="dazndazncanada">
+    <title lang="id">Denmark @ Spain Qualifying</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702060000 +0700" stop="20260702080000 +0700" channel="dazndazncanada">
+    <title lang="id">Turkiye @ Bosnia &amp; Herzegovina Qualifying</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702060000 +0700" stop="20260702080000 +0700" channel="dazndazncanada">
+    <title lang="id">Montenegro @ Portugal Qualifying</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702060000 +0700" stop="20260702080000 +0700" channel="dazndazncanada">
+    <title lang="id">Senegal @ Ivory Coast Qualifying</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702060000 +0700" stop="20260702080000 +0700" channel="dazndazncanada">
+    <title lang="id">Angola @ Uganda Qualifying</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702060000 +0700" stop="20260702080000 +0700" channel="dazndazncanada">
+    <title lang="id">Serbia @ Switzerland Qualifying</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702074500 +0700" stop="20260702094500 +0700" channel="dazndazncanada">
+    <title lang="id">Italy @ Iceland Qualifying</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702070000 +0700" stop="20260702090000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Taranaki Mountainairs @ Bay Hawks</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702113000 +0700" stop="20260702133000 +0700" channel="disney+">
+    <title lang="id">John Deere Classic First Round ESPN Select ESPN Unlimited Hulu</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Disney+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702080000 +0700" stop="20260702100000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
+    <title lang="id">John Deere Classic First Round</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702103000 +0700" stop="20260702123000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
+    <title lang="id">BMW International Open First Round</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702030000 +0700" stop="20260702050000 +0700" channel="fubosportsgolfchannelusatsn4">
+    <title lang="id">U.S. Senior Open First Round</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, TSN4</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702093000 +0700" stop="20260702113000 +0700" channel="peacocknbcsnetworktsn5rds2">
+    <title lang="id">U.S. Senior Open First Round</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBCS Network, TSN5, RDS 2</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702100000 +0700" stop="20260702120000 +0700" channel="fubosportsespnunlimitedespnespndeportestsn2more">
+    <title lang="id">Wimbledon</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, ESPN Deportes, TSN2, MORE</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702123000 +0700" stop="20260702143000 +0700" channel="fubosportsespnunlimited">
+    <title lang="id">Iga Swiatek @ Karolina Pliskova</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702023000 +0700" stop="20260702043000 +0700" channel="fubosportsespnunlimited">
+    <title lang="id">Arthur Fils @ Matteo Berrettini</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702053000 +0700" stop="20260702073000 +0700" channel="fubosportsespnunlimited">
+    <title lang="id">Elena Rybakina @ Caty McNally</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702093000 +0700" stop="20260702113000 +0700" channel="foxsoccerplus">
+    <title lang="id">Brisbane Lions @ Geelong Cats</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702043000 +0700" stop="20260702063000 +0700" channel="teampresentationpeacock">
+    <title lang="id">Tour de France</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Team Presentation, Peacock</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702094500 +0700" stop="20260702114500 +0700" channel="fubosportsfoxsports2">
+    <title lang="id">Newcastle Knights W @ Cronulla Sharks W</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702090000 +0700" stop="20260702110000 +0700" channel="paramount+">
+    <title lang="id">Spain U20 @ France U20</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702090000 +0700" stop="20260702110000 +0700" channel="paramount+">
+    <title lang="id">Uruguay U20 @ Wales U20</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702113000 +0700" stop="20260702133000 +0700" channel="paramount+">
+    <title lang="id">Ireland U20 @ Argentina U20</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702113000 +0700" stop="20260702133000 +0700" channel="paramount+">
+    <title lang="id">Fiji U20 @ Australia U20</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702020000 +0700" stop="20260702040000 +0700" channel="fubosportsparamount+cbssn">
+    <title lang="id">USA U20 @ England U20</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Paramount+, CBSSN</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702020000 +0700" stop="20260702040000 +0700" channel="paramount+">
+    <title lang="id">Scotland U20 @ New Zealand U20</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702043000 +0700" stop="20260702063000 +0700" channel="paramount+">
+    <title lang="id">Japan U20 @ Italy U20</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702043000 +0700" stop="20260702063000 +0700" channel="paramount+">
+    <title lang="id">Georgia U20 @ South Africa U20</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702110000 +0700" stop="20260702130000 +0700" channel="fubosportsespnunlimitedespnespndeportes">
+    <title lang="id">Portland Cascade - Chicago Bandits</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, ESPN Deportes</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260702103000 +0700" stop="20260702123000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">TC Colorado 4th of July Softball</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

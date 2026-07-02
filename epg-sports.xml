@@ -1,15 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
-  <programme start="20260702014000 +0700" stop="20260702034000 +0700" channel="more">
-    <title lang="id">Los Angeles Dodgers @ Athletics NBCS California SportsNet LA FOX 5 Vegas MLB.TV SNLA+</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260702014000 +0700" stop="20260702034000 +0700" channel="nbcsbayareadbacks.tvmlb.tv">
-    <title lang="id">San Francisco Giants @ Arizona Diamondbacks</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: NBCS Bay Area, Dbacks.TV, MLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260702043500 +0700" stop="20260702063500 +0700" channel="sportsnetpittsburghmlbnetworknbcsphiladelphiamlb.tvsnnowmore">
     <title lang="id">Pittsburgh Pirates @ Philadelphia Phillies</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: SportsNet Pittsburgh, MLB Network, NBCS Philadelphia, MLB.TV, SN NOW, MORE</desc>
@@ -58,11 +48,6 @@
   <programme start="20260702060000 +0700" stop="20260702080000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Utah - Hawaii</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260702020500 +0700" stop="20260702040500 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Reno Aces @ Tacoma Rainiers</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260702103000 +0700" stop="20260702123000 +0700" channel="sportsnetpittsburghballysportslivemilb.tv">
@@ -133,11 +118,6 @@
   <programme start="20260702110000 +0700" stop="20260702130000 +0700" channel="fubosportspeacockesfoxfox4kfoxsports4kmore">
     <title lang="id">Portugal Croatia Round of 32</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX, FOX 4K, FOX Sports 4K, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260702023000 +0700" stop="20260702043000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Union Omaha Alta</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260702113000 +0700" stop="20260702133000 +0700" channel="tvbelumtersedia">
@@ -250,9 +230,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260702113000 +0700" stop="20260702133000 +0700" channel="disney+">
+  <programme start="20260702113000 +0700" stop="20260702133000 +0700" channel="disney+tsn+">
     <title lang="id">John Deere Classic First Round ESPN Select ESPN Unlimited Hulu</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Disney+</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Disney+, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260702080000 +0700" stop="20260702100000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
@@ -275,23 +255,23 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBCS Network, TSN5, RDS 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260702100000 +0700" stop="20260702120000 +0700" channel="fubosportsespnunlimitedespnespndeportestsn2more">
+  <programme start="20260702100000 +0700" stop="20260702120000 +0700" channel="fubosportsespnunlimitedespnespndeportestsn+more">
     <title lang="id">Wimbledon</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, ESPN Deportes, TSN2, MORE</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, ESPN Deportes, TSN+, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260702123000 +0700" stop="20260702143000 +0700" channel="fubosportsespnunlimited">
-    <title lang="id">Iga Swiatek @ Karolina Pliskova</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited</desc>
+  <programme start="20260702123000 +0700" stop="20260702143000 +0700" channel="fubosportsespnunlimitedtsn+">
+    <title lang="id">Karolina Pliskova Iga Swiatek</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260702023000 +0700" stop="20260702043000 +0700" channel="fubosportsespnunlimited">
-    <title lang="id">Arthur Fils @ Matteo Berrettini</title>
+    <title lang="id">Matteo Berrettini Arthur Fils</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260702053000 +0700" stop="20260702073000 +0700" channel="fubosportsespnunlimited">
-    <title lang="id">Elena Rybakina @ Caty McNally</title>
+    <title lang="id">Caty McNally Elena Rybakina</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -350,9 +330,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260702110000 +0700" stop="20260702130000 +0700" channel="fubosportsespnunlimitedespnespndeportes">
+  <programme start="20260702110000 +0700" stop="20260702130000 +0700" channel="fubosportsespnunlimitedespnespndeportestsn+">
     <title lang="id">Portland Cascade - Chicago Bandits</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, ESPN Deportes</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, ESPN Deportes, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260702103000 +0700" stop="20260702123000 +0700" channel="espnselectespnunlimited">

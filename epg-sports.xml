@@ -1,10 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
-  <programme start="20260703071000 +0700" stop="20260703091000 +0700" channel="mlbnetworkrockies.tvmlb.tvmarlins.tv">
-    <title lang="id">Miami Marlins @ Colorado Rockies</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: MLB Network, Rockies.TV, MLB.TV, Marlins.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260703104000 +0700" stop="20260703124000 +0700" channel="fanatizchsnguardians.tvmlb.tvsportsnetmore">
     <title lang="id">Chicago White Sox @ Cleveland Guardians</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, CHSN, Guardians.TV, MLB.TV, Sportsnet, MORE</desc>
@@ -85,11 +80,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260703070000 +0700" stop="20260703090000 +0700" channel="fubosportspeacockesfoxfox4kfoxsports4kmore">
-    <title lang="id">Spain Austria Round of 32</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX, FOX 4K, FOX Sports 4K, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260703110000 +0700" stop="20260703130000 +0700" channel="fubosportspeacockesfoxfox4kfoxsports4kmore">
     <title lang="id">Portugal Croatia Round of 32</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX, FOX 4K, FOX Sports 4K, MORE</desc>
@@ -98,16 +88,6 @@
   <programme start="20260703113000 +0700" stop="20260703133000 +0700" channel="tvbelumtersedia">
     <title lang="id">Atlanta Dream @ Washington Mystics Monumental SN Atlanta News First PSN Victory+</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260703074500 +0700" stop="20260703094500 +0700" channel="dazndazncanada">
-    <title lang="id">Italy @ Iceland Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260703080000 +0700" stop="20260703100000 +0700" channel="fubosportsespnselectespnunlimitedgolfchannelusagolfchannelcanada">
-    <title lang="id">John Deere Classic First Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Select, ESPN Unlimited, Golf Channel USA, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260703093000 +0700" stop="20260703113000 +0700" channel="peacocknbcsnetworktsn5rds2">

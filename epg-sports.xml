@@ -1,10 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
-  <programme start="20260703043500 +0700" stop="20260703063500 +0700" channel="sportsnetpittsburghmlbnetworknbcsphiladelphiamlb.tvsnnowmore">
-    <title lang="id">Pittsburgh Pirates @ Philadelphia Phillies</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: SportsNet Pittsburgh, MLB Network, NBCS Philadelphia, MLB.TV, SN NOW, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260703061000 +0700" stop="20260703081000 +0700" channel="mlb.tvbrewers.tvreds.tvsportsnetsnnow">
     <title lang="id">Cincinnati Reds @ Milwaukee Brewers</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: MLB.TV, Brewers.TV, Reds.TV, Sportsnet, SN NOW</desc>
@@ -115,31 +110,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260703040000 +0700" stop="20260703060000 +0700" channel="dazndazncanada">
-    <title lang="id">Greece @ Romania Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260703043000 +0700" stop="20260703063000 +0700" channel="dazndazncanada">
-    <title lang="id">Iran @ Jordan Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260703050000 +0700" stop="20260703070000 +0700" channel="dazndazncanada">
-    <title lang="id">Cameroon @ Cape Verde Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260703050000 +0700" stop="20260703070000 +0700" channel="dazndazncanada">
-    <title lang="id">Lebanon @ Saudi Arabia Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260703050000 +0700" stop="20260703070000 +0700" channel="dazndazncanada">
-    <title lang="id">Denmark @ Spain Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260703060000 +0700" stop="20260703080000 +0700" channel="dazndazncanada">
     <title lang="id">Turkiye @ Bosnia &amp; Herzegovina Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
@@ -178,26 +148,6 @@
   <programme start="20260703093000 +0700" stop="20260703113000 +0700" channel="peacocknbcsnetworktsn5rds2">
     <title lang="id">U.S. Senior Open First Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBCS Network, TSN5, RDS 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260703053000 +0700" stop="20260703073000 +0700" channel="fubosportsespnunlimited">
-    <title lang="id">Caty McNally Elena Rybakina</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260703043000 +0700" stop="20260703063000 +0700" channel="teampresentationpeacock">
-    <title lang="id">Tour de France</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Team Presentation, Peacock</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260703043000 +0700" stop="20260703063000 +0700" channel="paramount+">
-    <title lang="id">Japan U20 @ Italy U20</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260703043000 +0700" stop="20260703063000 +0700" channel="paramount+">
-    <title lang="id">Georgia U20 @ South Africa U20</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260703110000 +0700" stop="20260703130000 +0700" channel="fubosportsespnunlimitedespnespndeportestsn+">

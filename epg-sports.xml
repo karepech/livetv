@@ -1,10 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
-  <programme start="20260703061000 +0700" stop="20260703081000 +0700" channel="mlb.tvbrewers.tvreds.tvsportsnetsnnow">
-    <title lang="id">Cincinnati Reds @ Milwaukee Brewers</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: MLB.TV, Brewers.TV, Reds.TV, Sportsnet, SN NOW</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260703071000 +0700" stop="20260703091000 +0700" channel="mlbnetworkrockies.tvmlb.tvmarlins.tv">
     <title lang="id">Miami Marlins @ Colorado Rockies</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: MLB Network, Rockies.TV, MLB.TV, Marlins.TV</desc>
@@ -32,11 +27,6 @@
   </programme>
   <programme start="20260703103000 +0700" stop="20260703123000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Danbury Westerners - Keene Swamp Bats</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260703060000 +0700" stop="20260703080000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Utah - Hawaii</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -108,31 +98,6 @@
   <programme start="20260703113000 +0700" stop="20260703133000 +0700" channel="tvbelumtersedia">
     <title lang="id">Atlanta Dream @ Washington Mystics Monumental SN Atlanta News First PSN Victory+</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260703060000 +0700" stop="20260703080000 +0700" channel="dazndazncanada">
-    <title lang="id">Turkiye @ Bosnia &amp; Herzegovina Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260703060000 +0700" stop="20260703080000 +0700" channel="dazndazncanada">
-    <title lang="id">Montenegro @ Portugal Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260703060000 +0700" stop="20260703080000 +0700" channel="dazndazncanada">
-    <title lang="id">Senegal @ Ivory Coast Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260703060000 +0700" stop="20260703080000 +0700" channel="dazndazncanada">
-    <title lang="id">Angola @ Uganda Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260703060000 +0700" stop="20260703080000 +0700" channel="dazndazncanada">
-    <title lang="id">Serbia @ Switzerland Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260703074500 +0700" stop="20260703094500 +0700" channel="dazndazncanada">

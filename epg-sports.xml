@@ -140,11 +140,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ION</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260703070000 +0700" stop="20260703090000 +0700" channel="dazndazncanada">
-    <title lang="id">Philippines @ New Zealand Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260703103000 +0700" stop="20260703123000 +0700" channel="dazndazncanada">
     <title lang="id">Guam @ Australia Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
@@ -220,11 +215,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260703073000 +0700" stop="20260703093000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Manawatu Jets @ Canterbury Rams</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260703093000 +0700" stop="20260703113000 +0700" channel="dazncanada">
     <title lang="id">Australia U17 @ Canada U17</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN Canada</desc>
@@ -280,9 +270,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, truTV, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260703083000 +0700" stop="20260703103000 +0700" channel="tsn+">
-    <title lang="id">Cuervo 300 Practice CW CW App</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
+  <programme start="20260703083000 +0700" stop="20260703103000 +0700" channel="tvbelumtersedia">
+    <title lang="id">Cuervo 300 Practice CW CW App TSN+ WGN Canada</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260703113000 +0700" stop="20260703133000 +0700" channel="appletv">
@@ -298,11 +288,6 @@
   <programme start="20260703060500 +0700" stop="20260703080500 +0700" channel="dazndazncanada">
     <title lang="id">ERC Rally di Roma Capitale Stage 1</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260703064500 +0700" stop="20260703084500 +0700" channel="tvbelumtersedia">
-    <title lang="id">British Grand Prix Practice YouTube</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260703050000 +0700" stop="20260703070000 +0700" channel="tvbelumtersedia">

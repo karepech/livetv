@@ -125,31 +125,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ION</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260704040000 +0700" stop="20260704060000 +0700" channel="dazndazncanada">
-    <title lang="id">Slovenia @ Estonia Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260704040000 +0700" stop="20260704060000 +0700" channel="dazndazncanada">
-    <title lang="id">Poland @ Austria Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260704050000 +0700" stop="20260704070000 +0700" channel="dazndazncanada">
-    <title lang="id">Germany @ Israel Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260704050000 +0700" stop="20260704070000 +0700" channel="dazndazncanada">
-    <title lang="id">Czech Republic @ Sweden Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260704050000 +0700" stop="20260704070000 +0700" channel="dazndazncanada">
-    <title lang="id">Croatia @ Cyprus Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260704053000 +0700" stop="20260704073000 +0700" channel="dazndazncanada">
     <title lang="id">Latvia @ Netherlands Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
@@ -165,9 +140,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260704111000 +0700" stop="20260704131000 +0700" channel="dazntsn2">
+  <programme start="20260704111000 +0700" stop="20260704131000 +0700" channel="tsn2">
     <title lang="id">Puerto Rico @ Canada Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, TSN2</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260704113000 +0700" stop="20260704133000 +0700" channel="dazndazncanada">
@@ -215,11 +190,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260704050000 +0700" stop="20260704070000 +0700" channel="tvbelumtersedia">
-    <title lang="id">British Grand Prix Qualifying YouTube</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260704060000 +0700" stop="20260704080000 +0700" channel="fubosportsfoxsports2foxone">
     <title lang="id">Grand Prix at Mid-Ohio Practice</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, FOX One</desc>
@@ -238,16 +208,6 @@
   <programme start="20260704110000 +0700" stop="20260704130000 +0700" channel="dazndazncanada">
     <title lang="id">BKFC Fight Night</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260704040000 +0700" stop="20260704060000 +0700" channel="dazndazncanada">
-    <title lang="id">William Scull - Evander Castillo</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260704050000 +0700" stop="20260704070000 +0700" channel="fubosportsfoxsports2foxsportsracing">
-    <title lang="id">Saratoga Live</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, FOX Sports Racing</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260704100000 +0700" stop="20260704120000 +0700" channel="fubosportsfoxsports1">

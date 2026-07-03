@@ -95,11 +95,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260703090000 +0700" stop="20260703110000 +0700" channel="nextlevelsports">
-    <title lang="id">Seibu Lions @ Orix Buffaloes</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260703020000 +0700" stop="20260703040000 +0700" channel="fubosportscbssn">
     <title lang="id">Ripken National Championships Round of 16</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, CBSSN</desc>
@@ -138,21 +133,6 @@
   <programme start="20260703113000 +0700" stop="20260703133000 +0700" channel="ion">
     <title lang="id">Minnesota Lynx @ New York Liberty</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ION</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260703103000 +0700" stop="20260703123000 +0700" channel="dazndazncanada">
-    <title lang="id">Guam @ Australia Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260703103000 +0700" stop="20260703123000 +0700" channel="dazndazncanada">
-    <title lang="id">Chinese Taipei @ South Korea Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260703113000 +0700" stop="20260703133000 +0700" channel="dazndazncanada">
-    <title lang="id">Japan @ China Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260703030000 +0700" stop="20260703050000 +0700" channel="dazndazncanada">
@@ -215,19 +195,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260703093000 +0700" stop="20260703113000 +0700" channel="dazncanada">
-    <title lang="id">Australia U17 @ Canada U17</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260703030000 +0700" stop="20260703050000 +0700" channel="dazncanada">
+  <programme start="20260703030000 +0700" stop="20260703050000 +0700" channel="dazndazncanada">
     <title lang="id">Serbia U17 @ Lithuania U17</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN Canada</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260703054500 +0700" stop="20260703074500 +0700" channel="dazncanada">
+  <programme start="20260703054500 +0700" stop="20260703074500 +0700" channel="dazndazncanada">
     <title lang="id">Turkiye U17 @ France U17</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN Canada</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260703113000 +0700" stop="20260703133000 +0700" channel="cfl+(us)tsn3rds2">
@@ -235,19 +210,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: CFL+ (US), TSN3, RDS 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260703114500 +0700" stop="20260703134500 +0700" channel="espnselectespnunlimitedtsn+">
-    <title lang="id">John Deere Classic</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260703080000 +0700" stop="20260703100000 +0700" channel="fubosportsespnselectespnunlimitedgolfchannelusagolfchannelcanada">
     <title lang="id">John Deere Classic Second Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Select, ESPN Unlimited, Golf Channel USA, Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260703103000 +0700" stop="20260703123000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
-    <title lang="id">BMW International Open Second Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260703030000 +0700" stop="20260703050000 +0700" channel="fubosportsgolfchannelusatsn2">
@@ -273,11 +238,6 @@
   <programme start="20260703083000 +0700" stop="20260703103000 +0700" channel="tvbelumtersedia">
     <title lang="id">Cuervo 300 Practice CW CW App TSN+ WGN Canada</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260703113000 +0700" stop="20260703133000 +0700" channel="appletv">
-    <title lang="id">British Grand Prix Practice</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260703033000 +0700" stop="20260703053000 +0700" channel="appletvtsn4">
@@ -315,11 +275,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: FloRacing</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260703100000 +0700" stop="20260703120000 +0700" channel="fubosportsespnunlimitedespnespndeportestsn+more">
-    <title lang="id">Wimbledon</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, ESPN Deportes, TSN+, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260703123000 +0700" stop="20260703143000 +0700" channel="fubosportsespnunlimitedtsn+">
     <title lang="id">Arthur Rinderknech Novak Djokovic</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, TSN+</desc>
@@ -343,16 +298,6 @@
   <programme start="20260703040000 +0700" stop="20260703060000 +0700" channel="dazndazncanada">
     <title lang="id">William Scull - Evander Castillo</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260703094000 +0700" stop="20260703114000 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">Western Bulldogs @ Sydney Swans</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260703101000 +0700" stop="20260703121000 +0700" channel="foxsoccerplus">
-    <title lang="id">Adelaide Crows @ West Coast Eagles</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260703050000 +0700" stop="20260703070000 +0700" channel="fubosportsfoxsports2foxsportsracing">

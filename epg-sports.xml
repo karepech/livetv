@@ -95,11 +95,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, CBSSN</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260704060000 +0700" stop="20260704080000 +0700" channel="fubosportspeacockesfoxfox4kfoxsports4kmore">
-    <title lang="id">Australia Egypt Round of 32</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX, FOX 4K, FOX Sports 4K, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260704100000 +0700" stop="20260704120000 +0700" channel="fubosportspeacockesfoxfox4kfoxsports4kmore">
     <title lang="id">Argentina Cape Verde Round of 32</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX, FOX 4K, FOX Sports 4K, MORE</desc>
@@ -125,21 +120,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ION</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260704053000 +0700" stop="20260704073000 +0700" channel="dazndazncanada">
-    <title lang="id">Latvia @ Netherlands Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260704060000 +0700" stop="20260704080000 +0700" channel="dazndazncanada">
-    <title lang="id">Tunisia @ Rwanda Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260704063000 +0700" stop="20260704083000 +0700" channel="dazndazncanada">
-    <title lang="id">France @ Belgium Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260704111000 +0700" stop="20260704131000 +0700" channel="tsn2">
     <title lang="id">Puerto Rico @ Canada Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN2</desc>
@@ -147,11 +127,6 @@
   </programme>
   <programme start="20260704113000 +0700" stop="20260704133000 +0700" channel="dazndazncanada">
     <title lang="id">Chile @ Colombia Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260704054500 +0700" stop="20260704074500 +0700" channel="dazndazncanada">
-    <title lang="id">Turkiye U17 @ France U17</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -181,28 +156,13 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260704083000 +0700" stop="20260704103000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Cuervo 300 Practice CW CW App TSN+ WGN Canada</title>
+    <title lang="id">Cuervo 300 Practice CW CW App WGN Canada</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260704060500 +0700" stop="20260704080500 +0700" channel="dazndazncanada">
-    <title lang="id">ERC Rally di Roma Capitale Stage 1</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260704060000 +0700" stop="20260704080000 +0700" channel="fubosportsfoxsports2foxone">
-    <title lang="id">Grand Prix at Mid-Ohio Practice</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, FOX One</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260704100000 +0700" stop="20260704120000 +0700" channel="floracing">
     <title lang="id">Bill Gardner Sprintacular at Lincoln Park Speedway</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FloRacing</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260704060000 +0700" stop="20260704080000 +0700" channel="fubosportsespnunlimited">
-    <title lang="id">Felix Auger-Aliassime Michael Zheng</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260704110000 +0700" stop="20260704130000 +0700" channel="dazndazncanada">

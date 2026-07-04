@@ -1,10 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
-  <programme start="20260705053500 +0700" stop="20260705073500 +0700" channel="espnunlimitedyestwins.tvmlb.tvtvasports">
-    <title lang="id">Minnesota Twins @ New York Yankees</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, YES, Twins.TV, MLB.TV, TVA Sports</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260705080500 +0700" stop="20260705100500 +0700" channel="detroitsportsnetrsnmlb.tv">
     <title lang="id">Detroit Tigers @ Texas Rangers</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Detroit SportsNet, RSN, MLB.TV</desc>
@@ -165,24 +160,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN, ESPN U</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260705090000 +0700" stop="20260705110000 +0700" channel="espnmore">
-    <title lang="id">Brooklyn Nets @ Sacramento Kings California Classic Summer League Fubo Sports ESPN Select ESPN Unlimited Prime Video</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN, MORE</desc>
+  <programme start="20260705090000 +0700" stop="20260705110000 +0700" channel="nbatvmore">
+    <title lang="id">Brooklyn Nets @ Sacramento Kings California Classic Summer League ESPN Select ESPN Unlimited Prime Video Kings.com</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: NBA TV, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260705090000 +0700" stop="20260705110000 +0700" channel="espnespnumore">
-    <title lang="id">Atlanta Hawks @ Utah Jazz Salt Lake City Summer League Fubo Sports ESPN Unlimited Prime Video</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN, ESPN U, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260705060000 +0700" stop="20260705080000 +0700" channel="dazndazncanada">
-    <title lang="id">Egypt @ Angola Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260705060000 +0700" stop="20260705080000 +0700" channel="dazndazncanada">
-    <title lang="id">Madagascar @ Senegal Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
+  <programme start="20260705090000 +0700" stop="20260705110000 +0700" channel="tvbelumtersedia">
+    <title lang="id">Atlanta Hawks @ Utah Jazz Salt Lake City Summer League ESPN Unlimited Prime Video ESPN U Jazz+ KJZZ 14</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260705110000 +0700" stop="20260705130000 +0700" channel="bclionscfl+(us)tsn5">
@@ -200,24 +185,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN2, RDS 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260705060000 +0700" stop="20260705080000 +0700" channel="nbcnbcconnecticutrdsinfo">
-    <title lang="id">U.S. Senior Open Third Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: NBC, NBC Connecticut, RDS Info</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260705063000 +0700" stop="20260705083000 +0700" channel="fubosportsfoxsports1foxonetsn+">
-    <title lang="id">Honda Indy 200 Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, FOX One, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260705070000 +0700" stop="20260705090000 +0700" channel="slingtvhbomaxtrutvtsn+">
     <title lang="id">eero 400 Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, truTV, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260705053000 +0700" stop="20260705073000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Cuervo 300 Qualifying CW CW App TSN+ WGN Canada</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260705093000 +0700" stop="20260705113000 +0700" channel="cwmytvpeachtreetvkuns-tvtsn+more">
@@ -225,14 +195,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: CW, MyTV, Peachtree TV, KUNS-TV, TSN+, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260705100000 +0700" stop="20260705120000 +0700" channel="tvasports2tsn5revtv">
+  <programme start="20260705100000 +0700" stop="20260705120000 +0700" channel="tvasports2revtv">
     <title lang="id">Montmagny Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TVA Sports 2, TSN5, REV TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260705060000 +0700" stop="20260705080000 +0700" channel="fubosportsespnunlimitedtsn5rds2">
-    <title lang="id">Grigor Dimitrov Matteo Berrettini</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, TSN5, RDS 2</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TVA Sports 2, REV TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260705110000 +0700" stop="20260705130000 +0700" channel="slingtvhbomaxdazntnttrutvmore">

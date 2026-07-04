@@ -250,11 +250,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260704073000 +0700" stop="20260704093000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Wellington Saints @ Otago Nuggets</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260704094500 +0700" stop="20260704114500 +0700" channel="beinsports4">
     <title lang="id">Marseille</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: beIN SPORTS 4</desc>
@@ -265,9 +260,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: BC Lions, CFL+ (US), TSN5</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260704113000 +0700" stop="20260704133000 +0700" channel="espnselectespnunlimited">
+  <programme start="20260704113000 +0700" stop="20260704133000 +0700" channel="espnselectespnunlimitedtsn+">
     <title lang="id">John Deere Classic Third Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260704050000 +0700" stop="20260704070000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
@@ -333,11 +328,6 @@
   <programme start="20260704030000 +0700" stop="20260704050000 +0700" channel="appletvtsn5rds2">
     <title lang="id">British Grand Prix Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV, TSN5, RDS 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260704060500 +0700" stop="20260704080500 +0700" channel="dazndazncanada">
-    <title lang="id">ERC Rally di Roma Capitale Stage 2</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260704090500 +0700" stop="20260704110500 +0700" channel="dazndazncanada">
@@ -425,19 +415,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, DAZN, TNT, truTV, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260704071500 +0700" stop="20260704091500 +0700" channel="dazndazncanada">
-    <title lang="id">Toby Tsang - Mashin Machine</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260704121000 +0700" stop="20260704141000 +0700" channel="dazndazncanada">
     <title lang="id">Rajadamnern World Series</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260704061500 +0700" stop="20260704081500 +0700" channel="fubosportsfoxsports2tsn4">
-    <title lang="id">Collingwood Magpies @ Gold Coast Suns</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, TSN4</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260704093500 +0700" stop="20260704113500 +0700" channel="foxsoccerplus">
@@ -468,11 +448,6 @@
   <programme start="20260704113000 +0700" stop="20260704133000 +0700" channel="fubosportsfoxsports1foxsportsracing">
     <title lang="id">America's Day at the Races</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, FOX Sports Racing</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260704073000 +0700" stop="20260704093000 +0700" channel="foxsoccerplus">
-    <title lang="id">Wests Tigers @ St. George Illawarra Dragons</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260704093500 +0700" stop="20260704113500 +0700" channel="fubosportsfoxsports2">
@@ -515,9 +490,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260704090000 +0700" stop="20260704110000 +0700" channel="nbcnbcconnecticut">
+  <programme start="20260704090000 +0700" stop="20260704110000 +0700" channel="nbcconnecticut">
     <title lang="id">Diamond League Eugene</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: NBC, NBC Connecticut</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: NBC Connecticut</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

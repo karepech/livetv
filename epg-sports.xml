@@ -195,9 +195,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260704070000 +0700" stop="20260704090000 +0700" channel="espnu">
-    <title lang="id">Memphis Grizzlies @ Oklahoma City Thunder Salt Lake City Summer League ESPN Unlimited Prime Video</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN U</desc>
+  <programme start="20260704070000 +0700" stop="20260704090000 +0700" channel="espnespnu">
+    <title lang="id">Memphis Grizzlies @ Oklahoma City Thunder Salt Lake City Summer League Fubo Sports ESPN Unlimited Prime Video</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN, ESPN U</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260704090000 +0700" stop="20260704110000 +0700" channel="espnmore">
@@ -205,9 +205,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260704090000 +0700" stop="20260704110000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Atlanta Hawks @ Utah Jazz Salt Lake City Summer League ESPN Unlimited Prime Video ESPN U Jazz+ KJZZ 14</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
+  <programme start="20260704090000 +0700" stop="20260704110000 +0700" channel="espnespnumore">
+    <title lang="id">Atlanta Hawks @ Utah Jazz Salt Lake City Summer League Fubo Sports ESPN Unlimited Prime Video</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN, ESPN U, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260704050000 +0700" stop="20260704070000 +0700" channel="paramount+cbs">
@@ -320,16 +320,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260704124500 +0700" stop="20260704144500 +0700" channel="tsn+">
-    <title lang="id">British Grand Prix Sprint Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260704123000 +0700" stop="20260704143000 +0700" channel="dazndazncanada">
-    <title lang="id">Formula 4 Italian Championship Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260704010000 +0700" stop="20260704030000 +0700" channel="fubosportsfoxsports1foxone">
     <title lang="id">Grand Prix at Mid-Ohio Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, FOX One</desc>
@@ -355,11 +345,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260704123000 +0700" stop="20260704143000 +0700" channel="fubosportsespnunlimitedtsn+">
-    <title lang="id">Alexandra Eala Iga Swiatek</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260704023000 +0700" stop="20260704043000 +0700" channel="fubosportsespnunlimited">
     <title lang="id">Amanda Anisimova Madison Keys</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited</desc>
@@ -373,11 +358,6 @@
   <programme start="20260704110000 +0700" stop="20260704130000 +0700" channel="slingtvhbomaxdazntnttrutvmore">
     <title lang="id">Abdullah Mason - Albert Bell</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, DAZN, TNT, truTV, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260704121000 +0700" stop="20260704141000 +0700" channel="dazndazncanada">
-    <title lang="id">Rajadamnern World Series</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260704030000 +0700" stop="20260704050000 +0700" channel="peacock">

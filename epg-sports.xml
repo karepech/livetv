@@ -110,11 +110,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260704090000 +0700" stop="20260704110000 +0700" channel="nextlevelsportsryzsportsnetwork">
-    <title lang="id">Seibu Lions @ Orix Buffaloes Prime Video</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports, Ryz Sports Network</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260704020000 +0700" stop="20260704040000 +0700" channel="seibulionsfanatiz">
     <title lang="id">Orix Buffaloes @</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Seibu Lions, Fanatiz</desc>
@@ -250,19 +245,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260704094500 +0700" stop="20260704114500 +0700" channel="beinsports4">
-    <title lang="id">Marseille</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: beIN SPORTS 4</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260704110000 +0700" stop="20260704130000 +0700" channel="bclionscfl+(us)tsn5">
     <title lang="id">Edmonton Elks @</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: BC Lions, CFL+ (US), TSN5</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260704113000 +0700" stop="20260704133000 +0700" channel="espnselectespnunlimitedtsn+">
-    <title lang="id">John Deere Classic Third Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260704050000 +0700" stop="20260704070000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
@@ -280,19 +265,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN2, RDS 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260704110000 +0700" stop="20260704130000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
-    <title lang="id">BMW International Open Third Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
+  <programme start="20260704010000 +0700" stop="20260704030000 +0700" channel="peacocktsn+">
+    <title lang="id">U.S. Senior Open Third Round</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260704010000 +0700" stop="20260704030000 +0700" channel="peacock">
+  <programme start="20260704060000 +0700" stop="20260704080000 +0700" channel="nbcnbcconnecticutrdsinfo">
     <title lang="id">U.S. Senior Open Third Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260704060000 +0700" stop="20260704080000 +0700" channel="nbcconnecticutrdsinfo">
-    <title lang="id">U.S. Senior Open Third Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: NBC Connecticut, RDS Info</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: NBC, NBC Connecticut, RDS Info</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260704020000 +0700" stop="20260704040000 +0700" channel="fubosportsfoxsports1foxonetsn+">
@@ -311,7 +291,7 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260704053000 +0700" stop="20260704073000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Cuervo 300 Qualifying CW CW App WGN Canada</title>
+    <title lang="id">Cuervo 300 Qualifying CW CW App TSN+ WGN Canada</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -320,19 +300,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: CW, MyTV, Peachtree TV, KUNS-TV, TSN+, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260704110000 +0700" stop="20260704130000 +0700" channel="appletvrdstsn5">
-    <title lang="id">British Grand Prix Sprint Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV, RDS, TSN5</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260704030000 +0700" stop="20260704050000 +0700" channel="appletvtsn5rds2">
     <title lang="id">British Grand Prix Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV, TSN5, RDS 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260704090500 +0700" stop="20260704110500 +0700" channel="dazndazncanada">
-    <title lang="id">ERC Rally di Roma Capitale Stage 4</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260704014500 +0700" stop="20260704034500 +0700" channel="dazndazncanada">
@@ -345,9 +315,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260704050000 +0700" stop="20260704070000 +0700" channel="tvbelumtersedia">
+  <programme start="20260704050000 +0700" stop="20260704070000 +0700" channel="tsn+">
     <title lang="id">British Grand Prix Race 1 YouTube</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260704124500 +0700" stop="20260704144500 +0700" channel="tsn+">
@@ -370,14 +340,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, FOX One, REV TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260704100000 +0700" stop="20260704120000 +0700" channel="tvasports2revtv">
+  <programme start="20260704100000 +0700" stop="20260704120000 +0700" channel="tvasports2tsn5revtv">
     <title lang="id">Montmagny Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TVA Sports 2, REV TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260704091500 +0700" stop="20260704111500 +0700" channel="daznbeinsports6dazncanada">
-    <title lang="id">Porsche Carrera Cup Germany Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, beIN SPORTS 6, DAZN Canada</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TVA Sports 2, TSN5, REV TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260704020000 +0700" stop="20260704040000 +0700" channel="peacock">
@@ -388,11 +353,6 @@
   <programme start="20260704050000 +0700" stop="20260704070000 +0700" channel="peacock">
     <title lang="id">RedBud National Gate Drop</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260704100000 +0700" stop="20260704120000 +0700" channel="fubosportsespnunlimitedespnespndeportestsn2more">
-    <title lang="id">Wimbledon</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, ESPN Deportes, TSN2, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260704123000 +0700" stop="20260704143000 +0700" channel="fubosportsespnunlimitedtsn+">
@@ -420,11 +380,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260704093500 +0700" stop="20260704113500 +0700" channel="foxsoccerplus">
-    <title lang="id">Carlton Blues @ Richmond Tigers</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260704030000 +0700" stop="20260704050000 +0700" channel="peacock">
     <title lang="id">Barcelona Stage 1</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
@@ -448,16 +403,6 @@
   <programme start="20260704113000 +0700" stop="20260704133000 +0700" channel="fubosportsfoxsports1foxsportsracing">
     <title lang="id">America's Day at the Races</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, FOX Sports Racing</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260704093500 +0700" stop="20260704113500 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">Cronulla Sharks @ Brisbane Broncos</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260704113000 +0700" stop="20260704133000 +0700" channel="snworldsnnowsportsnet+">
-    <title lang="id">York RLFC @ Huddersfield Giants</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: SN World, SN NOW, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260704020000 +0700" stop="20260704040000 +0700" channel="foxsoccerplussnworldsnnowsportsnet+">
@@ -490,9 +435,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260704090000 +0700" stop="20260704110000 +0700" channel="nbcconnecticut">
+  <programme start="20260704090000 +0700" stop="20260704110000 +0700" channel="nbcnbcconnecticut">
     <title lang="id">Diamond League Eugene</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: NBC Connecticut</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: NBC, NBC Connecticut</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

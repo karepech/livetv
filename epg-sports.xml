@@ -1,10 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
-  <programme start="20260705021000 +0700" stop="20260705041000 +0700" channel="fanatizsportsnetlapadres.tvcbs8mlb.tvmore">
-    <title lang="id">San Diego Padres @ Los Angeles Dodgers</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, SportsNet LA, Padres.TV, CBS 8, MLB.TV, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260705043000 +0700" stop="20260705063000 +0700" channel="peacocknbcnbcuniversosportsnetsnnow">
     <title lang="id">New York Mets @ Atlanta Braves</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBC, NBC Universo, Sportsnet, SN NOW</desc>
@@ -85,8 +80,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260705020500 +0700" stop="20260705040500 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Reno Aces @ Tacoma Rainiers</title>
+  <programme start="20260705043500 +0700" stop="20260705063500 +0700" channel="ballysportslivemilb.tv">
+    <title lang="id">Norfolk Tides @ Scranton/WB</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -105,14 +100,14 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260705053500 +0700" stop="20260705073500 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Norfolk Tides @ Scranton/WB</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260705060500 +0700" stop="20260705080500 +0700" channel="memphisredbirdsballysportslivemilb.tv">
     <title lang="id">Charlotte Knights @</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Memphis Redbirds, Bally Sports Live, MiLB.TV</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260705063500 +0700" stop="20260705083500 +0700" channel="ballysportslivemilb.tv">
+    <title lang="id">Norfolk Tides @ Scranton/WB</title>
+    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260705070500 +0700" stop="20260705090500 +0700" channel="ballysportslivemilb.tv">
@@ -155,11 +150,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260705050000 +0700" stop="20260705070000 +0700" channel="ryzsportsnetwork">
-    <title lang="id">Seibu Lions @ Orix Buffaloes Prime Video</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Ryz Sports Network</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260705080000 +0700" stop="20260705100000 +0700" channel="fubosportspeacockesfoxfox4kfoxsports4kmore">
     <title lang="id">Brazil Norway Round of 16</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX, FOX 4K, FOX Sports 4K, MORE</desc>
@@ -178,11 +168,6 @@
   <programme start="20260705110000 +0700" stop="20260705130000 +0700" channel="tvbelumtersedia">
     <title lang="id">Portland Thorns Racing Louisville Victory+</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260705023000 +0700" stop="20260705043000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Las Vegas Lights El Paso Locomotive</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260705110000 +0700" stop="20260705130000 +0700" channel="birminghamlegionespnselectespnunlimited">
@@ -210,9 +195,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: WWAX</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260705060000 +0700" stop="20260705080000 +0700" channel="espnselectespnunlimited">
+  <programme start="20260705060000 +0700" stop="20260705080000 +0700" channel="espnselectespnunlimitedtsn+">
     <title lang="id">Ottawa Rapid Calgary Wild</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260705070000 +0700" stop="20260705090000 +0700" channel="nbatvgothamsportsappmore">
@@ -355,11 +340,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260705030000 +0700" stop="20260705050000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Franklin Bulls @ Nelson Giants</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260705113000 +0700" stop="20260705133000 +0700" channel="beinsports4">
     <title lang="id">Marseille</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: beIN SPORTS 4</desc>
@@ -380,9 +360,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Yahoo! Sports</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260705113000 +0700" stop="20260705133000 +0700" channel="espnselectespnunlimited">
+  <programme start="20260705113000 +0700" stop="20260705133000 +0700" channel="espnselectespnunlimitedtsn+">
     <title lang="id">John Deere Classic Final Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260705050000 +0700" stop="20260705070000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
@@ -395,9 +375,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, CBS, CTV2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260705070000 +0700" stop="20260705090000 +0700" channel="tvbelumtersedia">
+  <programme start="20260705070000 +0700" stop="20260705090000 +0700" channel="tsn+">
     <title lang="id">John Deere Classic Final Round KPIX+</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260705080000 +0700" stop="20260705100000 +0700" channel="rds2cjdctv">
@@ -425,9 +405,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, FOX One</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260705043000 +0700" stop="20260705063000 +0700" channel="fubosportsfoxfoxone">
+  <programme start="20260705043000 +0700" stop="20260705063000 +0700" channel="fubosportsfoxfoxonetsn+">
     <title lang="id">Honda Indy 200 Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX, FOX One</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX, FOX One, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260705100000 +0700" stop="20260705120000 +0700" channel="slingtvhbomaxtnttrutvtsn5">
@@ -455,9 +435,19 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260705085500 +0700" stop="20260705105500 +0700" channel="tvbelumtersedia">
+  <programme start="20260705085500 +0700" stop="20260705105500 +0700" channel="tsn+">
     <title lang="id">British Grand Prix Race 2 YouTube</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260705101500 +0700" stop="20260705121500 +0700" channel="tsn+">
+    <title lang="id">British Grand Prix Race</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260705072500 +0700" stop="20260705092500 +0700" channel="tsn+">
+    <title lang="id">British Grand Prix Race</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260705075000 +0700" stop="20260705095000 +0700" channel="dazndazncanada">
@@ -485,14 +475,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Sports Racing</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260705100000 +0700" stop="20260705120000 +0700" channel="fubosportsespnunlimitedespnespndeportestsn2more">
+  <programme start="20260705100000 +0700" stop="20260705120000 +0700" channel="fubosportsespnunlimitedespnespndeportestsn+more">
     <title lang="id">Wimbledon</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, ESPN Deportes, TSN2, MORE</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, ESPN Deportes, TSN+, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260705123000 +0700" stop="20260705143000 +0700" channel="slingtvhbomax">
+  <programme start="20260705123000 +0700" stop="20260705143000 +0700" channel="slingtvhbomaxtsn+">
     <title lang="id">Novak Djokovic @ Roman Safiullin</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260705033000 +0700" stop="20260705053000 +0700" channel="fubosportsespnunlimitedabctsn2">
@@ -503,11 +493,6 @@
   <programme start="20260705060000 +0700" stop="20260705080000 +0700" channel="fubosportsespnunlimitedabc">
     <title lang="id">Shintaro Mochizuki @ Jannik Sinner</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ABC</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260705051500 +0700" stop="20260705071500 +0700" channel="foxsoccerplustsn5">
-    <title lang="id">St. Kilda Saints @ Essendon Bombers</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus, TSN5</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260705064000 +0700" stop="20260705084000 +0700" channel="fubosportsfoxsports2">
@@ -535,21 +520,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260705040000 +0700" stop="20260705060000 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">Manly Sea Eagles @ Parramatta Eels</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260705015000 +0700" stop="20260705035000 +0700" channel="foxsoccerplus">
-    <title lang="id">Wests Tigers W @ Parramatta Eels W</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260705034500 +0700" stop="20260705054500 +0700" channel="foxsoccerplus">
-    <title lang="id">Canterbury-Bankstown Bulldogs W @ New Zealand Warriors W</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260705113000 +0700" stop="20260705133000 +0700" channel="foxsoccerplussnworldsnnowsportsnet+">
     <title lang="id">Castleford Tigers @ Wakefield Trinity</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus, SN World, SN NOW, Sportsnet+</desc>
@@ -565,9 +535,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus, SN World, SN NOW, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260705050000 +0700" stop="20260705070000 +0700" channel="fubosportsespnunlimitedespn2">
+  <programme start="20260705050000 +0700" stop="20260705070000 +0700" channel="fubosportsespnunlimitedespn2tsn+">
     <title lang="id">Chicago Bandits - Texas Volts</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

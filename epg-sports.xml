@@ -245,11 +245,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, fubo Sports Network</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260705090000 +0700" stop="20260705110000 +0700" channel="dazndazncanada">
-    <title lang="id">Nigeria @ Rwanda Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260705120000 +0700" stop="20260705140000 +0700" channel="dazndazncanada">
     <title lang="id">Guinea @ Tunisia Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
@@ -340,11 +335,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260705113000 +0700" stop="20260705133000 +0700" channel="beinsports4">
-    <title lang="id">Marseille</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: beIN SPORTS 4</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260705110000 +0700" stop="20260705130000 +0700" channel="fubosportscbssntsn3">
     <title lang="id">Winnipeg Blue Bombers @ Hamilton Tiger-Cats</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, CBSSN, TSN3</desc>
@@ -358,11 +348,6 @@
   <programme start="20260705113000 +0700" stop="20260705133000 +0700" channel="yahoo!sports">
     <title lang="id">Green Bay Blizzard @ Orlando Pirates</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Yahoo! Sports</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260705113000 +0700" stop="20260705133000 +0700" channel="espnselectespnunlimitedtsn+">
-    <title lang="id">John Deere Classic Final Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260705050000 +0700" stop="20260705070000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
@@ -388,11 +373,6 @@
   <programme start="20260705090000 +0700" stop="20260705110000 +0700" channel="tsn2">
     <title lang="id">John Deere Classic Final Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260705110000 +0700" stop="20260705130000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
-    <title lang="id">BMW International Open Final Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260705010000 +0700" stop="20260705030000 +0700" channel="peacocktsn+">
@@ -425,24 +405,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV, RDS, TSN5</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260705110000 +0700" stop="20260705130000 +0700" channel="beinsports6">
-    <title lang="id">4 Hours of Imola Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: beIN SPORTS 6</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260705121500 +0700" stop="20260705141500 +0700" channel="dazndazncanada">
     <title lang="id">ERC Rally di Roma Capitale Stage 10</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260705085500 +0700" stop="20260705105500 +0700" channel="tsn+">
-    <title lang="id">British Grand Prix Race 2 YouTube</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260705101500 +0700" stop="20260705121500 +0700" channel="tsn+">
-    <title lang="id">British Grand Prix Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260705025000 +0700" stop="20260705045000 +0700" channel="dazndazncanada">
@@ -455,19 +420,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, FOX One, REV TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260705092000 +0700" stop="20260705112000 +0700" channel="daznbeinsports6dazncanada">
-    <title lang="id">Porsche Carrera Cup Germany Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, beIN SPORTS 6, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260705040000 +0700" stop="20260705060000 +0700" channel="foxsportsracing">
     <title lang="id">Gopher Dunes MX</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Sports Racing</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260705100000 +0700" stop="20260705120000 +0700" channel="fubosportsespnunlimitedespnespndeportestsn+more">
-    <title lang="id">Wimbledon</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, ESPN Deportes, TSN+, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260705123000 +0700" stop="20260705143000 +0700" channel="slingtvhbomaxtsn+">
@@ -503,11 +458,6 @@
   <programme start="20260705060000 +0700" stop="20260705080000 +0700" channel="fubosportsespnunlimitedespn">
     <title lang="id">East - West</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260705113000 +0700" stop="20260705133000 +0700" channel="foxsoccerplussnworldsnnowsportsnet+">
-    <title lang="id">Castleford Tigers @ Wakefield Trinity</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus, SN World, SN NOW, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260705020000 +0700" stop="20260705040000 +0700" channel="foxsoccerplussnworldsnnowsportsnet+">

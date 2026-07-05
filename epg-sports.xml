@@ -245,16 +245,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, fubo Sports Network</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260705120000 +0700" stop="20260705140000 +0700" channel="dazndazncanada">
-    <title lang="id">Guinea @ Tunisia Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260705010000 +0700" stop="20260705030000 +0700" channel="dazndazncanada">
-    <title lang="id">Ukraine @ Denmark Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260705013000 +0700" stop="20260705033000 +0700" channel="dazndazncanada">
     <title lang="id">Iran @ Syria Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
@@ -375,19 +365,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260705010000 +0700" stop="20260705030000 +0700" channel="peacocktsn+">
-    <title lang="id">U.S. Senior Open Final Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260705070000 +0700" stop="20260705090000 +0700" channel="nbcnbcconnecticutrdsinfo">
     <title lang="id">U.S. Senior Open Final Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: NBC, NBC Connecticut, RDS Info</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260705010000 +0700" stop="20260705030000 +0700" channel="fubosportsfoxsports1foxone">
-    <title lang="id">Honda Indy 200 Warm Up</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, FOX One</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260705043000 +0700" stop="20260705063000 +0700" channel="fubosportsfoxfoxonetsn+">
@@ -405,11 +385,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV, RDS, TSN5</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260705121500 +0700" stop="20260705141500 +0700" channel="dazndazncanada">
-    <title lang="id">ERC Rally di Roma Capitale Stage 10</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260705025000 +0700" stop="20260705045000 +0700" channel="dazndazncanada">
     <title lang="id">Formula 4 Italian Championship Race</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
@@ -425,11 +400,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Sports Racing</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260705123000 +0700" stop="20260705143000 +0700" channel="slingtvhbomaxtsn+">
-    <title lang="id">Novak Djokovic @ Roman Safiullin</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260705033000 +0700" stop="20260705053000 +0700" channel="fubosportsespnunlimitedabctsn2">
     <title lang="id">Naomi Osaka @ Aryna Sabalenka</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ABC, TSN2</desc>
@@ -438,11 +408,6 @@
   <programme start="20260705060000 +0700" stop="20260705080000 +0700" channel="fubosportsespnunlimitedabc">
     <title lang="id">Shintaro Mochizuki @ Jannik Sinner</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ABC</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260705114500 +0700" stop="20260705134500 +0700" channel="slingtvpeacockhbomax">
-    <title lang="id">Tarragona - Barcelona Stage 2</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, Peacock, HBO Max</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260705050000 +0700" stop="20260705070000 +0700" channel="fubosportsfoxsports1">

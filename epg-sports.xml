@@ -220,9 +220,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: NBA TV, NBCS Bay Area, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260705070000 +0700" stop="20260705090000 +0700" channel="tvbelumtersedia">
+  <programme start="20260705070000 +0700" stop="20260705090000 +0700" channel="tsn5">
     <title lang="id">Dallas Wings @ Toronto Tempo KFAA 29</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN5</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260705110000 +0700" stop="20260705130000 +0700" channel="fubosportsespnunlimitedespndisney+">
@@ -385,19 +385,24 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: RDS 2, CJDC TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260705090000 +0700" stop="20260705110000 +0700" channel="tsn2">
+    <title lang="id">John Deere Classic Final Round</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN2</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260705110000 +0700" stop="20260705130000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
     <title lang="id">BMW International Open Final Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260705010000 +0700" stop="20260705030000 +0700" channel="peacock">
+  <programme start="20260705010000 +0700" stop="20260705030000 +0700" channel="peacocktsn+">
     <title lang="id">U.S. Senior Open Final Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260705070000 +0700" stop="20260705090000 +0700" channel="nbcconnecticutrdsinfo">
+  <programme start="20260705070000 +0700" stop="20260705090000 +0700" channel="nbcnbcconnecticutrdsinfo">
     <title lang="id">U.S. Senior Open Final Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: NBC Connecticut, RDS Info</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: NBC, NBC Connecticut, RDS Info</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260705010000 +0700" stop="20260705030000 +0700" channel="fubosportsfoxsports1foxone">
@@ -425,11 +430,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: beIN SPORTS 6</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260705070500 +0700" stop="20260705090500 +0700" channel="dazndazncanada">
-    <title lang="id">ERC Rally di Roma Capitale Stage 8</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260705121500 +0700" stop="20260705141500 +0700" channel="dazndazncanada">
     <title lang="id">ERC Rally di Roma Capitale Stage 10</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
@@ -443,16 +443,6 @@
   <programme start="20260705101500 +0700" stop="20260705121500 +0700" channel="tsn+">
     <title lang="id">British Grand Prix Race</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260705072500 +0700" stop="20260705092500 +0700" channel="tsn+">
-    <title lang="id">British Grand Prix Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260705075000 +0700" stop="20260705095000 +0700" channel="dazndazncanada">
-    <title lang="id">Formula 4 Italian Championship Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260705025000 +0700" stop="20260705045000 +0700" channel="dazndazncanada">
@@ -493,11 +483,6 @@
   <programme start="20260705060000 +0700" stop="20260705080000 +0700" channel="fubosportsespnunlimitedabc">
     <title lang="id">Shintaro Mochizuki @ Jannik Sinner</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ABC</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260705064000 +0700" stop="20260705084000 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">North Melbourne Kangaroos @ Port Adelaide Power</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260705114500 +0700" stop="20260705134500 +0700" channel="slingtvpeacockhbomax">

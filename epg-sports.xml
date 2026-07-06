@@ -1,136 +1,96 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
-  <programme start="20260706061000 +0700" stop="20260706081000 +0700" channel="espnunlimitednbcsphiladelphiamlb.tvroyals.tv">
+  <programme start="20260707061000 +0700" stop="20260707081000 +0700" channel="espnunlimitednbcsphiladelphiamlb.tvroyals.tv">
     <title lang="id">Philadelphia Phillies @ Kansas City Royals</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, NBCS Philadelphia, MLB.TV, Royals.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260706104000 +0700" stop="20260706124000 +0700" channel="yesmlb.tvrays.tvsnnowsportsnet+more">
+  <programme start="20260707104000 +0700" stop="20260707124000 +0700" channel="yesmlb.tvrays.tvsnnowsportsnet+more">
     <title lang="id">New York Yankees @ Tampa Bay Rays</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: YES, MLB.TV, Rays.TV, SN NOW, Sportsnet+, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260706104500 +0700" stop="20260706124500 +0700" channel="mlbnetworkmlb.tvnationals.tv">
+  <programme start="20260707104500 +0700" stop="20260707124500 +0700" channel="mlbnetworkmlb.tvnationals.tv">
     <title lang="id">Houston Astros @ Washington Nationals Space City HN</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: MLB Network, MLB.TV, Nationals.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260706111500 +0700" stop="20260706131500 +0700" channel="snymlb.tvbravesvision">
+  <programme start="20260707111500 +0700" stop="20260707131500 +0700" channel="snymlb.tvbravesvision">
     <title lang="id">New York Mets @ Atlanta Braves</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: SNY, MLB.TV, BravesVision</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260706114500 +0700" stop="20260706134500 +0700" channel="mlb.tvbrewers.tvcardinals.tv">
+  <programme start="20260707114500 +0700" stop="20260707134500 +0700" channel="mlb.tvbrewers.tvcardinals.tv">
     <title lang="id">Milwaukee Brewers @ St. Louis Cardinals</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: MLB.TV, Brewers.TV, Cardinals.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260706103000 +0700" stop="20260706123000 +0700" channel="espnselectespnunlimited">
+  <programme start="20260707103000 +0700" stop="20260707123000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Valley Blue Sox - Martha's Vineyard Sharks</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260706103000 +0700" stop="20260706123000 +0700" channel="espnselectespnunlimited">
+  <programme start="20260707103000 +0700" stop="20260707123000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Sanford Mainers - Keene Swamp Bats</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260706070000 +0700" stop="20260706090000 +0700" channel="fubosportspeacockesfoxfox4kfoxsports4kmore">
+  <programme start="20260707070000 +0700" stop="20260707090000 +0700" channel="fubosportspeacockesfoxfox4kfoxsports4kmore">
     <title lang="id">Portugal Spain Round of 16</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX, FOX 4K, FOX Sports 4K, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260706110000 +0700" stop="20260706130000 +0700" channel="espn">
+  <programme start="20260707110000 +0700" stop="20260707130000 +0700" channel="espn">
     <title lang="id">Atlanta Hawks @ Oklahoma City Thunder Fubo Sports ESPN Unlimited Prime Video</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260706113000 +0700" stop="20260706133000 +0700" channel="espnuespnews">
+  <programme start="20260707113000 +0700" stop="20260707133000 +0700" channel="espnuespnews">
     <title lang="id">Los Angeles Lakers @ San Antonio Spurs California Classic Summer League ESPN Unlimited Prime Video</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN U, ESPNews</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260706113000 +0700" stop="20260706133000 +0700" channel="cbsnewsbayareacbsnewssacramento">
+  <programme start="20260707113000 +0700" stop="20260707133000 +0700" channel="cbsnewsbayareacbsnewssacramento">
     <title lang="id">Golden State Valkyries @ Washington Mystics Monumental SN</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: CBS News Bay Area, CBS News Sacramento</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260706030000 +0700" stop="20260706050000 +0700" channel="dazndazncanada">
-    <title lang="id">Estonia @ Czech Republic Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260706040000 +0700" stop="20260706060000 +0700" channel="dazndazncanada">
-    <title lang="id">Switzerland @ Turkiye Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260706040000 +0700" stop="20260706060000 +0700" channel="dazndazncanada">
-    <title lang="id">Belgium @ Hungary Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260706040000 +0700" stop="20260706060000 +0700" channel="dazndazncanada">
-    <title lang="id">Netherlands @ Poland Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260706043000 +0700" stop="20260706063000 +0700" channel="dazndazncanada">
-    <title lang="id">Austria @ Latvia Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260706050000 +0700" stop="20260706070000 +0700" channel="dazndazncanada">
-    <title lang="id">Cyprus @ Germany Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260706060000 +0700" stop="20260706080000 +0700" channel="dazndazncanada">
+  <programme start="20260707060000 +0700" stop="20260707080000 +0700" channel="dazndazncanada">
     <title lang="id">Bosnia &amp; Herzegovina @ Serbia Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260706060000 +0700" stop="20260706080000 +0700" channel="dazndazncanada">
+  <programme start="20260707060000 +0700" stop="20260707080000 +0700" channel="dazndazncanada">
     <title lang="id">Sweden @ Slovenia Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260706060000 +0700" stop="20260706080000 +0700" channel="dazndazncanada">
+  <programme start="20260707060000 +0700" stop="20260707080000 +0700" channel="dazndazncanada">
     <title lang="id">Israel @ Croatia Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260706063000 +0700" stop="20260706083000 +0700" channel="dazndazncanada">
+  <programme start="20260707063000 +0700" stop="20260707083000 +0700" channel="dazndazncanada">
     <title lang="id">Finland @ France Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260706091000 +0700" stop="20260706111000 +0700" channel="dazndazncanada">
+  <programme start="20260707091000 +0700" stop="20260707111000 +0700" channel="dazndazncanada">
     <title lang="id">Chile @ Venezuela Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260706111000 +0700" stop="20260706131000 +0700" channel="dazndazncanada">
+  <programme start="20260707111000 +0700" stop="20260707131000 +0700" channel="dazndazncanada">
     <title lang="id">Puerto Rico @ Bahamas Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260706111000 +0700" stop="20260706131000 +0700" channel="dazntsn2">
+  <programme start="20260707111000 +0700" stop="20260707131000 +0700" channel="dazntsn2">
     <title lang="id">Jamaica @ Canada Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, TSN2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260706030000 +0700" stop="20260706050000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Hall of Fame Open Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260706033000 +0700" stop="20260706053000 +0700" channel="fubosportsespnunlimited">
-    <title lang="id">Grigor Dimitrov - Arthur Fery</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260706060000 +0700" stop="20260706080000 +0700" channel="fubosportsespnunlimited">
+  <programme start="20260707060000 +0700" stop="20260707080000 +0700" channel="fubosportsespnunlimited">
     <title lang="id">Alexander Zverev @ Jiri Lehecka</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>

@@ -55,21 +55,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: CBS News Bay Area, CBS News Sacramento</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260706070000 +0700" stop="20260706090000 +0700" channel="dazndazncanada">
-    <title lang="id">Guam @ New Zealand Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260706103000 +0700" stop="20260706123000 +0700" channel="dazndazncanada">
-    <title lang="id">Philippines @ Australia Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260706103000 +0700" stop="20260706123000 +0700" channel="dazndazncanada">
-    <title lang="id">Japan @ South Korea Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260706030000 +0700" stop="20260706050000 +0700" channel="dazndazncanada">
     <title lang="id">Estonia @ Czech Republic Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
@@ -140,11 +125,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260706100000 +0700" stop="20260706120000 +0700" channel="fubosportsespnunlimitedespn2espndeportestsn+more">
-    <title lang="id">Wimbledon</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2, ESPN Deportes, TSN+, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260706123000 +0700" stop="20260706143000 +0700" channel="fubosportsespnunlimitedespntsn+tsn2">
     <title lang="id">Alexandra Eala @ Jasmine Paolini</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, TSN+, TSN2</desc>
@@ -158,11 +138,6 @@
   <programme start="20260706060000 +0700" stop="20260706080000 +0700" channel="fubosportsespnunlimited">
     <title lang="id">Alexander Zverev @ Jiri Lehecka</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260706101000 +0700" stop="20260706121000 +0700" channel="slingtvpeacockhbomax">
-    <title lang="id">Granollers - Les Angles Stage 3</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, Peacock, HBO Max</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260706120500 +0700" stop="20260706140500 +0700" channel="peacock">

@@ -25,34 +25,34 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: MLB.TV, Brewers.TV, Cardinals.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260706103000 +0700" stop="20260706123000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Valley Blue Sox - Martha's Vineyard Sharks</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260706103000 +0700" stop="20260706123000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Sanford Mainers - Keene Swamp Bats</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260706070000 +0700" stop="20260706090000 +0700" channel="fubosportspeacockesfoxfox4kfoxsports4kmore">
     <title lang="id">Portugal Spain Round of 16</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX, FOX 4K, FOX Sports 4K, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260706030000 +0700" stop="20260706050000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Alta Charlotte Independence</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260706110000 +0700" stop="20260706130000 +0700" channel="espn">
-    <title lang="id">Atlanta Hawks @ Oklahoma City Thunder Salt Lake City Summer League Fubo Sports ESPN Unlimited Prime Video</title>
+    <title lang="id">Atlanta Hawks @ Oklahoma City Thunder Fubo Sports ESPN Unlimited Prime Video</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260706113000 +0700" stop="20260706133000 +0700" channel="espnu">
+  <programme start="20260706113000 +0700" stop="20260706133000 +0700" channel="espnuespnews">
     <title lang="id">Los Angeles Lakers @ San Antonio Spurs California Classic Summer League ESPN Unlimited Prime Video</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN U</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN U, ESPNews</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260706113000 +0700" stop="20260706133000 +0700" channel="cbsnewsbayareacbsnewssacramento">
     <title lang="id">Golden State Valkyries @ Washington Mystics Monumental SN</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: CBS News Bay Area, CBS News Sacramento</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260706060000 +0700" stop="20260706080000 +0700" channel="dazndazncanada">
-    <title lang="id">Chinese Taipei @ China Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260706070000 +0700" stop="20260706090000 +0700" channel="dazndazncanada">
@@ -135,14 +135,29 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, TSN2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260706100000 +0700" stop="20260706120000 +0700" channel="fubosportsespnunlimitedespn2espndeportestsn5more">
-    <title lang="id">Wimbledon</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2, ESPN Deportes, TSN5, MORE</desc>
+  <programme start="20260706030000 +0700" stop="20260706050000 +0700" channel="tvbelumtersedia">
+    <title lang="id">Hall of Fame Open Tennis Channel</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260706120000 +0700" stop="20260706140000 +0700" channel="fubosportsespnunlimitedespntsn2">
+  <programme start="20260706100000 +0700" stop="20260706120000 +0700" channel="fubosportsespnunlimitedespn2espndeportestsn+more">
     <title lang="id">Wimbledon</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, TSN2</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2, ESPN Deportes, TSN+, MORE</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260706123000 +0700" stop="20260706143000 +0700" channel="fubosportsespnunlimitedespntsn+tsn2">
+    <title lang="id">Alexandra Eala @ Jasmine Paolini</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, TSN+, TSN2</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260706033000 +0700" stop="20260706053000 +0700" channel="fubosportsespnunlimited">
+    <title lang="id">Grigor Dimitrov - Arthur Fery</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260706060000 +0700" stop="20260706080000 +0700" channel="fubosportsespnunlimited">
+    <title lang="id">Alexander Zverev @ Jiri Lehecka</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260706101000 +0700" stop="20260706121000 +0700" channel="slingtvpeacockhbomax">

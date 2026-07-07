@@ -105,19 +105,9 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260708080000 +0700" stop="20260708100000 +0700" channel="fubosportspeacockesfoxfox4kfoxsports4kmore">
-    <title lang="id">Switzerland Colombia Round of 16</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX, FOX 4K, FOX Sports 4K, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260708110000 +0700" stop="20260708130000 +0700" channel="espnunbatvgrindcitymediamore">
     <title lang="id">Atlanta Hawks @ Memphis Grizzlies ESPN Unlimited Prime Video</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN U, NBA TV, Grind City Media, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260708101500 +0700" stop="20260708121500 +0700" channel="floracing">
-    <title lang="id">Mid-America Midget Week at Missouri's Sweet Springs Complex</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FloRacing</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

@@ -140,29 +140,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN U, NBA TV, Grind City Media, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260707100000 +0700" stop="20260707120000 +0700" channel="t2">
-    <title lang="id">Brawo Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: T2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260707030000 +0700" stop="20260707050000 +0700" channel="tvbelumtersedia">
     <title lang="id">Hall of Fame Open Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260707100000 +0700" stop="20260707120000 +0700" channel="tsn+">
-    <title lang="id">Wimbledon</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260707123000 +0700" stop="20260707143000 +0700" channel="fubosportsespnunlimitedespn2espndeportestsn+more">
-    <title lang="id">Jannik Sinner Jan-Lennard Struff</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2, ESPN Deportes, TSN+, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260707123000 +0700" stop="20260707143000 +0700" channel="fubosportsespnunlimitedespntsn+">
-    <title lang="id">Jessica Pegula Coco Gauff</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260707023000 +0700" stop="20260707043000 +0700" channel="fubosportsespnunlimited">
@@ -173,21 +153,6 @@
   <programme start="20260707043000 +0700" stop="20260707063000 +0700" channel="fubosportsespnunlimitedespnespn2espndeportesmore">
     <title lang="id">Felix Auger-Aliassime Novak Djokovic</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, ESPN2, ESPN Deportes, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260707111000 +0700" stop="20260707131000 +0700" channel="slingtvpeacockhbomax">
-    <title lang="id">Carcassonne - Foix Stage 4</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, Peacock, HBO Max</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260707113000 +0700" stop="20260707133000 +0700" channel="paramount+">
-    <title lang="id">England U20 @ Argentina U20</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260707113000 +0700" stop="20260707133000 +0700" channel="paramount+">
-    <title lang="id">Japan U20 @ Scotland U20</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260707020000 +0700" stop="20260707040000 +0700" channel="paramount+">

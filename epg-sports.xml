@@ -155,19 +155,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260707123000 +0700" stop="20260707143000 +0700" channel="fubosportsespnunlimitedespnespn2espndeportesmore">
+  <programme start="20260707123000 +0700" stop="20260707143000 +0700" channel="fubosportsespnunlimitedespn2espndeportestsn+more">
     <title lang="id">Jannik Sinner Jan-Lennard Struff</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, ESPN2, ESPN Deportes, MORE</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2, ESPN Deportes, TSN+, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260707123000 +0700" stop="20260707143000 +0700" channel="fubosportsespnunlimitedtsn+">
+  <programme start="20260707123000 +0700" stop="20260707143000 +0700" channel="fubosportsespnunlimitedespntsn+">
     <title lang="id">Jessica Pegula Coco Gauff</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260707023000 +0700" stop="20260707043000 +0700" channel="fubosportsespnunlimitedespnespn2espndeportesmore">
-    <title lang="id">Felix Auger-Aliassime Novak Djokovic</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, ESPN2, ESPN Deportes, MORE</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260707023000 +0700" stop="20260707043000 +0700" channel="fubosportsespnunlimited">
@@ -175,19 +170,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260707043000 +0700" stop="20260707063000 +0700" channel="fubosportsespnunlimitedespnespn2espndeportesmore">
+    <title lang="id">Felix Auger-Aliassime Novak Djokovic</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, ESPN2, ESPN Deportes, MORE</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260707111000 +0700" stop="20260707131000 +0700" channel="slingtvpeacockhbomax">
     <title lang="id">Carcassonne - Foix Stage 4</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, Peacock, HBO Max</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260707090000 +0700" stop="20260707110000 +0700" channel="paramount+">
-    <title lang="id">USA U20 @ Ireland U20</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260707090000 +0700" stop="20260707110000 +0700" channel="paramount+">
-    <title lang="id">Italy U20 @ New Zealand U20</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260707113000 +0700" stop="20260707133000 +0700" channel="paramount+">

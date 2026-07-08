@@ -75,16 +75,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260709050000 +0700" stop="20260709070000 +0700" channel="tv32ballysportslivemilb.tv">
-    <title lang="id">Beloit Sky Carp @ Wisconsin Timber Rattlers</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: TV 32, Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260709050800 +0700" stop="20260709070800 +0700" channel="marqueeballysportslivemilb.tv">
-    <title lang="id">St. Paul @ Iowa Cubs</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Marquee, Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260709070500 +0700" stop="20260709090500 +0700" channel="nevadasportsnetballysportslivemilb.tv">
     <title lang="id">Round Rock Express @ Reno Aces</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Nevada Sports Net, Bally Sports Live, MiLB.TV</desc>

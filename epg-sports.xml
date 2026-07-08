@@ -185,34 +185,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260708100000 +0700" stop="20260708120000 +0700" channel="t2">
-    <title lang="id">Brawo Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: T2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260708030000 +0700" stop="20260708050000 +0700" channel="tvbelumtersedia">
     <title lang="id">Hall of Fame Open Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260708100000 +0700" stop="20260708120000 +0700" channel="tsn+">
-    <title lang="id">Wimbledon</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260708120000 +0700" stop="20260708140000 +0700" channel="fubosportsespnunlimitedespnespn2espndeportesmore">
-    <title lang="id">Wimbledon</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, ESPN2, ESPN Deportes, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260708120000 +0700" stop="20260708140000 +0700" channel="fubosportsespnunlimitedtsn1tsn4">
-    <title lang="id">Linda Noskova Elise Mertens</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, TSN1, TSN4</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260708123000 +0700" stop="20260708143000 +0700" channel="fubosportsespnunlimitedespndeportestsn+">
+  <programme start="20260708123000 +0700" stop="20260708143000 +0700" channel="fubosportsespnunlimitedespn2espndeportestsn+">
     <title lang="id">Marta Kostyuk Jasmine Paolini</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN Deportes, TSN+</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2, ESPN Deportes, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260708020000 +0700" stop="20260708040000 +0700" channel="fubosportsespnunlimited">
@@ -223,16 +203,6 @@
   <programme start="20260708023000 +0700" stop="20260708043000 +0700" channel="fubosportsespnunlimited">
     <title lang="id">Flavio Cobolli Arthur Fery</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260708120500 +0700" stop="20260708140500 +0700" channel="peacock">
-    <title lang="id">Lannemezan - Pau Stage 5</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260708100500 +0700" stop="20260708120500 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">New South Wales @ Queensland</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

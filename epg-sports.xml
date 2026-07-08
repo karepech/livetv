@@ -75,11 +75,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260709070500 +0700" stop="20260709090500 +0700" channel="nevadasportsnetballysportslivemilb.tv">
-    <title lang="id">Round Rock Express @ Reno Aces</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Nevada Sports Net, Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260709080500 +0700" stop="20260709100500 +0700" channel="nesnplusballysportslivemilb.tv">
     <title lang="id">Rochester Red Wings @ Worcester</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: NESN Plus, Bally Sports Live, MiLB.TV</desc>
@@ -148,11 +143,6 @@
   <programme start="20260709110000 +0700" stop="20260709130000 +0700" channel="espnselectespnunlimited">
     <title lang="id">NY Cosmos Naples</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260709070000 +0700" stop="20260709090000 +0700" channel="foxsoccerplusonesoccer">
-    <title lang="id">Saint-Laurent Forge</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus, OneSoccer</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260709110000 +0700" stop="20260709130000 +0700" channel="fubosportsfoxsports2onesoccer">

@@ -150,11 +150,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260709070000 +0700" stop="20260709090000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Taranaki Mountainairs @ Canterbury Rams</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260709080000 +0700" stop="20260709100000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
     <title lang="id">ISCO Championship First Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
@@ -168,11 +163,6 @@
   <programme start="20260709060000 +0700" stop="20260709080000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
     <title lang="id">Kaulig Companies Championship First Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260709080000 +0700" stop="20260709100000 +0700" channel="dazndazncanada">
-    <title lang="id">Goodwood Festival of Speed</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260709103000 +0700" stop="20260709123000 +0700" channel="floracing">

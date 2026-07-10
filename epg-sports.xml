@@ -105,16 +105,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260711080000 +0700" stop="20260711100000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Milwaukee Bucks @ Miami Heat NBA Summer League Prime Video</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260711083000 +0700" stop="20260711103000 +0700" channel="fubosportsespnunlimiteddaznespn2nbatvcanada">
-    <title lang="id">Cleveland Cavaliers @ Indiana Pacers NBA Summer League</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, DAZN, ESPN2, NBA TV Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260711100000 +0700" stop="20260711120000 +0700" channel="gothamsportsapp">
     <title lang="id">Brooklyn Nets @ New York Knicks NBA Summer League Prime Video</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Gotham Sports App</desc>
@@ -140,24 +130,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: RDS 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260711080000 +0700" stop="20260711100000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
-    <title lang="id">ISCO Championship Second Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260711080000 +0700" stop="20260711100000 +0700" channel="fubosportsfoxsports2foxonerevtv">
-    <title lang="id">Lime Rock Park 100 Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, FOX One, REV TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260711110000 +0700" stop="20260711130000 +0700" channel="msgsn2">
     <title lang="id">Team Boxing League MSGSN</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: MSGSN 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260711100000 +0700" stop="20260711120000 +0700" channel="fubosportsfoxsports1">
+  <programme start="20260711100000 +0700" stop="20260711120000 +0700" channel="fubosportsfoxsports1foxsportsracing">
     <title lang="id">Saratoga Live</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Fubo Sports, FOX Sports 1</desc>
+    <desc lang="id">[Sedang Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, FOX Sports Racing</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260711103000 +0700" stop="20260711123000 +0700" channel="espnselectespnunlimitedtsn+">

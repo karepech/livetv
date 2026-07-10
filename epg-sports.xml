@@ -105,11 +105,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260710090000 +0700" stop="20260710110000 +0700" channel="nextlevelsports">
-    <title lang="id">Seibu Lions @ Nippon Ham Fighters</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260710070000 +0700" stop="20260710090000 +0700" channel="fubosportspeacockesfoxfox4kfoxsports4kmore">
     <title lang="id">Spain Belgium Quarter-final</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX, FOX 4K, FOX Sports 4K, MORE</desc>
@@ -160,11 +155,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260710100000 +0700" stop="20260710120000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
-    <title lang="id">Amundi Evian Championship Second Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260710070000 +0700" stop="20260710090000 +0700" channel="peacocknbcsnetwork">
     <title lang="id">American Century Championship First Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBCS Network</desc>
@@ -185,16 +175,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260710100000 +0700" stop="20260710120000 +0700" channel="fubosportsespnunlimitedespntsn+">
-    <title lang="id">Wimbledon</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260710123000 +0700" stop="20260710143000 +0700" channel="fubosportsespnunlimitedespnespndeportestsn+more">
-    <title lang="id">Arthur Fery Alexander Zverev Semifinal</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, ESPN Deportes, TSN+, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260710033000 +0700" stop="20260710053000 +0700" channel="fubosportsespnunlimitedespnespndeportestsn+">
     <title lang="id">Jannik Sinner Novak Djokovic Semifinal</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, ESPN Deportes, TSN+</desc>
@@ -210,16 +190,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: beIN USA, beIN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260710094000 +0700" stop="20260710114000 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">North Melbourne Kangaroos @ Collingwood Magpies</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260710111500 +0700" stop="20260710131500 +0700" channel="peacock">
-    <title lang="id">Hagetmau - Bordeaux Stage 7</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260710050000 +0700" stop="20260710070000 +0700" channel="fubosportsfoxsports2foxsportsracing">
     <title lang="id">Saratoga Live</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, FOX Sports Racing</desc>
@@ -233,11 +203,6 @@
   <programme start="20260710103000 +0700" stop="20260710123000 +0700" channel="espnselectespnunlimitedtsn+">
     <title lang="id">Philadelphia Waterdogs @ California Redwoods</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260710100000 +0700" stop="20260710120000 +0700" channel="foxsoccerplus">
-    <title lang="id">New Zealand Warriors @ Wests Tigers</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260710070000 +0700" stop="20260710090000 +0700" channel="sportsnet+">

@@ -105,11 +105,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260711070000 +0700" stop="20260711090000 +0700" channel="fubosportspeacockesfoxfox4kfoxsports4kmore">
-    <title lang="id">Spain Belgium Quarter-final</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX, FOX 4K, FOX Sports 4K, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260711080000 +0700" stop="20260711100000 +0700" channel="tvbelumtersedia">
     <title lang="id">Milwaukee Bucks @ Miami Heat NBA Summer League Prime Video</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
@@ -150,16 +145,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260711070000 +0700" stop="20260711090000 +0700" channel="peacocknbcsnetwork">
-    <title lang="id">American Century Championship First Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBCS Network</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260711060000 +0700" stop="20260711080000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
-    <title lang="id">Kaulig Companies Championship Second Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260711080000 +0700" stop="20260711100000 +0700" channel="fubosportsfoxsports2foxonerevtv">
     <title lang="id">Lime Rock Park 100 Race</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, FOX One, REV TV</desc>
@@ -178,11 +163,6 @@
   <programme start="20260711103000 +0700" stop="20260711123000 +0700" channel="espnselectespnunlimitedtsn+">
     <title lang="id">Philadelphia Waterdogs @ California Redwoods</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260711070000 +0700" stop="20260711090000 +0700" channel="sportsnet+">
-    <title lang="id">Bradford @ Huddersfield Giants</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260711110000 +0700" stop="20260711130000 +0700" channel="espnunlimitedespnutsn+">

@@ -170,11 +170,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: MSGSN 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260711050000 +0700" stop="20260711070000 +0700" channel="fubosportsfoxsports2foxsportsracing">
-    <title lang="id">Saratoga Live</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, FOX Sports Racing</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260711100000 +0700" stop="20260711120000 +0700" channel="fubosportsfoxsports1">
     <title lang="id">Saratoga Live</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Fubo Sports, FOX Sports 1</desc>

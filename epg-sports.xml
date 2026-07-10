@@ -150,19 +150,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: RDS 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260710073000 +0700" stop="20260710093000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Wellington Saints @ Whai</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260710080000 +0700" stop="20260710100000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
     <title lang="id">ISCO Championship Second Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260710073000 +0700" stop="20260710093000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Scottish Open Second Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260710030000 +0700" stop="20260710050000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
@@ -188,11 +178,6 @@
   <programme start="20260710080000 +0700" stop="20260710100000 +0700" channel="fubosportsfoxsports2foxonerevtv">
     <title lang="id">Lime Rock Park 100 Race</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, FOX One, REV TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260710073000 +0700" stop="20260710093000 +0700" channel="dazn">
-    <title lang="id">Goodwood Festival of Speed</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260710030000 +0700" stop="20260710050000 +0700" channel="tvbelumtersedia">

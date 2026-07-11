@@ -1,10 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
-  <programme start="20260712040500 +0700" stop="20260712060500 +0700" channel="sportsnetpittsburghmlb.tvbrewers.tv">
-    <title lang="id">Milwaukee Brewers @ Pittsburgh Pirates</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: SportsNet Pittsburgh, MLB.TV, Brewers.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260712061000 +0700" stop="20260712081000 +0700" channel="fdsnwesttwins.tvmlb.tvabtv">
     <title lang="id">Los Angeles Angels @ Minnesota Twins</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FDSN West, Twins.TV, MLB.TV, ABTV</desc>
@@ -205,11 +200,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260712043000 +0700" stop="20260712063000 +0700" channel="paramount+">
-    <title lang="id">Stirling Albion Dundee United</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260712073000 +0700" stop="20260712093000 +0700" channel="tvbelumtersedia">
     <title lang="id">Miami Heat @ Orlando Magic NBA Summer League Prime Video</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
@@ -235,11 +225,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260712050000 +0700" stop="20260712070000 +0700" channel="fubosportsespnunlimitedabctsn2">
-    <title lang="id">New York Liberty @ Minnesota Lynx</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ABC, TSN2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260712080000 +0700" stop="20260712100000 +0700" channel="paramount+cbstsn2">
     <title lang="id">Portland Fire @ Atlanta Dream</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, CBS, TSN2</desc>
@@ -248,11 +233,6 @@
   <programme start="20260712100000 +0700" stop="20260712120000 +0700" channel="tvbelumtersedia">
     <title lang="id">Phoenix Mercury @ Las Vegas Aces Peacock NBCS Network AZ Family Sports Merc+ Vegas 34</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260712040000 +0700" stop="20260712060000 +0700" channel="fubosportsespnunlimitedespn2">
-    <title lang="id">Run 4 Roses Classic</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260712110000 +0700" stop="20260712130000 +0700" channel="fubosportscbssntsn5">
@@ -275,11 +255,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260712040000 +0700" stop="20260712060000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Scottish Open Third Round KPIX+</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260712063000 +0700" stop="20260712083000 +0700" channel="peacocknbcnbcconnecticut">
     <title lang="id">American Century Championship Third Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBC, NBC Connecticut</desc>
@@ -293,11 +268,6 @@
   <programme start="20260712110000 +0700" stop="20260712130000 +0700" channel="cwtsn+">
     <title lang="id">Focused Health 250 163 laps / 251.02 miles</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: CW, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260712050000 +0700" stop="20260712070000 +0700" channel="fubosportsfoxsports1foxonetsn+">
-    <title lang="id">LiUNA 150 100 laps / 147.8 miles</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, FOX One, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260712053000 +0700" stop="20260712073000 +0700" channel="slingtvhbomax">
@@ -318,11 +288,6 @@
   <programme start="20260712070000 +0700" stop="20260712090000 +0700" channel="tsn2">
     <title lang="id">XPN Burn-X 125</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260712050000 +0700" stop="20260712070000 +0700" channel="peacock">
-    <title lang="id">Southwick National Gate Drop</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260712063000 +0700" stop="20260712083000 +0700" channel="dazndazncanada">
@@ -368,11 +333,6 @@
   <programme start="20260712113000 +0700" stop="20260712133000 +0700" channel="paramount+sn360snnowsportsnet+">
     <title lang="id">Adrian Yanez Cody Garbrandt .</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, SN 360, SN NOW, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260712043000 +0700" stop="20260712063000 +0700" channel="fubosportsfoxsports2foxsportsracing">
-    <title lang="id">Saratoga Live</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, FOX Sports Racing</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260712060000 +0700" stop="20260712080000 +0700" channel="espnselectespnunlimitedtsn+">

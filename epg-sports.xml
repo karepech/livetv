@@ -5,9 +5,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: SportsNet Pittsburgh, MLB.TV, Brewers.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260711061000 +0700" stop="20260711081000 +0700" channel="twins.tvmlb.tvabtv">
+  <programme start="20260711061000 +0700" stop="20260711081000 +0700" channel="fdsnwesttwins.tvmlb.tvabtv">
     <title lang="id">Los Angeles Angels @ Minnesota Twins</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Twins.TV, MLB.TV, ABTV</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: FDSN West, Twins.TV, MLB.TV, ABTV</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260711061000 +0700" stop="20260711081000 +0700" channel="peacocknbcscaliforniachsnmlb.tv">
@@ -140,11 +140,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260711050000 +0700" stop="20260711070000 +0700" channel="nextlevelsportsryzsportsnetwork">
-    <title lang="id">Seibu Lions @ Nippon Ham Fighters Prime Video</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports, Ryz Sports Network</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260711090000 +0700" stop="20260711110000 +0700" channel="fubosportspeacockesfoxfox4kfoxsports4kmore">
     <title lang="id">Norway England</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX, FOX 4K, FOX Sports 4K, MORE</desc>
@@ -240,14 +235,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260711050000 +0700" stop="20260711070000 +0700" channel="fubosportsespnunlimitedabc">
+  <programme start="20260711050000 +0700" stop="20260711070000 +0700" channel="fubosportsespnunlimitedabctsn2">
     <title lang="id">New York Liberty @ Minnesota Lynx</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ABC</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ABC, TSN2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260711080000 +0700" stop="20260711100000 +0700" channel="paramount+cbs">
+  <programme start="20260711080000 +0700" stop="20260711100000 +0700" channel="paramount+cbstsn2">
     <title lang="id">Portland Fire @ Atlanta Dream</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, CBS</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, CBS, TSN2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260711100000 +0700" stop="20260711120000 +0700" channel="tvbelumtersedia">
@@ -258,16 +253,6 @@
   <programme start="20260711040000 +0700" stop="20260711060000 +0700" channel="fubosportsespnunlimitedespn2">
     <title lang="id">Run 4 Roses Classic</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260711040000 +0700" stop="20260711060000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Bay Hawks @ Manawatu Jets</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260711073000 +0700" stop="20260711093000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Nelson Giants @ Southland Sharks</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260711110000 +0700" stop="20260711130000 +0700" channel="fubosportscbssntsn5">
@@ -360,6 +345,11 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260711070000 +0700" stop="20260711090000 +0700" channel="tsn2">
+    <title lang="id">XPN Burn-X 125</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN2</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260711020000 +0700" stop="20260711040000 +0700" channel="peacock">
     <title lang="id">Southwick National Race Day Live</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Peacock</desc>
@@ -440,11 +430,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, SN 360, SN NOW, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260711061500 +0700" stop="20260711081500 +0700" channel="fubosportsfoxsports2tsn5">
-    <title lang="id">Geelong Cats @ Greater Western Sydney Giants</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, TSN5</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260711093500 +0700" stop="20260711113500 +0700" channel="foxsoccerplus">
     <title lang="id">Hawthorn Hawks @ Carlton Blues</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
@@ -455,9 +440,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260711111500 +0700" stop="20260711131500 +0700" channel="peacocknbcconnecticut">
+  <programme start="20260711111500 +0700" stop="20260711131500 +0700" channel="peacocknbcnbcconnecticut">
     <title lang="id">Périgueux - Bergerac Stage 8</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBC Connecticut</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBC, NBC Connecticut</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260711043000 +0700" stop="20260711063000 +0700" channel="fubosportsfoxsports2foxsportsracing">
@@ -468,16 +453,6 @@
   <programme start="20260711060000 +0700" stop="20260711080000 +0700" channel="espnselectespnunlimitedtsn+">
     <title lang="id">Denver Outlaws @ Boston Cannons</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260711050000 +0700" stop="20260711070000 +0700" channel="foxsoccerplus">
-    <title lang="id">Cronulla Sharks @ Dolphins</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260711071500 +0700" stop="20260711091500 +0700" channel="foxsoccerplus">
-    <title lang="id">Newcastle Knights W @ Sydney Roosters W</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260711070000 +0700" stop="20260711090000 +0700" channel="foxsoccerplussnworldsnnowsportsnet+">

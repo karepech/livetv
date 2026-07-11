@@ -365,11 +365,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260711100000 +0700" stop="20260711120000 +0700" channel="tsn+">
-    <title lang="id">Wimbledon</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260711120000 +0700" stop="20260711140000 +0700" channel="fubosportsespnunlimitedespntsn1">
     <title lang="id">H. Heliovaara / H. Patten - M. Arevalo / M. Pavic Doubles Final</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, TSN1</desc>
@@ -428,21 +423,6 @@
   <programme start="20260711113000 +0700" stop="20260711133000 +0700" channel="paramount+sn360snnowsportsnet+">
     <title lang="id">Adrian Yanez Cody Garbrandt .</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, SN 360, SN NOW, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260711093500 +0700" stop="20260711113500 +0700" channel="foxsoccerplus">
-    <title lang="id">Hawthorn Hawks @ Carlton Blues</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260711101000 +0700" stop="20260711121000 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">Gold Coast Suns @ Adelaide Crows</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260711111500 +0700" stop="20260711131500 +0700" channel="peacocknbcnbcconnecticut">
-    <title lang="id">Périgueux - Bergerac Stage 8</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBC, NBC Connecticut</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260711043000 +0700" stop="20260711063000 +0700" channel="fubosportsfoxsports2foxsportsracing">

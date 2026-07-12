@@ -245,11 +245,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260712090000 +0700" stop="20260712110000 +0700" channel="fubosportsfubosportsnetwork">
-    <title lang="id">Detroit Amps @ LA Riot</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, fubo Sports Network</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260712110000 +0700" stop="20260712130000 +0700" channel="fubosportsfubosportsnetwork">
     <title lang="id">Ball Hogs @ Triplets</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, fubo Sports Network</desc>
@@ -283,11 +278,6 @@
   <programme start="20260712040000 +0700" stop="20260712060000 +0700" channel="paramount+cbs">
     <title lang="id">Scottish Open Final Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, CBS</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260712080000 +0700" stop="20260712100000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
-    <title lang="id">Amundi Evian Championship Final Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260712063000 +0700" stop="20260712083000 +0700" channel="peacocknbcnbcconnecticut">
@@ -373,11 +363,6 @@
   <programme start="20260712070000 +0700" stop="20260712090000 +0700" channel="foxsportsracing">
     <title lang="id">Saratoga Live</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: FOX Sports Racing</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260712081500 +0700" stop="20260712101500 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">Gold Coast Titans @ Melbourne Storm</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260712020000 +0700" stop="20260712040000 +0700" channel="foxsoccerplussnworldsnnowsportsnet+">

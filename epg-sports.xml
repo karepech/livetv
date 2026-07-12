@@ -300,11 +300,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, TNT, truTV, RDS, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260712120000 +0700" stop="20260712140000 +0700" channel="fubosportsfoxdeportesfoxsports1foxsportsracingsnonemore">
-    <title lang="id">Grand Prix of Germany Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Deportes, FOX Sports 1, FOX Sports Racing, SN One, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260712023000 +0700" stop="20260712043000 +0700" channel="slingtvhbomaxtrutv">
     <title lang="id">6 Hours of São Paulo Race</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, truTV</desc>
@@ -330,11 +325,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260712120000 +0700" stop="20260712140000 +0700" channel="fubosportsespnunlimitedespnrdstsn1">
-    <title lang="id">H. Guo / K. Mladenovic - G. Dabrowski / L. Stefani Doubles Final</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, RDS, TSN1</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260712030000 +0700" stop="20260712050000 +0700" channel="fubosportsespnunlimitedespnespndeportesrdsmore">
     <title lang="id">Jannik Sinner Alexander Zverev Final (Men)</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, ESPN Deportes, RDS, MORE</desc>
@@ -348,11 +338,6 @@
   <programme start="20260712110000 +0700" stop="20260712130000 +0700" channel="wmbctv63">
     <title lang="id">Team Boxing League Estrella TV MSGSN</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: WMBC TV 63</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260712113500 +0700" stop="20260712133500 +0700" channel="peacock">
-    <title lang="id">Malemort - Ussel Stage 9</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260712050000 +0700" stop="20260712070000 +0700" channel="fubosportsfoxsports1">

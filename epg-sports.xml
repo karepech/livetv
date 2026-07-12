@@ -230,9 +230,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260712070000 +0700" stop="20260712090000 +0700" channel="fox5newyork">
+  <programme start="20260712070000 +0700" stop="20260712090000 +0700" channel="fox5newyorktsn1tsn3more">
     <title lang="id">New York Liberty @ Toronto Tempo NBA TV Liberty Live</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: FOX 5 New York</desc>
+    <desc lang="id">[Sedang Tayang] Disiarkan di: FOX 5 New York, TSN1, TSN3, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260712110000 +0700" stop="20260712130000 +0700" channel="fubosportsespnunlimitedespndisney+">
@@ -253,11 +253,6 @@
   <programme start="20260712110000 +0700" stop="20260712130000 +0700" channel="fubosportsfubosportsnetwork">
     <title lang="id">Ball Hogs @ Triplets</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, fubo Sports Network</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260712060000 +0700" stop="20260712080000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Otago Nuggets @ Auckland Tuatara</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260712110000 +0700" stop="20260712130000 +0700" channel="fubosportscbssntsn1tsn3">
@@ -363,16 +358,6 @@
   <programme start="20260712110000 +0700" stop="20260712130000 +0700" channel="wmbctv63">
     <title lang="id">Team Boxing League Estrella TV MSGSN</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: WMBC TV 63</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260712051500 +0700" stop="20260712071500 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">Richmond Tigers @ Melbourne Demons</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260712064000 +0700" stop="20260712084000 +0700" channel="brisbanelionsfoxsoccerplus">
-    <title lang="id">Essendon Bombers @</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Brisbane Lions, FOX Soccer Plus</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260712113500 +0700" stop="20260712133500 +0700" channel="peacock">

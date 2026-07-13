@@ -1,73 +1,93 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
-  <programme start="20260713090000 +0700" stop="20260713110000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Bristol Blues - North Shore Navigators</title>
+  <programme start="20260713103000 +0700" stop="20260713123000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Sanford Mainers - Vermont Mountaineers</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260713110000 +0700" stop="20260713130000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Denver Summit FC Houston Dash Victory+</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260713113000 +0700" stop="20260713133000 +0700" channel="foxsoccerplusonesoccer">
-    <title lang="id">CF Montreal Vancouver FC</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus, OneSoccer</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260713100000 +0700" stop="20260713120000 +0700" channel="wwax">
-    <title lang="id">CT United FC - Toronto FC II</title>
+  <programme start="20260713103000 +0700" stop="20260713123000 +0700" channel="wwax">
+    <title lang="id">New Britain Bees - Vermont Lake Monsters</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: WWAX</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260713090000 +0700" stop="20260713110000 +0700" channel="fubosportsespnunlimiteddaznespn2nbcsboston">
-    <title lang="id">Charlotte Hornets @ Boston Celtics NBA Summer League</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, DAZN, ESPN2, NBCS Boston</desc>
+  <programme start="20260713010000 +0700" stop="20260713030000 +0700" channel="fubosportsespnunlimitedespn">
+    <title lang="id">San Antonio Spurs @ Milwaukee Bucks NBA Summer League</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260713100000 +0700" stop="20260713120000 +0700" channel="nbcsbayarea">
-    <title lang="id">Oklahoma City Thunder @ Golden State Warriors NBA Summer League Prime Video</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: NBCS Bay Area</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260713110000 +0700" stop="20260713130000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Orlando Magic @ Portland Trail Blazers NBA Summer League ESPN Unlimited BlazerVision ESPN U KUNP Portland</title>
+  <programme start="20260713020000 +0700" stop="20260713040000 +0700" channel="tvbelumtersedia">
+    <title lang="id">Los Angeles Clippers @ Utah Jazz NBA Summer League Prime Video Jazz+</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260713110000 +0700" stop="20260713130000 +0700" channel="fubosportsespnunlimitedespndisney+">
-    <title lang="id">Chicago Sky @ Dallas Wings</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, Disney+</desc>
+  <programme start="20260713080000 +0700" stop="20260713100000 +0700" channel="tvbelumtersedia">
+    <title lang="id">Detroit Pistons @ New York Knicks NBA Summer League Prime Video</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260713100000 +0700" stop="20260713120000 +0700" channel="fubosportsfubosportsnetwork">
-    <title lang="id">Detroit Amps @ LA Riot</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, fubo Sports Network</desc>
+  <programme start="20260713083000 +0700" stop="20260713103000 +0700" channel="fubosportsespnunlimiteddaznespn2">
+    <title lang="id">Toronto Raptors @ Indiana Pacers NBA Summer League</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, DAZN, ESPN2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260713110000 +0700" stop="20260713130000 +0700" channel="fubosportsfubosportsnetwork">
-    <title lang="id">Ball Hogs @ Triplets</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, fubo Sports Network</desc>
+  <programme start="20260713100000 +0700" stop="20260713120000 +0700" channel="nbcsboston">
+    <title lang="id">Atlanta Hawks @ Boston Celtics NBA Summer League Prime Video</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: NBCS Boston</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260713110000 +0700" stop="20260713130000 +0700" channel="fubosportscbssntsn1tsn3">
-    <title lang="id">Hamilton Tiger-Cats @ Saskatchewan Roughriders</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, CBSSN, TSN1, TSN3</desc>
+  <programme start="20260713110000 +0700" stop="20260713130000 +0700" channel="fubosportsespnunlimitedespnmavstvgrindcitymediamore">
+    <title lang="id">Dallas Mavericks @ Memphis Grizzlies NBA Summer League</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, MavsTV, Grind City Media, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260713113000 +0700" stop="20260713133000 +0700" channel="yahoo!sports">
-    <title lang="id">San Diego Strike Force @ Vegas Knight Hawks</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Yahoo! Sports</desc>
+  <programme start="20260713010000 +0700" stop="20260713030000 +0700" channel="peacocknbc">
+    <title lang="id">Indiana Fever @ Las Vegas Aces</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBC</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260713110000 +0700" stop="20260713130000 +0700" channel="slingtvhbomaxtnttrutvrdsmore">
-    <title lang="id">Quaker State 400 260 laps / 400.4 miles</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, TNT, truTV, RDS, MORE</desc>
+  <programme start="20260713110000 +0700" stop="20260713130000 +0700" channel="tvbelumtersedia">
+    <title lang="id">Los Angeles Sparks @ Atlanta Dream Spectrum SportsNet USA Network Atlanta News First PSN Victory+</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260713110000 +0700" stop="20260713130000 +0700" channel="wmbctv63">
-    <title lang="id">Team Boxing League Estrella TV MSGSN</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: WMBC TV 63</desc>
+  <programme start="20260713070000 +0700" stop="20260713090000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Nelson Giants @ Manawatu Jets</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260713083000 +0700" stop="20260713103000 +0700" channel="tvbelumtersedia">
+    <title lang="id">Umag-ATP, Gstaad-ATP, Bastad-ATP, Athens-WTA &amp; Iasi-WTA Early Rounds Tennis Channel</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260713060000 +0700" stop="20260713080000 +0700" channel="tvbelumtersedia">
+    <title lang="id">Umag-ATP, Gstaad-ATP, Bastad-ATP, Athens-WTA &amp; Iasi-WTA Early Rounds Tennis Channel</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260713020000 +0700" stop="20260713040000 +0700" channel="fubosportsparamount+cbssn">
+    <title lang="id">New Zealand U20 @ France U20</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Paramount+, CBSSN</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260713020000 +0700" stop="20260713040000 +0700" channel="paramount+">
+    <title lang="id">Italy U20 @ Georgia U20</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260713043000 +0700" stop="20260713063000 +0700" channel="paramount+">
+    <title lang="id">Fiji U20 @ Ireland U20</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260713043000 +0700" stop="20260713063000 +0700" channel="fubosportsparamount+cbssn">
+    <title lang="id">England U20 @ South Africa U20</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Paramount+, CBSSN</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260713110000 +0700" stop="20260713130000 +0700" channel="fubosportsespnunlimitedespn2espndeportes">
+    <title lang="id">Texas Volts - Carolina Blaze</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2, ESPN Deportes</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

@@ -5,19 +5,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260713110500 +0700" stop="20260713130500 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Martha's Vineyard Sharks - Newport Gulls</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260713103000 +0700" stop="20260713123000 +0700" channel="wwax">
     <title lang="id">New Britain Bees - Vermont Lake Monsters</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: WWAX</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260713010000 +0700" stop="20260713030000 +0700" channel="fubosportsespnunlimitedespn">
-    <title lang="id">San Antonio Spurs @ Milwaukee Bucks NBA Summer League</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260713020000 +0700" stop="20260713040000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Los Angeles Clippers @ Utah Jazz NBA Summer League Prime Video Jazz+</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260713080000 +0700" stop="20260713100000 +0700" channel="tvbelumtersedia">
@@ -40,11 +35,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, MavsTV, Grind City Media, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260713010000 +0700" stop="20260713030000 +0700" channel="peacocknbc">
-    <title lang="id">Indiana Fever @ Las Vegas Aces</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBC</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260713110000 +0700" stop="20260713130000 +0700" channel="tvbelumtersedia">
     <title lang="id">Los Angeles Sparks @ Atlanta Dream Spectrum SportsNet USA Network Atlanta News First PSN Victory+</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
@@ -53,6 +43,21 @@
   <programme start="20260713070000 +0700" stop="20260713090000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Nelson Giants @ Manawatu Jets</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260713083000 +0700" stop="20260713103000 +0700" channel="tsn+">
+    <title lang="id">Swiss Open Gstaad</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260713113000 +0700" stop="20260713133000 +0700" channel="tsn+">
+    <title lang="id">Swedish Open</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260713020000 +0700" stop="20260713040000 +0700" channel="tsn+">
+    <title lang="id">Croatia Open</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260713083000 +0700" stop="20260713103000 +0700" channel="tvbelumtersedia">
@@ -85,9 +90,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Paramount+, CBSSN</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260713110000 +0700" stop="20260713130000 +0700" channel="fubosportsespnunlimitedespn2espndeportes">
+  <programme start="20260713110000 +0700" stop="20260713130000 +0700" channel="fubosportsespnunlimitedespn2espndeportestsn+">
     <title lang="id">Texas Volts - Carolina Blaze</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2, ESPN Deportes</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2, ESPN Deportes, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

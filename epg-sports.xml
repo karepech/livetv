@@ -40,16 +40,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260713070000 +0700" stop="20260713090000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Nelson Giants @ Manawatu Jets</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260713083000 +0700" stop="20260713103000 +0700" channel="tsn+">
-    <title lang="id">Swiss Open Gstaad</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260713113000 +0700" stop="20260713133000 +0700" channel="tsn+">
     <title lang="id">Swedish Open</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
@@ -58,11 +48,6 @@
   <programme start="20260713020000 +0700" stop="20260713040000 +0700" channel="tsn+">
     <title lang="id">Croatia Open</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260713083000 +0700" stop="20260713103000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Umag-ATP, Gstaad-ATP, Bastad-ATP, Athens-WTA &amp; Iasi-WTA Early Rounds Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260713060000 +0700" stop="20260713080000 +0700" channel="tvbelumtersedia">

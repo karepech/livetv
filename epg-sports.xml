@@ -40,11 +40,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260713113000 +0700" stop="20260713133000 +0700" channel="tsn+">
-    <title lang="id">Swedish Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260713020000 +0700" stop="20260713040000 +0700" channel="tsn+">
     <title lang="id">Croatia Open</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>

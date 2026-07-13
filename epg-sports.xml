@@ -45,16 +45,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260714043000 +0700" stop="20260714063000 +0700" channel="paramount+">
-    <title lang="id">Fiji U20 @ Ireland U20</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260714043000 +0700" stop="20260714063000 +0700" channel="fubosportsparamount+cbssn">
-    <title lang="id">England U20 @ South Africa U20</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Paramount+, CBSSN</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260714110000 +0700" stop="20260714130000 +0700" channel="fubosportsespnunlimitedespn2espndeportestsn+">
     <title lang="id">Texas Volts - Carolina Blaze</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2, ESPN Deportes, TSN+</desc>

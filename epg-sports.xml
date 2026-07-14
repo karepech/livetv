@@ -25,14 +25,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260714080000 +0700" stop="20260714100000 +0700" channel="nbcsphiladelphia+">
+  <programme start="20260714080000 +0700" stop="20260714100000 +0700" channel="nbcsphlplus">
     <title lang="id">Philadelphia 76ers @ Houston Rockets NBA Summer League Prime Video Space City HN</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: NBCS Philadelphia +</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: NBCS PHL Plus</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260714100000 +0700" stop="20260714120000 +0700" channel="nbcscalifornia">
+  <programme start="20260714100000 +0700" stop="20260714120000 +0700" channel="nbcsca">
     <title lang="id">Sacramento Kings @ Brooklyn Nets NBA Summer League Prime Video</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: NBCS California</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: NBCS CA</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260714110000 +0700" stop="20260714130000 +0700" channel="fubosportsespnunlimitedespnnbcsbayareagrindcitymedia">
@@ -55,21 +55,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: FloRacing</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260714083000 +0700" stop="20260714103000 +0700" channel="tsn+">
-    <title lang="id">Swiss Open Gstaad</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260714090000 +0700" stop="20260714110000 +0700" channel="tsn+">
-    <title lang="id">Swedish Open Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260714090000 +0700" stop="20260714110000 +0700" channel="t2">
-    <title lang="id">Iasi Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: T2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260714020000 +0700" stop="20260714040000 +0700" channel="tsn+">
     <title lang="id">Croatia Open</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
@@ -78,11 +63,6 @@
   <programme start="20260714070000 +0700" stop="20260714090000 +0700" channel="tvbelumtersedia">
     <title lang="id">Croatia Open Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260714111000 +0700" stop="20260714131000 +0700" channel="peacock">
-    <title lang="id">Aurillac - Le Lioran Stage 10</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260714110000 +0700" stop="20260714130000 +0700" channel="fubosportsespnunlimitedespn2espndeportestsn+">

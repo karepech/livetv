@@ -20,11 +20,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX, FOX 4K, FOX Sports 4K, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260715050000 +0700" stop="20260715070000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Győri ETO Víkingur Reykjavík Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260715080000 +0700" stop="20260715100000 +0700" channel="nbcsphlplusnbatvcanada">
     <title lang="id">Philadelphia 76ers @ Houston Rockets NBA Summer League Prime Video Space City HN</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: NBCS PHL Plus, NBA TV Canada</desc>
@@ -38,11 +33,6 @@
   <programme start="20260715110000 +0700" stop="20260715130000 +0700" channel="fubosportsespnunlimitedespnnbcsbayareagrindcitymedia">
     <title lang="id">Memphis Grizzlies @ Golden State Warriors NBA Summer League</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, NBCS Bay Area, Grind City Media</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260715030000 +0700" stop="20260715050000 +0700" channel="nbcsbostonrosecitysportsnet">
-    <title lang="id">Portland Fire @ Connecticut Sun</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: NBCS Boston, Rose City SportsNet</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260715110000 +0700" stop="20260715130000 +0700" channel="tsn1tsn3tsn4more">

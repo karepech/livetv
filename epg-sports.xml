@@ -45,9 +45,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: NBCS Boston, Rose City SportsNet</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260714110000 +0700" stop="20260714130000 +0700" channel="tvbelumtersedia">
+  <programme start="20260714110000 +0700" stop="20260714130000 +0700" channel="tsn1tsn3tsn4more">
     <title lang="id">Washington Mystics @ Toronto Tempo NBA TV Monumental SN</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN1, TSN3, TSN4, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260714100000 +0700" stop="20260714120000 +0700" channel="floracing">
@@ -61,13 +61,23 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260714090000 +0700" stop="20260714110000 +0700" channel="tsn+">
-    <title lang="id">Swedish Open</title>
+    <title lang="id">Swedish Open Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260714090000 +0700" stop="20260714110000 +0700" channel="t2">
+    <title lang="id">Iasi Open</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: T2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260714020000 +0700" stop="20260714040000 +0700" channel="tsn+">
     <title lang="id">Croatia Open</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260714070000 +0700" stop="20260714090000 +0700" channel="tvbelumtersedia">
+    <title lang="id">Croatia Open Tennis Channel</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260714111000 +0700" stop="20260714131000 +0700" channel="peacock">

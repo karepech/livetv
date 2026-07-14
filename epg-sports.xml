@@ -15,11 +15,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: WWAX</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260714040000 +0700" stop="20260714060000 +0700" channel="nextlevelsports">
-    <title lang="id">Fukuoka @ Nippon Ham Fighters</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260714070000 +0700" stop="20260714090000 +0700" channel="fubosportspeacockesfoxfox4kfoxsports4kmore">
     <title lang="id">France Spain Semifinal</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX, FOX 4K, FOX Sports 4K, MORE</desc>
@@ -28,26 +23,6 @@
   <programme start="20260714050000 +0700" stop="20260714070000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Győri ETO Víkingur Reykjavík Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260714013000 +0700" stop="20260714033000 +0700" channel="fubosportsfoxsports2onesoccer">
-    <title lang="id">Cavalry Vancouver Whitecaps</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, OneSoccer</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260714010000 +0700" stop="20260714030000 +0700" channel="more">
-    <title lang="id">Chicago Bulls @ Utah Jazz NBA Summer League Fubo Sports ESPN Unlimited ESPN CHSN Jazz+</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260714020000 +0700" stop="20260714040000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Phoenix Suns @ Milwaukee Bucks NBA Summer League Prime Video AZFS Suns+</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260714030000 +0700" stop="20260714050000 +0700" channel="more">
-    <title lang="id">Minnesota Timberwolves @ Portland Trail Blazers NBA Summer League Fubo Sports ESPN Unlimited BlazerVision ESPN2 KUNP Portland</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260714080000 +0700" stop="20260714100000 +0700" channel="nbcsphiladelphia+">
@@ -65,11 +40,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, NBCS Bay Area, Grind City Media</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260714010000 +0700" stop="20260714030000 +0700" channel="arizona'sfamily3tv">
-    <title lang="id">Phoenix Mercury @ Minnesota Lynx Peacock NBCS Network Merc+ Victory+</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Arizona's Family 3TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260714030000 +0700" stop="20260714050000 +0700" channel="nbcsbostonrosecitysportsnet">
     <title lang="id">Portland Fire @ Connecticut Sun</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: NBCS Boston, Rose City SportsNet</desc>
@@ -85,14 +55,29 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: FloRacing</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260714083000 +0700" stop="20260714103000 +0700" channel="tsn+">
+    <title lang="id">Swiss Open Gstaad</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260714090000 +0700" stop="20260714110000 +0700" channel="tsn+">
+    <title lang="id">Swedish Open</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260714020000 +0700" stop="20260714040000 +0700" channel="tsn+">
+    <title lang="id">Croatia Open</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260714111000 +0700" stop="20260714131000 +0700" channel="peacock">
     <title lang="id">Aurillac - Le Lioran Stage 10</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260714110000 +0700" stop="20260714130000 +0700" channel="fubosportsespnunlimitedespn2espndeportes">
+  <programme start="20260714110000 +0700" stop="20260714130000 +0700" channel="fubosportsespnunlimitedespn2espndeportestsn+">
     <title lang="id">Texas Volts - Oklahoma City Spark</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2, ESPN Deportes</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2, ESPN Deportes, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

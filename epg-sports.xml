@@ -105,11 +105,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260715115000 +0700" stop="20260715135000 +0700" channel="peacock">
-    <title lang="id">Vichy - Nevers Stage 11</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260715100000 +0700" stop="20260715120000 +0700" channel="yesrosecitysportsnet">
     <title lang="id">Carolina Blaze - Chicago Bandits</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: YES, Rose City SportsNet</desc>

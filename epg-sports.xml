@@ -40,16 +40,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260716073000 +0700" stop="20260716093000 +0700" channel="nbatvcanada">
-    <title lang="id">Indiana Pacers @ Minnesota Timberwolves NBA Summer League Prime Video</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: NBA TV Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260716080000 +0700" stop="20260716100000 +0700" channel="espnunlimiteddaznespnunbcsphlplus">
-    <title lang="id">Orlando Magic @ Philadelphia 76ers NBA Summer League</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, DAZN, ESPN U, NBCS PHL Plus</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260716093000 +0700" stop="20260716113000 +0700" channel="nbatvcanada">
     <title lang="id">New Orleans Pelicans @ Cleveland Cavaliers NBA Summer League Prime Video Pelicans+ GCSEN</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: NBA TV Canada</desc>
@@ -63,11 +53,6 @@
   <programme start="20260716113000 +0700" stop="20260716133000 +0700" channel="nbatvcanada">
     <title lang="id">Milwaukee Bucks @ Charlotte Hornets NBA Summer League Prime Video</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: NBA TV Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260716073000 +0700" stop="20260716093000 +0700" channel="fubosportsespnunlimitedespntsn2">
-    <title lang="id">2026 WNBA All-Star Draft</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, TSN2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260716100000 +0700" stop="20260716120000 +0700" channel="yesrosecitysportsnet">

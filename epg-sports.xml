@@ -15,11 +15,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: NESN</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260715040000 +0700" stop="20260715060000 +0700" channel="nextlevelsports">
-    <title lang="id">Fukuoka @ Nippon Ham Fighters</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260715070000 +0700" stop="20260715090000 +0700" channel="fubosportspeacockesfoxfox4kfoxsports4kmore">
     <title lang="id">England Argentina Semifinal</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX, FOX 4K, FOX Sports 4K, MORE</desc>
@@ -53,16 +48,6 @@
   <programme start="20260715110000 +0700" stop="20260715130000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Chattanooga Red Wolves Alta</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260715010000 +0700" stop="20260715030000 +0700" channel="espn">
-    <title lang="id">Denver Nuggets @ Oklahoma City Thunder NBA Summer League Fubo Sports ESPN Unlimited Altitude</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260715020000 +0700" stop="20260715040000 +0700" channel="nbatvcanada">
-    <title lang="id">Los Angeles Clippers @ Los Angeles Lakers NBA Summer League Prime Video</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: NBA TV Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260715073000 +0700" stop="20260715093000 +0700" channel="nbatvcanada">
@@ -100,9 +85,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260715073000 +0700" stop="20260715093000 +0700" channel="fubosportsespnunlimitedespn">
+  <programme start="20260715073000 +0700" stop="20260715093000 +0700" channel="fubosportsespnunlimitedespntsn2">
     <title lang="id">2026 WNBA All-Star Draft</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, TSN2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260715070000 +0700" stop="20260715090000 +0700" channel="nbatv">
@@ -115,19 +100,19 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260715083000 +0700" stop="20260715103000 +0700" channel="tvbelumtersedia">
+  <programme start="20260715083000 +0700" stop="20260715103000 +0700" channel="tsn+">
     <title lang="id">Swiss Open Gstaad Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260715090000 +0700" stop="20260715110000 +0700" channel="tvbelumtersedia">
+  <programme start="20260715090000 +0700" stop="20260715110000 +0700" channel="tsn+">
     <title lang="id">Swedish Open Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260715020000 +0700" stop="20260715040000 +0700" channel="tvbelumtersedia">
+  <programme start="20260715020000 +0700" stop="20260715040000 +0700" channel="tsn+">
     <title lang="id">Croatia Open Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260715070000 +0700" stop="20260715090000 +0700" channel="tvbelumtersedia">

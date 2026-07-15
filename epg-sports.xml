@@ -95,16 +95,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: NBA TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260715083000 +0700" stop="20260715103000 +0700" channel="tsn+">
-    <title lang="id">Swiss Open Gstaad Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260715090000 +0700" stop="20260715110000 +0700" channel="tsn+">
-    <title lang="id">Swedish Open Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260715020000 +0700" stop="20260715040000 +0700" channel="tsn+">
     <title lang="id">Croatia Open Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>

@@ -95,11 +95,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: NBA TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260715070000 +0700" stop="20260715090000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Nelson Giants @ Taranaki Mountainairs</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260715083000 +0700" stop="20260715103000 +0700" channel="tsn+">
     <title lang="id">Swiss Open Gstaad Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>

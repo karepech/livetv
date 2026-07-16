@@ -100,11 +100,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260716120000 +0700" stop="20260716140000 +0700" channel="peacockrds">
-    <title lang="id">The Open Championship First Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, RDS</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260716113000 +0700" stop="20260716133000 +0700" channel="fubosportsfoxsports1foxsportsracing">
     <title lang="id">High Limit Racing</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, FOX Sports Racing</desc>

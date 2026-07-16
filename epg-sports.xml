@@ -100,11 +100,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260716080000 +0700" stop="20260716100000 +0700" channel="usanetworkgolfchannelcanada">
-    <title lang="id">The Open Championship First Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: USA Network, Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260716120000 +0700" stop="20260716140000 +0700" channel="peacockrds">
     <title lang="id">The Open Championship First Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, RDS</desc>
@@ -118,16 +113,6 @@
   <programme start="20260716033000 +0700" stop="20260716053000 +0700" channel="dazndazncanada">
     <title lang="id">Rally Estonia</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260716083000 +0700" stop="20260716103000 +0700" channel="tsn+">
-    <title lang="id">Swiss Open Gstaad Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260716090000 +0700" stop="20260716110000 +0700" channel="tsn+">
-    <title lang="id">Swedish Open Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260716020000 +0700" stop="20260716040000 +0700" channel="tsn+">
@@ -145,34 +130,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TVA Sports 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260716100000 +0700" stop="20260716120000 +0700" channel="dazncanada">
-    <title lang="id">Iasi Open Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260716023000 +0700" stop="20260716043000 +0700" channel="dazncanada">
     <title lang="id">Athens Open Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260716093000 +0700" stop="20260716113000 +0700" channel="foxsoccerplus">
-    <title lang="id">St. Kilda Saints @ Geelong Cats</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260716113000 +0700" stop="20260716133000 +0700" channel="peacock">
-    <title lang="id">Circuit de Nevers Magny-Cours - Chalon-sur-Saône Stage 12</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260716050000 +0700" stop="20260716070000 +0700" channel="fubosportsfoxsports2foxsportsracing">
     <title lang="id">Saratoga Live</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, FOX Sports Racing</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260716095000 +0700" stop="20260716115000 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">Brisbane Broncos @ Penrith Panthers</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260716070000 +0700" stop="20260716090000 +0700" channel="foxsoccerplussnworldsnnowsportsnet+">

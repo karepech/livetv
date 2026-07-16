@@ -85,11 +85,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: NBA TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260717043000 +0700" stop="20260717063000 +0700" channel="fubosportsgolfchannelusa">
-    <title lang="id">Corales Championship First Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260717093000 +0700" stop="20260717113000 +0700" channel="golfchannelcanada">
     <title lang="id">Corales Championship First Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Golf Channel Canada</desc>
@@ -98,11 +93,6 @@
   <programme start="20260717113000 +0700" stop="20260717133000 +0700" channel="fubosportsfoxsports1foxsportsracing">
     <title lang="id">High Limit Racing</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, FOX Sports Racing</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260717033000 +0700" stop="20260717053000 +0700" channel="dazndazncanada">
-    <title lang="id">Rally Estonia</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260717070000 +0700" stop="20260717090000 +0700" channel="tvbelumtersedia">
@@ -118,16 +108,6 @@
   <programme start="20260717100000 +0700" stop="20260717120000 +0700" channel="tvasports2">
     <title lang="id">Rio de Janeiro</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TVA Sports 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260717033000 +0700" stop="20260717053000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Iasi Open Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260717050000 +0700" stop="20260717070000 +0700" channel="fubosportsfoxsports2foxsportsracing">
-    <title lang="id">Saratoga Live</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, FOX Sports Racing</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260717070000 +0700" stop="20260717090000 +0700" channel="foxsoccerplussnworldsnnowsportsnet+">

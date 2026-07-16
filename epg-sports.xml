@@ -25,11 +25,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: WWAX</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260716040000 +0700" stop="20260716060000 +0700" channel="nextlevelsports">
-    <title lang="id">Fukuoka @ Nippon Ham Fighters</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260716113000 +0700" stop="20260716133000 +0700" channel="appletvrdstsn4tsn5">
     <title lang="id">CF Montreal Toronto FC</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV, RDS, TSN4, TSN5</desc>
@@ -95,11 +90,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: NBA TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260716070000 +0700" stop="20260716090000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Bay Hawks @ Otago Nuggets</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260716043000 +0700" stop="20260716063000 +0700" channel="fubosportsgolfchannelusa">
     <title lang="id">Corales Championship First Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA</desc>
@@ -108,11 +98,6 @@
   <programme start="20260716093000 +0700" stop="20260716113000 +0700" channel="golfchannelcanada">
     <title lang="id">Corales Championship First Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260716053000 +0700" stop="20260716073000 +0700" channel="peacocknbcsnetworknbcuniverso">
-    <title lang="id">The Open Championship First Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBCS Network, NBC Universo</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260716080000 +0700" stop="20260716100000 +0700" channel="usanetworkgolfchannelcanada">

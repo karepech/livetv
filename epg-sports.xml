@@ -1,8 +1,8 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
-  <programme start="20260717111000 +0700" stop="20260717131000 +0700" channel="fubosportsespnunlimitedespnespndeportestsn1more">
+  <programme start="20260717101000 +0700" stop="20260717121000 +0700" channel="fubosportsespnunlimitedespnespndeportes">
     <title lang="id">New York Mets @ Philadelphia Phillies</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, ESPN Deportes, TSN1, MORE</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, ESPN Deportes</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260717103000 +0700" stop="20260717123000 +0700" channel="espnselectespnunlimited">
@@ -55,16 +55,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260717080000 +0700" stop="20260717100000 +0700" channel="nbatvcanada">
-    <title lang="id">Dallas Mavericks @ Oklahoma City Thunder NBA Summer League Prime Video MavsTV KFAA 29</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: NBA TV Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260717083000 +0700" stop="20260717103000 +0700" channel="espnu">
-    <title lang="id">Brooklyn Nets @ Houston Rockets NBA Summer League ESPN Unlimited DAZN Space City HN</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN U</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260717100000 +0700" stop="20260717120000 +0700" channel="chsnnbatvcanada">
     <title lang="id">Los Angeles Lakers @ Chicago Bulls NBA Summer League Prime Video</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: CHSN, NBA TV Canada</desc>
@@ -90,11 +80,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, FOX Sports Racing</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260717070000 +0700" stop="20260717090000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Croatia Open Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260717090000 +0700" stop="20260717110000 +0700" channel="t2">
     <title lang="id">Rio de Janeiro</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: T2</desc>
@@ -103,11 +88,6 @@
   <programme start="20260717100000 +0700" stop="20260717120000 +0700" channel="tvasports2">
     <title lang="id">Rio de Janeiro</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TVA Sports 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260717070000 +0700" stop="20260717090000 +0700" channel="foxsoccerplussnworldsnnowsportsnet+">
-    <title lang="id">Wakefield Trinity @ Bradford</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus, SN World, SN NOW, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260717110000 +0700" stop="20260717130000 +0700" channel="fubosportscbssn">

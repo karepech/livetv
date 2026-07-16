@@ -45,9 +45,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260716110000 +0700" stop="20260716130000 +0700" channel="espnselectespnunlimited">
+  <programme start="20260716110000 +0700" stop="20260716130000 +0700" channel="espnselectespnunlimitedtsn+">
     <title lang="id">Halifax Tides Ottawa Rapid</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260716103000 +0700" stop="20260716123000 +0700" channel="fanatiz">
@@ -58,16 +58,6 @@
   <programme start="20260716103000 +0700" stop="20260716123000 +0700" channel="fanatiz">
     <title lang="id">Vitória Vasco da Gama</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260716013000 +0700" stop="20260716033000 +0700" channel="nbatvcanada">
-    <title lang="id">Utah Jazz @ San Antonio Spurs NBA Summer League Prime Video Jazz+</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: NBA TV Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260716023000 +0700" stop="20260716043000 +0700" channel="snnowmore">
-    <title lang="id">Washington Wizards @ Los Angeles Clippers NBA Summer League Fubo Sports ESPN Unlimited ESPN Monumental SN</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: SN NOW, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260716080000 +0700" stop="20260716100000 +0700" channel="nbatvcanada">
@@ -85,9 +75,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: CHSN, NBA TV Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260716110000 +0700" stop="20260716130000 +0700" channel="fubosportsespnunlimitedespn2nbcsbayareatsn">
+  <programme start="20260716110000 +0700" stop="20260716130000 +0700" channel="fubosportsespnunlimitedespn2nbcsbayareatsn3more">
     <title lang="id">Golden State Warriors @ New York Knicks NBA Summer League</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2, NBCS Bay Area, TSN</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2, NBCS Bay Area, TSN3, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260716110000 +0700" stop="20260716130000 +0700" channel="rosecitysportsnet">
@@ -145,19 +135,19 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260716083000 +0700" stop="20260716103000 +0700" channel="tvbelumtersedia">
+  <programme start="20260716083000 +0700" stop="20260716103000 +0700" channel="tsn+">
     <title lang="id">Swiss Open Gstaad Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260716090000 +0700" stop="20260716110000 +0700" channel="tvbelumtersedia">
+  <programme start="20260716090000 +0700" stop="20260716110000 +0700" channel="tsn+">
     <title lang="id">Swedish Open Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260716020000 +0700" stop="20260716040000 +0700" channel="tvbelumtersedia">
+  <programme start="20260716020000 +0700" stop="20260716040000 +0700" channel="tsn+">
     <title lang="id">Croatia Open Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260716070000 +0700" stop="20260716090000 +0700" channel="tvbelumtersedia">
@@ -203,11 +193,6 @@
   <programme start="20260716070000 +0700" stop="20260716090000 +0700" channel="foxsoccerplussnworldsnnowsportsnet+">
     <title lang="id">Wakefield Trinity @ Bradford</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus, SN World, SN NOW, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260716020000 +0700" stop="20260716040000 +0700" channel="fubosportscbssn">
-    <title lang="id">Portland Cascade - Utah Talons</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, CBSSN</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260716110000 +0700" stop="20260716130000 +0700" channel="fubosportscbssn">

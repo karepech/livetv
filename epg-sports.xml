@@ -80,11 +80,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Rose City SportsNet</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260717053000 +0700" stop="20260717073000 +0700" channel="nbatv">
-    <title lang="id">Compton Magic vs. ETG</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: NBA TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260717093000 +0700" stop="20260717113000 +0700" channel="golfchannelcanada">
     <title lang="id">Corales Championship First Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Golf Channel Canada</desc>

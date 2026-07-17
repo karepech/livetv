@@ -145,11 +145,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ION, TSN4, TSN5</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260718043000 +0700" stop="20260718063000 +0700" channel="fubosportsgolfchannelusa">
-    <title lang="id">Corales Championship Second Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260718100000 +0700" stop="20260718120000 +0700" channel="golfchannelcanada">
     <title lang="id">Corales Championship Second Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Golf Channel Canada</desc>
@@ -168,21 +163,6 @@
   <programme start="20260718070500 +0700" stop="20260718090500 +0700" channel="fubosportsfoxsports2foxone">
     <title lang="id">Faith Fest 250 Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, FOX One</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260718043000 +0700" stop="20260718063000 +0700" channel="dazndazncanada">
-    <title lang="id">Rally Estonia Stage 7</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260718033000 +0700" stop="20260718053000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Swiss Open Gstaad Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260718043000 +0700" stop="20260718063000 +0700" channel="tsn+">
-    <title lang="id">Croatia Open Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260718050000 +0700" stop="20260718070000 +0700" channel="tvbelumtersedia">
@@ -238,16 +218,6 @@
   <programme start="20260718070000 +0700" stop="20260718090000 +0700" channel="sportsnet+">
     <title lang="id">Wigan Warriors @ Huddersfield Giants</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260718043000 +0700" stop="20260718063000 +0700" channel="paramount+">
-    <title lang="id">Spain U20 @ Japan U20</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260718043000 +0700" stop="20260718063000 +0700" channel="paramount+">
-    <title lang="id">Wales U20 @ Scotland U20</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260718080000 +0700" stop="20260718100000 +0700" channel="espnselectespnunlimited">

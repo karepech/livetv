@@ -1,10 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
-  <programme start="20260718053500 +0700" stop="20260718073500 +0700" channel="fanatizmlbnetworknesnmlb.tvrays.tvmore">
-    <title lang="id">Tampa Bay Rays @ Boston Red Sox</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, MLB Network, NESN, MLB.TV, Rays.TV, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260718110500 +0700" stop="20260718130500 +0700" channel="more">
     <title lang="id">Los Angeles Dodgers @ New York Yankees MLB Network SportsNet LA YES MLB.TV SNLA+</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: MORE</desc>
@@ -155,19 +150,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN3</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260718060000 +0700" stop="20260718080000 +0700" channel="fubosportsfoxsports2foxone">
-    <title lang="id">Faith Fest 250 Practice</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, FOX One</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260718070500 +0700" stop="20260718090500 +0700" channel="fubosportsfoxsports2foxone">
     <title lang="id">Faith Fest 250 Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, FOX One</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260718050000 +0700" stop="20260718070000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Croatia Open Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260718070000 +0700" stop="20260718090000 +0700" channel="tvbelumtersedia">
@@ -175,24 +160,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260718060000 +0700" stop="20260718080000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Umag-ATP Semifinals; Gstaad-ATP, Bastad-ATP, Athens-WTA &amp; Iasi-WTA Quarterfinals Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260718090000 +0700" stop="20260718110000 +0700" channel="t2">
     <title lang="id">Rio de Janeiro</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: T2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260718063000 +0700" stop="20260718083000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Athens Open Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260718050000 +0700" stop="20260718070000 +0700" channel="fubosportsfoxsports2foxsportsracing">
-    <title lang="id">Saratoga Live</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, FOX Sports Racing</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260718080000 +0700" stop="20260718100000 +0700" channel="fubosportsfoxsports2foxsportsracing">

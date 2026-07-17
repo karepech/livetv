@@ -165,16 +165,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260717080000 +0700" stop="20260717100000 +0700" channel="usanetworkgolfchannelcanada">
-    <title lang="id">The Open Championship Second Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: USA Network, Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260717110000 +0700" stop="20260717130000 +0700" channel="rds">
-    <title lang="id">The Open Championship Second Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: RDS</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260717120000 +0700" stop="20260717140000 +0700" channel="peacock">
     <title lang="id">The Open Championship Second Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
@@ -195,11 +185,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, FOX One</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260717113000 +0700" stop="20260717133000 +0700" channel="appletv">
-    <title lang="id">Belgian Grand Prix First Practice</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260717030000 +0700" stop="20260717050000 +0700" channel="appletvtsn2">
     <title lang="id">Belgian Grand Prix Second Practice</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV, TSN2</desc>
@@ -215,11 +200,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260717100300 +0700" stop="20260717120300 +0700" channel="dazndazncanada">
-    <title lang="id">Rally Estonia Stage 1</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260717014600 +0700" stop="20260717034600 +0700" channel="dazndazncanada">
     <title lang="id">Rally Estonia Stage 4</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
@@ -228,16 +208,6 @@
   <programme start="20260717043000 +0700" stop="20260717063000 +0700" channel="dazndazncanada">
     <title lang="id">Rally Estonia Stage 7</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260717083000 +0700" stop="20260717103000 +0700" channel="tsn+">
-    <title lang="id">Swiss Open Gstaad Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260717090000 +0700" stop="20260717110000 +0700" channel="tsn+">
-    <title lang="id">Swedish Open Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260717123000 +0700" stop="20260717143000 +0700" channel="tvbelumtersedia">
@@ -270,11 +240,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260717083000 +0700" stop="20260717103000 +0700" channel="tvbelumtersedia">
-    <title lang="id">WTA &amp; ATP Tournaments Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260717060000 +0700" stop="20260717080000 +0700" channel="tvbelumtersedia">
     <title lang="id">Umag-ATP Semifinals; Gstaad-ATP, Bastad-ATP, Athens-WTA &amp; Iasi-WTA Quarterfinals Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
@@ -283,11 +248,6 @@
   <programme start="20260717090000 +0700" stop="20260717110000 +0700" channel="t2">
     <title lang="id">Rio de Janeiro</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: T2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260717100000 +0700" stop="20260717120000 +0700" channel="dazncanada">
-    <title lang="id">Iasi Open Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260717023000 +0700" stop="20260717043000 +0700" channel="dazncanada">
@@ -303,16 +263,6 @@
   <programme start="20260717013000 +0700" stop="20260717033000 +0700" channel="beinusa">
     <title lang="id">One Friday Fights</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: beIN USA</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260717094000 +0700" stop="20260717114000 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">Adelaide Crows @ Sydney Swans</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260717110000 +0700" stop="20260717130000 +0700" channel="peacock">
-    <title lang="id">Dole - Belfort Stage 13</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260717050000 +0700" stop="20260717070000 +0700" channel="fubosportsfoxsports2foxsportsracing">
@@ -333,16 +283,6 @@
   <programme start="20260717100000 +0700" stop="20260717120000 +0700" channel="espnselectespnunlimitedtsn+">
     <title lang="id">California Redwoods @ Maryland Whipsnakes</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260717080000 +0700" stop="20260717100000 +0700" channel="foxsoccerplus">
-    <title lang="id">Newcastle Knights @ Cronulla Sharks</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260717100000 +0700" stop="20260717120000 +0700" channel="foxsoccerplus">
-    <title lang="id">Melbourne Storm @ Sydney Roosters</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260717070000 +0700" stop="20260717090000 +0700" channel="foxsoccerplussnworldsnnowsportsnet+">

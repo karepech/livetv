@@ -165,11 +165,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260717120000 +0700" stop="20260717140000 +0700" channel="peacock">
-    <title lang="id">The Open Championship Second Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260717070000 +0700" stop="20260717090000 +0700" channel="tsn3">
     <title lang="id">U.S. Girls' Junior Semifinals</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN3</desc>
@@ -208,11 +203,6 @@
   <programme start="20260717043000 +0700" stop="20260717063000 +0700" channel="dazndazncanada">
     <title lang="id">Rally Estonia Stage 7</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260717123000 +0700" stop="20260717143000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Swiss Open Gstaad Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260717010000 +0700" stop="20260717030000 +0700" channel="tvbelumtersedia">
@@ -313,6 +303,21 @@
   <programme start="20260717043000 +0700" stop="20260717063000 +0700" channel="paramount+">
     <title lang="id">Wales U20 @ Scotland U20</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260717080000 +0700" stop="20260717100000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Lebanon - Yorktown</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260717080000 +0700" stop="20260717100000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Owensboro - St. Clair</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260717110000 +0700" stop="20260717130000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Mountain Brook - Winterville</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

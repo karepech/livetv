@@ -126,12 +126,12 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260717103000 +0700" stop="20260717123000 +0700" channel="nbcscanbatvcanada">
-    <title lang="id">Sacramento Kings @ Charlotte Hornets Prime Video</title>
+    <title lang="id">Sacramento Kings @ Charlotte Hornets NBA Summer League Prime Video</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: NBCS CA, NBA TV Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260717110000 +0700" stop="20260717130000 +0700" channel="fubosportsespnunlimiteddaznespnchsn">
-    <title lang="id">Chicago Bulls @ Cleveland Cavaliers</title>
+    <title lang="id">Chicago Bulls @ Cleveland Cavaliers NBA Summer League</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, DAZN, ESPN, CHSN</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -150,14 +150,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ION, TSN4, TSN5</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260717010000 +0700" stop="20260717030000 +0700" channel="nbatv">
+  <programme start="20260717010000 +0700" stop="20260717030000 +0700" channel="nbatvnbatvcanada">
     <title lang="id">NIke EYBL Peach Jam</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: NBA TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260717073000 +0700" stop="20260717093000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Manawatu Jets @ Auckland Tuatara</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: NBA TV, NBA TV Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260717043000 +0700" stop="20260717063000 +0700" channel="fubosportsgolfchannelusa">
@@ -168,11 +163,6 @@
   <programme start="20260717100000 +0700" stop="20260717120000 +0700" channel="golfchannelcanada">
     <title lang="id">Corales Championship Second Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260717053000 +0700" stop="20260717073000 +0700" channel="peacocknbcsnetworknbcuniverso">
-    <title lang="id">The Open Championship Second Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBCS Network, NBC Universo</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260717080000 +0700" stop="20260717100000 +0700" channel="usanetworkgolfchannelcanada">
@@ -223,16 +213,6 @@
   <programme start="20260717125500 +0700" stop="20260717145500 +0700" channel="tsn+">
     <title lang="id">Spa-Francorchamps Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260717050000 +0700" stop="20260717070000 +0700" channel="dazn">
-    <title lang="id">Rally Estonia Shakedown</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260717060000 +0700" stop="20260717080000 +0700" channel="dazndazncanada">
-    <title lang="id">Rally Estonia Shakedown</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260717100300 +0700" stop="20260717120300 +0700" channel="dazndazncanada">
@@ -315,6 +295,11 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260717063000 +0700" stop="20260717083000 +0700" channel="tvbelumtersedia">
+    <title lang="id">Athens Open Tennis Channel</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260717013000 +0700" stop="20260717033000 +0700" channel="beinusa">
     <title lang="id">One Friday Fights</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: beIN USA</desc>
@@ -323,11 +308,6 @@
   <programme start="20260717094000 +0700" stop="20260717114000 +0700" channel="fubosportsfoxsports2">
     <title lang="id">Adelaide Crows @ Sydney Swans</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260717050000 +0700" stop="20260717070000 +0700" channel="nextlevelsports">
-    <title lang="id">Tour of Magnificent Qinghai Stage 7</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260717110000 +0700" stop="20260717130000 +0700" channel="peacock">

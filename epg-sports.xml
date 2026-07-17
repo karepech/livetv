@@ -5,11 +5,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260718111000 +0700" stop="20260718131000 +0700" channel="fanatizsportsnetpittsburghguardians.tvmlb.tv">
-    <title lang="id">Pittsburgh Pirates @ Cleveland Guardians</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, SportsNet Pittsburgh, Guardians.TV, MLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260718111000 +0700" stop="20260718131000 +0700" channel="nesnnesnplusmlb.tvrays.tvwmormore">
     <title lang="id">Tampa Bay Rays @ Boston Red Sox</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: NESN, NESN Plus, MLB.TV, Rays.TV, WMOR, MORE</desc>
@@ -37,6 +32,11 @@
   </programme>
   <programme start="20260718103500 +0700" stop="20260718123500 +0700" channel="espnselectespnunlimited">
     <title lang="id">Newport Gulls - Keene Swamp Bats</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260718110000 +0700" stop="20260718130000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Bristol Blues - Valley Blue Sox</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -145,29 +145,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260718070000 +0700" stop="20260718090000 +0700" channel="tsn3">
-    <title lang="id">U.S. Girls' Junior Semifinals</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN3</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260718070500 +0700" stop="20260718090500 +0700" channel="fubosportsfoxsports2foxone">
-    <title lang="id">Faith Fest 250 Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, FOX One</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260718070000 +0700" stop="20260718090000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Croatia Open Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260718090000 +0700" stop="20260718110000 +0700" channel="t2">
     <title lang="id">Rio de Janeiro</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: T2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260718080000 +0700" stop="20260718100000 +0700" channel="fubosportsfoxsports2foxsportsracing">
-    <title lang="id">Saratoga Live</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, FOX Sports Racing</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260718103000 +0700" stop="20260718123000 +0700" channel="fubosportsfoxsports2foxsportsracing">
@@ -178,26 +158,6 @@
   <programme start="20260718100000 +0700" stop="20260718120000 +0700" channel="espnselectespnunlimitedtsn+">
     <title lang="id">California Redwoods @ Maryland Whipsnakes</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260718070000 +0700" stop="20260718090000 +0700" channel="foxsoccerplussnworldsnnowsportsnet+">
-    <title lang="id">Catalans Dragons @ St Helens</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus, SN World, SN NOW, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260718070000 +0700" stop="20260718090000 +0700" channel="sportsnet+">
-    <title lang="id">Wigan Warriors @ Huddersfield Giants</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260718080000 +0700" stop="20260718100000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Lebanon - Yorktown</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260718080000 +0700" stop="20260718100000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Owensboro - St. Clair</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260718110000 +0700" stop="20260718130000 +0700" channel="espnselectespnunlimited">

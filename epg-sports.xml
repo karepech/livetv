@@ -95,31 +95,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260717123000 +0700" stop="20260717143000 +0700" channel="appletv">
-    <title lang="id">Chicago Fire Vancouver Whitecaps</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260717123000 +0700" stop="20260717143000 +0700" channel="appletv">
-    <title lang="id">St. Louis City Sporting Kansas City</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260717023000 +0700" stop="20260717043000 +0700" channel="appletvtsn5">
-    <title lang="id">Seattle Sounders Portland Timbers</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV, TSN5</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260717010000 +0700" stop="20260717030000 +0700" channel="foxdeportes">
-    <title lang="id">Necaxa Atlante</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Deportes</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260717031000 +0700" stop="20260717051000 +0700" channel="tudn">
-    <title lang="id">Tijuana Tigres UANL</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TUDN</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260717110000 +0700" stop="20260717130000 +0700" channel="foxsoccerplustsn3onesoccer">
     <title lang="id">Atlético Ottawa Inter Toronto FC</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus, TSN3, OneSoccer</desc>
@@ -128,11 +103,6 @@
   <programme start="20260717110000 +0700" stop="20260717130000 +0700" channel="tvasports2">
     <title lang="id">Supra du Quebec Vancouver FC</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TVA Sports 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260717124500 +0700" stop="20260717144500 +0700" channel="fanatiz">
-    <title lang="id">Sarmiento Boca Juniors</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260717094500 +0700" stop="20260717114500 +0700" channel="fanatiz">
@@ -155,16 +125,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260717010000 +0700" stop="20260717030000 +0700" channel="fubosportsespnunlimitedespn2sportsnetsnonemore">
-    <title lang="id">Toronto Raptors @ Miami Heat NBA Summer League</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2, Sportsnet, SN One, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260717020000 +0700" stop="20260717040000 +0700" channel="nbatvcanada">
-    <title lang="id">Portland Trail Blazers @ Denver Nuggets NBA Summer League Prime Video Altitude BlazerVision KUNP Portland</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: NBA TV Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260717103000 +0700" stop="20260717123000 +0700" channel="nbcscanbatvcanada">
     <title lang="id">Sacramento Kings @ Charlotte Hornets Prime Video</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: NBCS CA, NBA TV Canada</desc>
@@ -185,9 +145,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ION</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260717113000 +0700" stop="20260717133000 +0700" channel="ion">
+  <programme start="20260717113000 +0700" stop="20260717133000 +0700" channel="iontsn4tsn5">
     <title lang="id">Atlanta Dream @ Toronto Tempo</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ION</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ION, TSN4, TSN5</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260717010000 +0700" stop="20260717030000 +0700" channel="nbatv">
@@ -255,6 +215,16 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV, TSN2</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260717015500 +0700" stop="20260717035500 +0700" channel="tsn+">
+    <title lang="id">Spa-Francorchamps Qualifying</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260717125500 +0700" stop="20260717145500 +0700" channel="tsn+">
+    <title lang="id">Spa-Francorchamps Qualifying</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260717050000 +0700" stop="20260717070000 +0700" channel="dazn">
     <title lang="id">Rally Estonia Shakedown</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN</desc>
@@ -280,14 +250,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260717083000 +0700" stop="20260717103000 +0700" channel="tvbelumtersedia">
+  <programme start="20260717083000 +0700" stop="20260717103000 +0700" channel="tsn+">
     <title lang="id">Swiss Open Gstaad Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260717090000 +0700" stop="20260717110000 +0700" channel="tvbelumtersedia">
+  <programme start="20260717090000 +0700" stop="20260717110000 +0700" channel="tsn+">
     <title lang="id">Swedish Open Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260717123000 +0700" stop="20260717143000 +0700" channel="tvbelumtersedia">
@@ -305,9 +275,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260717043000 +0700" stop="20260717063000 +0700" channel="tvbelumtersedia">
+  <programme start="20260717043000 +0700" stop="20260717063000 +0700" channel="tsn+">
     <title lang="id">Croatia Open Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260717050000 +0700" stop="20260717070000 +0700" channel="tvbelumtersedia">
@@ -380,9 +350,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, FOX Sports Racing</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260717100000 +0700" stop="20260717120000 +0700" channel="espnselectespnunlimited">
+  <programme start="20260717100000 +0700" stop="20260717120000 +0700" channel="espnselectespnunlimitedtsn+">
     <title lang="id">California Redwoods @ Maryland Whipsnakes</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260717080000 +0700" stop="20260717100000 +0700" channel="foxsoccerplus">
@@ -423,11 +393,6 @@
   <programme start="20260717043000 +0700" stop="20260717063000 +0700" channel="paramount+">
     <title lang="id">Wales U20 @ Scotland U20</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260717020000 +0700" stop="20260717040000 +0700" channel="mlbnetwork">
-    <title lang="id">Portland Cascade - Utah Talons</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: MLB Network</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

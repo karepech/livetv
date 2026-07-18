@@ -400,11 +400,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260718065600 +0700" stop="20260718085600 +0700" channel="dazndazncanada">
-    <title lang="id">Rally Estonia Stage 8</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260718100300 +0700" stop="20260718120300 +0700" channel="dazndazncanada">
     <title lang="id">Rally Estonia Stage 11</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
@@ -500,11 +495,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, SN 360, SN NOW, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260718061500 +0700" stop="20260718081500 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">Melbourne Demons @ North Melbourne Kangaroos</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260718093500 +0700" stop="20260718113500 +0700" channel="foxsoccerplus">
     <title lang="id">Carlton Blues @ Collingwood Magpies</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
@@ -558,16 +548,6 @@
   <programme start="20260718083000 +0700" stop="20260718103000 +0700" channel="espnselectespnunlimitedtsn+">
     <title lang="id">Utah Archers @ Philadelphia Waterdogs</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260718051500 +0700" stop="20260718071500 +0700" channel="foxsoccerplus">
-    <title lang="id">NQ Cowboys W @ New Zealand Warriors W</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260718071500 +0700" stop="20260718091500 +0700" channel="foxsoccerplus">
-    <title lang="id">Cronulla Sharks W @ Canterbury-Bankstown Bulldogs W</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260718043000 +0700" stop="20260718063000 +0700" channel="foxsoccerplussnworldsnnowsportsnet+">

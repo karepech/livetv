@@ -320,11 +320,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV, RDS, TSN5</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260718121000 +0700" stop="20260718141000 +0700" channel="tsn+">
-    <title lang="id">Spa-Francorchamps Sprint Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260718023000 +0700" stop="20260718043000 +0700" channel="dazndazncanada">
     <title lang="id">Formula 4 Italian Championship Race</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
@@ -395,11 +390,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, DAZN, fubo Sports Network, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260718121000 +0700" stop="20260718141000 +0700" channel="dazndazncanada">
-    <title lang="id">Rajadamnern World Series</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260718090000 +0700" stop="20260718110000 +0700" channel="paramount+sn360snnowsportsnet+">
     <title lang="id">Ezra Elliott Damien Anderson .</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, SN 360, SN NOW, Sportsnet+</desc>
@@ -438,11 +428,6 @@
   <programme start="20260718110000 +0700" stop="20260718130000 +0700" channel="paramount+sn360snnowsportsnet+">
     <title lang="id">Austin Bashi Jose Delgado</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, SN 360, SN NOW, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260718111000 +0700" stop="20260718131000 +0700" channel="peacock">
-    <title lang="id">Mulhouse - Le Markstein Fellering Stage 14</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260718043000 +0700" stop="20260718063000 +0700" channel="fubosportsfoxsports2foxsportsracing">

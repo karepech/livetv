@@ -120,11 +120,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Marquee, Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260718113000 +0700" stop="20260718133000 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Gwinnett Stripers @ Toledo Mud Hens</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260718113500 +0700" stop="20260718133500 +0700" channel="memphisredbirdsballysportslivemilb.tv">
     <title lang="id">Iowa Cubs @</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Memphis Redbirds, Bally Sports Live, MiLB.TV</desc>
@@ -270,11 +265,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: NBA TV, NBA TV Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260718073000 +0700" stop="20260718093000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Whai @ Wellington Saints</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260718040000 +0700" stop="20260718060000 +0700" channel="fubosportsfox">
     <title lang="id">The Ville - La Familia</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX</desc>
@@ -356,11 +346,6 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260718121000 +0700" stop="20260718141000 +0700" channel="tsn+">
-    <title lang="id">Spa-Francorchamps Sprint Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260718075500 +0700" stop="20260718095500 +0700" channel="tsn+">
     <title lang="id">Spa-Francorchamps Sprint Race</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>

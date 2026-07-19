@@ -165,11 +165,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260719090000 +0700" stop="20260719110000 +0700" channel="nextlevelsportsryzsportsnetwork">
-    <title lang="id">Seibu Lions @ Tohoku Prime Video</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports, Ryz Sports Network</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260719070000 +0700" stop="20260719090000 +0700" channel="fubosportspeacockesfoxfox4kfoxsports4kmore">
     <title lang="id">Spain Argentina Final</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Peacock ES, FOX, FOX 4K, FOX Sports 4K, MORE</desc>
@@ -270,11 +265,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV, RDS, TSN5</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260719085500 +0700" stop="20260719105500 +0700" channel="dazndazncanada">
-    <title lang="id">Formula 4 Italian Championship Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260719032000 +0700" stop="20260719052000 +0700" channel="dazndazncanada">
     <title lang="id">Formula 4 Italian Championship Race</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
@@ -293,16 +283,6 @@
   <programme start="20260719113000 +0700" stop="20260719133000 +0700" channel="dazndazncanada">
     <title lang="id">Rally Estonia</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260719093000 +0700" stop="20260719113000 +0700" channel="t2tsn+">
-    <title lang="id">Stefanos Tsitsipas Raphael Collignon Final - Swiss Open Gstaad Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: T2, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260719093000 +0700" stop="20260719113000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Swedish Open Doubles Final Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260719120000 +0700" stop="20260719140000 +0700" channel="tsn+">

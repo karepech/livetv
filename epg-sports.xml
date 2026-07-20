@@ -65,11 +65,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260721080000 +0700" stop="20260721100000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Concord, NH - Gorham, ME</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260721100000 +0700" stop="20260721120000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Soldotna, AK - Hermiston, OR</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>

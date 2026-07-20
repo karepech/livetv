@@ -75,26 +75,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX, FOX One</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260720090000 +0700" stop="20260720110000 +0700" channel="tsn+">
-    <title lang="id">Austrian Open Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260720110000 +0700" stop="20260720130000 +0700" channel="tsn+">
-    <title lang="id">Estoril Open Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260720090000 +0700" stop="20260720110000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Hamburg Open Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260720113000 +0700" stop="20260720133000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Hamburg Open Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260720110000 +0700" stop="20260720130000 +0700" channel="fubosportsespnunlimitedespn2tsn+">
     <title lang="id">Carolina Blaze - Oklahoma City Spark</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2, TSN+</desc>

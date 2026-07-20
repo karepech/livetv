@@ -55,49 +55,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260721063000 +0700" stop="20260721083000 +0700" channel="marquee">
-    <title lang="id">South Winneshiek - Notre Dame</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Marquee</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260721110000 +0700" stop="20260721130000 +0700" channel="fubosportsfoxsports1">
     <title lang="id">La Familia - The Ville</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260721070000 +0700" stop="20260721090000 +0700" channel="fubosportsfoxfoxonetsn+">
-    <title lang="id">Borchetta Bourbon Music City Grand Prix Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX, FOX One, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260721110000 +0700" stop="20260721130000 +0700" channel="fubosportsespnunlimitedespn2tsn+">
     <title lang="id">Carolina Blaze - Oklahoma City Spark</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260721050000 +0700" stop="20260721070000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Saint Charles, MN - St. Clair, MI</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260721050000 +0700" stop="20260721070000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Washington, DC - Delmar, MD</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260721050000 +0700" stop="20260721070000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Warner Robins, GA - Taylors, SC</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260721060000 +0700" stop="20260721080000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Kenner, LA - Tulsa, OK</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260721070000 +0700" stop="20260721090000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">San Marino, CA - Santa Clara, Utah</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260721080000 +0700" stop="20260721100000 +0700" channel="espnselectespnunlimited">

@@ -65,14 +65,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Marquee</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260720070000 +0700" stop="20260720090000 +0700" channel="nextlevelsports">
-    <title lang="id">Seibu Lions @ Tohoku</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260720110000 +0700" stop="20260720130000 +0700" channel="fubosportsfoxsports1">
     <title lang="id">La Familia - The Ville</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260720070000 +0700" stop="20260720090000 +0700" channel="fubosportsfoxfoxone">
+    <title lang="id">Borchetta Bourbon Music City Grand Prix Race</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX, FOX One</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260720090000 +0700" stop="20260720110000 +0700" channel="tsn+">
@@ -81,7 +81,7 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260720110000 +0700" stop="20260720130000 +0700" channel="tsn+">
-    <title lang="id">Estoril Open</title>
+    <title lang="id">Estoril Open Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>

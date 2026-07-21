@@ -56,12 +56,12 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260721040000 +0700" stop="20260721060000 +0700" channel="marquee">
-    <title lang="id">IHSAA 2A</title>
+    <title lang="id">West Lyon - Unity Christian IAHSAA Class 2A Tournament</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Marquee</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260721063000 +0700" stop="20260721083000 +0700" channel="marquee">
-    <title lang="id">Roland Story - Durant</title>
+    <title lang="id">Roland Story - Durant IAHSAA Class 2A Tournament</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Marquee</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -136,12 +136,12 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260721090000 +0700" stop="20260721110000 +0700" channel="tsn+">
-    <title lang="id">Austrian Open</title>
+    <title lang="id">Austrian Open Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260721110000 +0700" stop="20260721130000 +0700" channel="tsn+">
-    <title lang="id">Estoril Open</title>
+    <title lang="id">Estoril Open Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -153,6 +153,11 @@
   <programme start="20260721110000 +0700" stop="20260721130000 +0700" channel="peacock">
     <title lang="id">Évian-les-Bains - Thonon-les-Bains Stage 16</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260721020000 +0700" stop="20260721040000 +0700" channel="fubosportsespnunlimitedespn2tsn+">
+    <title lang="id">Carolina Blaze - Oklahoma City Spark</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260721010000 +0700" stop="20260721030000 +0700" channel="espnselectespnunlimited">

@@ -55,11 +55,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260722040000 +0700" stop="20260722060000 +0700" channel="marquee">
-    <title lang="id">West Lyon - Unity Christian IAHSAA Class 2A Tournament</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Marquee</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260722063000 +0700" stop="20260722083000 +0700" channel="marquee">
     <title lang="id">Roland Story - Durant IAHSAA Class 2A Tournament</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Marquee</desc>
@@ -105,11 +100,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260722040000 +0700" stop="20260722060000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Ararat-Armenia Shamrock Rovers Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260722063000 +0700" stop="20260722083000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Sturm Graz Hearts Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
@@ -130,11 +120,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260722033000 +0700" stop="20260722053000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Delmar, MD - Massapequa, NY</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260722060000 +0700" stop="20260722080000 +0700" channel="fubosportsespnunlimitedespn">
     <title lang="id">Winterville, NC - Warner Robins, GA</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
@@ -142,6 +127,11 @@
   </programme>
   <programme start="20260722060000 +0700" stop="20260722080000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Minersville, PA - Toms River, NJ</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260722070000 +0700" stop="20260722090000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Missoula, MT - Hermiston, OR</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -153,6 +143,11 @@
   <programme start="20260722093000 +0700" stop="20260722113000 +0700" channel="fubosportsespnunlimitedespn">
     <title lang="id">River Ridge, LA - Helotes, TX</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260722100000 +0700" stop="20260722120000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Boise, ID - Snohomish, WA</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260722111500 +0700" stop="20260722131500 +0700" channel="fubosportsespnunlimitedespn">

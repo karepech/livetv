@@ -100,11 +100,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260721090000 +0700" stop="20260721110000 +0700" channel="nextlevelsports">
-    <title lang="id">Orix Buffaloes @ Fukuoka</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260721110000 +0700" stop="20260721130000 +0700" channel="fubosportsfoxsports1">
     <title lang="id">Boeheim's Army - Hall In</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1</desc>
@@ -133,26 +128,6 @@
   <programme start="20260721103000 +0700" stop="20260721123000 +0700" channel="fanatiz">
     <title lang="id">Atlético Mineiro Bahia</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260721090000 +0700" stop="20260721110000 +0700" channel="tsn+">
-    <title lang="id">Austrian Open Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260721110000 +0700" stop="20260721130000 +0700" channel="tsn+">
-    <title lang="id">Estoril Open Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260721090000 +0700" stop="20260721110000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Hamburg Open Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260721110000 +0700" stop="20260721130000 +0700" channel="peacock">
-    <title lang="id">Évian-les-Bains - Thonon-les-Bains Stage 16</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260721020000 +0700" stop="20260721040000 +0700" channel="fubosportsespnunlimitedespn2tsn+">

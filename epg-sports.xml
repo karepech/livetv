@@ -135,11 +135,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260721010000 +0700" stop="20260721030000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">St. Albans, VT - Gorham, ME</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260721033000 +0700" stop="20260721053000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Delmar, MD - Massapequa, NY</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>

@@ -10,19 +10,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, NBCS PHL, SportsNet LA, TBS, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260722110500 +0700" stop="20260722130500 +0700" channel="sportsnetpittsburghyesmlb.tvsnonesnnow">
-    <title lang="id">Pittsburgh Pirates @ New York Yankees</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: SportsNet Pittsburgh, YES, MLB.TV, SN One, SN NOW</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260722110700 +0700" stop="20260722130700 +0700" channel="mlb.tvrays.tvsportsnetsnnowtvasports">
     <title lang="id">Tampa Bay Rays @ Toronto Blue Jays</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: MLB.TV, Rays.TV, Sportsnet, SN NOW, TVA Sports</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260722111000 +0700" stop="20260722131000 +0700" channel="masnnesnmlb.tv">
+  <programme start="20260722111000 +0700" stop="20260722131000 +0700" channel="masnnesnmlb.tvsnonesnnow">
     <title lang="id">Baltimore Orioles @ Boston Red Sox</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: MASN, NESN, MLB.TV</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: MASN, NESN, MLB.TV, SN One, SN NOW</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260722111500 +0700" stop="20260722131500 +0700" channel="padres.tvgraymediamlb.tvbravesvision">
@@ -53,11 +48,6 @@
   <programme start="20260722103000 +0700" stop="20260722123000 +0700" channel="espnselectespnunlimited">
     <title lang="id">North Adams SteepleCATS - Sanford Mainers</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260722063000 +0700" stop="20260722083000 +0700" channel="marquee">
-    <title lang="id">Roland Story - Durant IAHSAA Class 2A Tournament</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Marquee</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260722103500 +0700" stop="20260722123500 +0700" channel="ballysportslivemilb.tv">
@@ -100,11 +90,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260722063000 +0700" stop="20260722083000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Sturm Graz Hearts Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260722090000 +0700" stop="20260722110000 +0700" channel="fanatiz">
     <title lang="id">Atlético Nacional Tigres</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
@@ -118,16 +103,6 @@
   <programme start="20260722103000 +0700" stop="20260722123000 +0700" channel="fanatiz">
     <title lang="id">Atlético Mineiro Bahia</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260722060000 +0700" stop="20260722080000 +0700" channel="fubosportsespnunlimitedespn">
-    <title lang="id">Winterville, NC - Warner Robins, GA</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260722060000 +0700" stop="20260722080000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Minersville, PA - Toms River, NJ</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260722070000 +0700" stop="20260722090000 +0700" channel="espnselectespnunlimited">

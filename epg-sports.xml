@@ -1,20 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
-  <programme start="20260721014000 +0700" stop="20260721034000 +0700" channel="nbcscadbacks.tvmlb.tv">
-    <title lang="id">Athletics @ Arizona Diamondbacks</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: NBCS CA, Dbacks.TV, MLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260721014000 +0700" stop="20260721034000 +0700" channel="graymediamlb.tvfox 19nowmariners.tvreds.tv">
-    <title lang="id">Cincinnati Reds @ Seattle Mariners</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Gray Media, MLB.TV, Fox 19 Now, Mariners.TV, Reds.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260721021000 +0700" stop="20260721041000 +0700" channel="fubosportsespnunlimitedespnespndeportes">
-    <title lang="id">St. Louis Cardinals @ Los Angeles Angels</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, ESPN Deportes</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260721104000 +0700" stop="20260721124000 +0700" channel="guardians.tvtwins.tvmlb.tv">
     <title lang="id">Minnesota Twins @ Cleveland Guardians</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Guardians.TV, Twins.TV, MLB.TV</desc>
@@ -120,21 +105,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260721020000 +0700" stop="20260721040000 +0700" channel="cbsnewsbayareacbsnewssacramento">
-    <title lang="id">Washington Mystics @ Golden State Valkyries Monumental SN</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: CBS News Bay Area, CBS News Sacramento</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260721020000 +0700" stop="20260721040000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Minnesota Lynx @ Seattle Storm USA Network Victory+ Seattle 11 Prime Video (SEA)</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260721010000 +0700" stop="20260721030000 +0700" channel="fubosportsfoxsports1">
-    <title lang="id">The Enchantment - AfterShocks</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260721110000 +0700" stop="20260721130000 +0700" channel="fubosportsfoxsports1">
     <title lang="id">Boeheim's Army - Hall In</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1</desc>
@@ -165,9 +135,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260721010000 +0700" stop="20260721030000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Los Cabos Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
+  <programme start="20260721090000 +0700" stop="20260721110000 +0700" channel="tsn+">
+    <title lang="id">Austrian Open</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260721110000 +0700" stop="20260721130000 +0700" channel="tsn+">
+    <title lang="id">Estoril Open</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260721090000 +0700" stop="20260721110000 +0700" channel="tvbelumtersedia">
@@ -178,6 +153,41 @@
   <programme start="20260721110000 +0700" stop="20260721130000 +0700" channel="peacock">
     <title lang="id">Évian-les-Bains - Thonon-les-Bains Stage 16</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260721010000 +0700" stop="20260721030000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">St. Albans, VT - Gorham, ME</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260721033000 +0700" stop="20260721053000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Delmar, MD - Massapequa, NY</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260721060000 +0700" stop="20260721080000 +0700" channel="fubosportsespnunlimitedespn">
+    <title lang="id">Winterville, NC - Warner Robins, GA</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260721060000 +0700" stop="20260721080000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Minersville, PA - Toms River, NJ</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260721083000 +0700" stop="20260721103000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Cranston, RI - Bristol, CT</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260721093000 +0700" stop="20260721113000 +0700" channel="fubosportsespnunlimitedespn">
+    <title lang="id">River Ridge, LA - Helotes, TX</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260721111500 +0700" stop="20260721131500 +0700" channel="fubosportsespnunlimitedespn">
+    <title lang="id">Columbia, MO - Owensboro, KY</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

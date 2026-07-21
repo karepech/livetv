@@ -15,11 +15,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: MLB.TV, Rays.TV, Sportsnet, SN NOW, TVA Sports</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260722111000 +0700" stop="20260722131000 +0700" channel="masnnesnmlb.tvsnonesnnow">
-    <title lang="id">Baltimore Orioles @ Boston Red Sox</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: MASN, NESN, MLB.TV, SN One, SN NOW</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260722111500 +0700" stop="20260722131500 +0700" channel="padres.tvgraymediamlb.tvbravesvision">
     <title lang="id">San Diego Padres @ Atlanta Braves</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Padres.TV, Gray Media, MLB.TV, BravesVision</desc>
@@ -30,9 +25,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: NBCS Bay Area, MLB.TV, Royals.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260722114000 +0700" stop="20260722134000 +0700" channel="snymlb.tvbrewers.tv">
+  <programme start="20260722114000 +0700" stop="20260722134000 +0700" channel="snymlb.tvbrewers.tvsnonesnnow">
     <title lang="id">New York Mets @ Milwaukee Brewers</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: SNY, MLB.TV, Brewers.TV</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: SNY, MLB.TV, Brewers.TV, SN One, SN NOW</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260722103000 +0700" stop="20260722123000 +0700" channel="espnselectespnunlimited">
@@ -90,11 +85,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260722090000 +0700" stop="20260722110000 +0700" channel="fanatiz">
-    <title lang="id">Atlético Nacional Tigres</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260722100000 +0700" stop="20260722120000 +0700" channel="fanatizbeinusabeinusaespanolbeincanadabeincanadaespanol">
     <title lang="id">Nacional Tigre</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, beIN USA, beIN USA Espanol, beIN Canada, beIN Canada Espanol</desc>
@@ -103,16 +93,6 @@
   <programme start="20260722103000 +0700" stop="20260722123000 +0700" channel="fanatiz">
     <title lang="id">Atlético Mineiro Bahia</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260722070000 +0700" stop="20260722090000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Missoula, MT - Hermiston, OR</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260722083000 +0700" stop="20260722103000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Cranston, RI - Bristol, CT</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260722093000 +0700" stop="20260722113000 +0700" channel="fubosportsespnunlimitedespn">

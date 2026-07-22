@@ -1,20 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
-  <programme start="20260722013800 +0700" stop="20260722033800 +0700" channel="fdsnwestmlb.tvcardinals.tvabtvtvasports">
-    <title lang="id">St. Louis Cardinals @ Los Angeles Angels</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FDSN West, MLB.TV, Cardinals.TV, ABTV, TVA Sports</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260722014000 +0700" stop="20260722034000 +0700" channel="nbcscadbacks.tvmlb.tv">
-    <title lang="id">Athletics @ Arizona Diamondbacks</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: NBCS CA, Dbacks.TV, MLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260722014000 +0700" stop="20260722034000 +0700" channel="mlbnetworkmlb.tvmariners.tvreds.tv">
-    <title lang="id">Cincinnati Reds @ Seattle Mariners</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: MLB Network, MLB.TV, Mariners.TV, Reds.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260722050500 +0700" stop="20260722070500 +0700" channel="sportsnetpittsburghmlbnetworkyesmlb.tv">
     <title lang="id">Pittsburgh Pirates @ New York Yankees</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: SportsNet Pittsburgh, MLB Network, YES, MLB.TV</desc>
@@ -100,21 +85,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Marquee</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260722013500 +0700" stop="20260722033500 +0700" channel="nevadasportsnetballysportslivemilb.tv">
-    <title lang="id">Tacoma Rainiers @ Reno Aces</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Nevada Sports Net, Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260722014500 +0700" stop="20260722034500 +0700" channel="nbcsbayarea+ballysportslivemilb.tv">
-    <title lang="id">Oklahoma City Baseball Club @ Sacramento River Cats</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: NBCS Bay Area +, Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260722020500 +0700" stop="20260722040500 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">El Paso Chihuahuas @ Las Vegas Aviators</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260722040000 +0700" stop="20260722060000 +0700" channel="marqueeballysportslivemilb.tv">
     <title lang="id">Wisconsin Timber Rattlers @ South Bend Cubs</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Marquee, Bally Sports Live, MiLB.TV</desc>
@@ -140,14 +110,19 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260722103500 +0700" stop="20260722123500 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Iowa Cubs @ Gwinnett Stripers</title>
+  <programme start="20260722080500 +0700" stop="20260722100500 +0700" channel="ballysportslivemilb.tv">
+    <title lang="id">Jacksonville Jumbo Shrimp @ Worcester</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260722104500 +0700" stop="20260722124500 +0700" channel="nesnplusballysportslivemilb.tv">
+  <programme start="20260722100500 +0700" stop="20260722120500 +0700" channel="ballysportslivemilb.tv">
     <title lang="id">Jacksonville Jumbo Shrimp @ Worcester</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: NESN Plus, Bally Sports Live, MiLB.TV</desc>
+    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260722103500 +0700" stop="20260722123500 +0700" channel="ballysportslivemilb.tv">
+    <title lang="id">Iowa Cubs @ Gwinnett Stripers</title>
+    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260722110400 +0700" stop="20260722130400 +0700" channel="ballysportslivemilb.tv">
@@ -205,11 +180,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260722010000 +0700" stop="20260722030000 +0700" channel="fubosportsfoxsports1">
-    <title lang="id">Purple Reign - JHX Hoops</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260722100000 +0700" stop="20260722120000 +0700" channel="fubosportsfoxsports1">
     <title lang="id">The Ville - La Familia</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1</desc>
@@ -255,16 +225,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260722010000 +0700" stop="20260722030000 +0700" channel="tudn">
-    <title lang="id">Cruz Azul Puebla</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TUDN</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260722030500 +0700" stop="20260722050500 +0700" channel="tudn">
-    <title lang="id">Toluca Pumas UNAM</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TUDN</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260722100000 +0700" stop="20260722120000 +0700" channel="fanatizbeinusabeinusaespanolbeincanadabeincanadaespanol">
     <title lang="id">Independiente Medellín Vasco da Gama</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, beIN USA, beIN USA Espanol, beIN Canada, beIN Canada Espanol</desc>
@@ -278,6 +238,16 @@
   <programme start="20260722103000 +0700" stop="20260722123000 +0700" channel="fanatiz">
     <title lang="id">Coritiba Palmeiras</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260722090000 +0700" stop="20260722110000 +0700" channel="tsn+">
+    <title lang="id">Austrian Open</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260722110000 +0700" stop="20260722130000 +0700" channel="tsn+">
+    <title lang="id">Estoril Open</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260722090000 +0700" stop="20260722110000 +0700" channel="tvbelumtersedia">

@@ -5,14 +5,19 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: SportsNet Pittsburgh, MLB Network, YES, MLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260722053500 +0700" stop="20260722073500 +0700" channel="masnnesnmlb.tvsnnowsportsnet+">
+    <title lang="id">Baltimore Orioles @ Boston Red Sox</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: MASN, NESN, MLB.TV, SN NOW, Sportsnet+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260722061000 +0700" stop="20260722081000 +0700" channel="nbcsbayareamlb.tvroyals.tv">
     <title lang="id">San Francisco Giants @ Kansas City Royals</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: NBCS Bay Area, MLB.TV, Royals.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260722061000 +0700" stop="20260722081000 +0700" channel="snymlb.tvbrewers.tv">
+  <programme start="20260722061000 +0700" stop="20260722081000 +0700" channel="fanatizsnymlb.tvbrewers.tv">
     <title lang="id">New York Mets @ Milwaukee Brewers</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: SNY, MLB.TV, Brewers.TV</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, SNY, MLB.TV, Brewers.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260722071000 +0700" stop="20260722091000 +0700" channel="rockies.tvmlb.tvnationals.tv">
@@ -60,9 +65,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: MASN, NESN, MLB.TV, SN One, SN NOW</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260722111500 +0700" stop="20260722131500 +0700" channel="padres.tvmlb.tvbravesvision">
+  <programme start="20260722111500 +0700" stop="20260722131500 +0700" channel="fanatizpadres.tvmlb.tvbravesvision">
     <title lang="id">San Diego Padres @ Atlanta Braves</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Padres.TV, MLB.TV, BravesVision</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, Padres.TV, MLB.TV, BravesVision</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260722103000 +0700" stop="20260722123000 +0700" channel="espnselectespnunlimited">
@@ -115,8 +120,13 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260722100500 +0700" stop="20260722120500 +0700" channel="ballysportslivemilb.tv">
+  <programme start="20260722100500 +0700" stop="20260722120500 +0700" channel="nesnplusballysportslivemilb.tv">
     <title lang="id">Jacksonville Jumbo Shrimp @ Worcester</title>
+    <desc lang="id">[Sedang Tayang] Disiarkan di: NESN Plus, Bally Sports Live, MiLB.TV</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260722103000 +0700" stop="20260722123000 +0700" channel="ballysportslivemilb.tv">
+    <title lang="id">Augusta GreenJackets @ Salem RidgeYaks WZBJ 24</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -173,11 +183,6 @@
   <programme start="20260722113000 +0700" stop="20260722133000 +0700" channel="tvbelumtersedia">
     <title lang="id">Las Vegas Aces @ Washington Mystics Monumental SN Vegas 34</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260722070000 +0700" stop="20260722090000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Otago Nuggets @ Whai</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260722100000 +0700" stop="20260722120000 +0700" channel="fubosportsfoxsports1">
@@ -258,6 +263,16 @@
   <programme start="20260722112000 +0700" stop="20260722132000 +0700" channel="peacock">
     <title lang="id">Chambéry - Voiron Stage 17</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260722020000 +0700" stop="20260722040000 +0700" channel="southeastregionfubosportsespnunlimitedespn">
+    <title lang="id">Lake Mary, FL - Winterville, NC</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Southeast Region, Fubo Sports, ESPN Unlimited, ESPN</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260722040000 +0700" stop="20260722060000 +0700" channel="centralregionfubosportsespnunlimitedespn">
+    <title lang="id">Bristol, CT - Cranston, RI</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Central Region, Fubo Sports, ESPN Unlimited, ESPN</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260722073000 +0700" stop="20260722093000 +0700" channel="fubosportsespnunlimitedespn">

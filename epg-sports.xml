@@ -50,6 +50,11 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: RDS</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260723110500 +0700" stop="20260723130500 +0700" channel="sportsnetpittsburghyesmlb.tv">
+    <title lang="id">Pittsburgh Pirates @ New York Yankees</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: SportsNet Pittsburgh, YES, MLB.TV</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260723110700 +0700" stop="20260723130700 +0700" channel="mlb.tvrays.tvsportsnetsnnowtvasports">
     <title lang="id">Tampa Bay Rays @ Toronto Blue Jays</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: MLB.TV, Rays.TV, Sportsnet, SN NOW, TVA Sports</desc>
@@ -83,11 +88,6 @@
   <programme start="20260723093000 +0700" stop="20260723113000 +0700" channel="marquee">
     <title lang="id">IAHSAA Class 3A Tournament (Semifinal)</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Marquee</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260723040000 +0700" stop="20260723060000 +0700" channel="marqueeballysportslivemilb.tv">
-    <title lang="id">Wisconsin Timber Rattlers @ South Bend Cubs</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Marquee, Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260723050500 +0700" stop="20260723070500 +0700" channel="ballysportslivemilb.tv">
@@ -143,11 +143,6 @@
   <programme start="20260723110500 +0700" stop="20260723130500 +0700" channel="ballysportslivemilb.tv">
     <title lang="id">Louisville Bats @ Toledo Mud Hens</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260723040000 +0700" stop="20260723060000 +0700" channel="rosecitysportsnet">
-    <title lang="id">Canada - Hong Kong</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Rose City SportsNet</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260723080000 +0700" stop="20260723100000 +0700" channel="rosecitysportsnet">
@@ -233,11 +228,6 @@
   <programme start="20260723103000 +0700" stop="20260723123000 +0700" channel="fanatiz">
     <title lang="id">Coritiba Palmeiras</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260723040000 +0700" stop="20260723060000 +0700" channel="centralregionfubosportsespnunlimitedespn">
-    <title lang="id">Bristol, CT - Cranston, RI</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Central Region, Fubo Sports, ESPN Unlimited, ESPN</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260723073000 +0700" stop="20260723093000 +0700" channel="fubosportsespnunlimitedespn">

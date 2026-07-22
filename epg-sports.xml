@@ -150,11 +150,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260722090000 +0700" stop="20260722110000 +0700" channel="nextlevelsports">
-    <title lang="id">Orix Buffaloes @ Fukuoka</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260722040000 +0700" stop="20260722060000 +0700" channel="rosecitysportsnet">
     <title lang="id">Canada - Hong Kong</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Rose City SportsNet</desc>
@@ -243,26 +238,6 @@
   <programme start="20260722103000 +0700" stop="20260722123000 +0700" channel="fanatiz">
     <title lang="id">Coritiba Palmeiras</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260722090000 +0700" stop="20260722110000 +0700" channel="tsn+">
-    <title lang="id">Austrian Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260722110000 +0700" stop="20260722130000 +0700" channel="tsn+">
-    <title lang="id">Estoril Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260722090000 +0700" stop="20260722110000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Hamburg Open Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260722112000 +0700" stop="20260722132000 +0700" channel="peacock">
-    <title lang="id">Chambéry - Voiron Stage 17</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260722020000 +0700" stop="20260722040000 +0700" channel="southeastregionfubosportsespnunlimitedespn">

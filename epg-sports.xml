@@ -1,25 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
-  <programme start="20260723050500 +0700" stop="20260723070500 +0700" channel="sportsnetpittsburghmlbnetworkyesmlb.tv">
-    <title lang="id">Pittsburgh Pirates @ New York Yankees</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: SportsNet Pittsburgh, MLB Network, YES, MLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260723053500 +0700" stop="20260723073500 +0700" channel="masnnesnmlb.tvsnnowsportsnet+">
-    <title lang="id">Baltimore Orioles @ Boston Red Sox</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: MASN, NESN, MLB.TV, SN NOW, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260723061000 +0700" stop="20260723081000 +0700" channel="nbcsbayareamlb.tvroyals.tv">
-    <title lang="id">San Francisco Giants @ Kansas City Royals</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: NBCS Bay Area, MLB.TV, Royals.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260723061000 +0700" stop="20260723081000 +0700" channel="fanatizsnymlb.tvbrewers.tv">
-    <title lang="id">New York Mets @ Milwaukee Brewers</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, SNY, MLB.TV, Brewers.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260723071000 +0700" stop="20260723091000 +0700" channel="rockies.tvmlb.tvnationals.tv">
     <title lang="id">Washington Nationals @ Colorado Rockies</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Rockies.TV, MLB.TV, Nationals.TV</desc>
@@ -88,21 +68,6 @@
   <programme start="20260723093000 +0700" stop="20260723113000 +0700" channel="marquee">
     <title lang="id">IAHSAA Class 3A Tournament (Semifinal)</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Marquee</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260723050500 +0700" stop="20260723070500 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Rochester Red Wings @ Buffalo Bisons</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260723053500 +0700" stop="20260723073500 +0700" channel="sportsnetpittsburghballysportslivemilb.tv">
-    <title lang="id">Lehigh Valley IronPigs @ Indianapolis Indians</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: SportsNet Pittsburgh, Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260723060700 +0700" stop="20260723080700 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Columbus Clippers @ St. Paul</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260723070500 +0700" stop="20260723090500 +0700" channel="ballysportslivemilb.tv">
@@ -218,11 +183,6 @@
   <programme start="20260723100000 +0700" stop="20260723120000 +0700" channel="fanatizbeinusabeinusaespanolbeincanadabeincanadaespanol">
     <title lang="id">Independiente Medellín Vasco da Gama</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, beIN USA, beIN USA Espanol, beIN Canada, beIN Canada Espanol</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260723064500 +0700" stop="20260723084500 +0700" channel="paramount+">
-    <title lang="id">Queen of the South Aberdeen</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260723103000 +0700" stop="20260723123000 +0700" channel="fanatiz">

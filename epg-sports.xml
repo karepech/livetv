@@ -95,11 +95,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: FDSN West, Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260724080000 +0700" stop="20260724100000 +0700" channel="rosecitysportsnet">
-    <title lang="id">Republic of Korea - Canada</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Rose City SportsNet</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260724110000 +0700" stop="20260724130000 +0700" channel="fubosportsfoxsports1">
     <title lang="id">Hall In - Boeheim's Army</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1</desc>
@@ -135,19 +130,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260724080000 +0700" stop="20260724100000 +0700" channel="fubosportsespnselectespnunlimitedgolfchannelusagolfchannelcanada">
-    <title lang="id">3M Open First Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Select, ESPN Unlimited, Golf Channel USA, Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260724100000 +0700" stop="20260724120000 +0700" channel="floracing">
     <title lang="id">High Limit Racing</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FloRacing</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260724073000 +0700" stop="20260724093000 +0700" channel="fubosportsespnunlimitedespn">
-    <title lang="id">Minersville, PA - Massapequa, NY</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260724091500 +0700" stop="20260724111500 +0700" channel="fubosportsespnunlimitedespn">

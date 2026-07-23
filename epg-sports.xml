@@ -45,14 +45,19 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260723113000 +0700" stop="20260723133000 +0700" channel="fubosportsfox">
-    <title lang="id">Quincy Doggy Paddlers at Springfield Lucky Horseshoes</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260723103500 +0700" stop="20260723123500 +0700" channel="wwax">
     <title lang="id">Nashua Silver Knights @ New Britain Bees</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: WWAX</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260723110000 +0700" stop="20260723130000 +0700" channel="nesn">
+    <title lang="id">Lowell Spinners - Vermont Lake Monsters</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: NESN</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260723113000 +0700" stop="20260723133000 +0700" channel="fubosportsfox">
+    <title lang="id">Quincy Doggy Paddlers @ Springfield Lucky Horseshoes</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260723040500 +0700" stop="20260723060500 +0700" channel="nesnballysportslivemilb.tv">
@@ -128,11 +133,6 @@
   <programme start="20260723080000 +0700" stop="20260723100000 +0700" channel="rosecitysportsnet">
     <title lang="id">Republic of Korea - Canada</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Rose City SportsNet</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260723070000 +0700" stop="20260723090000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Wellington Saints @ Bay Hawks</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260723110000 +0700" stop="20260723130000 +0700" channel="fubosportsfoxsports1">

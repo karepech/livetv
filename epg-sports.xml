@@ -120,11 +120,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: FDSN West, Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260723090000 +0700" stop="20260723110000 +0700" channel="nextlevelsports">
-    <title lang="id">Orix Buffaloes @ Fukuoka</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260723040000 +0700" stop="20260723060000 +0700" channel="rosecitysportsnet">
     <title lang="id">Australia - Hong Kong</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Rose City SportsNet</desc>
@@ -185,23 +180,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260723114500 +0700" stop="20260723134500 +0700" channel="disney+tsn+">
-    <title lang="id">3M Open First Round ESPN Select ESPN Unlimited Hulu</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Disney+, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260723080000 +0700" stop="20260723100000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
     <title lang="id">3M Open First Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260723120000 +0700" stop="20260723140000 +0700" channel="fubosportsfoxsports2dazncanada">
-    <title lang="id">LIV Golf UK First Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260723083000 +0700" stop="20260723103000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
-    <title lang="id">Women's Scottish Open First Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -220,29 +200,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: FloRacing</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260723090000 +0700" stop="20260723110000 +0700" channel="tsn+">
-    <title lang="id">Austrian Open Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260723110000 +0700" stop="20260723130000 +0700" channel="tsn+">
-    <title lang="id">Estoril Open Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260723010000 +0700" stop="20260723030000 +0700" channel="tvbelumtersedia">
     <title lang="id">Austrian Open Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260723090000 +0700" stop="20260723110000 +0700" channel="tsn+dazncanada">
-    <title lang="id">Hamburg Open Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260723090000 +0700" stop="20260723110000 +0700" channel="dazncanada">
-    <title lang="id">Prague Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260723020000 +0700" stop="20260723040000 +0700" channel="tvbelumtersedia">
@@ -250,24 +210,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260723093000 +0700" stop="20260723113000 +0700" channel="foxsoccerplus">
-    <title lang="id">Collingwood Magpies @ Adelaide Crows</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260723103500 +0700" stop="20260723123500 +0700" channel="peacock">
-    <title lang="id">Voiron - Orcières-Merlette Stage 18</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260723050000 +0700" stop="20260723070000 +0700" channel="fubosportsfoxsports2foxsportsracing">
     <title lang="id">Saratoga Live</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, FOX Sports Racing</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260723095000 +0700" stop="20260723115000 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">Penrith Panthers @ Parramatta Eels</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260723070000 +0700" stop="20260723090000 +0700" channel="foxsoccerplussnworldsnnowsportsnet+">

@@ -1,15 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
-  <programme start="20260724041500 +0700" stop="20260724061500 +0700" channel="mlbnetworkpadres.tvmlb.tvbravesvision">
-    <title lang="id">San Diego Padres @ Atlanta Braves</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: MLB Network, Padres.TV, MLB.TV, BravesVision</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260724051000 +0700" stop="20260724071000 +0700" channel="espnunlimitedguardians.tvtwins.tvmlb.tvsnnowmore">
-    <title lang="id">Minnesota Twins @ Cleveland Guardians</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, Guardians.TV, Twins.TV, MLB.TV, SN NOW, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260724070700 +0700" stop="20260724090700 +0700" channel="mlb.tvrays.tvwmorsportsnetsnnow">
     <title lang="id">Tampa Bay Rays @ Toronto Blue Jays</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: MLB.TV, Rays.TV, WMOR, Sportsnet, SN NOW</desc>
@@ -58,11 +48,6 @@
   <programme start="20260724113000 +0700" stop="20260724133000 +0700" channel="fubosportsfox">
     <title lang="id">Quincy Doggy Paddlers @ Springfield Lucky Horseshoes</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260724040500 +0700" stop="20260724060500 +0700" channel="nesnballysportslivemilb.tv">
-    <title lang="id">Jacksonville Jumbo Shrimp @ Worcester</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: NESN, Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260724060500 +0700" stop="20260724080500 +0700" channel="ballysportslivemilb.tv">
@@ -118,11 +103,6 @@
   <programme start="20260724113000 +0700" stop="20260724133000 +0700" channel="fdsnwestballysportslivemilb.tv">
     <title lang="id">Knoxville Smokies @ Rocket City Trash Pandas</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: FDSN West, Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260724040000 +0700" stop="20260724060000 +0700" channel="rosecitysportsnet">
-    <title lang="id">Australia - Hong Kong</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Rose City SportsNet</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260724080000 +0700" stop="20260724100000 +0700" channel="rosecitysportsnet">
@@ -190,19 +170,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: FloRacing</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260724050000 +0700" stop="20260724070000 +0700" channel="fubosportsfoxsports2foxsportsracing">
-    <title lang="id">Saratoga Live</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, FOX Sports Racing</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260724070000 +0700" stop="20260724090000 +0700" channel="foxsoccerplussnworldsnnowsportsnet+">
     <title lang="id">Hull Kingston Rovers @ Hull FC</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus, SN World, SN NOW, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260724040000 +0700" stop="20260724060000 +0700" channel="fubosportsespnunlimitedespn">
-    <title lang="id">Bristol, CT - Cranston, RI</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260724054500 +0700" stop="20260724074500 +0700" channel="fubosportsespnunlimitedespn">

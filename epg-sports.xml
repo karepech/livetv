@@ -130,11 +130,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260724090000 +0700" stop="20260724110000 +0700" channel="seibulionsnextlevelsports">
-    <title lang="id">Fukuoka @</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Seibu Lions, Next Level Sports</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260724040000 +0700" stop="20260724060000 +0700" channel="rosecitysportsnet">
     <title lang="id">Hong Kong - Republic of Korea</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Rose City SportsNet</desc>
@@ -265,11 +260,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260724083000 +0700" stop="20260724103000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
-    <title lang="id">Women's Scottish Open Second Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260724123000 +0700" stop="20260724143000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
     <title lang="id">The Senior Open Second Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
@@ -345,33 +335,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: FloRacing</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260724103000 +0700" stop="20260724123000 +0700" channel="tsn+">
-    <title lang="id">Austrian Open Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260724110000 +0700" stop="20260724130000 +0700" channel="tsn+">
-    <title lang="id">Estoril Open Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260724123000 +0700" stop="20260724143000 +0700" channel="tvbelumtersedia">
     <title lang="id">Austrian Open Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260724090000 +0700" stop="20260724110000 +0700" channel="tsn+dazncanada">
-    <title lang="id">Hamburg Open Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260724090000 +0700" stop="20260724110000 +0700" channel="dazncanada">
-    <title lang="id">Prague Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260724100000 +0700" stop="20260724120000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Hamburg Open Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -390,11 +355,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: beIN USA Espanol, beIN Canada Espanol</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260724101000 +0700" stop="20260724121000 +0700" channel="foxsoccerplus">
-    <title lang="id">West Coast Eagles @ Fremantle Dockers</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260724120000 +0700" stop="20260724140000 +0700" channel="peacock">
     <title lang="id">Gap - Alpe d'Huez Stage 19</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
@@ -408,11 +368,6 @@
   <programme start="20260724050000 +0700" stop="20260724070000 +0700" channel="fubosportsfoxsports2foxsportsracing">
     <title lang="id">Saratoga Live</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, FOX Sports Racing</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260724100000 +0700" stop="20260724120000 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">Melbourne Storm @ South Sydney Rabbitohs</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260724070000 +0700" stop="20260724090000 +0700" channel="foxsoccerplussnworldsnnowsportsnet+">

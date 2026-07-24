@@ -85,6 +85,11 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: WWAX</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260724090000 +0700" stop="20260724110000 +0700" channel="ballysportslivemilb.tv">
+    <title lang="id">Norfolk Tides @ Charlotte Knights</title>
+    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260724103000 +0700" stop="20260724123000 +0700" channel="nesnplusballysportslivemilb.tv">
     <title lang="id">Hub City Spartanburgers @ Greenville Drive</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: NESN Plus, Bally Sports Live, MiLB.TV</desc>
@@ -102,11 +107,6 @@
   </programme>
   <programme start="20260724110000 +0700" stop="20260724130000 +0700" channel="ballysportslivemilb.tv">
     <title lang="id">Cedar Rapids Kernels @ Dayton Dragons Dayton's CW</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260724110400 +0700" stop="20260724130400 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Norfolk Tides @ Charlotte Knights</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -150,13 +150,13 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: RDS</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260724073000 +0700" stop="20260724093000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Franklin Bulls @ Manawatu Jets</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+  <programme start="20260724110000 +0700" stop="20260724130000 +0700" channel="fubosportsfoxsports2">
+    <title lang="id">Boeheim's Army - Hall In</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260724110000 +0700" stop="20260724130000 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">Boeheim's Army - Hall In</title>
+    <title lang="id">JHX Hoops - Purple Reign</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -225,49 +225,24 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260724030000 +0700" stop="20260724050000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">NFL Flag Championship Boys 14U</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+  <programme start="20260724020000 +0700" stop="20260724040000 +0700" channel="espnselectespnunlimitednfl+nflnetwork">
+    <title lang="id">NFL Flag Championship Grand Park Sport Complex - Field 2 YouTube</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, NFL+, NFL Network</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260724040000 +0700" stop="20260724060000 +0700" channel="espnselectespnunlimitednflnetwork">
-    <title lang="id">NFL Flag Championship High School Girls</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, NFL Network</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260724050000 +0700" stop="20260724070000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Staten Island, NY - Austin, TX</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260724050000 +0700" stop="20260724070000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Sicklerville, NJ - Ypsilanti, MI</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260724060000 +0700" stop="20260724080000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Austin, TX - Salisbury, MA</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260724060000 +0700" stop="20260724080000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">New York City, NY - Eau Claire, WI</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+  <programme start="20260724030000 +0700" stop="20260724050000 +0700" channel="espnselectespnunlimitednfl+">
+    <title lang="id">NFL Flag Championship Grand Sports Complex - Field 1 YouTube</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, NFL+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260724080000 +0700" stop="20260724100000 +0700" channel="more">
-    <title lang="id">NFL Flag Championship High School Girls Division Fubo Sports ESPN Select ESPN Unlimited NFL Network Disney XD</title>
+    <title lang="id">NFL Flag Championship Grand Sports Complex - Field 1 Fubo Sports ESPN Select ESPN Unlimited NFL+ Disney XD</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260724090000 +0700" stop="20260724110000 +0700" channel="more">
-    <title lang="id">NFL Flag Championship Boys 14U Fubo Sports ESPN Select ESPN Unlimited NFL Network Disney XD</title>
+    <title lang="id">NFL Flag Championship Grand Sports Complex - Field 1 Fubo Sports ESPN Select ESPN Unlimited NFL+ Disney XD</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260724100000 +0700" stop="20260724120000 +0700" channel="fubosportsespnunlimitednflnetworkespn2">
-    <title lang="id">NFL Flag Championship Boys 14U</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, NFL Network, ESPN2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260724114500 +0700" stop="20260724134500 +0700" channel="espnselectespnunlimitedtsn+">
@@ -420,9 +395,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260724120000 +0700" stop="20260724140000 +0700" channel="peacocknbc">
+  <programme start="20260724120000 +0700" stop="20260724140000 +0700" channel="peacock">
     <title lang="id">Gap - Alpe d'Huez Stage 19</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBC</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260724123000 +0700" stop="20260724143000 +0700" channel="slingtvhbomax">
@@ -433,11 +408,6 @@
   <programme start="20260724050000 +0700" stop="20260724070000 +0700" channel="fubosportsfoxsports2foxsportsracing">
     <title lang="id">Saratoga Live</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, FOX Sports Racing</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260724080000 +0700" stop="20260724100000 +0700" channel="foxsoccerplus">
-    <title lang="id">Sydney Roosters @ Newcastle Knights</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260724100000 +0700" stop="20260724120000 +0700" channel="fubosportsfoxsports2">

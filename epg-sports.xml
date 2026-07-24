@@ -85,31 +85,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: WWAX</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260725060000 +0700" stop="20260725080000 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Hub City Spartanburgers @ Greenville Drive Start time TBD Start time TBD</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260725060000 +0700" stop="20260725080000 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Norfolk Tides @ Charlotte Knights Start time TBD Start time TBD</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260725060000 +0700" stop="20260725080000 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Myrtle Beach Pelicans @ Hickory Crawdads Start time TBD Start time TBD</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260725060000 +0700" stop="20260725080000 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Brooklyn Cyclones @ Jersey Shore BlueClaws Start time TBD Start time TBD</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260725060000 +0700" stop="20260725080000 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Amarillo Sod Poodles @ Corpus Christi Hooks Start time TBD Start time TBD</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260725080000 +0700" stop="20260725100000 +0700" channel="ballysportslivemilb.tv">
     <title lang="id">Frederick Keys @ Rome Emperors</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
@@ -375,19 +350,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260725063000 +0700" stop="20260725083000 +0700" channel="fanatizbeinsportsxtrabeinsportsxtraca">
-    <title lang="id">Pogoń Szczecin Legia Warszawa</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, beIN SPORTS Xtra, beIN SPORTS Xtra CA</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260725111000 +0700" stop="20260725131000 +0700" channel="fanatiz">
     <title lang="id">Llaneros Deportivo Pereira</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260725064500 +0700" stop="20260725084500 +0700" channel="dazndazncanada">
-    <title lang="id">Derry City Larne</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260725080000 +0700" stop="20260725100000 +0700" channel="more">
@@ -428,11 +393,6 @@
   <programme start="20260725071500 +0700" stop="20260725091500 +0700" channel="dazndazncanada">
     <title lang="id">Rally Poland Stage 1</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260725060500 +0700" stop="20260725080500 +0700" channel="tsn1tsn4">
-    <title lang="id">Edmonton International Raceway Free Practice</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN1, TSN4</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260725104000 +0700" stop="20260725124000 +0700" channel="tsn2">

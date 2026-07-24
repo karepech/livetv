@@ -320,11 +320,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260725040000 +0700" stop="20260725060000 +0700" channel="rosecitysportsnet">
-    <title lang="id">Hong Kong - Republic of Korea</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Rose City SportsNet</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260725080000 +0700" stop="20260725100000 +0700" channel="rosecitysportsnet">
     <title lang="id">Mexico - Canada</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Rose City SportsNet</desc>
@@ -380,19 +375,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260725040000 +0700" stop="20260725060000 +0700" channel="fanatizbeinsportsxtrabeinsportsxtraca">
-    <title lang="id">Radomiak Radom Wieczysta Kraków</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, beIN SPORTS Xtra, beIN SPORTS Xtra CA</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260725063000 +0700" stop="20260725083000 +0700" channel="fanatizbeinsportsxtrabeinsportsxtraca">
     <title lang="id">Pogoń Szczecin Legia Warszawa</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, beIN SPORTS Xtra, beIN SPORTS Xtra CA</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260725040000 +0700" stop="20260725060000 +0700" channel="mutv">
-    <title lang="id">Rosenborg Manchester United</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: MUTV</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260725111000 +0700" stop="20260725131000 +0700" channel="fanatiz">
@@ -423,16 +408,6 @@
   <programme start="20260725080000 +0700" stop="20260725100000 +0700" channel="tsn2">
     <title lang="id">U.S. Junior Amateur Semifinal</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260725050000 +0700" stop="20260725070000 +0700" channel="slingtvhbomaxtrutvtsn+">
-    <title lang="id">Brickyard 400 Practice</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, truTV, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260725040000 +0700" stop="20260725060000 +0700" channel="tsn+">
-    <title lang="id">Pennzoil 250 Practice CW CW App</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260725070000 +0700" stop="20260725090000 +0700" channel="fubosportsfoxsports1foxone">
@@ -478,11 +453,6 @@
   <programme start="20260725113000 +0700" stop="20260725133000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Legacy Fighting Alliance (LFA)</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260725050000 +0700" stop="20260725070000 +0700" channel="fubosportsfoxsports2foxsportsracing">
-    <title lang="id">Saratoga Live</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, FOX Sports Racing</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260725070000 +0700" stop="20260725090000 +0700" channel="foxsoccerplussnworldsnnowsportsnet+">

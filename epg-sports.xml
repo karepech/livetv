@@ -375,6 +375,11 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260726070000 +0700" stop="20260726090000 +0700" channel="ryzsportsnetwork">
+    <title lang="id">Bismarck Larks - Minot Hot Tots Prime Video</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Ryz Sports Network</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260726080000 +0700" stop="20260726100000 +0700" channel="rosecitysportsnet">
     <title lang="id">Republic of Korea - Australia</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Rose City SportsNet</desc>
@@ -481,7 +486,7 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260726110700 +0700" stop="20260726130700 +0700" channel="tvbelumtersedia">
-    <title lang="id">Guadalajara Juárez ESPN Select ESPN Unlimited Peacock NBC Universo Telemundo</title>
+    <title lang="id">Guadalajara Juárez Peacock NBC Universo Telemundo</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -513,11 +518,6 @@
   <programme start="20260726093000 +0700" stop="20260726113000 +0700" channel="nacionalfanatiz">
     <title lang="id">Sportivo Ameliano</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Nacional, Fanatiz</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260726033000 +0700" stop="20260726053000 +0700" channel="fanatizbeinsportsxtrabeinsportsxtraca">
-    <title lang="id">Górnik Zabrze Śląsk Wrocław</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, beIN SPORTS Xtra, beIN SPORTS Xtra CA</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260726061500 +0700" stop="20260726081500 +0700" channel="fanatizbeinsportsxtrabeinsportsxtraca">
@@ -605,19 +605,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, CBS, RDS, TSN3, TSN4, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260726040000 +0700" stop="20260726060000 +0700" channel="peacocknbcrdstsn3">
-    <title lang="id">The Senior Open Third Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBC, RDS, TSN3</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260726053000 +0700" stop="20260726073000 +0700" channel="slingtvhbomaxtrutvtsn+">
     <title lang="id">Brickyard 400 Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, truTV, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260726040000 +0700" stop="20260726060000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Pennzoil 250 Qualifying CW TSN+ WGN Canada</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260726080000 +0700" stop="20260726100000 +0700" channel="cwmytvpeachtreetvkuns-tvtsn+more">
@@ -633,16 +623,6 @@
   <programme start="20260726101500 +0700" stop="20260726121500 +0700" channel="dazndazncanada">
     <title lang="id">Ferrari Challenge North America Coppa Shell Race</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260726031000 +0700" stop="20260726051000 +0700" channel="dazndazncanada">
-    <title lang="id">Formula 4 Italian Championship Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260726040000 +0700" stop="20260726060000 +0700" channel="tsn5">
-    <title lang="id">XPN Delta Electrolytes 150</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN5</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260726053000 +0700" stop="20260726073000 +0700" channel="tsn1tsn4">
@@ -665,11 +645,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260726043000 +0700" stop="20260726063000 +0700" channel="tsn+">
-    <title lang="id">Estoril Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260726063000 +0700" stop="20260726083000 +0700" channel="tvbelumtersedia">
     <title lang="id">Estoril Open Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
@@ -685,23 +660,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Ryz Sports Network</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260726030000 +0700" stop="20260726050000 +0700" channel="paramount+sportsnet+">
-    <title lang="id">Thomas Petersen Valter Walker .</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260726040000 +0700" stop="20260726060000 +0700" channel="paramount+sportsnet+">
-    <title lang="id">Saygid Izagakhmaev Abubakar Vagaev</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260726043000 +0700" stop="20260726063000 +0700" channel="paramount+sportsnet+">
-    <title lang="id">Tyrell Fortune Rizvan Kuniev .</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260726050000 +0700" stop="20260726070000 +0700" channel="paramount+sportsnet+">
-    <title lang="id">Magomed Zaynukov Damian Rzepecki .</title>
+    <title lang="id">Magomed Zaynukov Damian Rzepecki</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -711,18 +671,13 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260726060000 +0700" stop="20260726080000 +0700" channel="paramount+sportsnet+">
-    <title lang="id">Ramazan Temirov Stephen Erceg .</title>
+    <title lang="id">Ramazan Temirov Stephen Erceg</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260726063000 +0700" stop="20260726083000 +0700" channel="paramount+sportsnet+">
     <title lang="id">Bogdan Guskov Magomed Ankalaev .</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260726043000 +0700" stop="20260726063000 +0700" channel="fubosportsfoxsports1foxsportsracing">
-    <title lang="id">Saratoga Live</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, FOX Sports Racing</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260726070000 +0700" stop="20260726090000 +0700" channel="fubosportsfoxfoxsportsracing">

@@ -655,11 +655,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: CW, MyTV, Peachtree TV, KUNS-TV, TSN+, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260725103000 +0700" stop="20260725123000 +0700" channel="appletv">
-    <title lang="id">Hungarian Grand Prix Third Practice</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260725020000 +0700" stop="20260725040000 +0700" channel="appletvrdstsn5">
     <title lang="id">Hungarian Grand Prix Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV, RDS, TSN5</desc>
@@ -695,11 +690,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260725110500 +0700" stop="20260725130500 +0700" channel="tsn+tvasports">
-    <title lang="id">Tokyo E-Prix Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+, TVA Sports</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260725040000 +0700" stop="20260725060000 +0700" channel="tsn5">
     <title lang="id">XPN Delta Electrolytes 150</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN5</desc>
@@ -725,11 +715,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260725110000 +0700" stop="20260725130000 +0700" channel="tsn+">
-    <title lang="id">Austrian Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260725123000 +0700" stop="20260725143000 +0700" channel="tvbelumtersedia">
     <title lang="id">Austrian Open Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
@@ -738,11 +723,6 @@
   <programme start="20260725043000 +0700" stop="20260725063000 +0700" channel="tsn+">
     <title lang="id">Estoril Open</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260725113000 +0700" stop="20260725133000 +0700" channel="dazncanada">
-    <title lang="id">Prague Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260725120000 +0700" stop="20260725140000 +0700" channel="tsn+dazncanada">
@@ -835,24 +815,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260725094000 +0700" stop="20260725114000 +0700" channel="foxsoccerplus">
-    <title lang="id">Richmond Tigers @ Western Bulldogs</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260725092000 +0700" stop="20260725112000 +0700" channel="peacock">
-    <title lang="id">Le Bourg-d'Oisans - Alpe d'Huez Stage 20</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260725120000 +0700" stop="20260725140000 +0700" channel="peacocknbc">
     <title lang="id">Le Bourg-d'Oisans - Alpe d'Huez Stage 20</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBC</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260725112000 +0700" stop="20260725132000 +0700" channel="slingtvhbomax">
-    <title lang="id">Tour of Poland Stage 2</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260725013000 +0700" stop="20260725033000 +0700" channel="fubosportsfoxsports1foxsportsracing">

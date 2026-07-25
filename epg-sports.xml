@@ -375,11 +375,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260725090000 +0700" stop="20260725110000 +0700" channel="nextlevelsportsryzsportsnetwork">
-    <title lang="id">Fukuoka @ Seibu Lions Prime Video</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports, Ryz Sports Network</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260725080000 +0700" stop="20260725100000 +0700" channel="rosecitysportsnet">
     <title lang="id">Republic of Korea - Australia</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Rose City SportsNet</desc>
@@ -388,11 +383,6 @@
   <programme start="20260725063000 +0700" stop="20260725083000 +0700" channel="fox5vegas">
     <title lang="id">All-Star Game SSSEN</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX 5 Vegas</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260725073000 +0700" stop="20260725093000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Whai @ Nelson Giants</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260725103000 +0700" stop="20260725123000 +0700" channel="appletv">
@@ -698,16 +688,6 @@
   <programme start="20260725121500 +0700" stop="20260725141500 +0700" channel="tsn+">
     <title lang="id">Hungary Grand Prix Sprint Race</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260725080500 +0700" stop="20260725100500 +0700" channel="tsn+">
-    <title lang="id">Hungary Grand Prix Sprint Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260725091000 +0700" stop="20260725111000 +0700" channel="dazndazncanada">
-    <title lang="id">Formula 4 Italian Championship Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260725031000 +0700" stop="20260725051000 +0700" channel="dazndazncanada">

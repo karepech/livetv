@@ -515,11 +515,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Nacional, Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260725124500 +0700" stop="20260725144500 +0700" channel="fanatiz">
-    <title lang="id">Jagiellonia Białystok Korona Kielce</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260725033000 +0700" stop="20260725053000 +0700" channel="fanatizbeinsportsxtrabeinsportsxtraca">
     <title lang="id">Górnik Zabrze Śląsk Wrocław</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, beIN SPORTS Xtra, beIN SPORTS Xtra CA</desc>
@@ -605,11 +600,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, NFL+, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260725120000 +0700" stop="20260725140000 +0700" channel="espnselectespnunlimitedtsn+">
-    <title lang="id">3M Open Third Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260725050000 +0700" stop="20260725070000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
     <title lang="id">3M Open Third Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
@@ -618,21 +608,6 @@
   <programme start="20260725070000 +0700" stop="20260725090000 +0700" channel="paramount+cbsrdstsn3tsn4more">
     <title lang="id">3M Open Third Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, CBS, RDS, TSN3, TSN4, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260725120000 +0700" stop="20260725140000 +0700" channel="fubosportsfoxdazncanada">
-    <title lang="id">LIV Golf UK Third Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260725120000 +0700" stop="20260725140000 +0700" channel="cnbccnbccanada">
-    <title lang="id">Women's Scottish Open Third Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: CNBC, CNBC Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260725123000 +0700" stop="20260725143000 +0700" channel="fubosportsgolfchannelusatsn3golfchannelcanada">
-    <title lang="id">The Senior Open Third Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, TSN3, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260725040000 +0700" stop="20260725060000 +0700" channel="peacocknbcrdstsn3">
@@ -660,11 +635,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV, RDS, TSN5</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260725010100 +0700" stop="20260725030100 +0700" channel="dazndazncanada">
-    <title lang="id">Rally Poland Stage 5</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260725050500 +0700" stop="20260725070500 +0700" channel="dazndazncanada">
     <title lang="id">Rally Poland Stage 8</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
@@ -678,11 +648,6 @@
   <programme start="20260725101500 +0700" stop="20260725121500 +0700" channel="dazndazncanada">
     <title lang="id">Ferrari Challenge North America Coppa Shell Race</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260725121500 +0700" stop="20260725141500 +0700" channel="tsn+">
-    <title lang="id">Hungary Grand Prix Sprint Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260725031000 +0700" stop="20260725051000 +0700" channel="dazndazncanada">
@@ -715,19 +680,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260725123000 +0700" stop="20260725143000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Austrian Open Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260725043000 +0700" stop="20260725063000 +0700" channel="tsn+">
     <title lang="id">Estoril Open</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260725120000 +0700" stop="20260725140000 +0700" channel="tsn+dazncanada">
-    <title lang="id">Hamburg Open Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+, DAZN Canada</desc>
+  <programme start="20260725063000 +0700" stop="20260725083000 +0700" channel="tvbelumtersedia">
+    <title lang="id">Estoril Open Tennis Channel</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260725013000 +0700" stop="20260725033000 +0700" channel="tvbelumtersedia">
@@ -745,23 +705,13 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Ryz Sports Network</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260725121000 +0700" stop="20260725141000 +0700" channel="dazndazncanada">
-    <title lang="id">Rajadamnern World Series</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260725010000 +0700" stop="20260725030000 +0700" channel="paramount+sportsnet+">
-    <title lang="id">Abdul Hussein Cody Gibson</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260725012000 +0700" stop="20260725032000 +0700" channel="paramount+sportsnet+">
     <title lang="id">Mike Davis Nurullo Aliev .</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260725014000 +0700" stop="20260725034000 +0700" channel="paramount+sportsnet+">
-    <title lang="id">Magomed Tuchalov Brendson Ribeiro .</title>
+    <title lang="id">Magomed Tuchalov Brendson Ribeiro</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -801,7 +751,7 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260725053000 +0700" stop="20260725073000 +0700" channel="paramount+sportsnet+">
-    <title lang="id">Wellington Turman Islam Dulatov .</title>
+    <title lang="id">Wellington Turman Islam Dulatov</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -813,11 +763,6 @@
   <programme start="20260725063000 +0700" stop="20260725083000 +0700" channel="paramount+sportsnet+">
     <title lang="id">Bogdan Guskov Magomed Ankalaev .</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260725120000 +0700" stop="20260725140000 +0700" channel="peacocknbc">
-    <title lang="id">Le Bourg-d'Oisans - Alpe d'Huez Stage 20</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBC</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260725013000 +0700" stop="20260725033000 +0700" channel="fubosportsfoxsports1foxsportsracing">

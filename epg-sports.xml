@@ -80,9 +80,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: NBC</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260725090000 +0700" stop="20260725110000 +0700" channel="fubosportsespnunlimitedespndisney+">
+  <programme start="20260725090000 +0700" stop="20260725110000 +0700" channel="fubosportsespnunlimitedespndisney+tsn+">
     <title lang="id">Firefighters - Savannah Bananas</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, Disney+</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, Disney+, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260725110000 +0700" stop="20260725130000 +0700" channel="tvbelumtersedia">
@@ -660,9 +660,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260725080000 +0700" stop="20260725100000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Pennzoil 250 100 laps / 250 miles CW MyTV Peachtree TV KUNS-TV WGN Canada</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
+  <programme start="20260725080000 +0700" stop="20260725100000 +0700" channel="cwmytvpeachtreetvkuns-tvtsn+more">
+    <title lang="id">Pennzoil 250 100 laps / 250 miles</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: CW, MyTV, Peachtree TV, KUNS-TV, TSN+, MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260725103000 +0700" stop="20260725123000 +0700" channel="appletv">
@@ -675,11 +675,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV, RDS, TSN5</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260725070100 +0700" stop="20260725090100 +0700" channel="dazndazncanada">
-    <title lang="id">Rally Poland Stage 2</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260725010100 +0700" stop="20260725030100 +0700" channel="dazndazncanada">
     <title lang="id">Rally Poland Stage 5</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
@@ -687,16 +682,6 @@
   </programme>
   <programme start="20260725050500 +0700" stop="20260725070500 +0700" channel="dazndazncanada">
     <title lang="id">Rally Poland Stage 8</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260725043500 +0700" stop="20260725063500 +0700" channel="dazndazncanada">
-    <title lang="id">Ferrari Challenge Japan Trofeo Pirelli Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260725063500 +0700" stop="20260725083500 +0700" channel="dazndazncanada">
-    <title lang="id">Ferrari Challenge Japan Trofeo Pirelli Race</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -715,6 +700,11 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260725080500 +0700" stop="20260725100500 +0700" channel="tsn+">
+    <title lang="id">Hungary Grand Prix Sprint Race</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260725091000 +0700" stop="20260725111000 +0700" channel="dazndazncanada">
     <title lang="id">Formula 4 Italian Championship Race</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
@@ -725,9 +715,19 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260725110500 +0700" stop="20260725130500 +0700" channel="tvasports">
+  <programme start="20260725110500 +0700" stop="20260725130500 +0700" channel="tsn+tvasports">
     <title lang="id">Tokyo E-Prix Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TVA Sports</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+, TVA Sports</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260725040000 +0700" stop="20260725060000 +0700" channel="tsn5">
+    <title lang="id">XPN Delta Electrolytes 150</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN5</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260725053000 +0700" stop="20260725073000 +0700" channel="tsn1tsn4">
+    <title lang="id">NAPA 150</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN1, TSN4</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260725110000 +0700" stop="20260725130000 +0700" channel="floracing">
@@ -855,16 +855,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260725061500 +0700" stop="20260725081500 +0700" channel="fubosportsfoxsports2tsn2">
-    <title lang="id">Essendon Bombers @ Hawthorn Hawks</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, TSN2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260725063500 +0700" stop="20260725083500 +0700" channel="fubosportsfoxsports1">
-    <title lang="id">Sydney Swans @ Greater Western Sydney Giants</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260725094000 +0700" stop="20260725114000 +0700" channel="foxsoccerplus">
     <title lang="id">Richmond Tigers @ Western Bulldogs</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
@@ -918,16 +908,6 @@
   <programme start="20260725103000 +0700" stop="20260725123000 +0700" channel="espnselectespnunlimitedtsn+">
     <title lang="id">Maryland Whipsnakes @ Utah Archers</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260725051500 +0700" stop="20260725071500 +0700" channel="foxsoccerplus">
-    <title lang="id">St. George Illawarra Dragons W @ Canterbury-Bankstown Bulldogs W</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260725071500 +0700" stop="20260725091500 +0700" channel="foxsoccerplus">
-    <title lang="id">Gold Coast Titans W @ NQ Cowboys W</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260725020000 +0700" stop="20260725040000 +0700" channel="foxsoccerplussnworldsnnowsportsnet+">

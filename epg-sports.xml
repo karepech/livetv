@@ -370,11 +370,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Ryz Sports Network</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260726080000 +0700" stop="20260726100000 +0700" channel="nextlevelsportsryzsportsnetwork">
-    <title lang="id">Fukuoka @ Seibu Lions Prime Video</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports, Ryz Sports Network</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260726080000 +0700" stop="20260726100000 +0700" channel="rosecitysportsnet">
     <title lang="id">Canada - Australia</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Rose City SportsNet</desc>
@@ -388,11 +383,6 @@
   <programme start="20260726060000 +0700" stop="20260726080000 +0700" channel="paramount+cbs">
     <title lang="id">Houston Rig Hands Power</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, CBS</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260726060000 +0700" stop="20260726080000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Franklin Bulls @ Canterbury Rams</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260726060000 +0700" stop="20260726080000 +0700" channel="fubosportsfox">
@@ -600,11 +590,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV, RDS, TSN1, TSN5</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260726062200 +0700" stop="20260726082200 +0700" channel="dazndazncanada">
-    <title lang="id">Rally Poland Stage 9</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260726110500 +0700" stop="20260726130500 +0700" channel="dazndazncanada">
     <title lang="id">Rally Poland Stage 12</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
@@ -612,11 +597,6 @@
   </programme>
   <programme start="20260726030000 +0700" stop="20260726050000 +0700" channel="dazndazncanada">
     <title lang="id">Rally Poland Stage 15</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260726063500 +0700" stop="20260726083500 +0700" channel="dazndazncanada">
-    <title lang="id">Ferrari Challenge Japan Coppa Shell Race</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -638,16 +618,6 @@
   <programme start="20260726092500 +0700" stop="20260726112500 +0700" channel="tsn+">
     <title lang="id">Hungary Grand Prix Race</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260726064000 +0700" stop="20260726084000 +0700" channel="tsn+">
-    <title lang="id">Hungary Grand Prix Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260726070000 +0700" stop="20260726090000 +0700" channel="dazndazncanada">
-    <title lang="id">Formula 4 Italian Championship Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260726015000 +0700" stop="20260726035000 +0700" channel="dazndazncanada">
@@ -693,11 +663,6 @@
   <programme start="20260726110000 +0700" stop="20260726130000 +0700" channel="wmbctv63">
     <title lang="id">Team Boxing League Estrella TV MSGSN</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: WMBC TV 63</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260726051500 +0700" stop="20260726071500 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">St. Kilda Saints @ North Melbourne Kangaroos</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260726021500 +0700" stop="20260726041500 +0700" channel="peacock">

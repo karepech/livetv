@@ -445,11 +445,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260726124500 +0700" stop="20260726144500 +0700" channel="fanatiz">
-    <title lang="id">Raków Częstochowa Wisła Płock</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260726033000 +0700" stop="20260726053000 +0700" channel="fanatizbeinsportsxtrabeinsportsxtraca">
     <title lang="id">Widzew Łódź Lublin</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, beIN SPORTS Xtra, beIN SPORTS Xtra CA</desc>
@@ -540,11 +535,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: MORE</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260726120000 +0700" stop="20260726140000 +0700" channel="espnselectespnunlimitedtsn+">
-    <title lang="id">3M Open Final Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260726050000 +0700" stop="20260726070000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
     <title lang="id">3M Open Final Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
@@ -553,16 +543,6 @@
   <programme start="20260726070000 +0700" stop="20260726090000 +0700" channel="paramount+cbsrdstsn4ctv2more">
     <title lang="id">3M Open Final Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, CBS, RDS, TSN4, CTV2, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260726120000 +0700" stop="20260726140000 +0700" channel="fubosportsfoxsports1dazncanada">
-    <title lang="id">LIV Golf UK Final Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260726123000 +0700" stop="20260726143000 +0700" channel="fubosportsgolfchannelusatsn4golfchannelcanada">
-    <title lang="id">The Senior Open Final Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, TSN4, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260726040000 +0700" stop="20260726060000 +0700" channel="peacocknbcrdstsn4">
@@ -578,11 +558,6 @@
   <programme start="20260726060000 +0700" stop="20260726080000 +0700" channel="slingtvhbomaxtnttrutvtsn5more">
     <title lang="id">Brickyard 400 160 laps / 400 miles</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, TNT, truTV, TSN5, MORE</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260726010000 +0700" stop="20260726030000 +0700" channel="appletvrdstsn1tsn5">
-    <title lang="id">Hungarian Grand Prix Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV, RDS, TSN1, TSN5</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260726030000 +0700" stop="20260726050000 +0700" channel="dazndazncanada">
@@ -623,16 +598,6 @@
   <programme start="20260726043000 +0700" stop="20260726063000 +0700" channel="tsn+">
     <title lang="id">Estoril Open</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260726120000 +0700" stop="20260726140000 +0700" channel="tsn+dazncanada">
-    <title lang="id">Hamburg Open Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260726120000 +0700" stop="20260726140000 +0700" channel="tvasportsdazncanada">
-    <title lang="id">Prague Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TVA Sports, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260726083000 +0700" stop="20260726103000 +0700" channel="paramount+">

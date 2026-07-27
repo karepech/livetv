@@ -50,14 +50,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260728110000 +0700" stop="20260728130000 +0700" channel="fubosportsfoxsports2tudn">
+  <programme start="20260728110000 +0700" stop="20260728130000 +0700" channel="fubosportsfoxsports2tudnonesoccer">
     <title lang="id">Antigua and Barbuda U20 vs Guatemala U20</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, TUDN</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260728080000 +0700" stop="20260728100000 +0700" channel="fanatiz">
-    <title lang="id">Ivory Coast vs Burkina Faso</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, TUDN, OneSoccer</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260728104500 +0700" stop="20260728124500 +0700" channel="floracing">

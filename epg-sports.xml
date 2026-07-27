@@ -1,10 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
-  <programme start="20260728063500 +0700" stop="20260728083500 +0700" channel="espnunlimitedrsnmlb.tvmariners.tv">
-    <title lang="id">Seattle Mariners @ Texas Rangers</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, RSN, MLB.TV, Mariners.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260728104000 +0700" stop="20260728124000 +0700" channel="detroitsportsnetmasnmlb.tv">
     <title lang="id">Baltimore Orioles @ Detroit Tigers</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Detroit SportsNet, MASN, MLB.TV</desc>
@@ -73,11 +68,6 @@
   <programme start="20260728100000 +0700" stop="20260728120000 +0700" channel="rds2dazncanada">
     <title lang="id">Mubadala Citi DC Open Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: RDS 2, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260728110000 +0700" stop="20260728130000 +0700" channel="espnunlimited">
-    <title lang="id">Utah Talons - Chicago Bandits</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

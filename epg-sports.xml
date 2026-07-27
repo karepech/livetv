@@ -25,14 +25,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Washington Nationals, MLB.TV, Nationals.TV, Sportsnet, SN NOW, TVA Sports</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260728111000 +0700" stop="20260728131000 +0700" channel="fubosportsespnunlimitedespn">
+  <programme start="20260728111000 +0700" stop="20260728131000 +0700" channel="fubosportsespnunlimitedespnespndeportes">
     <title lang="id">Cleveland Guardians @ Cincinnati Reds</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, ESPN Deportes</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260728111000 +0700" stop="20260728131000 +0700" channel="snymlb.tvbravesvisionsnnowsportsnet+">
-    <title lang="id">Atlanta Braves @ New York Mets</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: SNY, MLB.TV, BravesVision, SN NOW, Sportsnet+</desc>
+  <programme start="20260728111000 +0700" stop="20260728131000 +0700" channel="tvbelumtersedia">
+    <title lang="id">Atlanta Braves @ New York Mets Fanatiz SNY MLB.TV BravesVision SN NOW Show more</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260728114000 +0700" stop="20260728134000 +0700" channel="chsnyesmlb.tvsnonesnnow">
@@ -60,13 +60,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, TUDN</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260728050000 +0700" stop="20260728070000 +0700" channel="fanatizbeinsportsxtrabeinsportsxtraca">
-    <title lang="id">Zagłębie Lubin vs Piast Gliwice</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, beIN SPORTS Xtra, beIN SPORTS Xtra CA</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260728050000 +0700" stop="20260728070000 +0700" channel="fanatiz">
-    <title lang="id">South Africa vs Tanzania Fanatiz 8:00 PM Ivory Coast vs Burkina Faso</title>
+  <programme start="20260728080000 +0700" stop="20260728100000 +0700" channel="fanatiz">
+    <title lang="id">Ivory Coast vs Burkina Faso</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -80,9 +75,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: RDS 2, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260728110000 +0700" stop="20260728130000 +0700" channel="fubosportsespnunlimitedespn2espndeportes">
+  <programme start="20260728110000 +0700" stop="20260728130000 +0700" channel="espnunlimited">
     <title lang="id">Utah Talons - Chicago Bandits</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2, ESPN Deportes</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

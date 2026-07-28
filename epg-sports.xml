@@ -290,6 +290,11 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: RDS</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260728110000 +0700" stop="20260728130000 +0700" channel="fubosportsfoxsports1">
+    <title lang="id">Red Rose War Ready - Davis Steel</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260728064500 +0700" stop="20260728084500 +0700" channel="espnselectespnunlimited">
     <title lang="id">Hearts vs Sturm Graz Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
@@ -340,13 +345,13 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: FloRacing</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260728050000 +0700" stop="20260728070000 +0700" channel="tsn3rds2">
-    <title lang="id">Los Cabos Tennis Channel 3:00 PM Mubadala Citi DC Open T2 TSN+ TSN3 10:00 PM Mubadala Citi DC Open</title>
+  <programme start="20260728030000 +0700" stop="20260728050000 +0700" channel="tsn3rds2">
+    <title lang="id">Mubadala Citi DC Open Tennis Channel T2 TSN+ TSN3 10:00 PM Mubadala Citi DC Open</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN3, RDS 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260728050000 +0700" stop="20260728070000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Mubadala Citi DC Open TSN+ DAZN Canada 10:00 PM Mubadala Citi DC Open Tennis Channel</title>
+    <title lang="id">Mubadala Citi DC Open Tennis Channel TSN+ DAZN Canada 10:00 PM Mubadala Citi DC Open Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>

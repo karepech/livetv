@@ -1,23 +1,8 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
-  <programme start="20260728013800 +0700" stop="20260728033800 +0700" channel="tvbelumtersedia">
-    <title lang="id">Houston Astros @ Los Angeles Angels Space City HN FDSN West MyTV Fox 11 Plus MLB.TV Show more</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260728014000 +0700" stop="20260728034000 +0700" channel="mlbnetworknbcscanesnfox5vegasmlb.tv">
-    <title lang="id">Boston Red Sox @ Athletics</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: MLB Network, NBCS CA, NESN, FOX 5 Vegas, MLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260728014500 +0700" stop="20260728034500 +0700" channel="nbcsbayareamlb.tvbrewers.tv">
-    <title lang="id">Milwaukee Brewers @ San Francisco Giants</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: NBCS Bay Area, MLB.TV, Brewers.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260728054000 +0700" stop="20260728074000 +0700" channel="fubosportsespnunlimitedespn">
+  <programme start="20260728054000 +0700" stop="20260728074000 +0700" channel="guardians.tvreds.tv">
     <title lang="id">Cleveland Guardians @ Cincinnati Reds</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Guardians.TV, Reds.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260728104000 +0700" stop="20260728124000 +0700" channel="detroitsportsnetmasnmlb.tv">
@@ -305,11 +290,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: RDS</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260728010000 +0700" stop="20260728030000 +0700" channel="fubosportsfoxsports1">
-    <title lang="id">Alumni Bracket Tournament (Semifinal)</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260728064500 +0700" stop="20260728084500 +0700" channel="espnselectespnunlimited">
     <title lang="id">Hearts vs Sturm Graz Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
@@ -320,8 +300,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260728020000 +0700" stop="20260728040000 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">Costa Rica U20 vs Mexico U20 Fubo Sports FOX Sports 2 TUDN OneSoccer 9:00 PM Haiti U20 vs Cuba U20</title>
+  <programme start="20260728090000 +0700" stop="20260728110000 +0700" channel="fubosportsfoxsports2">
+    <title lang="id">Haiti U20 vs Cuba U20</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -360,13 +340,13 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: FloRacing</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260728010000 +0700" stop="20260728030000 +0700" channel="tsn3rds2">
-    <title lang="id">Los Cabos Tennis Channel TSN+ 2:00 AM Los Cabos Tennis Channel 2:00 AM Mubadala Citi DC Open Tennis Channel 3:00 AM Los Cabos Tennis Channel 5:00 AM Los Cabos Tennis Channel 3:00 PM Mubadala Citi DC Open T2 TSN3 10:00 PM Mubadala Citi DC Open</title>
+  <programme start="20260728050000 +0700" stop="20260728070000 +0700" channel="tsn3rds2">
+    <title lang="id">Los Cabos Tennis Channel 3:00 PM Mubadala Citi DC Open T2 TSN+ TSN3 10:00 PM Mubadala Citi DC Open</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN3, RDS 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260728050000 +0700" stop="20260728070000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Mubadala Citi DC Open DAZN Canada 10:00 PM Mubadala Citi DC Open Tennis Channel</title>
+    <title lang="id">Mubadala Citi DC Open TSN+ DAZN Canada 10:00 PM Mubadala Citi DC Open Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>

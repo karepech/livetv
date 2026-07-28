@@ -35,11 +35,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Guardians.TV, MLB.TV, Reds.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260729111000 +0700" stop="20260729131000 +0700" channel="snygraymediamlb.tvbravesvision">
-    <title lang="id">Atlanta Braves @ New York Mets</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: SNY, Gray Media, MLB.TV, BravesVision</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260729114000 +0700" stop="20260729134000 +0700" channel="twins.tvmlb.tvroyals.tv">
     <title lang="id">Kansas City Royals @ Minnesota Twins</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Twins.TV, MLB.TV, Royals.TV</desc>
@@ -58,11 +53,6 @@
   <programme start="20260729103000 +0700" stop="20260729123000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Sanford Mainers - Vermont Mountaineers ESPN Select ESPN Unlimited Danbury Westerners - Newport Gulls ESPN Select ESPN Unlimited 11:00 PM Martha's Vineyard Sharks - Mystic Schooners</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260729040000 +0700" stop="20260729060000 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Binghamton Rumble Ponies @ Reading Fightin Phils</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260729070500 +0700" stop="20260729090500 +0700" channel="ballysportslivemilb.tv">
@@ -330,9 +320,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN1</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260729050000 +0700" stop="20260729070000 +0700" channel="fanatizbeinsportsxtrabeinsportsxtraca">
-    <title lang="id">Zambia vs Egypt</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, beIN SPORTS Xtra, beIN SPORTS Xtra CA</desc>
+  <programme start="20260729080000 +0700" stop="20260729100000 +0700" channel="fanatiz">
+    <title lang="id">Nigeria vs Malawi</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260729100000 +0700" stop="20260729120000 +0700" channel="floracing">
@@ -345,8 +335,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN3, RDS 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260729050000 +0700" stop="20260729070000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Mubadala Citi DC Open Tennis Channel TSN+ DAZN Canada 10:00 PM Mubadala Citi DC Open Tennis Channel</title>
+  <programme start="20260729100000 +0700" stop="20260729120000 +0700" channel="tvbelumtersedia">
+    <title lang="id">Mubadala Citi DC Open Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>

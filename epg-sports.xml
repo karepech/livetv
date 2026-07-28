@@ -46,7 +46,7 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260729103000 +0700" stop="20260729123000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Sanford Mainers - Vermont Mountaineers ESPN Select ESPN Unlimited Danbury Westerners - Newport Gulls ESPN Select ESPN Unlimited 11:00 PM Martha's Vineyard Sharks - Mystic Schooners</title>
+    <title lang="id">Sanford Mainers - Vermont Mountaineers ESPN Select ESPN Unlimited 11:00 PM Martha's Vineyard Sharks - Mystic Schooners</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -111,11 +111,6 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260729103500 +0700" stop="20260729123500 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Jersey Shore BlueClaws @ Hudson Valley Renegades</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260729103500 +0700" stop="20260729123500 +0700" channel="ballysportslivemilb.tv">
     <title lang="id">Greenville Drive @ Asheville Tourists</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
@@ -137,11 +132,6 @@
   </programme>
   <programme start="20260729103500 +0700" stop="20260729123500 +0700" channel="ballysportslivemilb.tv">
     <title lang="id">Hill City Howlers @ Fayetteville Woodpeckers</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260729103500 +0700" stop="20260729123500 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Richmond Flying Squirrels @ Somerset Patriots</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -303,11 +293,6 @@
   <programme start="20260729110000 +0700" stop="20260729130000 +0700" channel="espnselectespnunlimitedtsn1">
     <title lang="id">AFC Toronto vs Calgary Wild</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN1</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260729080000 +0700" stop="20260729100000 +0700" channel="fanatiz">
-    <title lang="id">Nigeria vs Malawi</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260729100000 +0700" stop="20260729120000 +0700" channel="floracing">

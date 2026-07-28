@@ -1,10 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
-  <programme start="20260729054000 +0700" stop="20260729074000 +0700" channel="guardians.tvmlb.tvreds.tv">
-    <title lang="id">Cleveland Guardians @ Cincinnati Reds</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Guardians.TV, MLB.TV, Reds.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260729104000 +0700" stop="20260729124000 +0700" channel="detroitsportsnetmasnmlb.tv">
     <title lang="id">Baltimore Orioles @ Detroit Tigers</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Detroit SportsNet, MASN, MLB.TV</desc>
@@ -53,11 +48,6 @@
   <programme start="20260729103000 +0700" stop="20260729123000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Sanford Mainers - Vermont Mountaineers ESPN Select ESPN Unlimited Danbury Westerners - Newport Gulls ESPN Select ESPN Unlimited 11:00 PM Martha's Vineyard Sharks - Mystic Schooners</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260729070500 +0700" stop="20260729090500 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Sacramento River Cats @ Tacoma Rainiers</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260729100000 +0700" stop="20260729120000 +0700" channel="ballysportslivemilb.tv">
@@ -285,11 +275,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260729064500 +0700" stop="20260729084500 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Hearts vs Sturm Graz Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260729100000 +0700" stop="20260729120000 +0700" channel="fanatiz">
     <title lang="id">Banfield vs Sarmiento Fanatiz San Lorenzo vs Gimnasia Mendoza</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
@@ -310,8 +295,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Nacional, Fanatiz, beIN USA, beIN USA Espanol, beIN Canada, beIN Canada Espanol</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260729070000 +0700" stop="20260729090000 +0700" channel="fanatiz">
-    <title lang="id">Rubio Ñú vs Sportivo Ameliano Fanatiz 9:30 PM 2 de Mayo vs Cerro Porteño</title>
+  <programme start="20260729093000 +0700" stop="20260729113000 +0700" channel="fanatiz">
+    <title lang="id">2 de Mayo vs Cerro Porteño</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>

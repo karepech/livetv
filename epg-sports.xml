@@ -1,15 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
-  <programme start="20260730074500 +0700" stop="20260730094500 +0700" channel="mlbnetworknbcsbayareamlb.tvbrewers.tv">
-    <title lang="id">Milwaukee Brewers @ San Francisco Giants</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: MLB Network, NBCS Bay Area, MLB.TV, Brewers.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260730081000 +0700" stop="20260730101000 +0700" channel="padres.tvrockies.tvmlb.tv">
-    <title lang="id">Colorado Rockies @ San Diego Padres</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Padres.TV, Rockies.TV, MLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260730104000 +0700" stop="20260730124000 +0700" channel="tvbelumtersedia">
     <title lang="id">Texas Rangers @ Tampa Bay Rays RSN MLB.TV Rays.TV Sportsnet SN NOW Show more</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
@@ -43,21 +33,6 @@
   <programme start="20260730103000 +0700" stop="20260730123000 +0700" channel="wwax">
     <title lang="id">Valley Blue Sox - Mystic Schooners ESPN Select ESPN Unlimited Vermont Mountaineers - North Shore Navigators ESPN Select ESPN Unlimited Bristol Blues - Danbury Westerners ESPN Select ESPN Unlimited Norwich Sea Unicorns - Westfield Starfires</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: WWAX</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260730070500 +0700" stop="20260730090500 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Richmond Flying Squirrels @ Somerset Patriots Doubleheader | Game 2</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260730090000 +0700" stop="20260730110000 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Salem RidgeYaks @ Kannapolis Cannon Ballers Doubleheader | Game 1</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260730090000 +0700" stop="20260730110000 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Lakeland Flying Tigers @ Tampa Tarpons</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260730090500 +0700" stop="20260730110500 +0700" channel="ballysportslivemilb.tv">
@@ -120,6 +95,21 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260730103500 +0700" stop="20260730123500 +0700" channel="ballysportslivemilb.tv">
+    <title lang="id">Hill City Howlers @ Fayetteville Woodpeckers</title>
+    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260730103500 +0700" stop="20260730123500 +0700" channel="ballysportslivemilb.tv">
+    <title lang="id">Rome Emperors @ Hub City Spartanburgers</title>
+    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260730104500 +0700" stop="20260730124500 +0700" channel="ballysportslivemilb.tv">
+    <title lang="id">Buffalo Bisons @ Lehigh Valley IronPigs</title>
+    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260730110000 +0700" stop="20260730130000 +0700" channel="fubosportsfoxsports1">
     <title lang="id">La Familia - JHX Hoops</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1</desc>
@@ -135,14 +125,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260730080000 +0700" stop="20260730100000 +0700" channel="fanatizfoxdeportesvix">
-    <title lang="id">Defensa y Justicia vs Deportivo Riestra Fanatiz 10:15 PM Gimnasia La Plata vs River Plate</title>
+  <programme start="20260730101500 +0700" stop="20260730121500 +0700" channel="fanatizfoxdeportesvix">
+    <title lang="id">Gimnasia La Plata vs River Plate</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, FOX Deportes, ViX</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260730080000 +0700" stop="20260730100000 +0700" channel="foxsoccerplustudn">
-    <title lang="id">Jamaica U20 vs Panama U20</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus, TUDN</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260730103000 +0700" stop="20260730123000 +0700" channel="fanatiz">
@@ -155,8 +140,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, beIN USA, beIN USA Espanol, beIN Canada, beIN Canada Espanol</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260730070000 +0700" stop="20260730090000 +0700" channel="fanatiz">
-    <title lang="id">Sportivo Luqueño vs Sportivo Trinidense Fanatiz 9:30 PM Nacional vs Olimpia</title>
+  <programme start="20260730093000 +0700" stop="20260730113000 +0700" channel="fanatiz">
+    <title lang="id">Nacional vs Olimpia</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -167,11 +152,6 @@
   </programme>
   <programme start="20260730103000 +0700" stop="20260730123000 +0700" channel="fanatiz">
     <title lang="id">Mirassol vs Remo Fanatiz Internacional vs Flamengo</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260730080000 +0700" stop="20260730100000 +0700" channel="fanatiz">
-    <title lang="id">Cameroon vs Mali</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>

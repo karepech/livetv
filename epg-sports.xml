@@ -45,11 +45,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: WWAX</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260730060000 +0700" stop="20260730080000 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Wilmington Blue Rocks @ Frederick Keys Doubleheader | Game 2</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260730070500 +0700" stop="20260730090500 +0700" channel="ballysportslivemilb.tv">
     <title lang="id">Richmond Flying Squirrels @ Somerset Patriots Doubleheader | Game 2</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
@@ -120,6 +115,11 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260730103500 +0700" stop="20260730123500 +0700" channel="ballysportslivemilb.tv">
+    <title lang="id">Columbia Fireflies @ Augusta GreenJackets</title>
+    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260730110000 +0700" stop="20260730130000 +0700" channel="fubosportsfoxsports1">
     <title lang="id">La Familia - JHX Hoops</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1</desc>
@@ -135,8 +135,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260730053000 +0700" stop="20260730073000 +0700" channel="fanatizfoxdeportesvix">
-    <title lang="id">Barracas Central vs Aldosivi Fanatiz 8:00 PM Defensa y Justicia vs Deportivo Riestra Fanatiz 10:15 PM Gimnasia La Plata vs River Plate</title>
+  <programme start="20260730080000 +0700" stop="20260730100000 +0700" channel="fanatizfoxdeportesvix">
+    <title lang="id">Defensa y Justicia vs Deportivo Riestra Fanatiz 10:15 PM Gimnasia La Plata vs River Plate</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, FOX Deportes, ViX</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -160,8 +160,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260730060000 +0700" stop="20260730080000 +0700" channel="fubosportsespnunlimitedespnespndeportes">
-    <title lang="id">Real Betis vs Lyon Fanatiz 11:30 PM Liverpool FC vs Wrexham</title>
+  <programme start="20260730113000 +0700" stop="20260730133000 +0700" channel="fubosportsespnunlimitedespnespndeportes">
+    <title lang="id">Liverpool FC vs Wrexham</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, ESPN Deportes</desc>
     <category lang="id">Olahraga</category>
   </programme>

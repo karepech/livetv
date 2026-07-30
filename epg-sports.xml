@@ -120,6 +120,11 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: MASN, Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260730060000 +0700" stop="20260730080000 +0700" channel="ryzsportsnetwork">
+    <title lang="id">Connie Mack World Series Prime Video Ryz Sports Network 11:15 PM Connie Mack World Series Prime Video</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Ryz Sports Network</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260730110000 +0700" stop="20260730130000 +0700" channel="fubosportsfoxsports1">
     <title lang="id">Davis Steel - The Mecca</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1</desc>
@@ -175,8 +180,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260730110000 +0700" stop="20260730130000 +0700" channel="fubosportsespnselectespnunlimitedgolfchannelusagolfchannelcanada">
-    <title lang="id">Rocket Classic First Round ESPN Select ESPN Unlimited Hulu Disney+ TSN+ 7:00 PM Rocket Classic First Round</title>
+  <programme start="20260730070000 +0700" stop="20260730090000 +0700" channel="fubosportsespnselectespnunlimitedgolfchannelusagolfchannelcanada">
+    <title lang="id">Rocket Classic First Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Select, ESPN Unlimited, Golf Channel USA, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -185,8 +190,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260730120000 +0700" stop="20260730140000 +0700" channel="rds">
-    <title lang="id">Women's British Open First Round Golf Channel Canada 1:40 PM Women's British Open First Round</title>
+  <programme start="20260730014000 +0700" stop="20260730034000 +0700" channel="rds">
+    <title lang="id">Women's British Open First Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: RDS</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -205,11 +210,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260730093000 +0700" stop="20260730113000 +0700" channel="foxsoccerplus">
-    <title lang="id">Geelong Cats @ Collingwood Magpies</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260730123000 +0700" stop="20260730143000 +0700" channel="slingtvhbomax">
     <title lang="id">Tour de l'Ain Stage 3 Sling TV HBO Max 2:00 PM Tour of Denmark Stage 2</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
@@ -220,9 +220,14 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, FOX Sports Racing</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260730095000 +0700" stop="20260730115000 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">Sydney Roosters @ NQ Cowboys</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
+  <programme start="20260730070000 +0700" stop="20260730090000 +0700" channel="foxsoccerplussnworldsnnowsportsnet+">
+    <title lang="id">Hull FC @ Huddersfield Giants</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus, SN World, SN NOW, Sportsnet+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260730090000 +0700" stop="20260730110000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Chinese Taipei - USA Women's Elite Team</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

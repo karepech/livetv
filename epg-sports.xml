@@ -1,32 +1,7 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
-  <programme start="20260731054000 +0700" stop="20260731074000 +0700" channel="twins.tvmlb.tvroyals.tv">
-    <title lang="id">Kansas City Royals @ Minnesota Twins</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Twins.TV, MLB.TV, Royals.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260731061000 +0700" stop="20260731081000 +0700" channel="tvbelumtersedia">
-    <title lang="id">New York Yankees @ Chicago White Sox Fanatiz MLB Network CHSN YES MLB.TV Show more</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260731061500 +0700" stop="20260731081500 +0700" channel="espnunlimitedmarqueemlb.tvcardinals.tv">
-    <title lang="id">Chicago Cubs @ St. Louis Cardinals</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, Marquee, MLB.TV, Cardinals.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260731111000 +0700" stop="20260731131000 +0700" channel="sportsnetpittsburghmlb.tvreds.tv">
-    <title lang="id">Pittsburgh Pirates @ Cincinnati Reds</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: SportsNet Pittsburgh, MLB.TV, Reds.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260731111000 +0700" stop="20260731131000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Miami Marlins @ New York Mets Fanatiz SNY MLB.TV Marlins.TV Sportsnet Show more</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260731111500 +0700" stop="20260731131500 +0700" channel="fubosportsespnunlimitedespnespndeportestvasports">
-    <title lang="id">Washington Nationals @ Atlanta Braves</title>
+  <programme start="20260731111000 +0700" stop="20260731131000 +0700" channel="fubosportsespnunlimitedespnespndeportestvasports">
+    <title lang="id">Pittsburgh Pirates @ Cincinnati Reds SportsNet Pittsburgh MLB.TV Reds.TV Miami Marlins @ New York Mets Fanatiz SNY MLB.TV Marlins.TV Sportsnet Show more 11:15 PM Washington Nationals @ Atlanta Braves</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, ESPN Deportes, TVA Sports</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -115,8 +90,8 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260731060000 +0700" stop="20260731080000 +0700" channel="ryzsportsnetwork">
-    <title lang="id">Connie Mack World Series Prime Video Ryz Sports Network 11:15 PM Connie Mack World Series Prime Video</title>
+  <programme start="20260731111500 +0700" stop="20260731131500 +0700" channel="ryzsportsnetwork">
+    <title lang="id">Connie Mack World Series Prime Video</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Ryz Sports Network</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -175,9 +150,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260731060000 +0700" stop="20260731080000 +0700" channel="tsn2rds2">
-    <title lang="id">Mubadala Citi DC Open TSN+ 8:30 PM Mubadala Citi DC Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN2, RDS 2</desc>
+  <programme start="20260731083000 +0700" stop="20260731103000 +0700" channel="tsn+tsn2rds2">
+    <title lang="id">Mubadala Citi DC Open</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+, TSN2, RDS 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260731103000 +0700" stop="20260731123000 +0700" channel="tvbelumtersedia">

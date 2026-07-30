@@ -120,11 +120,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: MASN, Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260730070000 +0700" stop="20260730090000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Otago Nuggets @ Wellington Saints</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260730110000 +0700" stop="20260730130000 +0700" channel="fubosportsfoxsports1">
     <title lang="id">Davis Steel - The Mecca</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1</desc>
@@ -190,29 +185,24 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260730080000 +0700" stop="20260730100000 +0700" channel="rds">
-    <title lang="id">Women's British Open First Round Fubo Sports Golf Channel USA Golf Channel Canada 12:00 PM Women's British Open First Round Golf Channel Canada 1:40 PM Women's British Open First Round</title>
+  <programme start="20260730120000 +0700" stop="20260730140000 +0700" channel="rds">
+    <title lang="id">Women's British Open First Round Golf Channel Canada 1:40 PM Women's British Open First Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: RDS</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260730060000 +0700" stop="20260730080000 +0700" channel="dazndazncanada">
-    <title lang="id">Rally Finland Shakedown DAZN DAZN Canada 5:00 PM Rally Finland Stage 1</title>
+  <programme start="20260730050000 +0700" stop="20260730070000 +0700" channel="dazndazncanada">
+    <title lang="id">Rally Finland Stage 1</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260730050000 +0700" stop="20260730070000 +0700" channel="tsn2rds2">
-    <title lang="id">Los Cabos Tennis Channel 3:00 PM Mubadala Citi DC Open Tennis Channel TSN+ TSN2 8:30 PM Mubadala Citi DC Open</title>
+  <programme start="20260730030000 +0700" stop="20260730050000 +0700" channel="tsn2rds2">
+    <title lang="id">Mubadala Citi DC Open Tennis Channel TSN+ TSN2 8:30 PM Mubadala Citi DC Open</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN2, RDS 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260730040000 +0700" stop="20260730060000 +0700" channel="tvbelumtersedia">
     <title lang="id">Memphis Open Tennis Channel T2 DAZN Canada 5:00 PM Mubadala Citi DC Open Tennis Channel TSN+ DAZN Canada 10:30 PM Mubadala Citi DC Open Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260730050000 +0700" stop="20260730070000 +0700" channel="tsn2">
-    <title lang="id">AEW Dynamite</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260730093000 +0700" stop="20260730113000 +0700" channel="foxsoccerplus">

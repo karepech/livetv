@@ -1,10 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
-  <programme start="20260801062000 +0700" stop="20260801082000 +0700" channel="tvbelumtersedia">
-    <title lang="id">New York Yankees @ Chicago Cubs Marquee MLB Network YES MLB.TV Sportsnet Show more</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260801101000 +0700" stop="20260801121000 +0700" channel="sportsnetpittsburghmlb.tvreds.tv">
     <title lang="id">Pittsburgh Pirates @ Cincinnati Reds</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: SportsNet Pittsburgh, MLB.TV, Reds.TV</desc>
@@ -43,11 +38,6 @@
   <programme start="20260801110000 +0700" stop="20260801130000 +0700" channel="slingtvhbomaxtrutv">
     <title lang="id">Savannah Bananas - The Firefighters</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, truTV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260801053000 +0700" stop="20260801073000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Danbury Westerners - Newport Gulls</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260801103000 +0700" stop="20260801123000 +0700" channel="wwax">
@@ -155,8 +145,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Ryz Sports Network</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260801060000 +0700" stop="20260801080000 +0700" channel="ryzsportsnetwork">
-    <title lang="id">Connie Mack World Series Prime Video Ryz Sports Network 10:00 PM Connie Mack World Series Prime Video</title>
+  <programme start="20260801100000 +0700" stop="20260801120000 +0700" channel="ryzsportsnetwork">
+    <title lang="id">Connie Mack World Series Prime Video</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Ryz Sports Network</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -175,16 +165,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus, OneSoccer</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260801063000 +0700" stop="20260801083000 +0700" channel="beinsportsxtrabeinsportsxtraca">
-    <title lang="id">Lublin vs Jagiellonia Białystok</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: beIN SPORTS Xtra, beIN SPORTS Xtra CA</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260801064500 +0700" stop="20260801084500 +0700" channel="fanatiz">
-    <title lang="id">Birmingham City vs FC Barcelona Fanatiz Sporting CP vs Nottingham Forest</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260801090000 +0700" stop="20260801110000 +0700" channel="fanatiz">
     <title lang="id">Real Santander vs Patriotas Boyacá</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
@@ -195,16 +175,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260801070000 +0700" stop="20260801090000 +0700" channel="fubosportsparamount+cbssn">
-    <title lang="id">Dundee United vs Rangers F.C.</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Paramount+, CBSSN</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260801063000 +0700" stop="20260801083000 +0700" channel="unionsaint-gilloisedazndazncanada">
-    <title lang="id">Club Brugge vs</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Union Saint-Gilloise, DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260801080000 +0700" stop="20260801100000 +0700" channel="fanatiz">
     <title lang="id">Burkina Faso vs Tanzania</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
@@ -213,11 +183,6 @@
   <programme start="20260801113000 +0700" stop="20260801133000 +0700" channel="tvbelumtersedia">
     <title lang="id">Montreal Alouettes @ Ottawa RedBlacks Fubo Sports CBSSN CFL+ (US) RDS TSN1 Show more</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260801070000 +0700" stop="20260801090000 +0700" channel="fubosportsespnselectespnunlimitedgolfchannelusagolfchannelcanada">
-    <title lang="id">Rocket Classic Second Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Select, ESPN Unlimited, Golf Channel USA, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260801100000 +0700" stop="20260801120000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
@@ -235,13 +200,13 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260801060000 +0700" stop="20260801080000 +0700" channel="tsn+rds2">
-    <title lang="id">Mubadala Citi DC Open TSN+ TSN2 10:00 PM Mubadala Citi DC Open Tennis Channel</title>
+  <programme start="20260801100000 +0700" stop="20260801120000 +0700" channel="tsn+rds2">
+    <title lang="id">Mubadala Citi DC Open Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+, RDS 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260801070000 +0700" stop="20260801090000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Mubadala Citi DC Open Tennis Channel 9:00 PM Mubadala Citi DC Open Tennis Channel</title>
+  <programme start="20260801090000 +0700" stop="20260801110000 +0700" channel="tvbelumtersedia">
+    <title lang="id">Mubadala Citi DC Open Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -258,11 +223,6 @@
   <programme start="20260801100000 +0700" stop="20260801120000 +0700" channel="espnselectespnunlimitedtsn+">
     <title lang="id">California Redwoods @ Carolina Chaos</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260801070000 +0700" stop="20260801090000 +0700" channel="leighleopardsfoxsoccerplussnworldsnnowsportsnet+">
-    <title lang="id">Toulouse Olympique @ Leeds Rhinos Sportsnet+ Bradford @ Hull Kingston Rovers Sportsnet+ Wigan Warriors @</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Leigh Leopards, FOX Soccer Plus, SN World, SN NOW, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260801090000 +0700" stop="20260801110000 +0700" channel="espnselectespnunlimited">

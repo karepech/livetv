@@ -65,16 +65,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260801080500 +0700" stop="20260801100500 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Spokane Indians @ Vancouver Canadians</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260801090000 +0700" stop="20260801110000 +0700" channel="nesnplusballysportslivemilb.tv">
-    <title lang="id">New Hampshire Fisher Cats @ Hartford Yard Goats Doubleheader | Game 1</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: NESN Plus, Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260801100000 +0700" stop="20260801120000 +0700" channel="ballysportslivemilb.tv">
     <title lang="id">Chesapeake Baysox @ Altoona Curve</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
@@ -140,6 +130,16 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260801104500 +0700" stop="20260801124500 +0700" channel="ballysportslivemilb.tv">
+    <title lang="id">Syracuse Mets @ Rochester Red Wings</title>
+    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260801110000 +0700" stop="20260801130000 +0700" channel="ballysportslivemilb.tv">
+    <title lang="id">Salem RidgeYaks @ Kannapolis Cannon Ballers</title>
+    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260801110000 +0700" stop="20260801130000 +0700" channel="ryzsportsnetwork">
     <title lang="id">Traverse City Pit Spitters - Kenosha Kingfish Prime Video</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Ryz Sports Network</desc>
@@ -160,23 +160,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260801090000 +0700" stop="20260801110000 +0700" channel="foxsoccerplusonesoccer">
-    <title lang="id">El Salvador U20 vs Haiti U20</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus, OneSoccer</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260801090000 +0700" stop="20260801110000 +0700" channel="fanatiz">
-    <title lang="id">Real Santander vs Patriotas Boyacá</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260801103000 +0700" stop="20260801123000 +0700" channel="fanatiz">
     <title lang="id">Academia Anzoátegui vs Deportivo Táchira</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260801080000 +0700" stop="20260801100000 +0700" channel="fanatiz">
-    <title lang="id">Burkina Faso vs Tanzania</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -190,24 +175,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260801084500 +0700" stop="20260801104500 +0700" channel="peacock">
-    <title lang="id">Road America Race 1</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260801074500 +0700" stop="20260801094500 +0700" channel="peacock">
-    <title lang="id">Road America Race 2</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260801100000 +0700" stop="20260801120000 +0700" channel="tsn+rds2">
     <title lang="id">Mubadala Citi DC Open Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+, RDS 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260801090000 +0700" stop="20260801110000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Mubadala Citi DC Open Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260801110000 +0700" stop="20260801130000 +0700" channel="tvbelumtersedia">
@@ -215,19 +185,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260801080000 +0700" stop="20260801100000 +0700" channel="professionalfightersleaguefubosportsespnunlimitedespnespndeportes">
-    <title lang="id">Professional Fighters League ESPN Select ESPN Unlimited 11:00 PM</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Professional Fighters League, Fubo Sports, ESPN Unlimited, ESPN, ESPN Deportes</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260801100000 +0700" stop="20260801120000 +0700" channel="espnselectespnunlimitedtsn+">
     <title lang="id">California Redwoods @ Carolina Chaos</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260801090000 +0700" stop="20260801110000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">USA Women's Elite Team - American Samoa</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

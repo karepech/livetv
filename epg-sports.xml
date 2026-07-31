@@ -225,14 +225,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260731080000 +0700" stop="20260731100000 +0700" channel="rds">
-    <title lang="id">Women's British Open Second Round Fubo Sports Golf Channel USA Golf Channel Canada 12:00 PM Women's British Open Second Round USA Network Golf Channel Canada 2:00 PM Women's British Open Second Round</title>
+  <programme start="20260731120000 +0700" stop="20260731140000 +0700" channel="rds">
+    <title lang="id">Women's British Open Second Round USA Network Golf Channel Canada 2:00 PM Women's British Open Second Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: RDS</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260731030000 +0700" stop="20260731050000 +0700" channel="westernamateurchampionshipespnselectespnunlimitedtsn+">
-    <title lang="id">Western Amateur Championship ESPN Select ESPN Unlimited TSN+ 8:00 PM</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Western Amateur Championship, ESPN Select, ESPN Unlimited, TSN+</desc>
+  <programme start="20260731030000 +0700" stop="20260731050000 +0700" channel="westernamateurchampionshipespnselectespnunlimited">
+    <title lang="id">Western Amateur Championship ESPN Select ESPN Unlimited 8:00 PM</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Western Amateur Championship, ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260731010000 +0700" stop="20260731030000 +0700" channel="fubosportsgolfchannelusa">
@@ -250,8 +250,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260731054400 +0700" stop="20260731074400 +0700" channel="dazndazncanada">
-    <title lang="id">Rally Finland Stage 2 DAZN DAZN Canada 8:58 AM Rally Finland Stage 5 DAZN DAZN Canada 11:48 AM Rally Finland Stage 6 DAZN DAZN Canada 3:00 PM Rally Finland Stage 9</title>
+  <programme start="20260731085800 +0700" stop="20260731105800 +0700" channel="dazndazncanada">
+    <title lang="id">Rally Finland Stage 5 DAZN DAZN Canada 11:48 AM Rally Finland Stage 6 DAZN DAZN Canada 3:00 PM Rally Finland Stage 9</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -261,7 +261,7 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260731040000 +0700" stop="20260731060000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Mubadala Citi DC Open Tennis Channel TSN+ DAZN Canada Memphis Open Tennis Channel T2 Rose City SportsNet DAZN Canada Women's British Open Tennis Channel 7:00 PM Mubadala Citi DC Open Tennis Channel 9:00 PM Mubadala Citi DC Open Tennis Channel</title>
+    <title lang="id">Mubadala Citi DC Open Tennis Channel DAZN Canada Memphis Open Tennis Channel T2 Rose City SportsNet DAZN Canada Women's British Open Tennis Channel 7:00 PM Mubadala Citi DC Open Tennis Channel 9:00 PM Mubadala Citi DC Open Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -290,8 +290,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260731080000 +0700" stop="20260731100000 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">Dolphins @ St. George Illawarra Dragons FOX Soccer Plus 10:00 AM Canterbury Bulldogs @ Melbourne Storm</title>
+  <programme start="20260731100000 +0700" stop="20260731120000 +0700" channel="fubosportsfoxsports2">
+    <title lang="id">Canterbury Bulldogs @ Melbourne Storm</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
     <category lang="id">Olahraga</category>
   </programme>

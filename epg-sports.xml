@@ -175,9 +175,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus, OneSoccer</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260801040000 +0700" stop="20260801060000 +0700" channel="beinsportsxtrabeinsportsxtraca">
-    <title lang="id">Wisła Płock vs Widzew Łódź Fanatiz beIN SPORTS Xtra beIN SPORTS Xtra CA 6:30 PM Lublin vs Jagiellonia Białystok</title>
+  <programme start="20260801063000 +0700" stop="20260801083000 +0700" channel="beinsportsxtrabeinsportsxtraca">
+    <title lang="id">Lublin vs Jagiellonia Białystok</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: beIN SPORTS Xtra, beIN SPORTS Xtra CA</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260801064500 +0700" stop="20260801084500 +0700" channel="fanatiz">
+    <title lang="id">Birmingham City vs FC Barcelona Fanatiz Sporting CP vs Nottingham Forest</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260801090000 +0700" stop="20260801110000 +0700" channel="fanatiz">
@@ -200,8 +205,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Union Saint-Gilloise, DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260801050000 +0700" stop="20260801070000 +0700" channel="fanatiz">
-    <title lang="id">South Africa vs Ivory Coast Fanatiz 8:00 PM Burkina Faso vs Tanzania</title>
+  <programme start="20260801080000 +0700" stop="20260801100000 +0700" channel="fanatiz">
+    <title lang="id">Burkina Faso vs Tanzania</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -230,29 +235,24 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260801040000 +0700" stop="20260801060000 +0700" channel="tsn+rds2">
-    <title lang="id">Mubadala Citi DC Open Tennis Channel TVA Sports 6:00 PM Mubadala Citi DC Open TSN+ TSN2 10:00 PM Mubadala Citi DC Open Tennis Channel</title>
+  <programme start="20260801060000 +0700" stop="20260801080000 +0700" channel="tsn+rds2">
+    <title lang="id">Mubadala Citi DC Open TSN+ TSN2 10:00 PM Mubadala Citi DC Open Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+, RDS 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260801040000 +0700" stop="20260801060000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Mubadala Citi DC Open Tennis Channel TSN+ DAZN Canada Memphis Open Tennis Channel T2 Rose City SportsNet DAZN Canada Women's British Open Tennis Channel 7:00 PM Mubadala Citi DC Open Tennis Channel 9:00 PM Mubadala Citi DC Open Tennis Channel</title>
+  <programme start="20260801070000 +0700" stop="20260801090000 +0700" channel="tvbelumtersedia">
+    <title lang="id">Mubadala Citi DC Open Tennis Channel 9:00 PM Mubadala Citi DC Open Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260801050000 +0700" stop="20260801070000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Portable - Charles Okocha DAZN DAZN Canada 11:00 PM Team Boxing League MSGSN</title>
+  <programme start="20260801110000 +0700" stop="20260801130000 +0700" channel="tvbelumtersedia">
+    <title lang="id">Team Boxing League MSGSN</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260801080000 +0700" stop="20260801100000 +0700" channel="professionalfightersleaguefubosportsespnunlimitedespnespndeportes">
     <title lang="id">Professional Fighters League ESPN Select ESPN Unlimited 11:00 PM</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Professional Fighters League, Fubo Sports, ESPN Unlimited, ESPN, ESPN Deportes</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260801050000 +0700" stop="20260801070000 +0700" channel="fubosportsfoxsports2foxsportsracing">
-    <title lang="id">Saratoga Live</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, FOX Sports Racing</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260801100000 +0700" stop="20260801120000 +0700" channel="espnselectespnunlimitedtsn+">

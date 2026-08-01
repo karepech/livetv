@@ -250,8 +250,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: beIN SPORTS Xtra, beIN SPORTS Xtra CA</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260801100000 +0700" stop="20260801120000 +0700" channel="dazncanada">
-    <title lang="id">Tokyo vs Borussia Dortmund OneSoccer 11:30 AM Manchester City vs Inter Fubo Sports CBSSN FOX Deportes 1:00 PM Manchester United vs Atletico Madrid MUTV 4:00 PM Real Madrid vs Fiorentina DAZN FOX Deportes DAZN Canada 6:00 PM Girona vs Arsenal FC DAZN FOX Deportes Arsenal.com</title>
+  <programme start="20260801113000 +0700" stop="20260801133000 +0700" channel="dazncanada">
+    <title lang="id">Manchester City vs Inter Fubo Sports CBSSN FOX Deportes 1:00 PM Manchester United vs Atletico Madrid MUTV 4:00 PM Real Madrid vs Fiorentina DAZN FOX Deportes DAZN Canada 6:00 PM Girona vs Arsenal FC DAZN FOX Deportes Arsenal.com</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -295,8 +295,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, CBSSN, TSN1, TSN3, TSN4</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260801110000 +0700" stop="20260801130000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Rocket Classic Third Round ESPN Select ESPN Unlimited TSN+ 5:00 PM Rocket Classic Third Round Fubo Sports Golf Channel USA Golf Channel Canada 7:00 PM Rocket Classic Third Round Paramount+ CBS RDS TSN4 CTV2 Show more</title>
+  <programme start="20260801050000 +0700" stop="20260801070000 +0700" channel="tvbelumtersedia">
+    <title lang="id">Rocket Classic Third Round Fubo Sports Golf Channel USA Golf Channel Canada 7:00 PM Rocket Classic Third Round Paramount+ CBS RDS TSN4 CTV2 Show more</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -305,8 +305,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260801110000 +0700" stop="20260801130000 +0700" channel="peacocknbcrdstsn4">
-    <title lang="id">Women's British Open Third Round USA Network TSN4 Golf Channel Canada 4:00 PM Women's British Open Third Round</title>
+  <programme start="20260801040000 +0700" stop="20260801060000 +0700" channel="peacocknbcrdstsn4">
+    <title lang="id">Women's British Open Third Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBC, RDS, TSN4</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -351,7 +351,7 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260801103000 +0700" stop="20260801123000 +0700" channel="tsn2rds2">
-    <title lang="id">Mubadala Citi DC Open WJLA 24/7 News</title>
+    <title lang="id">Brandon Nakashima vs Taylor Fritz Semifinal - Mubadala Citi DC Open Tennis Channel WJLA 24/7 News</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN2, RDS 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -360,9 +360,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: T2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260801040000 +0700" stop="20260801060000 +0700" channel="tvasports2">
-    <title lang="id">Mubadala Citi DC Open Tennis Channel WJLA 24/7 News 6:00 PM Mubadala Citi DC Open WJLA 24/7 News TSN+ TVA Sports 2 DAZN Canada 6:00 PM Memphis Open Tennis Channel T2 DAZN Canada 8:00 PM Mubadala Citi DC Open Tennis Channel WJLA 24/7 News</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TVA Sports 2</desc>
+  <programme start="20260801060000 +0700" stop="20260801080000 +0700" channel="tsn+tvasports2dazncanada">
+    <title lang="id">Jessica Pegula vs Diana Schnaider Semifinal - Mubadala Citi DC Open Tennis Channel WJLA 24/7 News TSN+ TVA Sports 2 DAZN Canada Memphis Open Tennis Channel T2 DAZN Canada 8:00 PM Naomi Osaka vs Alexandra Eala Semifinal - Mubadala Citi DC Open Tennis Channel WJLA 24/7 News</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+, TVA Sports 2, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260801060000 +0700" stop="20260801080000 +0700" channel="fubosportsdaznfubosportsnetworkdazncanada">
@@ -473,11 +473,6 @@
   <programme start="20260801100000 +0700" stop="20260801120000 +0700" channel="espnunlimitedespnapp">
     <title lang="id">WWE SummerSlam Main Event</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, ESPN app</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260801083500 +0700" stop="20260801103500 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">Greater Western Sydney Giants @ Port Adelaide Power FOX Soccer Plus 9:40 AM Brisbane Lions @ Carlton Blues</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260801014500 +0700" stop="20260801034500 +0700" channel="slingtvhbomax">

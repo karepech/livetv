@@ -250,8 +250,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: beIN SPORTS Xtra, beIN SPORTS Xtra CA</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260801113000 +0700" stop="20260801133000 +0700" channel="dazncanada">
-    <title lang="id">Manchester City vs Inter Fubo Sports CBSSN FOX Deportes 1:00 PM Manchester United vs Atletico Madrid MUTV 4:00 PM Real Madrid vs Fiorentina DAZN FOX Deportes DAZN Canada 6:00 PM Girona vs Arsenal FC DAZN FOX Deportes Arsenal.com</title>
+  <programme start="20260801010000 +0700" stop="20260801030000 +0700" channel="dazncanada">
+    <title lang="id">Manchester United vs Atletico Madrid MUTV 4:00 PM Real Madrid vs Fiorentina DAZN FOX Deportes DAZN Canada 6:00 PM Girona vs Arsenal FC DAZN FOX Deportes Arsenal.com</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -345,8 +345,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260801120100 +0700" stop="20260801140100 +0700" channel="dazndazncanada">
-    <title lang="id">Rally Finland Stage 15 DAZN DAZN Canada 2:36 PM Rally Finland Stage 17</title>
+  <programme start="20260801023600 +0700" stop="20260801043600 +0700" channel="dazndazncanada">
+    <title lang="id">Rally Finland Stage 17</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -377,11 +377,6 @@
   </programme>
   <programme start="20260801033000 +0700" stop="20260801053000 +0700" channel="dazndazncanada">
     <title lang="id">Brave CF</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260801121000 +0700" stop="20260801141000 +0700" channel="dazndazncanada">
-    <title lang="id">Rajadamnern World Series</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -478,11 +473,6 @@
   <programme start="20260801014500 +0700" stop="20260801034500 +0700" channel="slingtvhbomax">
     <title lang="id">Tour of Denmark Stage 4</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260801014500 +0700" stop="20260801034500 +0700" channel="peacock">
-    <title lang="id">Tour de France Stage 1</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260801043000 +0700" stop="20260801063000 +0700" channel="fubosportsfoxsports2foxsportsracing">

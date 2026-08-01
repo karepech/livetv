@@ -130,11 +130,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260801050000 +0700" stop="20260801070000 +0700" channel="nextlevelsportsryzsportsnetwork">
-    <title lang="id">Chiba Lotte Marines @ Nippon Ham Fighters Prime Video</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports, Ryz Sports Network</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260801010000 +0700" stop="20260801030000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Macon, GA - Oglesby, IL ESPN Select ESPN Unlimited 4:00 PM Maracaibo - Brisbane ESPN Select ESPN Unlimited 8:00 PM Brno - Mirabel ESPN Select ESPN Unlimited 11:30 PM Easley, SC - Laredo, TX</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
@@ -226,7 +221,7 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260801113000 +0700" stop="20260801133000 +0700" channel="paramount+cbs">
-    <title lang="id">Flint City Bucks - Vermont Green FC</title>
+    <title lang="id">Flint City Bucks vs Vermont Green</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, CBS</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -350,8 +345,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260801050000 +0700" stop="20260801070000 +0700" channel="dazndazncanada">
-    <title lang="id">Rally Finland Stage 11 DAZN DAZN Canada 7:36 AM Rally Finland Stage 13 DAZN DAZN Canada 12:01 PM Rally Finland Stage 15 DAZN DAZN Canada 2:36 PM Rally Finland Stage 17</title>
+  <programme start="20260801120100 +0700" stop="20260801140100 +0700" channel="dazndazncanada">
+    <title lang="id">Rally Finland Stage 15 DAZN DAZN Canada 2:36 PM Rally Finland Stage 17</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -366,7 +361,7 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260801040000 +0700" stop="20260801060000 +0700" channel="tvasports2">
-    <title lang="id">Mubadala Citi DC Open Tennis Channel WJLA 24/7 News 6:00 PM Mubadala Citi DC Open WJLA 24/7 News TVA Sports 2 DAZN Canada 6:00 PM Memphis Open Tennis Channel T2 DAZN Canada 8:00 PM Mubadala Citi DC Open Tennis Channel WJLA 24/7 News</title>
+    <title lang="id">Mubadala Citi DC Open Tennis Channel WJLA 24/7 News 6:00 PM Mubadala Citi DC Open WJLA 24/7 News TSN+ TVA Sports 2 DAZN Canada 6:00 PM Memphis Open Tennis Channel T2 DAZN Canada 8:00 PM Mubadala Citi DC Open Tennis Channel WJLA 24/7 News</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TVA Sports 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -485,11 +480,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260801060000 +0700" stop="20260801080000 +0700" channel="tsn2">
-    <title lang="id">Australia - Ireland</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260801014500 +0700" stop="20260801034500 +0700" channel="slingtvhbomax">
     <title lang="id">Tour of Denmark Stage 4</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
@@ -508,11 +498,6 @@
   <programme start="20260801043000 +0700" stop="20260801063000 +0700" channel="espnselectespnunlimitedtsn+">
     <title lang="id">Denver Outlaws @ Maryland Whipsnakes Fubo Sports ESPN Unlimited ABC TSN+ TSN2 7:00 PM Carolina Chaos @ Philadelphia Waterdogs</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260801061500 +0700" stop="20260801081500 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">NQ Cowboys W @ Canberra Raiders W</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260801020000 +0700" stop="20260801040000 +0700" channel="foxsoccerplussnworldsnnowsportsnet+">

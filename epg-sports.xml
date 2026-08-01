@@ -51,13 +51,8 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260802100000 +0700" stop="20260802120000 +0700" channel="ryzsportsnetwork">
-    <title lang="id">Hyannis Harbor Hawks - Cotuit Kettleers ESPN Select ESPN Unlimited TV38 11:30 PM Kenosha Kingfish - Rockford Rivets Prime Video</title>
+    <title lang="id">Hyannis Harbor Hawks - Cotuit Kettleers TV38 11:30 PM Kenosha Kingfish - Rockford Rivets Prime Video</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Ryz Sports Network</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260802050500 +0700" stop="20260802070500 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Gwinnett Stripers @ Durham Bulls</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260802080500 +0700" stop="20260802100500 +0700" channel="ballysportslivemilb.tv">
@@ -130,13 +125,18 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260802101000 +0700" stop="20260802121000 +0700" channel="ballysportslivemilb.tv">
+    <title lang="id">New Hampshire Fisher Cats @ Hartford Yard Goats</title>
+    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260802080000 +0700" stop="20260802100000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Brno - Mirabel ESPN Select ESPN Unlimited 11:30 PM Easley, SC - Laredo, TX</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260802050000 +0700" stop="20260802070000 +0700" channel="fubosportsespnunlimitedabcespndeportestsn2">
-    <title lang="id">Las Vegas Aces @ Chicago Sky Paramount+ CBS 7:00 PM New York Liberty @ Phoenix Mercury</title>
+  <programme start="20260802070000 +0700" stop="20260802090000 +0700" channel="fubosportsespnunlimitedabcespndeportestsn2">
+    <title lang="id">New York Liberty @ Phoenix Mercury</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ABC, ESPN Deportes, TSN2</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -220,8 +220,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, CBS</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260802063000 +0700" stop="20260802083000 +0700" channel="fanatiz">
-    <title lang="id">Estudiantes Río Cuarto vs Banfield Fanatiz Gimnasia Mendoza vs Unión Fanatiz 9:00 PM Belgrano vs Argentinos Juniors Fanatiz 9:00 PM Estudiantes vs Defensa y Justicia Fanatiz 11:30 PM Racing Club vs Tigre</title>
+  <programme start="20260802090000 +0700" stop="20260802110000 +0700" channel="fanatiz">
+    <title lang="id">Belgrano vs Argentinos Juniors Fanatiz Estudiantes vs Defensa y Justicia Fanatiz 11:30 PM Racing Club vs Tigre</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -238,11 +238,6 @@
   <programme start="20260802070000 +0700" stop="20260802090000 +0700" channel="fanatiz">
     <title lang="id">Sportivo Ameliano vs 2 de Mayo Fanatiz 9:30 PM Cerro Porteño vs Sportivo Luqueño</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260802060000 +0700" stop="20260802080000 +0700" channel="dazncanada">
-    <title lang="id">Girona vs Arsenal FC DAZN FOX Deportes Arsenal.com</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260802110000 +0700" stop="20260802130000 +0700" channel="estrellatvwmbctv63">
@@ -265,8 +260,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, beIN SPORTS Xtra, beIN SPORTS Xtra CA</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260802050000 +0700" stop="20260802070000 +0700" channel="fanatiz">
-    <title lang="id">Egypt vs Malawi Fanatiz 8:00 PM Nigeria vs Zambia</title>
+  <programme start="20260802080000 +0700" stop="20260802100000 +0700" channel="fanatiz">
+    <title lang="id">Nigeria vs Zambia</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -280,8 +275,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, CBSSN, TSN1, TSN3, TSN4</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260802050000 +0700" stop="20260802070000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Rocket Classic Third Round Fubo Sports ESPN Select ESPN Unlimited Golf Channel USA Golf Channel Canada 7:00 PM Rocket Classic Third Round Paramount+ CBS RDS TSN4 CTV2 Show more</title>
+  <programme start="20260802070000 +0700" stop="20260802090000 +0700" channel="tvbelumtersedia">
+    <title lang="id">Rocket Classic Third Round Paramount+ CBS RDS TSN4 CTV2 Show more</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -293,11 +288,6 @@
   <programme start="20260802110000 +0700" stop="20260802130000 +0700" channel="floracing">
     <title lang="id">East Sunbelt Rentals 150</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FloRacing</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260802055000 +0700" stop="20260802075000 +0700" channel="peacock">
-    <title lang="id">Road America 120 Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260802082500 +0700" stop="20260802102500 +0700" channel="peacock">
@@ -320,34 +310,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: T2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260802060000 +0700" stop="20260802080000 +0700" channel="tsn+tvasports2dazncanada">
-    <title lang="id">Jessica Pegula vs Diana Schnaider Semifinal - Mubadala Citi DC Open Tennis Channel WJLA 24/7 News TSN+ TVA Sports 2 DAZN Canada Memphis Open Tennis Channel T2 DAZN Canada 8:00 PM Naomi Osaka vs Alexandra Eala Semifinal - Mubadala Citi DC Open Tennis Channel WJLA 24/7 News</title>
+  <programme start="20260802080000 +0700" stop="20260802100000 +0700" channel="tsn+tvasports2dazncanada">
+    <title lang="id">Naomi Osaka vs Alexandra Eala Semifinal - Mubadala Citi DC Open Tennis Channel WJLA 24/7 News</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+, TVA Sports 2, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260802060000 +0700" stop="20260802080000 +0700" channel="fubosportsdaznfubosportsnetworkdazncanada">
-    <title lang="id">BKFC Fight Night</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, DAZN, fubo Sports Network, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260802060000 +0700" stop="20260802080000 +0700" channel="msgsn2tnt">
-    <title lang="id">Pierce O'Leary - Mark Chamberlain Main Cards DAZN DAZN Canada 11:00 PM Team Boxing League Sling TV HBO Max MSGSN</title>
+  <programme start="20260802110000 +0700" stop="20260802130000 +0700" channel="msgsn2tnt">
+    <title lang="id">Team Boxing League Sling TV HBO Max MSGSN</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: MSGSN 2, TNT</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260802050000 +0700" stop="20260802070000 +0700" channel="paramount+sportsnet+">
-    <title lang="id">Noah Gugnon vs Milos Janicic .</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260802053000 +0700" stop="20260802073000 +0700" channel="paramount+sportsnet+">
-    <title lang="id">Gilbert Urbina vs Vlastislav Cepo .</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260802060000 +0700" stop="20260802080000 +0700" channel="paramount+sportsnet+">
-    <title lang="id">Robert Valentin vs Dusko Todorovic .</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260802070000 +0700" stop="20260802090000 +0700" channel="paramount+sportsnet+">

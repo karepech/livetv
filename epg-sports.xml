@@ -51,7 +51,7 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260802100000 +0700" stop="20260802120000 +0700" channel="ryzsportsnetwork">
-    <title lang="id">Hyannis Harbor Hawks - Cotuit Kettleers TV38 11:30 PM Kenosha Kingfish - Rockford Rivets Prime Video</title>
+    <title lang="id">Hyannis Harbor Hawks - Cotuit Kettleers ESPN Select ESPN Unlimited TV38 11:30 PM Kenosha Kingfish - Rockford Rivets Prime Video</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Ryz Sports Network</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -130,8 +130,8 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260802040000 +0700" stop="20260802060000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Maracaibo - Brisbane ESPN Select ESPN Unlimited 8:00 PM Brno - Mirabel ESPN Select ESPN Unlimited 11:30 PM Easley, SC - Laredo, TX</title>
+  <programme start="20260802080000 +0700" stop="20260802100000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Brno - Mirabel ESPN Select ESPN Unlimited 11:30 PM Easley, SC - Laredo, TX</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -240,13 +240,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260802033000 +0700" stop="20260802053000 +0700" channel="beinsportsxtrabeinsportsxtraca">
-    <title lang="id">Wieczysta Kraków vs Lech Poznań</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: beIN SPORTS Xtra, beIN SPORTS Xtra CA</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260802040000 +0700" stop="20260802060000 +0700" channel="dazncanada">
-    <title lang="id">Real Madrid vs Fiorentina DAZN FOX Deportes DAZN Canada 6:00 PM Girona vs Arsenal FC DAZN FOX Deportes Arsenal.com</title>
+  <programme start="20260802060000 +0700" stop="20260802080000 +0700" channel="dazncanada">
+    <title lang="id">Girona vs Arsenal FC DAZN FOX Deportes Arsenal.com</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -263,11 +258,6 @@
   <programme start="20260802070000 +0700" stop="20260802090000 +0700" channel="fanatiz">
     <title lang="id">Deportivo Pasto vs Rionegro Águilas Fanatiz 9:05 PM Alianza Petrolera vs Deportes Tolima Fanatiz 11:10 PM Independiente Medellín vs Deportivo Cali</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260802043000 +0700" stop="20260802063000 +0700" channel="fubosportsparamount+cbssn">
-    <title lang="id">Aberdeen vs Hearts</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Paramount+, CBSSN</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260802071500 +0700" stop="20260802091500 +0700" channel="fanatizbeinsportsxtrabeinsportsxtraca">
@@ -298,11 +288,6 @@
   <programme start="20260802100000 +0700" stop="20260802120000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
     <title lang="id">Utah Championship Third Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260802040000 +0700" stop="20260802060000 +0700" channel="peacocknbcrdstsn4">
-    <title lang="id">Women's British Open Third Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBC, RDS, TSN4</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260802110000 +0700" stop="20260802130000 +0700" channel="floracing">
@@ -345,44 +330,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, DAZN, fubo Sports Network, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260802030000 +0700" stop="20260802050000 +0700" channel="msgsn2tnt">
-    <title lang="id">Pierce O'Leary - Mark Chamberlain Prelims DAZN DAZN Canada 6:00 PM Pierce O'Leary - Mark Chamberlain Main Cards DAZN DAZN Canada 11:00 PM Team Boxing League Sling TV HBO Max MSGSN</title>
+  <programme start="20260802060000 +0700" stop="20260802080000 +0700" channel="msgsn2tnt">
+    <title lang="id">Pierce O'Leary - Mark Chamberlain Main Cards DAZN DAZN Canada 11:00 PM Team Boxing League Sling TV HBO Max MSGSN</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: MSGSN 2, TNT</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260802033000 +0700" stop="20260802053000 +0700" channel="dazndazncanada">
-    <title lang="id">Brave CF</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260802024000 +0700" stop="20260802044000 +0700" channel="paramount+sportsnet+">
-    <title lang="id">Hailey Cowan vs Nina Nikolija Milosevic</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260802030000 +0700" stop="20260802050000 +0700" channel="paramount+sportsnet+">
-    <title lang="id">Kyle Prepolec vs Mateusz Rebecki</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260802033000 +0700" stop="20260802053000 +0700" channel="paramount+sportsnet+">
-    <title lang="id">Bogdan Grad vs Dennis Buzukja</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260802034000 +0700" stop="20260802054000 +0700" channel="paramount+sportsnet+">
-    <title lang="id">Mark Vologdin vs Borlislav Nikolic</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260802040000 +0700" stop="20260802060000 +0700" channel="paramount+sportsnet+">
-    <title lang="id">Michael Oliveira vs Oban Elliott .</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260802042000 +0700" stop="20260802062000 +0700" channel="paramount+sportsnet+">
-    <title lang="id">Tofiq Musayev vs Ludovit Klein .</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260802050000 +0700" stop="20260802070000 +0700" channel="paramount+sportsnet+">
@@ -435,18 +385,18 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, ESPN app</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260802043000 +0700" stop="20260802063000 +0700" channel="fubosportsfoxsports2foxsportsracing">
-    <title lang="id">Saratoga Live Fubo Sports FOX Sports 1 FOX Sports Racing 7:00 PM Saratoga Saturday Fubo Sports FOX FOX Sports Racing 10:00 PM Saratoga Live</title>
+  <programme start="20260802070000 +0700" stop="20260802090000 +0700" channel="fubosportsfoxsports2foxsportsracing">
+    <title lang="id">Saratoga Saturday Fubo Sports FOX FOX Sports Racing 10:00 PM Saratoga Live</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, FOX Sports Racing</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260802043000 +0700" stop="20260802063000 +0700" channel="espnselectespnunlimitedtsn+">
-    <title lang="id">Denver Outlaws @ Maryland Whipsnakes Fubo Sports ESPN Unlimited ABC TSN+ TSN2 7:00 PM Carolina Chaos @ Philadelphia Waterdogs</title>
+  <programme start="20260802070000 +0700" stop="20260802090000 +0700" channel="espnselectespnunlimitedtsn+">
+    <title lang="id">Carolina Chaos @ Philadelphia Waterdogs</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260802043000 +0700" stop="20260802063000 +0700" channel="foxsoccerplussnworldsnnowsportsnet+">
-    <title lang="id">St Helens @ York RLFC FOX Soccer Plus SN World SN NOW Sportsnet+ 7:00 PM Wakefield Trinity @ Catalans Dragons</title>
+  <programme start="20260802070000 +0700" stop="20260802090000 +0700" channel="foxsoccerplussnworldsnnowsportsnet+">
+    <title lang="id">Wakefield Trinity @ Catalans Dragons</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus, SN World, SN NOW, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>

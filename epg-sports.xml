@@ -170,8 +170,8 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260802010000 +0700" stop="20260802030000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Senior League Baseball World Series ESPN Select ESPN Unlimited 4:00 PM Senior League Baseball World Series ESPN Select ESPN Unlimited 7:00 PM Macon, GA - Pearl City, Hawaii ESPN Select ESPN Unlimited 11:30 PM Senior League Baseball World Series</title>
+  <programme start="20260802040000 +0700" stop="20260802060000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Senior League Baseball World Series ESPN Select ESPN Unlimited 7:00 PM Macon, GA - Pearl City, Hawaii ESPN Select ESPN Unlimited 11:30 PM Senior League Baseball World Series</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -225,8 +225,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260802124500 +0700" stop="20260802144500 +0700" channel="fanatizbeinsportsxtrabeinsportsxtraca">
-    <title lang="id">Legia Warszawa vs Zagłębie Lubin Fanatiz 3:30 PM Śląsk Wrocław vs Raków Częstochowa Fanatiz beIN SPORTS Xtra beIN SPORTS Xtra CA 6:15 PM GKS Katowice vs Radomiak Radom</title>
+  <programme start="20260802033000 +0700" stop="20260802053000 +0700" channel="fanatizbeinsportsxtrabeinsportsxtraca">
+    <title lang="id">Śląsk Wrocław vs Raków Częstochowa Fanatiz beIN SPORTS Xtra beIN SPORTS Xtra CA 6:15 PM GKS Katowice vs Radomiak Radom</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, beIN SPORTS Xtra, beIN SPORTS Xtra CA</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -250,8 +250,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260802010000 +0700" stop="20260802030000 +0700" channel="paramount+">
-    <title lang="id">St. Johnstone vs Kilmarnock Paramount+ 3:30 PM Hibernian vs Motherwell</title>
+  <programme start="20260802033000 +0700" stop="20260802053000 +0700" channel="paramount+">
+    <title lang="id">Hibernian vs Motherwell</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -265,19 +265,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260802010000 +0700" stop="20260802030000 +0700" channel="124thwesternamateurchampionshipespnselectespnunlimited">
-    <title lang="id">124th Western Amateur Championship ESPN Select ESPN Unlimited 5:00 PM</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: 124th Western Amateur Championship, ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260802030000 +0700" stop="20260802050000 +0700" channel="peacocknbctsn4">
     <title lang="id">Women's British Open Final Round RDS 4:00 PM Women's British Open Final Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBC, TSN4</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260802010000 +0700" stop="20260802030000 +0700" channel="fubosportsgolfchannelusa">
-    <title lang="id">Portugal Invitational Final Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260802033000 +0700" stop="20260802053000 +0700" channel="peacockrevtv">
@@ -318,11 +308,6 @@
   <programme start="20260802100000 +0700" stop="20260802120000 +0700" channel="espnunlimitedespnapp">
     <title lang="id">WWE SummerSlam Main Event</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, ESPN app</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260802113000 +0700" stop="20260802133000 +0700" channel="slingtvhbomax">
-    <title lang="id">Tour of Denmark Stage 5</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260802014500 +0700" stop="20260802034500 +0700" channel="peacock">

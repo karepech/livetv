@@ -25,11 +25,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260804063000 +0700" stop="20260804083000 +0700" channel="paramount+dazncanada">
-    <title lang="id">York City vs Crawley Town</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260804074500 +0700" stop="20260804094500 +0700" channel="fanatizfoxdeportes">
     <title lang="id">Sarmiento vs Independiente Rivadavia Fanatiz 10:00 PM Platense vs Talleres de Córdoba Fanatiz 10:00 PM Vélez Sarsfield vs Independiente</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, FOX Deportes</desc>
@@ -40,11 +35,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Nacional, Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260804060000 +0700" stop="20260804080000 +0700" channel="espnselectespnunlimitedtsn+">
-    <title lang="id">Ottawa Rapid vs Halifax Tides</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260804083000 +0700" stop="20260804103000 +0700" channel="fanatiz">
     <title lang="id">Atlético Huila vs Envigado</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
@@ -53,11 +43,6 @@
   <programme start="20260804103000 +0700" stop="20260804123000 +0700" channel="fanatiz">
     <title lang="id">Caracas vs Estudiantes de Mérida</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260804063000 +0700" stop="20260804083000 +0700" channel="paramount+">
-    <title lang="id">Celtic vs Dundee FC</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260804080000 +0700" stop="20260804100000 +0700" channel="fanatizbeinsportsxtrabeinsportsxtraca">
@@ -91,7 +76,7 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260804100000 +0700" stop="20260804120000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Conneaut Lake, PA - Georgetown, DE</title>
+    <title lang="id">Conneaut Lake, PA - Georgetown, DE ESPN Select ESPN Unlimited Irmo, SC - Repentigny, Quebec</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>

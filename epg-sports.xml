@@ -10,9 +10,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260803020000 +0700" stop="20260803040000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Fargo, ND - West Chester, PA</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+  <programme start="20260803040000 +0700" stop="20260803060000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Seoul, South Korea - Santa Cruz, Aruba ESPN Select ESPN Unlimited 7:00 PM San Ramon, CA - Livermore, CA ESPN Select ESPN Unlimited 10:00 PM Brno, Czechia - Puerto Rico</title>
+    <desc lang="id">[Sedang Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260803090000 +0700" stop="20260803110000 +0700" channel="nextlevelsports">
@@ -21,7 +21,7 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260803010000 +0700" stop="20260803030000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Senior League Baseball World Series</title>
+    <title lang="id">Senior League Baseball World Series ESPN Select ESPN Unlimited 4:00 PM Mirabel, Quebec - Willemstad, Curacao ESPN Select ESPN Unlimited 7:00 PM Easley, SC - Newark, DE ESPN Select ESPN Unlimited 10:00 PM Senior League Baseball World Series</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -65,9 +65,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, beIN USA, beIN USA Espanol, beIN Canada, beIN Canada Espanol</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260803060000 +0700" stop="20260803080000 +0700" channel="espnselectespnunlimited">
+  <programme start="20260803060000 +0700" stop="20260803080000 +0700" channel="espnselectespnunlimitedtsn+">
     <title lang="id">Ottawa Rapid vs Halifax Tides</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260803083000 +0700" stop="20260803103000 +0700" channel="fanatiz">
@@ -96,18 +96,13 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260803030000 +0700" stop="20260803050000 +0700" channel="snonesnnowtvasports2tvasports">
-    <title lang="id">National Bank Open Tennis Channel Sportsnet SN NOW TVA Sports 4:30 PM National Bank Open Tennis Channel TVA Sports 9:00 PM National Bank Open Tennis Channel TVA Sports 11:00 PM National Bank Open Tennis Channel</title>
+    <title lang="id">National Bank Open Tennis Channel T2 Sportsnet SN NOW TVA Sports 5:00 PM Taylor Fritz vs Rafael Jodar Final - Mubadala Citi DC Open Tennis Channel WJLA 24/7 News TSN2 TSN3 RDS 2 9:00 PM National Bank Open Tennis Channel TVA Sports 11:00 PM National Bank Open Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: SN One, SN NOW, TVA Sports 2, TVA Sports</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260803043000 +0700" stop="20260803063000 +0700" channel="sn360snnow">
-    <title lang="id">National Bank Open SN One SN NOW 11:00 PM National Bank Open Tennis Channel</title>
+  <programme start="20260803040000 +0700" stop="20260803060000 +0700" channel="sn360snnow">
+    <title lang="id">Jessica Pegula vs Alexandra Eala Final - Mubadala Citi DC Open WJLA 24/7 News TSN+ TVA Sports 2 4:30 PM National Bank Open Tennis Channel SN One SN NOW 11:00 PM National Bank Open Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: SN 360, SN NOW</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260803020000 +0700" stop="20260803040000 +0700" channel="wmbctv63">
-    <title lang="id">Team Boxing League Estrella TV MSGSN</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: WMBC TV 63</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260803090000 +0700" stop="20260803110000 +0700" channel="slingtvhbomax">
@@ -125,8 +120,13 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260803010000 +0700" stop="20260803030000 +0700" channel="tsn+">
+    <title lang="id">North Carolina - Canada TSN+ 4:00 PM Sango, Japan - Guayama, Puerto Rico Fubo Sports ESPN Unlimited ESPN2 TSN+ 7:00 PM Lake Mary, FL - Bologna, Italy Fubo Sports ESPN Unlimited ESPN2 TSN+ 10:00 PM Southwest - TBA</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260803100000 +0700" stop="20260803120000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Senior League Baseball World Series</title>
+    <title lang="id">Conneaut Lake, PA - Georgetown, DE ESPN Select ESPN Unlimited Irmo, SC - Repentigny, Quebec</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>

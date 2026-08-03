@@ -15,11 +15,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260803090000 +0700" stop="20260803110000 +0700" channel="nextlevelsports">
-    <title lang="id">Tohoku @ Orix Buffaloes</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260803010000 +0700" stop="20260803030000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Senior League Baseball World Series ESPN Select ESPN Unlimited 4:00 PM Mirabel, Quebec - Willemstad, Curacao ESPN Select ESPN Unlimited 7:00 PM Easley, SC - Newark, DE ESPN Select ESPN Unlimited 10:00 PM Senior League Baseball World Series</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
@@ -103,11 +98,6 @@
   <programme start="20260803040000 +0700" stop="20260803060000 +0700" channel="sn360snnow">
     <title lang="id">Jessica Pegula vs Alexandra Eala Final - Mubadala Citi DC Open WJLA 24/7 News TSN+ TVA Sports 2 4:30 PM National Bank Open Tennis Channel SN One SN NOW 11:00 PM National Bank Open Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: SN 360, SN NOW</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260803090000 +0700" stop="20260803110000 +0700" channel="slingtvhbomax">
-    <title lang="id">Tour of Poland Stage 1</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260803013000 +0700" stop="20260803033000 +0700" channel="peacock">

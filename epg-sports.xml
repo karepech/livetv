@@ -25,21 +25,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260803100000 +0700" stop="20260803120000 +0700" channel="dazndazncanada">
-    <title lang="id">Play-off Draw</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260803110000 +0700" stop="20260803130000 +0700" channel="dazndazncanada">
-    <title lang="id">Play-off Draw</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260803120000 +0700" stop="20260803140000 +0700" channel="dazncanada">
-    <title lang="id">Play-off Draw</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260803063000 +0700" stop="20260803083000 +0700" channel="paramount+dazncanada">
     <title lang="id">York City vs Crawley Town</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, DAZN Canada</desc>

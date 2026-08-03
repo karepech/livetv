@@ -10,13 +10,13 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260804040000 +0700" stop="20260804060000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Seoul, South Korea - Santa Cruz, Aruba ESPN Select ESPN Unlimited 7:00 PM San Ramon, CA - Livermore, CA ESPN Select ESPN Unlimited 10:00 PM Brno, Czechia - Puerto Rico</title>
+  <programme start="20260804070000 +0700" stop="20260804090000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">San Ramon, CA - Livermore, CA ESPN Select ESPN Unlimited 10:00 PM Brno, Czechia - Puerto Rico</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260804040000 +0700" stop="20260804060000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Mirabel, Quebec - Willemstad, Curacao ESPN Select ESPN Unlimited 7:00 PM Easley, SC - Newark, DE ESPN Select ESPN Unlimited 10:00 PM Senior League Baseball World Series</title>
+  <programme start="20260804070000 +0700" stop="20260804090000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Easley, SC - Newark, DE ESPN Select ESPN Unlimited 10:00 PM Pearl City, Hawaii - Laredo, TX</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -38,11 +38,6 @@
   <programme start="20260804070000 +0700" stop="20260804090000 +0700" channel="nacionalfanatiz">
     <title lang="id">Sportivo Trinidense vs Sportivo San Lorenzo Fanatiz 9:30 PM Deportivo Recoleta vs</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Nacional, Fanatiz</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260804050000 +0700" stop="20260804070000 +0700" channel="fanatizbeinusabeinusaespanolbeincanadabeincanadaespanol">
-    <title lang="id">Cracovia Kraków vs Pogoń Szczecin</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, beIN USA, beIN USA Espanol, beIN Canada, beIN Canada Espanol</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260804060000 +0700" stop="20260804080000 +0700" channel="espnselectespnunlimitedtsn+">
@@ -71,27 +66,27 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260804070000 +0700" stop="20260804090000 +0700" channel="tvbelumtersedia">
-    <title lang="id">USA U18 @ Czech Republic U18 Fubo Sports NHL Network TSN1 TSN3 TSN4 Show more 11:00 PM Switzerland U18 @ Canada U18 Fubo Sports NHL Network RDS TSN1 TSN3 Show more</title>
+    <title lang="id">Czech Republic U18 vs USA U18 Fubo Sports NHL Network TSN1 TSN3 TSN4 Show more 11:00 PM Canada U18 vs Switzerland U18 Fubo Sports NHL Network RDS TSN1 TSN3 Show more</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260804050000 +0700" stop="20260804070000 +0700" channel="snonesnnowtvasports2tvasports">
-    <title lang="id">Taylor Fritz vs Rafael Jodar Final - Mubadala Citi DC Open Tennis Channel WJLA 24/7 News TSN2 TSN3 RDS 2 9:00 PM National Bank Open Tennis Channel TVA Sports 11:00 PM National Bank Open Tennis Channel</title>
+  <programme start="20260804090000 +0700" stop="20260804110000 +0700" channel="snonesnnowtvasports2tvasports">
+    <title lang="id">National Bank Open Tennis Channel TVA Sports 11:00 PM National Bank Open Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: SN One, SN NOW, TVA Sports 2, TVA Sports</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260804040000 +0700" stop="20260804060000 +0700" channel="sn360snnow">
-    <title lang="id">Jessica Pegula vs Alexandra Eala Final - Mubadala Citi DC Open WJLA 24/7 News TSN+ TVA Sports 2 4:30 PM National Bank Open Tennis Channel SN One SN NOW 11:00 PM National Bank Open Tennis Channel</title>
+  <programme start="20260804110000 +0700" stop="20260804130000 +0700" channel="sn360snnow">
+    <title lang="id">National Bank Open Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: SN 360, SN NOW</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260804050000 +0700" stop="20260804070000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Guayama, Puerto Rico - Hudsonville, MI ESPN Select ESPN Unlimited 5:30 PM Shiner, TX - Repentigny, Quebec ESPN Select ESPN Unlimited 8:00 PM Charlotte, NC - Kirkland, WA ESPN Select ESPN Unlimited 8:30 PM Palo Cedro, CA - Johnstown, PA</title>
+  <programme start="20260804080000 +0700" stop="20260804100000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Charlotte, NC - Kirkland, WA ESPN Select ESPN Unlimited 8:30 PM Palo Cedro, CA - Johnstown, PA</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260804040000 +0700" stop="20260804060000 +0700" channel="fubosportsespnunlimitedespn2tsn+">
-    <title lang="id">Sango, Japan - Guayama, Puerto Rico Fubo Sports ESPN Unlimited ESPN2 TSN+ 7:00 PM Lake Mary, FL - Bologna, Italy Fubo Sports ESPN Unlimited ESPN2 TSN+ 10:00 PM Southwest - TBA</title>
+  <programme start="20260804070000 +0700" stop="20260804090000 +0700" channel="fubosportsespnunlimitedespn2tsn+">
+    <title lang="id">Lake Mary, FL - Bologna, Italy Fubo Sports ESPN Unlimited ESPN2 TSN+ 10:00 PM Southwest - TBA</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>

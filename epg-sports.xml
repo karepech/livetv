@@ -1,10 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
-  <programme start="20260804014000 +0700" stop="20260804034000 +0700" channel="padres.tvdbacks.tvmlb.tv">
-    <title lang="id">San Diego Padres @ Arizona Diamondbacks</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Padres.TV, Dbacks.TV, MLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260804103500 +0700" stop="20260804123500 +0700" channel="fdsnwestmasnmlb.tvabtv">
     <title lang="id">Los Angeles Angels @ Baltimore Orioles</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FDSN West, MASN, MLB.TV, ABTV</desc>
@@ -53,11 +48,6 @@
   <programme start="20260804110500 +0700" stop="20260804130500 +0700" channel="ryzsportsnetwork">
     <title lang="id">Wisconsin Rapids Rafters at Madison Mallards Prime Video</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Ryz Sports Network</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260804020000 +0700" stop="20260804040000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Fargo, ND - Kenner, LA</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260804040500 +0700" stop="20260804060500 +0700" channel="ballysportslivemilb.tv">
@@ -141,13 +131,8 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260804010000 +0700" stop="20260804030000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Tanauan, Philippines - Brno, Czechia</title>
+    <title lang="id">Easley, SC - Oglesby, IL ESPN Select ESPN Unlimited 4:00 PM Willemstad, Curacao - Brisbane, Queensland</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260804010000 +0700" stop="20260804030000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Phoenix Mercury @ Chicago Sky The U USA Network AZ Family Sports Merc+</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260804113000 +0700" stop="20260804133000 +0700" channel="appletv">
@@ -170,8 +155,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, OneSoccer</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260804010000 +0700" stop="20260804030000 +0700" channel="fanatiz">
-    <title lang="id">Atlético Bucaramanga vs Cúcuta Deportivo Fanatiz FOX Deportes 9:10 PM Llaneros vs Fortaleza CEIF Fanatiz 11:15 PM Deportes Tolima vs Independiente Medellín</title>
+  <programme start="20260804091000 +0700" stop="20260804111000 +0700" channel="fanatiz">
+    <title lang="id">Llaneros vs Fortaleza CEIF Fanatiz 11:15 PM Deportes Tolima vs Independiente Medellín</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -210,13 +195,13 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260804110000 +0700" stop="20260804130000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Guayama, Puerto Rico - Kirkland, WA ESPN Select ESPN Unlimited 11:30 PM Bacolod City, Philippines - Repentigny, Quebec</title>
+  <programme start="20260804050000 +0700" stop="20260804070000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Palo Cedro, CA - Repentigny, Quebec ESPN Select ESPN Unlimited 11:00 PM Guayama, Puerto Rico - Kirkland, WA ESPN Select ESPN Unlimited 11:30 PM Bacolod City, Philippines - Repentigny, Quebec</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260804010000 +0700" stop="20260804030000 +0700" channel="fubosportsespnunlimitedespn2">
-    <title lang="id">Owensboro, KY - Bristol, CT Fubo Sports ESPN Unlimited ESPN U ESPN2 TSN+ 2:00 PM Washington - TBA Fubo Sports ESPN Unlimited ESPN2 5:00 PM New Jersey - TBA Fubo Sports ESPN Unlimited ESPN2 8:00 PM Northern California - TBA</title>
+  <programme start="20260804020000 +0700" stop="20260804040000 +0700" channel="fubosportsespnunlimitedespn2">
+    <title lang="id">Southwest - Northwest Fubo Sports ESPN Unlimited ESPN2 TSN+ 5:00 PM Bristol, CT - Toms River, NJ Fubo Sports ESPN Unlimited ESPN2 TSN+ 8:00 PM Northern California - TBA</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2</desc>
     <category lang="id">Olahraga</category>
   </programme>

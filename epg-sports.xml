@@ -45,8 +45,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: SportsNet Pittsburgh, MLB.TV, Brewers.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260804110500 +0700" stop="20260804130500 +0700" channel="ryzsportsnetwork">
-    <title lang="id">Wisconsin Rapids Rafters at Madison Mallards Prime Video</title>
+  <programme start="20260804103500 +0700" stop="20260804123500 +0700" channel="ryzsportsnetwork">
+    <title lang="id">Newport Gulls - Bristol Blues ESPN Select ESPN Unlimited 11:05 PM Wisconsin Rapids Rafters at Madison Mallards Prime Video</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Ryz Sports Network</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -131,7 +131,7 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260804010000 +0700" stop="20260804030000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Easley, SC - Oglesby, IL ESPN Select ESPN Unlimited 4:00 PM Willemstad, Curacao - Brisbane, Queensland</title>
+    <title lang="id">Easley, SC - Oglesby, IL ESPN Select ESPN Unlimited 4:00 PM Willemstad, Curacao - Brisbane, Queensland ESPN Select ESPN Unlimited 7:00 PM Macon, GA - Newark, DE ESPN Select ESPN Unlimited 10:00 PM Mirabel, Quebec - Maracaibo, Venezuela</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -165,9 +165,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260804070000 +0700" stop="20260804090000 +0700" channel="fubosportsnhlnetworkrdstsn1">
+  <programme start="20260804070000 +0700" stop="20260804090000 +0700" channel="fubosportsnhlnetworkrdstsn1tsn4">
     <title lang="id">Czech Republic U18 vs Germany U18 TSN1 TSN4 11:00 PM Slovakia U18 vs Canada U18</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, NHL Network, RDS, TSN1</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, NHL Network, RDS, TSN1, TSN4</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260804030000 +0700" stop="20260804050000 +0700" channel="snonesnnowtvasports">
@@ -196,17 +196,62 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260804050000 +0700" stop="20260804070000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Palo Cedro, CA - Repentigny, Quebec ESPN Select ESPN Unlimited 11:00 PM Guayama, Puerto Rico - Kirkland, WA ESPN Select ESPN Unlimited 11:30 PM Bacolod City, Philippines - Repentigny, Quebec</title>
+    <title lang="id">Palo Cedro, CA - Repentigny, Quebec</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260804020000 +0700" stop="20260804040000 +0700" channel="fubosportsespnunlimitedespn2">
-    <title lang="id">Southwest - Northwest Fubo Sports ESPN Unlimited ESPN2 TSN+ 5:00 PM Bristol, CT - Toms River, NJ Fubo Sports ESPN Unlimited ESPN2 TSN+ 8:00 PM Northern California - TBA</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2</desc>
+  <programme start="20260804053000 +0700" stop="20260804073000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Guayama, Puerto Rico - Charlotte, NC</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260804080000 +0700" stop="20260804100000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Shiner, TX - Johnstown, PA</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260804083000 +0700" stop="20260804103000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Hudsonville, MI - Bohemia, Czechia</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260804110000 +0700" stop="20260804130000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Guayama, Puerto Rico - Kirkland, WA</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260804113000 +0700" stop="20260804133000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Bacolod City, Philippines - Repentigny, Quebec</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260804020000 +0700" stop="20260804040000 +0700" channel="fubosportsespnunlimitedespn2tsn+">
+    <title lang="id">Southwest - Northwest Fubo Sports ESPN Unlimited ESPN2 TSN+ 5:00 PM Bristol, CT - Toms River, NJ Fubo Sports ESPN Unlimited ESPN2 TSN+ 8:00 PM Sango, Japan - Live Oak, CA Fubo Sports ESPN Unlimited ESPN2 TSN+ 11:00 PM Repentigny, Quebec - Bologna, Italy</title>
+    <desc lang="id">[Sedang Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260804060000 +0700" stop="20260804080000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Senior League Softball World Series</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260804060000 +0700" stop="20260804080000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Grand Blanc, MI - Irmo, SC</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260804060000 +0700" stop="20260804080000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Repentigny, Quebec - Honolulu, HI</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260804090000 +0700" stop="20260804110000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Prague, Czechia - Irmo, SC</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260804090000 +0700" stop="20260804110000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Malolos, Philippines - São Paolo, Brazil</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>

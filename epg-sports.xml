@@ -125,18 +125,13 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260804090000 +0700" stop="20260804110000 +0700" channel="nextlevelsports">
-    <title lang="id">Nippon Ham Fighters @ Fukuoka</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260804010000 +0700" stop="20260804030000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Easley, SC - Oglesby, IL ESPN Select ESPN Unlimited 4:00 PM Willemstad, Curacao - Brisbane, Queensland ESPN Select ESPN Unlimited 7:00 PM Macon, GA - Newark, DE ESPN Select ESPN Unlimited 10:00 PM Mirabel, Quebec - Maracaibo, Venezuela</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260804113000 +0700" stop="20260804133000 +0700" channel="appletv">
-    <title lang="id">FC Cincinnati vs Pachuca Fubo Sports Apple TV FOX Sports 1 11:45 PM Columbus Crew vs Atlas</title>
+  <programme start="20260804114500 +0700" stop="20260804134500 +0700" channel="appletv">
+    <title lang="id">FC Cincinnati vs Pachuca Fubo Sports Apple TV FOX Sports 1 Columbus Crew vs Atlas</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -145,9 +140,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260804100000 +0700" stop="20260804120000 +0700" channel="paramount+">
+  <programme start="20260804100000 +0700" stop="20260804120000 +0700" channel="paramount+cbsgolazonetwork">
     <title lang="id">Portmore United vs Salcedo</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, CBS Golazo Network</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260804080000 +0700" stop="20260804100000 +0700" channel="fubosportsfoxsports2onesoccer">
@@ -183,11 +178,6 @@
   <programme start="20260804030000 +0700" stop="20260804050000 +0700" channel="t2sn360snnow">
     <title lang="id">National Bank Open Tennis Channel 4:30 PM National Bank Open SN One SN NOW 11:00 PM National Bank Open Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: T2, SN 360, SN NOW</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260804110500 +0700" stop="20260804130500 +0700" channel="slingtvhbomax">
-    <title lang="id">Tour of Poland Stage 2</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260804014500 +0700" stop="20260804034500 +0700" channel="peacock">
@@ -226,7 +216,7 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260804020000 +0700" stop="20260804040000 +0700" channel="fubosportsespnunlimitedespn2tsn+">
-    <title lang="id">Southwest - Northwest Fubo Sports ESPN Unlimited ESPN2 TSN+ 5:00 PM Bristol, CT - Toms River, NJ Fubo Sports ESPN Unlimited ESPN2 TSN+ 8:00 PM Sango, Japan - Live Oak, CA Fubo Sports ESPN Unlimited ESPN2 TSN+ 11:00 PM Repentigny, Quebec - Bologna, Italy</title>
+    <title lang="id">Washington - Texas Fubo Sports ESPN Unlimited ESPN2 TSN+ 5:00 PM Bristol, CT - Toms River, NJ Fubo Sports ESPN Unlimited ESPN2 TSN+ 8:00 PM Sango, Japan - Live Oak, CA Fubo Sports ESPN Unlimited ESPN2 TSN+ 11:00 PM Repentigny, Quebec - Bologna, Italy</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>

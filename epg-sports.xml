@@ -25,9 +25,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: YES, MLB.TV, Cardinals.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260805111000 +0700" stop="20260805131000 +0700" channel="chsnnesnnesnplusmlb.tv">
+  <programme start="20260805111000 +0700" stop="20260805131000 +0700" channel="fanatizchsnnesnnesnplusmlb.tv">
     <title lang="id">Chicago White Sox @ Boston Red Sox</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: CHSN, NESN, NESN Plus, MLB.TV</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, CHSN, NESN, NESN Plus, MLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260805111500 +0700" stop="20260805131500 +0700" channel="graymediamlb.tvmarlins.tvbravesvision">
@@ -50,14 +50,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Ryz Sports Network</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260805070000 +0700" stop="20260805090000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Kenner, LA - Tampa, FL ESPN Select ESPN Unlimited 10:00 PM Santa Cruz, Aruba - Victoria, British Columbia</title>
+  <programme start="20260805100000 +0700" stop="20260805120000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Santa Cruz, Aruba - Victoria, British Columbia</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260805060500 +0700" stop="20260805080500 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Ontario Tower Buzzers @ Lake Elsinore Storm</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260805100000 +0700" stop="20260805120000 +0700" channel="ballysportslivemilb.tv">
@@ -130,19 +125,19 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: SportsNet Pittsburgh, Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260805070000 +0700" stop="20260805090000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Macon, GA - Newark, DE ESPN Select ESPN Unlimited 10:00 PM Mirabel, Quebec - Maracaibo, Venezuela</title>
+  <programme start="20260805103500 +0700" stop="20260805123500 +0700" channel="ballysportslivemilb.tv">
+    <title lang="id">Columbus Clippers @ Syracuse Mets</title>
+    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260805100000 +0700" stop="20260805120000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Mirabel, Quebec - Maracaibo, Venezuela</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260805114500 +0700" stop="20260805134500 +0700" channel="appletv">
     <title lang="id">FC Cincinnati vs Pachuca Fubo Sports Apple TV FOX Sports 1 Columbus Crew vs Atlas</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260805060000 +0700" stop="20260805080000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Sparta Praha vs Lyon</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260805100000 +0700" stop="20260805120000 +0700" channel="paramount+cbsgolazonetwork">
@@ -165,8 +160,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260805070000 +0700" stop="20260805090000 +0700" channel="fubosportsnhlnetworkrdstsn1tsn4">
-    <title lang="id">Czech Republic U18 vs Germany U18 TSN1 TSN4 11:00 PM Slovakia U18 vs Canada U18</title>
+  <programme start="20260805110000 +0700" stop="20260805130000 +0700" channel="fubosportsnhlnetworkrdstsn1tsn4">
+    <title lang="id">Slovakia U18 vs Canada U18</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, NHL Network, RDS, TSN1, TSN4</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -195,28 +190,8 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260805060000 +0700" stop="20260805080000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Senior League Softball World Series</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260805060000 +0700" stop="20260805080000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Grand Blanc, MI - Irmo, SC</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260805060000 +0700" stop="20260805080000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Repentigny, Quebec - Honolulu, HI</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260805090000 +0700" stop="20260805110000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Prague, Czechia - Irmo, SC</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260805090000 +0700" stop="20260805110000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Malolos, Philippines - São Paolo, Brazil</title>
+    <title lang="id">Prague, Czechia - Irmo, SC ESPN Select ESPN Unlimited Malolos, Philippines - São Paolo, Brazil</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>

@@ -220,14 +220,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Sportsnet, SN NOW, TVA Sports</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260805030000 +0700" stop="20260805050000 +0700" channel="tvbelumtersedia">
-    <title lang="id">National Bank Open Tennis Channel 11:00 PM National Bank Open Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260805110000 +0700" stop="20260805130000 +0700" channel="snonesnnow">
+  <programme start="20260805110000 +0700" stop="20260805130000 +0700" channel="snonesnnowtvasports2">
     <title lang="id">National Bank Open Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: SN One, SN NOW</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: SN One, SN NOW, TVA Sports 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260805100500 +0700" stop="20260805120500 +0700" channel="slingtvhbomax">

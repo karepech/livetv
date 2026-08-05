@@ -150,11 +150,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260805090000 +0700" stop="20260805110000 +0700" channel="nextlevelsports">
-    <title lang="id">Nippon Ham Fighters @ Fukuoka</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260805113000 +0700" stop="20260805133000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Los Angeles Queens vs Boston Hunters</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
@@ -195,9 +190,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, OneSoccer</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260805110000 +0700" stop="20260805130000 +0700" channel="psgdazndazncanada">
-    <title lang="id">AC Milan vs Inter FOX Deportes 11:30 AM Chelsea vs Juventus CBS Golazo Network 6:30 PM Arsenal FC vs Real Betis Fubo Sports CBSSN FOX Deportes 7:00 PM Mallorca vs</title>
+  <programme start="20260805063000 +0700" stop="20260805083000 +0700" channel="psgdazndazncanada">
+    <title lang="id">Arsenal FC vs Real Betis Fubo Sports CBSSN FOX Deportes 7:00 PM Mallorca vs</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: PSG, DAZN, DAZN Canada</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260805040000 +0700" stop="20260805060000 +0700" channel="dazndazncanada">
+    <title lang="id">Costa Rica U17 - El Salvador U17</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260805111500 +0700" stop="20260805131500 +0700" channel="fanatiz">
@@ -215,24 +215,44 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260805030000 +0700" stop="20260805050000 +0700" channel="sportsnetsnnowtvasports">
-    <title lang="id">National Bank Open SN One SN NOW TVA Sports 4:00 PM National Bank Open Tennis Channel TVA Sports 7:00 PM National Bank Open Tennis Channel TVA Sports 9:00 PM National Bank Open Tennis Channel TVA Sports 10:00 PM National Bank Open Tennis Channel 11:00 PM National Bank Open Tennis Channel</title>
+  <programme start="20260805030000 +0700" stop="20260805050000 +0700" channel="tvbelumtersedia">
+    <title lang="id">Tsitsipas - Fonseca Tennis Channel</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260805040000 +0700" stop="20260805060000 +0700" channel="tvasports">
+    <title lang="id">National Bank Open Tennis Channel</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TVA Sports</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260805043000 +0700" stop="20260805063000 +0700" channel="tvbelumtersedia">
+    <title lang="id">Ruud - Cerulondo Tennis Channel</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260805070000 +0700" stop="20260805090000 +0700" channel="tvasports">
+    <title lang="id">National Bank Open Tennis Channel</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TVA Sports</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260805090000 +0700" stop="20260805110000 +0700" channel="tvasports">
+    <title lang="id">National Bank Open Tennis Channel</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TVA Sports</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260805100000 +0700" stop="20260805120000 +0700" channel="tvbelumtersedia">
+    <title lang="id">National Bank Open Tennis Channel</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260805110000 +0700" stop="20260805130000 +0700" channel="sportsnetsnnowtvasports">
+    <title lang="id">National Bank Open Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sportsnet, SN NOW, TVA Sports</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260805110000 +0700" stop="20260805130000 +0700" channel="snonesnnowtvasports2">
     <title lang="id">National Bank Open Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: SN One, SN NOW, TVA Sports 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260805100500 +0700" stop="20260805120500 +0700" channel="slingtvhbomax">
-    <title lang="id">Tour of Poland Stage 3</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260805113000 +0700" stop="20260805133000 +0700" channel="peacock">
-    <title lang="id">Tour de France Stage 5</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260805050000 +0700" stop="20260805070000 +0700" channel="fubosportsfoxsports2foxsportsracing">

@@ -65,6 +65,11 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: WWAX</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260806100000 +0700" stop="20260806120000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Santa Cruz, Aruba - Seoul, South Korea</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260806020000 +0700" stop="20260806040000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Shady Spring, WV - Irmo, SC</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
@@ -175,11 +180,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260806090000 +0700" stop="20260806110000 +0700" channel="nextlevelsports">
-    <title lang="id">Nippon Ham Fighters @ Fukuoka</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260806010000 +0700" stop="20260806030000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Senior League Baseball ESPN Select ESPN Unlimited 4:00 PM Senior League Baseball ESPN Select ESPN Unlimited 8:00 PM Senior League Baseball World Series</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
@@ -206,7 +206,7 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260806054500 +0700" stop="20260806074500 +0700" channel="espnselectespnunlimited">
-    <title lang="id">PAOK vs Anderlecht</title>
+    <title lang="id">PAOK vs Anderlecht Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -240,8 +240,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260806104500 +0700" stop="20260806124500 +0700" channel="fubosportsespnselectespnunlimitedgolfchannelusagolfchannelcanada">
-    <title lang="id">Wyndham Championship First Round ESPN Select ESPN Unlimited Hulu Disney+ TSN+ 7:00 PM Wyndham Championship First Round</title>
+  <programme start="20260806070000 +0700" stop="20260806090000 +0700" channel="fubosportsespnselectespnunlimitedgolfchannelusagolfchannelcanada">
+    <title lang="id">Wyndham Championship First Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Select, ESPN Unlimited, Golf Channel USA, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -270,16 +270,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: SN One, SN NOW</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260806093000 +0700" stop="20260806113000 +0700" channel="foxsoccerplus">
-    <title lang="id">North Melbourne Kangaroos @ Western Bulldogs</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260806101500 +0700" stop="20260806121500 +0700" channel="slingtvhbomax">
-    <title lang="id">Tour of Poland Stage 4</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260806014500 +0700" stop="20260806034500 +0700" channel="peacock">
     <title lang="id">Tour de France Stage 6</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
@@ -288,11 +278,6 @@
   <programme start="20260806050000 +0700" stop="20260806070000 +0700" channel="fubosportsfoxsports2foxsportsracing">
     <title lang="id">Saratoga Live</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, FOX Sports Racing</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260806095000 +0700" stop="20260806115000 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">NQ Cowboys @ Gold Coast Titans</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260806070000 +0700" stop="20260806090000 +0700" channel="foxsoccerplussnworldsnnowsportsnet+">
@@ -305,9 +290,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260806050000 +0700" stop="20260806070000 +0700" channel="fubosportsespnunlimitedespn">
+  <programme start="20260806050000 +0700" stop="20260806070000 +0700" channel="fubosportsespnunlimitedespntsn+">
     <title lang="id">Florida - North Carolina Fubo Sports ESPN Unlimited ESPN 9:00 PM Puerto Rico - Kentucky</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260806060000 +0700" stop="20260806080000 +0700" channel="espnselectespnunlimited">

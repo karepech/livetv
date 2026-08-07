@@ -40,16 +40,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Twins.TV, MLB.TV, Brewers.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260807010000 +0700" stop="20260807030000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Clifton, VA - Nolensville, TN</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260807020000 +0700" stop="20260807040000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Kearney, NE - Sioux Falls, SD</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260807030000 +0700" stop="20260807050000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Huntersville, NC - Phenix City, AL</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
@@ -265,18 +255,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Select, ESPN Unlimited, Golf Channel USA, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260807023000 +0700" stop="20260807043000 +0700" channel="fubosportsgolfchannelusatsn3">
-    <title lang="id">U.S. Women's Amateur Second Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, TSN3</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260807010000 +0700" stop="20260807030000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
-    <title lang="id">PIF London Championship Second Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260807020000 +0700" stop="20260807040000 +0700" channel="fubosportsfoxdazncanada">
-    <title lang="id">LIV Golf New York Second Round Fubo Sports FOX Sports 2 4:00 PM LIV Golf New York Second Round</title>
+  <programme start="20260807040000 +0700" stop="20260807060000 +0700" channel="fubosportsfoxdazncanada">
+    <title lang="id">LIV Golf New York Second Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -303,16 +283,6 @@
   <programme start="20260807043000 +0700" stop="20260807063000 +0700" channel="sn360snnowtvasports2">
     <title lang="id">National Bank Open Tennis Channel SN One SN NOW TVA Sports 2 11:00 PM National Bank Open Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: SN 360, SN NOW, TVA Sports 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260807013000 +0700" stop="20260807033000 +0700" channel="professionalfightersleagueespnselectespnunlimited">
-    <title lang="id">One Friday Fights beIN USA beIN Canada 10:30 PM</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Professional Fighters League, ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260807011500 +0700" stop="20260807031500 +0700" channel="peacock">
-    <title lang="id">Tour de France Stage 7</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260807050000 +0700" stop="20260807070000 +0700" channel="fubosportsfoxsports2foxsportsracing">

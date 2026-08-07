@@ -275,9 +275,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Select, ESPN Unlimited, Golf Channel USA, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260807070000 +0700" stop="20260807090000 +0700" channel="tsn3">
+  <programme start="20260807023000 +0700" stop="20260807043000 +0700" channel="fubosportsgolfchannelusa">
     <title lang="id">U.S. Women's Amateur Second Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN3</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260807010000 +0700" stop="20260807030000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
@@ -350,8 +350,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260807080000 +0700" stop="20260807100000 +0700" channel="foxsoccerplus">
-    <title lang="id">Penrith Panthers @ New Zealand Warriors FOX Soccer Plus 10:00 AM Canterbury Bulldogs @ Sydney Roosters</title>
+  <programme start="20260807100000 +0700" stop="20260807120000 +0700" channel="foxsoccerplus">
+    <title lang="id">Canterbury Bulldogs @ Sydney Roosters</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
     <category lang="id">Olahraga</category>
   </programme>

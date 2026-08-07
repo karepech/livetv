@@ -170,9 +170,9 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Fredericksburg Nationals, Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260807090000 +0700" stop="20260807110000 +0700" channel="nextlevelsports">
-    <title lang="id">Orix Buffaloes @ Chiba Lotte Marines</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports</desc>
+  <programme start="20260807083000 +0700" stop="20260807103000 +0700" channel="ryzsportsnetwork">
+    <title lang="id">Paderborn, Germany - Hidalgo, Texas, USA Prime Video</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Ryz Sports Network</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260807080000 +0700" stop="20260807100000 +0700" channel="espnselectespnunlimited">
@@ -265,19 +265,19 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260807060000 +0700" stop="20260807080000 +0700" channel="tsn4">
-    <title lang="id">USA U18 vs Slovakia U18 Semifinal TSN1 TSN4 11:00 PM Canada U18 vs Finland U18 Semifinal</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN4</desc>
+  <programme start="20260807060000 +0700" stop="20260807080000 +0700" channel="fubosportsnhlnetworktsn4">
+    <title lang="id">USA U18 vs Slovakia U18 Semifinal Fubo Sports NHL Network RDS TSN1 TSN4 11:00 PM Canada U18 vs Finland U18 Semifinal</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, NHL Network, TSN4</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260807104500 +0700" stop="20260807124500 +0700" channel="fubosportsespnselectespnunlimitedgolfchannelusagolfchannelcanada">
-    <title lang="id">Wyndham Championship ESPN Select ESPN Unlimited TSN+ 7:00 PM Wyndham Championship Second Round</title>
+  <programme start="20260807070000 +0700" stop="20260807090000 +0700" channel="fubosportsespnselectespnunlimitedgolfchannelusagolfchannelcanada">
+    <title lang="id">Wyndham Championship Second Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Select, ESPN Unlimited, Golf Channel USA, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260807023000 +0700" stop="20260807043000 +0700" channel="fubosportsgolfchannelusa">
+  <programme start="20260807023000 +0700" stop="20260807043000 +0700" channel="fubosportsgolfchannelusatsn3">
     <title lang="id">U.S. Women's Amateur Second Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, TSN3</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260807010000 +0700" stop="20260807030000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
@@ -320,16 +320,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Professional Fighters League, ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260807094000 +0700" stop="20260807114000 +0700" channel="brisbanelionsfubosportsfoxsports2">
-    <title lang="id">Hawthorn Hawks @</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Brisbane Lions, Fubo Sports, FOX Sports 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260807092000 +0700" stop="20260807112000 +0700" channel="slingtvhbomax">
-    <title lang="id">Tour of Poland Stage 5</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260807011500 +0700" stop="20260807031500 +0700" channel="peacock">
     <title lang="id">Tour de France Stage 7</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
@@ -350,19 +340,19 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260807100000 +0700" stop="20260807120000 +0700" channel="foxsoccerplus">
-    <title lang="id">Canterbury Bulldogs @ Sydney Roosters</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260807070000 +0700" stop="20260807090000 +0700" channel="sportsnet+">
     <title lang="id">York RLFC @ Leigh Leopards Sportsnet+ Leeds Rhinos @ Wakefield Trinity FOX Soccer Plus SN World SN NOW Sportsnet+ Hull Kingston Rovers @ Castleford Tigers</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260807070000 +0700" stop="20260807090000 +0700" channel="tsn+">
+  <programme start="20260807070000 +0700" stop="20260807090000 +0700" channel="fubosportsespnunlimitedespntsn+">
     <title lang="id">Northwest - Southeast</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, TSN+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260807030000 +0700" stop="20260807050000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Repentigny, Quebec - Malolos, Philippines ESPN Select ESPN Unlimited 6:00 PM São Paolo, Brazil - Prague, Czechia ESPN Select ESPN Unlimited 9:00 PM Conneaut Lake, PA - Grand Blanc, MI</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

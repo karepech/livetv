@@ -40,33 +40,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Twins.TV, MLB.TV, Brewers.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260808050000 +0700" stop="20260808070000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Davenport, IA - Fargo, ND</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260808060000 +0700" stop="20260808080000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Shady Spring, WV - Columbus, GA</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260808060000 +0700" stop="20260808080000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Clinton, MS - Gonzales, LA</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260808080000 +0700" stop="20260808100000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Columbia, MO - Coon Rapids, MN</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260808090000 +0700" stop="20260808110000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Little Rock, AR - Albuquerque, NM</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260808110000 +0700" stop="20260808130000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Whitefish Bay, WI - Pittsburg, KS</title>
+    <title lang="id">Columbia, MO - Coon Rapids, MN ESPN Select ESPN Unlimited 9:00 PM Little Rock, AR - Albuquerque, NM ESPN Select ESPN Unlimited 11:00 PM Whitefish Bay, WI - Pittsburg, KS</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -185,16 +160,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260808063000 +0700" stop="20260808083000 +0700" channel="dazncanada">
-    <title lang="id">VfL Bochum vs Hertha BSC</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260808050000 +0700" stop="20260808070000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Waldhof Mannheim vs Fortuna Düsseldorf</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260808110000 +0700" stop="20260808130000 +0700" channel="fubosportsfoxsports2onesoccer">
     <title lang="id">Forge vs Vancouver FC</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, OneSoccer</desc>
@@ -208,11 +173,6 @@
   <programme start="20260808093000 +0700" stop="20260808113000 +0700" channel="fanatiz">
     <title lang="id">Rubio Ñú vs Deportivo Recoleta</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260808063000 +0700" stop="20260808083000 +0700" channel="fanatizbeinusabeinusaespanolbeincanadabeincanadaespanol">
-    <title lang="id">Wisła Kraków vs Wisła Płock</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, beIN USA, beIN USA Espanol, beIN Canada, beIN Canada Espanol</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260808110000 +0700" stop="20260808130000 +0700" channel="tvbelumtersedia">
@@ -230,13 +190,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260808063000 +0700" stop="20260808083000 +0700" channel="paramount+">
-    <title lang="id">Partick Thistle vs Livingston</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260808060000 +0700" stop="20260808080000 +0700" channel="fubosportsnhlnetworktsn4">
-    <title lang="id">USA U18 vs Slovakia U18 Semifinal Fubo Sports NHL Network RDS TSN1 TSN4 11:00 PM Canada U18 vs Finland U18 Semifinal</title>
+  <programme start="20260808110000 +0700" stop="20260808130000 +0700" channel="fubosportsnhlnetworktsn4">
+    <title lang="id">Canada U18 vs Finland U18 Semifinal</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, NHL Network, TSN4</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -245,9 +200,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Select, ESPN Unlimited, Golf Channel USA, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260808093000 +0700" stop="20260808113000 +0700" channel="fubosportsfoxsports1">
+  <programme start="20260808093000 +0700" stop="20260808113000 +0700" channel="fubosportsfoxsports1tsn+">
     <title lang="id">Grand Prix of Portland Practice</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260808110000 +0700" stop="20260808130000 +0700" channel="fubosportsfoxsports1revtv">
@@ -270,14 +225,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: SN 360, SN NOW, TVA Sports 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260808050000 +0700" stop="20260808070000 +0700" channel="fubosportsfoxsports2foxsportsracing">
-    <title lang="id">Saratoga Live Fubo Sports FOX Sports 2 FOX Sports Racing 9:30 PM Saratoga Live</title>
+  <programme start="20260808093000 +0700" stop="20260808113000 +0700" channel="fubosportsfoxsports2foxsportsracing">
+    <title lang="id">Saratoga Live</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, FOX Sports Racing</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260808100000 +0700" stop="20260808120000 +0700" channel="espnselectespnunlimited">
+  <programme start="20260808100000 +0700" stop="20260808120000 +0700" channel="espnselectespnunlimitedtsn+">
     <title lang="id">Maryland Whipsnakes @ Boston Cannons</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260808070000 +0700" stop="20260808090000 +0700" channel="sportsnet+">
@@ -291,12 +246,12 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260808070000 +0700" stop="20260808090000 +0700" channel="fubosportsespnunlimitedespn">
-    <title lang="id">Northwest - Southeast Fubo Sports ESPN Unlimited ESPN 10:00 PM Toms River, NJ - Guayama, Puerto Rico</title>
+    <title lang="id">Northwest - Southeast Fubo Sports ESPN Unlimited ESPN TSN+ 10:00 PM Toms River, NJ - Guayama, Puerto Rico</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260808060000 +0700" stop="20260808080000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">São Paolo, Brazil - Prague, Czechia ESPN Select ESPN Unlimited 9:00 PM Conneaut Lake, PA - Grand Blanc, MI</title>
+  <programme start="20260808090000 +0700" stop="20260808110000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Conneaut Lake, PA - Grand Blanc, MI</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>

@@ -75,8 +75,83 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX, FOX One, MLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260808020000 +0700" stop="20260808040000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Goodlettsville, TN - Rainbow City, AL</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260808020000 +0700" stop="20260808040000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Hamilton, OH - Greater Bay, MI</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260808020000 +0700" stop="20260808040000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Portsmouth, NH - Richmond, VT</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260808040000 +0700" stop="20260808060000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Little League World Series ESPN Select ESPN Unlimited 5:00 PM Little League World Series ESPN Select ESPN Unlimited 6:30 PM Little League World Series ESPN Select ESPN Unlimited 9:30 PM Little League World Series</title>
+    <title lang="id">Eagle, ID - Anchorage, AK</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260808050000 +0700" stop="20260808070000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Little League World Series</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260808050000 +0700" stop="20260808070000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Sioux Falls, SD - Davenport, IA</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260808050000 +0700" stop="20260808070000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Gray, ME - Bridgewater, MA</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260808063000 +0700" stop="20260808083000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Little League World Series</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260808063000 +0700" stop="20260808083000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Clinton, MS - Boerne, TX</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260808070000 +0700" stop="20260808090000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">St. George, UT - Boulder, CO</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260808080000 +0700" stop="20260808100000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Port Washington, NY - Lincoln, RI</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260808080000 +0700" stop="20260808100000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Lincoln, RI - Port Washington, NY</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260808093000 +0700" stop="20260808113000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Little League World Series</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260808100000 +0700" stop="20260808120000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Torrington, WY - Henderson, NV</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260808110000 +0700" stop="20260808130000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Burbank, IL - La Grange, KY</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260808110000 +0700" stop="20260808130000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Bayonne, NJ - Darien, CT</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -178,6 +253,11 @@
   <programme start="20260808050000 +0700" stop="20260808070000 +0700" channel="chicagoskyfubosportsespnunlimitedabcespndeportes">
     <title lang="id">Las Vegas Aces @ Minnesota Lynx Paramount+ CBS 7:30 PM Indiana Fever @</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Chicago Sky, Fubo Sports, ESPN Unlimited, ABC, ESPN Deportes</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260808050000 +0700" stop="20260808070000 +0700" channel="tsn+tsn2">
+    <title lang="id">Niagara River @ Brampton Honey Badgers TSN+ TSN2 7:30 PM Winnipeg Sea Bears @ Vancouver Bandits</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+, TSN2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260808083000 +0700" stop="20260808103000 +0700" channel="appletv">
@@ -490,9 +570,29 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, beIN SPORTS Xtra, beIN SPORTS Xtra CA</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260808110000 +0700" stop="20260808130000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Wyndham Championship Third Round ESPN Select ESPN Unlimited 11:30 AM Wyndham Championship Third Round TSN+ 5:00 PM Wyndham Championship Third Round Fubo Sports ESPN Select ESPN Unlimited Golf Channel USA Golf Channel Canada 7:00 PM Wyndham Championship Third Round Paramount+ CBS TSN5 RDS 2 CTV2 Show more</title>
+  <programme start="20260808110000 +0700" stop="20260808130000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Wyndham Championship Third Round</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260808113000 +0700" stop="20260808133000 +0700" channel="espnselectespnunlimitedtsn+">
+    <title lang="id">Wyndham Championship Third Round</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260808050000 +0700" stop="20260808070000 +0700" channel="fubosportsespnselectespnunlimitedgolfchannelusagolfchannelcanada">
+    <title lang="id">Wyndham Championship Third Round</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Select, ESPN Unlimited, Golf Channel USA, Golf Channel Canada</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260808070000 +0700" stop="20260808090000 +0700" channel="tvbelumtersedia">
+    <title lang="id">Wyndham Championship Third Round Paramount+ CBS TSN5 RDS 2 CTV2 Show more</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260808010000 +0700" stop="20260808030000 +0700" channel="tsn3">
+    <title lang="id">U.S. Women's Amateur Third Round</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN3</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260808040000 +0700" stop="20260808060000 +0700" channel="fubosportsfoxdazncanada">
@@ -585,8 +685,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, SN NOW, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260808061500 +0700" stop="20260808081500 +0700" channel="foxsoccerplus">
-    <title lang="id">Port Adelaide Power @ Sydney Swans Fubo Sports FOX Sports 2 6:35 AM Essendon Bombers @ Geelong Cats Fubo Sports FOX Sports 1 9:35 AM Richmond Tigers @ Adelaide Crows</title>
+  <programme start="20260808093500 +0700" stop="20260808113500 +0700" channel="foxsoccerplus">
+    <title lang="id">Richmond Tigers @ Adelaide Crows</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
     <category lang="id">Olahraga</category>
   </programme>

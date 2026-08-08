@@ -75,6 +75,11 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX, FOX One, MLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260808103000 +0700" stop="20260808123000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Danbury Westerners - Mystic Schooners</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260808020000 +0700" stop="20260808040000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Goodlettsville, TN - Rainbow City, AL</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
@@ -233,11 +238,6 @@
   <programme start="20260808110500 +0700" stop="20260808130500 +0700" channel="ryzsportsnetwork">
     <title lang="id">Green Bay Rockers at Madison Mallards Prime Video</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Ryz Sports Network</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260808090000 +0700" stop="20260808110000 +0700" channel="nextlevelsports">
-    <title lang="id">Orix Buffaloes @ Chiba Lotte Marines</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260808040000 +0700" stop="20260808060000 +0700" channel="ryzsportsnetwork">
@@ -400,7 +400,7 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260808110000 +0700" stop="20260808130000 +0700" channel="cbsgolazonetwork">
+  <programme start="20260808111000 +0700" stop="20260808131000 +0700" channel="cbsgolazonetwork">
     <title lang="id">Juventus vs Inter</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: CBS Golazo Network</desc>
     <category lang="id">Olahraga</category>
@@ -445,9 +445,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ViX</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260808073000 +0700" stop="20260808093000 +0700" channel="beinusabeinusaespanolbeincanadaespanol">
+  <programme start="20260808073000 +0700" stop="20260808093000 +0700" channel="fanatizbeinusabeinusaespanolbeincanadaespanol">
     <title lang="id">Estrela Amadora vs Sporting CP</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: beIN USA, beIN USA Espanol, beIN Canada Espanol</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, beIN USA, beIN USA Espanol, beIN Canada Espanol</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260808064500 +0700" stop="20260808084500 +0700" channel="fanatiz">
@@ -566,32 +566,17 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260808050000 +0700" stop="20260808070000 +0700" channel="fanatizbeinsportsxtrabeinsportsxtraca">
-    <title lang="id">Ivory Coast vs Algeria Quarter-final Fanatiz beIN SPORTS Xtra beIN SPORTS Xtra CA 8:00 PM Morocco vs South Africa</title>
+    <title lang="id">Ivory Coast vs Algeria Quarter-final Fanatiz beIN SPORTS Xtra beIN SPORTS Xtra CA 8:00 PM Morocco vs South Africa Quarter-final</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, beIN SPORTS Xtra, beIN SPORTS Xtra CA</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260808060000 +0700" stop="20260808080000 +0700" channel="fubosportsnhlnetworkrdstsn4">
-    <title lang="id">Slovakia U18 @ Finland U18 Fubo Sports NHL Network TSN4 RDS Info 11:00 PM USA U18 @ Canada U18</title>
+    <title lang="id">Finland U18 vs Slovakia U18 Third Place Game Fubo Sports NHL Network TSN4 RDS Info 11:00 PM Canada U18 vs USA U18 Final</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, NHL Network, RDS, TSN4</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260808110000 +0700" stop="20260808130000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Wyndham Championship Third Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260808113000 +0700" stop="20260808133000 +0700" channel="espnselectespnunlimitedtsn+">
-    <title lang="id">Wyndham Championship Third Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260808050000 +0700" stop="20260808070000 +0700" channel="fubosportsespnselectespnunlimitedgolfchannelusagolfchannelcanada">
-    <title lang="id">Wyndham Championship Third Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Select, ESPN Unlimited, Golf Channel USA, Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260808070000 +0700" stop="20260808090000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Wyndham Championship Third Round Paramount+ CBS TSN5 RDS 2 CTV2 Show more</title>
+  <programme start="20260808110000 +0700" stop="20260808130000 +0700" channel="tvbelumtersedia">
+    <title lang="id">Wyndham Championship Third Round ESPN Select ESPN Unlimited 11:30 AM Wyndham Championship Third Round TSN+ 5:00 PM Wyndham Championship Third Round Fubo Sports ESPN Select ESPN Unlimited Golf Channel USA Golf Channel Canada 7:00 PM Wyndham Championship Third Round Paramount+ CBS TSN5 RDS 2 CTV2 Show more</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -610,38 +595,43 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, TSN3</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260808050000 +0700" stop="20260808070000 +0700" channel="fubosportsfoxsports1tsn+">
-    <title lang="id">Grand Prix of Portland Practice Fubo Sports FOX Sports 1 TSN+ 11:00 PM Grand Prix of Portland Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, TSN+</desc>
+  <programme start="20260808050000 +0700" stop="20260808070000 +0700" channel="fubosportsfoxsports1foxonetsn+">
+    <title lang="id">Grand Prix of Portland Practice Fubo Sports FOX Sports 1 FOX One TSN+ 11:00 PM Grand Prix of Portland Qualifying</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, FOX One, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260808071000 +0700" stop="20260808091000 +0700" channel="slingtvhbomaxtrutv">
-    <title lang="id">Iowa Corn 350</title>
+  <programme start="20260808060500 +0700" stop="20260808080500 +0700" channel="slingtvhbomaxtrutv">
+    <title lang="id">Iowa Corn 350 Practice Sling TV HBO Max truTV 7:10 PM Iowa Corn 350 Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, truTV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260808043000 +0700" stop="20260808063000 +0700" channel="tvbelumtersedia">
-    <title lang="id">HyVee Perks 250, Qualifying CW MyTV Peachtree TV KRON 4 KUNS-TV Show more 9:00 PM HyVee Perks 250 Race CW MyTV Peachtree TV KUNS-TV WGN Canada</title>
+  <programme start="20260808033000 +0700" stop="20260808053000 +0700" channel="tvbelumtersedia">
+    <title lang="id">HyVee Perks 250 Practice ESPN Unlimited WGN Canada 4:35 PM HyVee Perks 250 Qualifying ESPN Unlimited CW WGN Canada 9:00 PM HyVee Perks 250 Race ESPN Unlimited CW MyTV Peachtree TV KUNS-TV Show more</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260808030000 +0700" stop="20260808050000 +0700" channel="tvbelumtersedia">
-    <title lang="id">British Grand Prix Fubo Sports FOX Sports 1 FOX Sports Racing SN World SN NOW Show more</title>
+    <title lang="id">British Grand Prix Sprint Fubo Sports FOX Sports 1 FOX Sports Racing SN World SN NOW Show more</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260808040000 +0700" stop="20260808060000 +0700" channel="fubosportsfoxsports1">
-    <title lang="id">Grand Prix of Portland Practice Fubo Sports FOX Sports 1 7:00 PM Grand Prix of Portland Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1</desc>
+  <programme start="20260808040000 +0700" stop="20260808060000 +0700" channel="fubosportsfoxsports1foxone">
+    <title lang="id">Grand Prix of Portland Practice Fubo Sports FOX Sports 1 FOX One 7:00 PM Grand Prix of Portland Qualifying</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, FOX One</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260808083000 +0700" stop="20260808103000 +0700" channel="floracing">
+    <title lang="id">Hickory Motor Speedway</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: FloRacing</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260808043000 +0700" stop="20260808063000 +0700" channel="tvbelumtersedia">
-    <title lang="id">National Bank Open Tennis Channel SN 360 SN NOW TVA Sports 10:00 PM National Bank Open SN One SN NOW TVA Sports 11:00 PM National Bank Open Tennis Channel</title>
+    <title lang="id">National Bank Open Tennis Channel SN 360 SN NOW TVA Sports TVA 10:00 PM National Bank Open SN One SN NOW TVA Sports 11:00 PM National Bank Open Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260808043000 +0700" stop="20260808063000 +0700" channel="nationalbankopensn360snnowtvasports2tva">
-    <title lang="id">National Bank Open SN One SN NOW TVA Sports 2 7:00 PM National Bank Open Tennis Channel TVA Sports 2 TVA Sports TVA 11:00 PM</title>
+    <title lang="id">National Bank Open Tennis Channel SN One SN NOW TVA Sports 2 7:00 PM National Bank Open Tennis Channel TVA Sports 2 TVA Sports TVA 11:00 PM</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: National Bank Open, SN 360, SN NOW, TVA Sports 2, TVA</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -690,11 +680,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, SN NOW, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260808093500 +0700" stop="20260808113500 +0700" channel="foxsoccerplus">
-    <title lang="id">Richmond Tigers @ Adelaide Crows</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260808110000 +0700" stop="20260808130000 +0700" channel="slingtvhbomax">
     <title lang="id">Tour of Poland Stage 6</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
@@ -725,9 +710,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260808043000 +0700" stop="20260808063000 +0700" channel="snworldsnnowsportsnet+">
-    <title lang="id">Toulouse Olympique @ Wigan Warriors</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: SN World, SN NOW, Sportsnet+</desc>
+  <programme start="20260808010000 +0700" stop="20260808030000 +0700" channel="sportsnet+">
+    <title lang="id">Catalans Dragons @ Huddersfield Giants FOX Soccer Plus Sportsnet+ 4:30 PM Toulouse Olympique @ Wigan Warriors SN World SN NOW Sportsnet+ 5:30 PM Warrington Wolves @ Bradford</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260808110000 +0700" stop="20260808130000 +0700" channel="espnunlimitedespnutsn+">

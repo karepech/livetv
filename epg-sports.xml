@@ -570,6 +570,11 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, beIN SPORTS Xtra, beIN SPORTS Xtra CA</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260808060000 +0700" stop="20260808080000 +0700" channel="fubosportsnhlnetworkrdstsn4">
+    <title lang="id">Slovakia U18 @ Finland U18 Fubo Sports NHL Network TSN4 RDS Info 11:00 PM USA U18 @ Canada U18</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, NHL Network, RDS, TSN4</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260808110000 +0700" stop="20260808130000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Wyndham Championship Third Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
@@ -631,7 +636,7 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260808043000 +0700" stop="20260808063000 +0700" channel="tvbelumtersedia">
-    <title lang="id">National Bank Open Tennis Channel SN 360 SN NOW TVA Sports TVA 10:00 PM National Bank Open SN One SN NOW TVA Sports 11:00 PM National Bank Open Tennis Channel</title>
+    <title lang="id">National Bank Open Tennis Channel SN 360 SN NOW TVA Sports 10:00 PM National Bank Open SN One SN NOW TVA Sports 11:00 PM National Bank Open Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -718,11 +723,6 @@
   <programme start="20260808093000 +0700" stop="20260808113000 +0700" channel="fubosportsespnunlimitedespn2tsn+">
     <title lang="id">Boston Guard @ California Palms</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260808071500 +0700" stop="20260808091500 +0700" channel="foxsoccerplus">
-    <title lang="id">Newcastle Knights W @ New Zealand Warriors W</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260808043000 +0700" stop="20260808063000 +0700" channel="snworldsnnowsportsnet+">

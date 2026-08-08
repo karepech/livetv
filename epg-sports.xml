@@ -105,6 +105,11 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260808093000 +0700" stop="20260808113000 +0700" channel="ballysportslivemilb.tv">
+    <title lang="id">Jacksonville Jumbo Shrimp @ Gwinnett Stripers</title>
+    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260808100000 +0700" stop="20260808120000 +0700" channel="ballysportslivemilb.tv">
     <title lang="id">Jupiter Hammerheads @ Palm Beach Cardinals</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
@@ -122,11 +127,6 @@
   </programme>
   <programme start="20260808100500 +0700" stop="20260808120500 +0700" channel="ballysportslivemilb.tv">
     <title lang="id">Durham Bulls @ Charlotte Knights</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260808100500 +0700" stop="20260808120500 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Jacksonville Jumbo Shrimp @ Gwinnett Stripers</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -561,32 +561,32 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260808094000 +0700" stop="20260808114000 +0700" channel="paramount+snnowsportsnet+">
-    <title lang="id">Jessie Rosas vs Miles Johns .</title>
+    <title lang="id">Jessie Rosas vs Miles Johns</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, SN NOW, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260808100000 +0700" stop="20260808120000 +0700" channel="paramount+snnowsportsnet+">
-    <title lang="id">Richie Miranda vs Manoel Sousa .</title>
+    <title lang="id">Richie Miranda vs Manoel Sousa</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, SN NOW, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260808102000 +0700" stop="20260808122000 +0700" channel="paramount+snnowsportsnet+">
+  <programme start="20260808103000 +0700" stop="20260808123000 +0700" channel="paramount+snnowsportsnet+">
     <title lang="id">Louie Sutherland vs Jose Luiz</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, SN NOW, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260808104000 +0700" stop="20260808124000 +0700" channel="paramount+snnowsportsnet+">
+  <programme start="20260808110000 +0700" stop="20260808130000 +0700" channel="paramount+snnowsportsnet+">
     <title lang="id">Bruno Lopes vs Diyar Nurgozhay</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, SN NOW, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260808110000 +0700" stop="20260808130000 +0700" channel="paramount+snnowsportsnet+">
+  <programme start="20260808113000 +0700" stop="20260808133000 +0700" channel="paramount+snnowsportsnet+">
     <title lang="id">Guilherme Pat vs Steven Asplund</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, SN NOW, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260808031500 +0700" stop="20260808051500 +0700" channel="foxsoccerplus">
-    <title lang="id">Fremantle Dockers @ Melbourne Demons FOX Soccer Plus 6:15 AM Port Adelaide Power @ Sydney Swans Fubo Sports FOX Sports 2 6:35 AM Essendon Bombers @ Geelong Cats Fubo Sports FOX Sports 1 9:35 AM Richmond Tigers @ Adelaide Crows</title>
+  <programme start="20260808061500 +0700" stop="20260808081500 +0700" channel="foxsoccerplus">
+    <title lang="id">Port Adelaide Power @ Sydney Swans Fubo Sports FOX Sports 2 6:35 AM Essendon Bombers @ Geelong Cats Fubo Sports FOX Sports 1 9:35 AM Richmond Tigers @ Adelaide Crows</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -605,8 +605,8 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Fubo Sports, FOX, FOX Sports Racing</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260808053000 +0700" stop="20260808073000 +0700" channel="u.s.gymnasticschampionshipspeacocknbcsnetwork">
-    <title lang="id">U.S. Gymnastics Championships NBC 8:00 PM U.S. Gymnastics Championships NBC 11:30 PM</title>
+  <programme start="20260808080000 +0700" stop="20260808100000 +0700" channel="u.s.gymnasticschampionshipspeacocknbcsnetwork">
+    <title lang="id">U.S. Gymnastics Championships NBC 11:30 PM</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: U.S. Gymnastics Championships, Peacock, NBCS Network</desc>
     <category lang="id">Olahraga</category>
   </programme>

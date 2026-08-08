@@ -81,11 +81,6 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260808020000 +0700" stop="20260808040000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Goodlettsville, TN - Rainbow City, AL</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260808020000 +0700" stop="20260808040000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Hamilton, OH - Greater Bay, MI</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
@@ -115,8 +110,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260808063000 +0700" stop="20260808083000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Little League World Series</title>
+  <programme start="20260808050000 +0700" stop="20260808070000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Irmo, SC - Centreville, VA</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -140,8 +135,13 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260808080000 +0700" stop="20260808100000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Columbia, MO - Whitefish Bay, WI</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260808093000 +0700" stop="20260808113000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Little League World Series</title>
+    <title lang="id">Richmond, TX - Little Rock, AR</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -370,13 +370,13 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260808110000 +0700" stop="20260808130000 +0700" channel="dazncanada">
-    <title lang="id">Darmstadt 98 vs Holstein Kiel DAZN Canada Heidenheim vs Osnabrück DAZN Canada Karlsruher SC vs Arminia Bielefeld DAZN Canada Magdeburg vs Eintracht Braunschweig DAZN Canada 6:30 PM Wolfsburg vs Kaiserslautern</title>
+  <programme start="20260808063000 +0700" stop="20260808083000 +0700" channel="dazncanada">
+    <title lang="id">Wolfsburg vs Kaiserslautern</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260808120000 +0700" stop="20260808140000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">MSV Duisburg vs Meppen ESPN Select ESPN Unlimited 2:30 PM Sonnenhof Großaspach vs Fortuna Köln</title>
+  <programme start="20260808023000 +0700" stop="20260808043000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Sonnenhof Großaspach vs Fortuna Köln</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -400,43 +400,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260808111000 +0700" stop="20260808131000 +0700" channel="cbsgolazonetwork">
-    <title lang="id">Juventus vs Inter</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: CBS Golazo Network</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260808120000 +0700" stop="20260808140000 +0700" channel="fubosportscbssnfoxdeportes">
-    <title lang="id">Chelsea vs AC Milan</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, CBSSN, FOX Deportes</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260808020000 +0700" stop="20260808040000 +0700" channel="cbsgolazonetwork">
-    <title lang="id">Brighton &amp; Hove Albion vs Roma</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: CBS Golazo Network</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260808030000 +0700" stop="20260808050000 +0700" channel="psgmutv">
-    <title lang="id">Manchester United vs</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: PSG, MUTV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260808050000 +0700" stop="20260808070000 +0700" channel="fubosportscbssn">
-    <title lang="id">Ferencvaros vs Real Madrid</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, CBSSN</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260808060000 +0700" stop="20260808080000 +0700" channel="cbsgolazonetwork">
-    <title lang="id">Udinese vs Nottingham Forest</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: CBS Golazo Network</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260808070000 +0700" stop="20260808090000 +0700" channel="cbsgolazonetwork">
-    <title lang="id">FC Barcelona vs Nottingham Forest</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: CBS Golazo Network</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260808080000 +0700" stop="20260808100000 +0700" channel="cbsgolazonetwork">
-    <title lang="id">Udinese vs FC Barcelona</title>
+    <title lang="id">Brighton &amp; Hove Albion vs Roma CBS Golazo Network 3:00 PM Manchester United vs PSG MUTV 5:00 PM Ferencvaros vs Real Madrid Fubo Sports CBSSN 6:00 PM Udinese vs Nottingham Forest CBS Golazo Network 7:00 PM FC Barcelona vs Nottingham Forest CBS Golazo Network 8:00 PM Udinese vs FC Barcelona</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: CBS Golazo Network</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -486,62 +451,7 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260808020000 +0700" stop="20260808040000 +0700" channel="dazndazncanada">
-    <title lang="id">Fylde vs Wealdstone</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260808020000 +0700" stop="20260808040000 +0700" channel="dazndazncanada">
-    <title lang="id">Altrincham vs Southend United</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260808020000 +0700" stop="20260808040000 +0700" channel="dazndazncanada">
-    <title lang="id">Boreham Wood vs Tamworth</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260808020000 +0700" stop="20260808040000 +0700" channel="dazndazncanada">
-    <title lang="id">Boston United vs Aldershot Town</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260808020000 +0700" stop="20260808040000 +0700" channel="dazndazncanada">
-    <title lang="id">Carlisle United vs Worthing</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260808020000 +0700" stop="20260808040000 +0700" channel="dazndazncanada">
-    <title lang="id">Eastleigh vs Gateshead</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260808020000 +0700" stop="20260808040000 +0700" channel="dazndazncanada">
-    <title lang="id">Forest Green Rovers vs Halifax Town</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260808020000 +0700" stop="20260808040000 +0700" channel="dazndazncanada">
-    <title lang="id">Harrogate Town vs Solihull Moors</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260808020000 +0700" stop="20260808040000 +0700" channel="dazndazncanada">
-    <title lang="id">Hartlepool United vs Barrow</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260808020000 +0700" stop="20260808040000 +0700" channel="dazndazncanada">
-    <title lang="id">AFC Hornchurch vs Kidderminster Harriers</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260808020000 +0700" stop="20260808040000 +0700" channel="dazndazncanada">
-    <title lang="id">Scunthorpe United vs Yeovil Town</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260808020000 +0700" stop="20260808040000 +0700" channel="dazndazncanada">
-    <title lang="id">Woking vs Sutton United</title>
+    <title lang="id">Fylde vs Wealdstone DAZN DAZN Canada Altrincham vs Southend United DAZN DAZN Canada Boreham Wood vs Tamworth DAZN DAZN Canada Boston United vs Aldershot Town DAZN DAZN Canada Carlisle United vs Worthing</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -575,8 +485,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, NHL Network, RDS, TSN4</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260808110000 +0700" stop="20260808130000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Wyndham Championship Third Round ESPN Select ESPN Unlimited 11:30 AM Wyndham Championship Third Round TSN+ 5:00 PM Wyndham Championship Third Round Fubo Sports ESPN Select ESPN Unlimited Golf Channel USA Golf Channel Canada 7:00 PM Wyndham Championship Third Round Paramount+ CBS TSN5 RDS 2 CTV2 Show more</title>
+  <programme start="20260808050000 +0700" stop="20260808070000 +0700" channel="tvbelumtersedia">
+    <title lang="id">Wyndham Championship Third Round Fubo Sports ESPN Select ESPN Unlimited Golf Channel USA Golf Channel Canada 7:00 PM Wyndham Championship Third Round Paramount+ CBS TSN5 RDS 2 CTV2 Show more</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -630,19 +540,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260808043000 +0700" stop="20260808063000 +0700" channel="nationalbankopensn360snnowtvasports2tva">
+  <programme start="20260808043000 +0700" stop="20260808063000 +0700" channel="nationalbankopensn360snnowtvasports2">
     <title lang="id">National Bank Open Tennis Channel SN One SN NOW TVA Sports 2 7:00 PM National Bank Open Tennis Channel TVA Sports 2 TVA Sports TVA 11:00 PM</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: National Bank Open, SN 360, SN NOW, TVA Sports 2, TVA</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: National Bank Open, SN 360, SN NOW, TVA Sports 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260808033000 +0700" stop="20260808053000 +0700" channel="espnselectespnunlimitedfightnetworkcanada">
     <title lang="id">Callum Simpson vs Troy Williamson Prelims DAZN DAZN Canada Etinosa Oliha vs Aaron McKenna Paramount+ 6:00 PM Callum Simpson vs Troy Williamson Main Cards DAZN DAZN Canada 10:00 PM Dina Thorslund vs Cherneka Johnson</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, Fight Network Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260808121000 +0700" stop="20260808141000 +0700" channel="dazndazncanada">
-    <title lang="id">Rajadamnern World Series</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260808090000 +0700" stop="20260808110000 +0700" channel="paramount+snnowsportsnet+">
@@ -680,11 +585,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, SN NOW, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260808110000 +0700" stop="20260808130000 +0700" channel="slingtvhbomax">
-    <title lang="id">Tour of Poland Stage 6</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260808014500 +0700" stop="20260808034500 +0700" channel="peacock">
     <title lang="id">Tour de France Stage 8</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
@@ -718,6 +618,11 @@
   <programme start="20260808110000 +0700" stop="20260808130000 +0700" channel="espnunlimitedespnutsn+">
     <title lang="id">Team Corrick - Team Garcia</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, ESPN U, TSN+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260808070000 +0700" stop="20260808090000 +0700" channel="fubosportsespnunlimitedespn">
+    <title lang="id">Central Region - Mid-Atlantic Region Fubo Sports ESPN Unlimited ESPN Toms River, NJ - Owensboro, KY Fubo Sports ESPN Unlimited ESPN 10:00 PM Clayton, NC - Lake Mary, FL</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

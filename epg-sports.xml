@@ -80,23 +80,13 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260808020000 +0700" stop="20260808040000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Hamilton, OH - Greater Bay, MI</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260808020000 +0700" stop="20260808040000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Portsmouth, NH - Richmond, VT</title>
+  <programme start="20260808080000 +0700" stop="20260808100000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Puerto Rico - Seoul, South Korea</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260808040000 +0700" stop="20260808060000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Eagle, ID - Anchorage, AK</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260808050000 +0700" stop="20260808070000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Little League World Series</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -245,6 +235,11 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Ryz Sports Network</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260808040000 +0700" stop="20260808060000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Pearl City, HI - Willemstad, Curacao</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260808060000 +0700" stop="20260808080000 +0700" channel="espnselectespnunlimited">
     <title lang="id">New York Heights vs Boston Hunters ESPN Select ESPN Unlimited 11:30 PM San Francisco Firebells vs Los Angeles Queens</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
@@ -268,36 +263,6 @@
   <programme start="20260808103000 +0700" stop="20260808123000 +0700" channel="appletv">
     <title lang="id">Orlando City vs León</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260808010000 +0700" stop="20260808030000 +0700" channel="paramount+dazncanada">
-    <title lang="id">Queens Park Rangers vs Millwall</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260808020000 +0700" stop="20260808040000 +0700" channel="paramount+">
-    <title lang="id">Burnley vs Notts County</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260808020000 +0700" stop="20260808040000 +0700" channel="paramount+dazncanada">
-    <title lang="id">Derby County vs Lincoln City</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260808020000 +0700" stop="20260808040000 +0700" channel="paramount+">
-    <title lang="id">Leicester City vs Northampton Town</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260808020000 +0700" stop="20260808040000 +0700" channel="paramount+dazncanada">
-    <title lang="id">Swansea City vs Birmingham City</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260808020000 +0700" stop="20260808040000 +0700" channel="paramount+dazncanada">
-    <title lang="id">West Ham United vs Portsmouth</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260808043000 +0700" stop="20260808063000 +0700" channel="paramount+dazncanada">
@@ -375,11 +340,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260808023000 +0700" stop="20260808043000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Sonnenhof Großaspach vs Fortuna Köln</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260808050000 +0700" stop="20260808070000 +0700" channel="fubosportsfoxsports2onesoccer">
     <title lang="id">Atlético Ottawa vs HFX Wanderers FOX Soccer Plus TSN5 OneSoccer 9:00 PM Pacific vs Inter Toronto FC</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, OneSoccer</desc>
@@ -390,8 +350,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260808124500 +0700" stop="20260808144500 +0700" channel="fanatiz">
-    <title lang="id">Radomiak Radom vs Górnik Zabrze Fanatiz 3:30 PM Pogoń Szczecin vs Lublin Fanatiz 6:15 PM Korona Kielce vs Legia Warszawa</title>
+  <programme start="20260808033000 +0700" stop="20260808053000 +0700" channel="fanatiz">
+    <title lang="id">Pogoń Szczecin vs Lublin Fanatiz 6:15 PM Korona Kielce vs Legia Warszawa</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -400,8 +360,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260808020000 +0700" stop="20260808040000 +0700" channel="cbsgolazonetwork">
-    <title lang="id">Brighton &amp; Hove Albion vs Roma CBS Golazo Network 3:00 PM Manchester United vs PSG MUTV 5:00 PM Ferencvaros vs Real Madrid Fubo Sports CBSSN 6:00 PM Udinese vs Nottingham Forest CBS Golazo Network 7:00 PM FC Barcelona vs Nottingham Forest CBS Golazo Network 8:00 PM Udinese vs FC Barcelona</title>
+  <programme start="20260808030000 +0700" stop="20260808050000 +0700" channel="cbsgolazonetwork">
+    <title lang="id">Manchester United vs PSG MUTV 5:00 PM Ferencvaros vs Real Madrid Fubo Sports CBSSN 6:00 PM Udinese vs Nottingham Forest CBS Golazo Network 7:00 PM FC Barcelona vs Nottingham Forest CBS Golazo Network 8:00 PM Udinese vs FC Barcelona</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: CBS Golazo Network</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -450,16 +410,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260808020000 +0700" stop="20260808040000 +0700" channel="dazndazncanada">
-    <title lang="id">Fylde vs Wealdstone DAZN DAZN Canada Altrincham vs Southend United DAZN DAZN Canada Boreham Wood vs Tamworth DAZN DAZN Canada Boston United vs Aldershot Town DAZN DAZN Canada Carlisle United vs Worthing</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260808020000 +0700" stop="20260808040000 +0700" channel="dazndazncanada">
-    <title lang="id">Darlington vs Worksop Town DAZN DAZN Canada Scarborough Athletic vs South Shields DAZN DAZN Canada Dorking Wanderers vs Dagenham &amp; Redbridge</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260808070000 +0700" stop="20260808090000 +0700" channel="fanatiz">
     <title lang="id">Santa Fe vs Boyacá Chicó Fanatiz 9:20 PM Fortaleza CEIF vs Cúcuta Deportivo Fanatiz 11:25 PM Deportes Tolima vs La Equidad</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
@@ -490,18 +440,13 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260808010000 +0700" stop="20260808030000 +0700" channel="tsn3">
-    <title lang="id">U.S. Women's Amateur Third Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN3</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260808040000 +0700" stop="20260808060000 +0700" channel="fubosportsfoxdazncanada">
     <title lang="id">LIV Golf New York Third Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260808010000 +0700" stop="20260808030000 +0700" channel="fubosportsgolfchannelusatsn3">
-    <title lang="id">U.S. Amateur Championship Third Round Fubo Sports Golf Channel USA TSN3 7:00 PM U.S. Amateur Championship Semifinals</title>
+  <programme start="20260808070000 +0700" stop="20260808090000 +0700" channel="fubosportsgolfchannelusatsn3">
+    <title lang="id">U.S. Amateur Championship Semifinals</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, TSN3</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -516,12 +461,12 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260808033000 +0700" stop="20260808053000 +0700" channel="tvbelumtersedia">
-    <title lang="id">HyVee Perks 250 Practice ESPN Unlimited WGN Canada 4:35 PM HyVee Perks 250 Qualifying ESPN Unlimited CW WGN Canada 9:00 PM HyVee Perks 250 Race ESPN Unlimited CW MyTV Peachtree TV KUNS-TV Show more</title>
+    <title lang="id">HyVee Perks 250 Practice ESPN Unlimited WGN Canada 4:35 PM HyVee Perks 250 Qualifying ESPN Unlimited CW WGN Canada 9:00 PM HyVee Perks 250 Race ESPN Unlimited CW TSN+ WGN Canada</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260808030000 +0700" stop="20260808050000 +0700" channel="tvbelumtersedia">
-    <title lang="id">British Grand Prix Sprint Fubo Sports FOX Sports 1 FOX Sports Racing SN World SN NOW Show more</title>
+  <programme start="20260808030500 +0700" stop="20260808050500 +0700" channel="tvbelumtersedia">
+    <title lang="id">British Grand Prix Fubo Sports FOX Sports 1 FOX Sports Racing SN World SN NOW Show more</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -585,11 +530,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, SN NOW, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260808014500 +0700" stop="20260808034500 +0700" channel="peacock">
-    <title lang="id">Tour de France Stage 8</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260808033000 +0700" stop="20260808053000 +0700" channel="fubosportsfoxfoxsportsracing">
     <title lang="id">Saratoga Live Fubo Sports FOX Sports 2 FOX Sports Racing 9:00 PM Saratoga Saturday</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Fubo Sports, FOX, FOX Sports Racing</desc>
@@ -610,8 +550,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260808010000 +0700" stop="20260808030000 +0700" channel="sportsnet+">
-    <title lang="id">Catalans Dragons @ Huddersfield Giants FOX Soccer Plus Sportsnet+ 4:30 PM Toulouse Olympique @ Wigan Warriors SN World SN NOW Sportsnet+ 5:30 PM Warrington Wolves @ Bradford</title>
+  <programme start="20260808043000 +0700" stop="20260808063000 +0700" channel="sportsnet+">
+    <title lang="id">Toulouse Olympique @ Wigan Warriors SN World SN NOW Sportsnet+ 5:30 PM Warrington Wolves @ Bradford</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -621,7 +561,7 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260808070000 +0700" stop="20260808090000 +0700" channel="fubosportsespnunlimitedespn">
-    <title lang="id">Central Region - Mid-Atlantic Region Fubo Sports ESPN Unlimited ESPN Toms River, NJ - Owensboro, KY Fubo Sports ESPN Unlimited ESPN 10:00 PM Clayton, NC - Lake Mary, FL</title>
+    <title lang="id">Toms River, NJ - Owensboro, KY Fubo Sports ESPN Unlimited ESPN 10:00 PM Clayton, NC - Lake Mary, FL</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
     <category lang="id">Olahraga</category>
   </programme>

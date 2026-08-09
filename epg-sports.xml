@@ -255,8 +255,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260809101500 +0700" stop="20260809121500 +0700" channel="espnselectespnunlimitedsportsnet+">
-    <title lang="id">Sparta Rotterdam vs Feyenoord ESPN Select ESPN Unlimited Sportsnet+ 12:30 PM PEC Zwolle vs Ajax</title>
+  <programme start="20260809123000 +0700" stop="20260809143000 +0700" channel="espnselectespnunlimitedsportsnet+">
+    <title lang="id">PEC Zwolle vs Ajax</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -358,11 +358,6 @@
   <programme start="20260809043000 +0700" stop="20260809063000 +0700" channel="nationalbankopensportsnetsnnowtvasports2">
     <title lang="id">National Bank Open SN 360 SN NOW TVA Sports 2 11:00 PM</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: National Bank Open, Sportsnet, SN NOW, TVA Sports 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260809092000 +0700" stop="20260809112000 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">Carlton Blues @ St. Kilda Saints</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260809084500 +0700" stop="20260809104500 +0700" channel="slingtvhbomax">

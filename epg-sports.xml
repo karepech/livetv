@@ -85,8 +85,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260809020000 +0700" stop="20260809040000 +0700" channel="fubosportsespnunlimitedespn">
-    <title lang="id">Darien, CT - Berlin, MD ESPN Select ESPN Unlimited 5:00 PM Naamans, DE - West Chester, PA ESPN Select ESPN Unlimited 8:00 PM Tulsa, OK - Gonzales, LA</title>
+  <programme start="20260809050000 +0700" stop="20260809070000 +0700" channel="fubosportsespnunlimitedespn">
+    <title lang="id">Naamans, DE - West Chester, PA ESPN Select ESPN Unlimited 8:00 PM Tulsa, OK - Gonzales, LA</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -225,8 +225,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, FOX Deportes</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260809023000 +0700" stop="20260809043000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Saarbrücken vs Rot-Weiss Essen ESPN Select ESPN Unlimited 5:30 PM Alemannia Aachen vs Verl</title>
+  <programme start="20260809053000 +0700" stop="20260809073000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Alemannia Aachen vs Verl</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -240,14 +240,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260809124500 +0700" stop="20260809144500 +0700" channel="fanatiz">
-    <title lang="id">Śląsk Wrocław vs Cracovia Kraków Fanatiz 3:30 PM Lech Poznań vs Piast Gliwice Fanatiz 6:15 PM Jagiellonia Białystok vs Widzew Łódź</title>
+  <programme start="20260809033000 +0700" stop="20260809053000 +0700" channel="fanatiz">
+    <title lang="id">Lech Poznań vs Piast Gliwice Fanatiz 6:15 PM Jagiellonia Białystok vs Widzew Łódź</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260809010000 +0700" stop="20260809030000 +0700" channel="fubosportscbssnfoxdeportes">
-    <title lang="id">Arsenal FC vs Borussia Dortmund YouTube 1:30 PM Liverpool FC vs Monaco</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Fubo Sports, CBSSN, FOX Deportes</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260809050000 +0700" stop="20260809070000 +0700" channel="fanatizbeinusabeinusaespanolbeincanadaespanol">
@@ -280,8 +275,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, CBS Golazo Network</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260809020000 +0700" stop="20260809040000 +0700" channel="fanatiz">
-    <title lang="id">Cruzeiro vs Mirassol Fanatiz 7:00 PM Palmeiras vs Internacional Fanatiz 7:00 PM Bahia vs Vasco da Gama Fanatiz 9:30 PM Santos vs Athletico Paranaense Fanatiz 9:30 PM RB Bragantino vs Corinthians</title>
+  <programme start="20260809070000 +0700" stop="20260809090000 +0700" channel="fanatiz">
+    <title lang="id">Palmeiras vs Internacional Fanatiz Bahia vs Vasco da Gama Fanatiz 9:30 PM Santos vs Athletico Paranaense Fanatiz 9:30 PM RB Bragantino vs Corinthians</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -340,11 +335,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260809014500 +0700" stop="20260809034500 +0700" channel="peacock">
-    <title lang="id">Tour de France Stage 9</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260809050000 +0700" stop="20260809070000 +0700" channel="fubosportsfoxsports1">
     <title lang="id">Saratoga Live Fubo Sports FOX Sports 2 FOX Sports Racing 7:00 PM Saratoga Live</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Fubo Sports, FOX Sports 1</desc>
@@ -353,11 +343,6 @@
   <programme start="20260809053000 +0700" stop="20260809073000 +0700" channel="u.s.gymnasticschampionshipspeacocknbc">
     <title lang="id">U.S. Gymnastics Championships NBC 10:00 PM</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: U.S. Gymnastics Championships, Peacock, NBC</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260809020000 +0700" stop="20260809040000 +0700" channel="centralregionvs.northcarolinaregionchampionshipfubosportsespnunlimitedabctsn+">
-    <title lang="id">Mid-Atlantic Region vs. Southeast Region Third Place Game Fubo Sports ESPN Unlimited ESPN TSN+ 7:00 PM</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Central Region vs. North Carolina Region, Championship, Fubo Sports, ESPN Unlimited, ABC, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260809070000 +0700" stop="20260809090000 +0700" channel="espnselectespnunlimited">

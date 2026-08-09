@@ -170,11 +170,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260809080000 +0700" stop="20260809100000 +0700" channel="nextlevelsports">
-    <title lang="id">Orix Buffaloes @ Chiba Lotte Marines</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260809040000 +0700" stop="20260809060000 +0700" channel="sportsnetpittsburghryzsportsnetwork">
     <title lang="id">PONY League World Series Prime Video SportsNet Pittsburgh Ryz Sports Network 6:30 PM PONY League World Series Prime Video</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: SportsNet Pittsburgh, Ryz Sports Network</desc>

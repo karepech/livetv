@@ -1,5 +1,10 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
+  <programme start="20260809080000 +0700" stop="20260809100000 +0700" channel="yahoo!sports">
+    <title lang="id">Green Bay Blizzard - Tulsa Oilers Yahoo! Sports 11:30 PM San Diego Strike Force - Arizona Rattlers</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Yahoo! Sports</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260809041500 +0700" stop="20260809061500 +0700" channel="washingtonnationalspeacocknbcsnetwork">
     <title lang="id">Cincinnati Reds @</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Washington Nationals, Peacock, NBCS Network</desc>
@@ -75,44 +80,19 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Ryz Sports Network</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260809103000 +0700" stop="20260809123000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Sanford Mainers - Danbury Westerners</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260809080000 +0700" stop="20260809100000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Junior League Baseball World Series ESPN Select ESPN Unlimited 11:00 PM Junior League Baseball World Series</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260809020000 +0700" stop="20260809040000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Darien, CT - Berlin, MD</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260809023000 +0700" stop="20260809043000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Fargo, ND - Sioux City, NE</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260809040000 +0700" stop="20260809060000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Little League World Series</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260809050000 +0700" stop="20260809070000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Naamans, DE - West Chester, PA</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260809070000 +0700" stop="20260809090000 +0700" channel="tsn+">
-    <title lang="id">Little League Softball World Series</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260809080000 +0700" stop="20260809100000 +0700" channel="fubosportsespnunlimitedespn">
-    <title lang="id">Tulsa, OK - Gonzales, LA</title>
+  <programme start="20260809020000 +0700" stop="20260809040000 +0700" channel="fubosportsespnunlimitedespn">
+    <title lang="id">Darien, CT - Berlin, MD ESPN Select ESPN Unlimited 2:30 PM Fargo, ND - Sioux City, NE ESPN Select ESPN Unlimited 5:00 PM Naamans, DE - West Chester, PA ESPN Select ESPN Unlimited 8:00 PM Tulsa, OK - Gonzales, LA</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260809100000 +0700" stop="20260809120000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Little League World Series</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260809033000 +0700" stop="20260809053000 +0700" channel="ballysportslivemilb.tv">
@@ -196,7 +176,7 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260809040000 +0700" stop="20260809060000 +0700" channel="sportsnetpittsburghryzsportsnetwork">
-    <title lang="id">PONY League World Series Prime Video Ryz Sports Network 6:30 PM PONY League World Series Prime Video</title>
+    <title lang="id">PONY League World Series Prime Video SportsNet Pittsburgh Ryz Sports Network 6:30 PM PONY League World Series Prime Video</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: SportsNet Pittsburgh, Ryz Sports Network</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -286,7 +266,7 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260809110000 +0700" stop="20260809130000 +0700" channel="fubosportscbssnfoxdeportes">
-    <title lang="id">Manchester City vs Atletico Madrid CBS Golazo Network 12:00 PM Johor Darul Ta'zim vs Chelsea CBS Golazo Network 1:00 PM Arsenal FC vs Borussia Dortmund Arsenal.com 1:30 PM Liverpool FC vs Monaco</title>
+    <title lang="id">Manchester City vs Atletico Madrid CBS Golazo Network 12:00 PM Johor Darul Ta'zim vs Chelsea CBS Golazo Network 1:00 PM Arsenal FC vs Borussia Dortmund YouTube 1:30 PM Liverpool FC vs Monaco</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Fubo Sports, CBSSN, FOX Deportes</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -330,23 +310,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, beIN SPORTS Xtra, beIN SPORTS Xtra CA</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260809110000 +0700" stop="20260809130000 +0700" channel="espnselectespnunlimitedtsn+">
-    <title lang="id">Wyndham Championship Final Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260809113000 +0700" stop="20260809133000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Wyndham Championship Final Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260809050000 +0700" stop="20260809070000 +0700" channel="fubosportsespnselectespnunlimitedgolfchannelusagolfchannelcanada">
-    <title lang="id">Wyndham Championship Final Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Select, ESPN Unlimited, Golf Channel USA, Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260809070000 +0700" stop="20260809090000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Wyndham Championship Final Round Paramount+ CBS RDS TSN1 CTV2 Show more</title>
+  <programme start="20260809110000 +0700" stop="20260809130000 +0700" channel="tvbelumtersedia">
+    <title lang="id">Wyndham Championship Final Round ESPN Select ESPN Unlimited TSN+ 5:00 PM Wyndham Championship Final Round Fubo Sports ESPN Select ESPN Unlimited Golf Channel USA Golf Channel Canada 7:00 PM Wyndham Championship Final Round Paramount+ CBS RDS TSN1 CTV2 Show more</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -400,14 +365,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: National Bank Open, Sportsnet, SN NOW, TVA Sports 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260809061000 +0700" stop="20260809081000 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">Collingwood Magpies @ West Coast Eagles Fubo Sports FOX Sports 2 TSN2 9:20 AM Carlton Blues @ St. Kilda Saints</title>
+  <programme start="20260809092000 +0700" stop="20260809112000 +0700" channel="fubosportsfoxsports2">
+    <title lang="id">Carlton Blues @ St. Kilda Saints</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260809063500 +0700" stop="20260809083500 +0700" channel="foxsoccerplus">
-    <title lang="id">St. Kilda Saints - Carlton Blues</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260809084500 +0700" stop="20260809104500 +0700" channel="slingtvhbomax">
@@ -433,6 +393,11 @@
   <programme start="20260809053000 +0700" stop="20260809073000 +0700" channel="u.s.gymnasticschampionshipspeacocknbc">
     <title lang="id">U.S. Gymnastics Championships NBC 10:00 PM</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: U.S. Gymnastics Championships, Peacock, NBC</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260809020000 +0700" stop="20260809040000 +0700" channel="centralregionvs.northcarolinaregionchampionshipfubosportsespnunlimitedabctsn+">
+    <title lang="id">Mid-Atlantic Region vs. Southeast Region Third Place Game Fubo Sports ESPN Unlimited ESPN TSN+ 7:00 PM</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Central Region vs. North Carolina Region, Championship, Fubo Sports, ESPN Unlimited, ABC, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260809070000 +0700" stop="20260809090000 +0700" channel="espnselectespnunlimited">

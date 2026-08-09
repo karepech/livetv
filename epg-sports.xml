@@ -85,6 +85,11 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260809023000 +0700" stop="20260809043000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Fargo, ND - Sioux City, NE</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260809040000 +0700" stop="20260809060000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Little League World Series</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
@@ -93,6 +98,11 @@
   <programme start="20260809050000 +0700" stop="20260809070000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Naamans, DE - West Chester, PA</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260809070000 +0700" stop="20260809090000 +0700" channel="tsn+">
+    <title lang="id">Little League Softball World Series</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260809080000 +0700" stop="20260809100000 +0700" channel="fubosportsespnunlimitedespn">
@@ -220,13 +230,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, CBS</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260809030000 +0700" stop="20260809050000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Wellington Saints @ Southland Sharks</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260809031000 +0700" stop="20260809051000 +0700" channel="appletv">
-    <title lang="id">Toluca vs Los Angeles FC Fubo Sports Apple TV FOX Sports 1 TUDN Univision Show more 7:30 PM Seattle Sounders vs Querétaro Apple TV 11:30 PM Cruz Azul vs New York City Fubo Sports Apple TV FOX Sports 1 TUDN Univision Show more 11:30 PM Philadelphia Union vs Necaxa</title>
+  <programme start="20260809073000 +0700" stop="20260809093000 +0700" channel="appletv">
+    <title lang="id">Seattle Sounders vs Querétaro Apple TV 11:30 PM Cruz Azul vs New York City Fubo Sports Apple TV FOX Sports 1 TUDN Univision Show more 11:30 PM Philadelphia Union vs Necaxa</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -243,11 +248,6 @@
   <programme start="20260809090000 +0700" stop="20260809110000 +0700" channel="cbsgolazonetworkwwax">
     <title lang="id">Indy Eleven vs Hartford Athletic</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: CBS Golazo Network, WWAX</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260809030000 +0700" stop="20260809050000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Alta vs Fort Wayne</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260809060000 +0700" stop="20260809080000 +0700" channel="fanatizfoxdeportes">
@@ -330,8 +330,23 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, beIN SPORTS Xtra, beIN SPORTS Xtra CA</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260809110000 +0700" stop="20260809130000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Wyndham Championship Final Round ESPN Select ESPN Unlimited 11:30 AM Wyndham Championship Final Round TSN+ 5:00 PM Wyndham Championship Final Round Fubo Sports ESPN Select ESPN Unlimited Golf Channel USA Golf Channel Canada 7:00 PM Wyndham Championship Final Round Paramount+ CBS RDS TSN1 CTV2 Show more</title>
+  <programme start="20260809110000 +0700" stop="20260809130000 +0700" channel="espnselectespnunlimitedtsn+">
+    <title lang="id">Wyndham Championship Final Round</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260809113000 +0700" stop="20260809133000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Wyndham Championship Final Round</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260809050000 +0700" stop="20260809070000 +0700" channel="fubosportsespnselectespnunlimitedgolfchannelusagolfchannelcanada">
+    <title lang="id">Wyndham Championship Final Round</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Select, ESPN Unlimited, Golf Channel USA, Golf Channel Canada</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260809070000 +0700" stop="20260809090000 +0700" channel="tvbelumtersedia">
+    <title lang="id">Wyndham Championship Final Round Paramount+ CBS RDS TSN1 CTV2 Show more</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -385,8 +400,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: National Bank Open, Sportsnet, SN NOW, TVA Sports 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260809031000 +0700" stop="20260809051000 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">Gold Coast Suns @ Greater Western Sydney Giants Fubo Sports FOX Sports 2 TSN2 6:10 AM Collingwood Magpies @ West Coast Eagles Fubo Sports FOX Sports 2 TSN2 9:20 AM Carlton Blues @ St. Kilda Saints</title>
+  <programme start="20260809061000 +0700" stop="20260809081000 +0700" channel="fubosportsfoxsports2">
+    <title lang="id">Collingwood Magpies @ West Coast Eagles Fubo Sports FOX Sports 2 TSN2 9:20 AM Carlton Blues @ St. Kilda Saints</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -415,9 +430,9 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Fubo Sports, FOX Sports 1</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260809033500 +0700" stop="20260809053500 +0700" channel="foxsoccerplus">
-    <title lang="id">Wests Tigers W @ St. George Illawarra Dragons W</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
+  <programme start="20260809053000 +0700" stop="20260809073000 +0700" channel="u.s.gymnasticschampionshipspeacocknbc">
+    <title lang="id">U.S. Gymnastics Championships NBC 10:00 PM</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: U.S. Gymnastics Championships, Peacock, NBC</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260809070000 +0700" stop="20260809090000 +0700" channel="espnselectespnunlimited">

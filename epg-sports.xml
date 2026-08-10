@@ -10,13 +10,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260810010000 +0700" stop="20260810030000 +0700" channel="fubosportsespnunlimitedespn">
-    <title lang="id">Bridgewater, MA - Richmond, VT</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260810020000 +0700" stop="20260810040000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Whitefish Bay, WI - Fargo, ND</title>
+  <programme start="20260810050000 +0700" stop="20260810070000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">La Mirada, CA - Murfreesboro, TN ESPN Select ESPN Unlimited 8:00 PM Dakota, Aruba - Bologna, Italy ESPN Select ESPN Unlimited 11:00 PM Taylor, MI - Albuquerque, NM</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>

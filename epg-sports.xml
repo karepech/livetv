@@ -1,27 +1,7 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
-  <programme start="20260810122000 +0700" stop="20260810142000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Houston Astros @ San Diego Padres Peacock NBC NBC Universo RDS TSN1 Show more</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260810110700 +0700" stop="20260810130700 +0700" channel="nesnmlb.tvsportsnetsnnow">
-    <title lang="id">Boston Red Sox @ Toronto Blue Jays</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: NESN, MLB.TV, Sportsnet, SN NOW</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260810111500 +0700" stop="20260810131500 +0700" channel="snymlb.tvbravesvisionrds">
-    <title lang="id">New York Mets @ Atlanta Braves</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: SNY, MLB.TV, BravesVision, RDS</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260810114000 +0700" stop="20260810134000 +0700" channel="masntwins.tvmlb.tv">
-    <title lang="id">Baltimore Orioles @ Minnesota Twins</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: MASN, Twins.TV, MLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260810114500 +0700" stop="20260810134500 +0700" channel="tvbelumtersedia">
-    <title lang="id">Philadelphia Phillies @ St. Louis Cardinals Fubo Sports FOX Deportes FOX Sports 1 NBCS PHL MLB.TV Show more</title>
+  <programme start="20260810110700 +0700" stop="20260810130700 +0700" channel="tvbelumtersedia">
+    <title lang="id">Boston Red Sox @ Toronto Blue Jays NESN MLB.TV Sportsnet SN NOW 11:15 PM New York Mets @ Atlanta Braves SNY MLB.TV BravesVision RDS 11:40 PM Baltimore Orioles @ Minnesota Twins MASN Twins.TV MLB.TV 11:45 PM Philadelphia Phillies @ St. Louis Cardinals Fubo Sports FOX Deportes FOX Sports 1 NBCS PHL MLB.TV Show more</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -30,64 +10,19 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260810010000 +0700" stop="20260810030000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Seoul, South Korea - Livermore, CA</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260810020000 +0700" stop="20260810040000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Junior League Baseball World Series ESPN Select ESPN Unlimited 5:00 PM Junior League Baseball World Series ESPN Select ESPN Unlimited 8:00 PM Junior League Baseball World Series</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260810010000 +0700" stop="20260810030000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Lafayette, CO - Laramie, WY</title>
+    <title lang="id">Bridgewater, MA - Richmond, VT Fubo Sports ESPN Unlimited ESPN 2:00 PM Whitefish Bay, WI - Fargo, ND</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260810120500 +0700" stop="20260810140500 +0700" channel="fdsnwestballysportslivemilb.tv">
-    <title lang="id">Oklahoma City Baseball Club @ Salt Lake Bees</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: FDSN West, Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260810120500 +0700" stop="20260810140500 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Visalia Rawhide @ Fresno Grizzlies</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260810123500 +0700" stop="20260810143500 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Rancho Cucamonga Quakes @ Inland Empire 66ers</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260810010500 +0700" stop="20260810030500 +0700" channel="kvvu-foxballysportslivemilb.tv">
-    <title lang="id">Tacoma Rainiers @ Las Vegas Aviators SSSEN</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: KVVU-FOX, Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260810013500 +0700" stop="20260810033500 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Ontario Tower Buzzers @ Lake Elsinore Storm</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260810020500 +0700" stop="20260810040500 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Hillsboro Hops @ Tri-City Dust Devils</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260810010000 +0700" stop="20260810030000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Austin vs Puebla Apple TV 2:00 AM San Diego vs Tijuana Apple TV 2:15 AM América vs Portland Timbers Fubo Sports Apple TV FOX Sports 1 TUDN Univision Show more</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260810070000 +0700" stop="20260810090000 +0700" channel="paramount+dazncanada">
     <title lang="id">Plymouth Argyle vs Exeter City</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260810010000 +0700" stop="20260810030000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Seattle Reign FC vs Angel City Fubo Sports ESPN Unlimited ESPN ESPN Deportes ESPN app Show more</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260810100000 +0700" stop="20260810120000 +0700" channel="fanatiz">
@@ -100,13 +35,13 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260810123000 +0700" stop="20260810143000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Austin FC II - Sporting KC II MLSNEXTPro.com 7:00 PM Chicago Fire FC II - TFC II MLSNEXTPro.com</title>
+  <programme start="20260810070000 +0700" stop="20260810090000 +0700" channel="tvbelumtersedia">
+    <title lang="id">Chicago Fire FC II - TFC II MLSNEXTPro.com</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260810011500 +0700" stop="20260810031500 +0700" channel="fanatiz">
-    <title lang="id">América de Cali vs Atlético Nacional Fanatiz 9:00 PM Rionegro Águilas vs Llaneros Fanatiz FOX Deportes 11:00 PM Independiente Medellín vs Millonarios</title>
+  <programme start="20260810090000 +0700" stop="20260810110000 +0700" channel="fanatiz">
+    <title lang="id">Rionegro Águilas vs Llaneros Fanatiz FOX Deportes 11:00 PM Independiente Medellín vs Millonarios</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -120,9 +55,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: SN One, SN NOW, TVA Sports</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260810110000 +0700" stop="20260810130000 +0700" channel="espnunlimitedespnu">
+  <programme start="20260810110000 +0700" stop="20260810130000 +0700" channel="espnunlimitedespnutsn+">
     <title lang="id">Team Ricketts - Team Garcia</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, ESPN U</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, ESPN U, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

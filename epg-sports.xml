@@ -95,9 +95,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260810080000 +0700" stop="20260810100000 +0700" channel="snonesnnowtvasports">
-    <title lang="id">National Bank Open Tennis Channel T2 10:00 PM Rafael Jodar vs Arthur Fils National Bank Open Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: SN One, SN NOW, TVA Sports</desc>
+  <programme start="20260810100000 +0700" stop="20260810120000 +0700" channel="t2snonesnnowtvasports">
+    <title lang="id">Rafael Jodar vs Arthur Fils National Bank Open Tennis Channel</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: T2, SN One, SN NOW, TVA Sports</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260810110000 +0700" stop="20260810130000 +0700" channel="espnunlimitedespnutsn+">

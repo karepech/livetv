@@ -1,10 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
-  <programme start="20260811021000 +0700" stop="20260811041000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Kansas City Royals @ Los Angeles Dodgers MLB Network SportsNet LA Royals.TV SNLA+</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260811104000 +0700" stop="20260811124000 +0700" channel="fanatizdetroitsportsnetguardians.tv">
     <title lang="id">Cleveland Guardians @ Detroit Tigers</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, Detroit SportsNet, Guardians.TV</desc>
@@ -135,9 +130,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260811020000 +0700" stop="20260811040000 +0700" channel="fubosportsespnunlimitedespnespndeportes">
-    <title lang="id">Chicago Sky @ Seattle Storm The U USA Network Seattle 11 Prime Video (SEA) 11:30 PM New York Liberty @ Indiana Fever</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, ESPN Deportes</desc>
+  <programme start="20260811113000 +0700" stop="20260811133000 +0700" channel="tvbelumtersedia">
+    <title lang="id">New York Liberty @ Indiana Fever Fubo Sports ESPN Unlimited ESPN ESPN Deportes TSN1 Show more</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260811113000 +0700" stop="20260811133000 +0700" channel="appletv">
@@ -178,11 +173,6 @@
   <programme start="20260811080000 +0700" stop="20260811100000 +0700" channel="nationalbankopensnonesnnowtvasports">
     <title lang="id">National Bank Open Tennis Channel T2 10:00 PM</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: National Bank Open, SN One, SN NOW, TVA Sports</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260811020000 +0700" stop="20260811040000 +0700" channel="nationalbankopensn360snnowtvasports2">
-    <title lang="id">National Bank Open TVA Sports 2 11:00 PM</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: National Bank Open, SN 360, SN NOW, TVA Sports 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

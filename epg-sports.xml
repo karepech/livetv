@@ -50,6 +50,36 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260811020000 +0700" stop="20260811040000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Whitefish Bay, WI - Coon Rapids, MN</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260811050000 +0700" stop="20260811070000 +0700" channel="fubosportsespnunlimitedespn">
+    <title lang="id">Jasper, IN - La Grange, KY</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260811050000 +0700" stop="20260811070000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Alpine, UT - Henderson, NV</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260811070000 +0700" stop="20260811090000 +0700" channel="fubosportsespnunlimitedespn">
+    <title lang="id">Phenix City, AL - Nolensville, TN</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260811090000 +0700" stop="20260811110000 +0700" channel="fubosportsespnunlimitedespn">
+    <title lang="id">Tacoma, WA - Eagle, ID</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260811090000 +0700" stop="20260811110000 +0700" channel="fubosportsespnunlimitedespn">
+    <title lang="id">Southern California - Hawaii</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260811070500 +0700" stop="20260811090500 +0700" channel="ballysportslivemilb.tv">
     <title lang="id">Reno Aces @ Tacoma Rainiers</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
@@ -141,7 +171,7 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260811063000 +0700" stop="20260811083000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Sturm Graz vs Fenerbahçe ESPN Select ESPN Unlimited 7:00 PM Lyon vs Sparta Praha</title>
+    <title lang="id">Sturm Graz vs Fenerbahçe Qualifying ESPN Select ESPN Unlimited 7:00 PM Lyon vs Sparta Praha Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -170,9 +200,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260811080000 +0700" stop="20260811100000 +0700" channel="nationalbankopensnonesnnowtvasports">
-    <title lang="id">National Bank Open Tennis Channel T2 10:00 PM</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: National Bank Open, SN One, SN NOW, TVA Sports</desc>
+  <programme start="20260811043000 +0700" stop="20260811063000 +0700" channel="t2snonesnnowtvasports">
+    <title lang="id">Luciano Darderi vs Brandon Nakashima National Bank Open Tennis Channel SN One SN NOW TVA Sports 7:00 PM Rafael Jodar vs Arthur Fils National Bank Open Tennis Channel T2 SN One SN NOW TVA Sports 10:00 PM Jakub Mensik vs Ben Shelton National Bank Open Tennis Channel</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: T2, SN One, SN NOW, TVA Sports</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

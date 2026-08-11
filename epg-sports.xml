@@ -1,13 +1,13 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
-  <programme start="20260811104000 +0700" stop="20260811124000 +0700" channel="fanatizdetroitsportsnetguardians.tv">
+  <programme start="20260811104000 +0700" stop="20260811124000 +0700" channel="fanatizdetroitsportsnetcleguardians.tv">
     <title lang="id">Cleveland Guardians @ Detroit Tigers</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, Detroit SportsNet, Guardians.TV</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, Detroit SportsNet, CleGuardians.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260811104000 +0700" stop="20260811124000 +0700" channel="sportsnetpittsburghmarlins.tv">
-    <title lang="id">Pittsburgh Pirates @ Miami Marlins</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: SportsNet Pittsburgh, Marlins.TV</desc>
+  <programme start="20260811104000 +0700" stop="20260811124000 +0700" channel="marlins.tv">
+    <title lang="id">Pittsburgh Pirates @ Miami Marlins SportsNet Pittsburgh WBFS-CW</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Marlins.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260811104500 +0700" stop="20260811124500 +0700" channel="washingtonnationalsmarqueenationals.tv">
@@ -153,11 +153,6 @@
   <programme start="20260811103500 +0700" stop="20260811123500 +0700" channel="ballysportslivemilb.tv">
     <title lang="id">Rome Emperors @ Asheville Tourists</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260811050000 +0700" stop="20260811070000 +0700" channel="nextlevelsports">
-    <title lang="id">Seibu Lions @ Nippon Ham Fighters</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260811113000 +0700" stop="20260811133000 +0700" channel="tvbelumtersedia">

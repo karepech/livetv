@@ -50,24 +50,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260812080000 +0700" stop="20260812100000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Matamoros, Tamaulipas - Perth, Western Australia ESPN Select ESPN Unlimited 11:00 PM Whitefish Bay, WI - Albuquerque, NM</title>
+  <programme start="20260812110000 +0700" stop="20260812130000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Whitefish Bay, WI - Albuquerque, NM</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260812070000 +0700" stop="20260812090000 +0700" channel="fubosportsespnunlimitedespn2">
-    <title lang="id">Phenix City, AL - Nolensville, TN Fubo Sports ESPN Unlimited ESPN 9:00 PM Tacoma, WA - Eagle, ID Fubo Sports ESPN Unlimited ESPN 9:00 PM Southern California - Hawaii Fubo Sports ESPN Unlimited ESPN 11:00 PM Oklahoma - Texas West</title>
+  <programme start="20260812090000 +0700" stop="20260812110000 +0700" channel="fubosportsespnunlimitedespn2">
+    <title lang="id">Tacoma, WA - Eagle, ID Fubo Sports ESPN Unlimited ESPN Southern California - Hawaii Fubo Sports ESPN Unlimited ESPN 11:00 PM Oklahoma - Texas West</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260812070500 +0700" stop="20260812090500 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Reno Aces @ Tacoma Rainiers</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260812083000 +0700" stop="20260812103000 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Palm Beach Cardinals @ Daytona Tortugas</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260812100000 +0700" stop="20260812120000 +0700" channel="ballysportslivemilb.tv">
@@ -135,6 +125,16 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260812103500 +0700" stop="20260812123500 +0700" channel="ballysportslivemilb.tv">
+    <title lang="id">Lansing Lugnuts @ West Michigan Whitecaps</title>
+    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260812103500 +0700" stop="20260812123500 +0700" channel="ballysportslivemilb.tv">
+    <title lang="id">New Hampshire Fisher Cats @ Somerset Patriots</title>
+    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260812113000 +0700" stop="20260812133000 +0700" channel="tvbelumtersedia">
     <title lang="id">New York Liberty @ Indiana Fever Fubo Sports ESPN Unlimited ESPN ESPN Deportes TSN1 Show more</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
@@ -143,11 +143,6 @@
   <programme start="20260812113000 +0700" stop="20260812133000 +0700" channel="appletv">
     <title lang="id">Charlotte FC vs Pachuca Apple TV Columbus Crew vs Pumas UNAM</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260812070000 +0700" stop="20260812090000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Lyon vs Sparta Praha Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260812100000 +0700" stop="20260812120000 +0700" channel="fanatiz">
@@ -165,8 +160,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, beIN USA, beIN USA Espanol, beIN Canada, beIN Canada Espanol</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260812070000 +0700" stop="20260812090000 +0700" channel="t2snonesnnowtvasports">
-    <title lang="id">Rafael Jodar vs Arthur Fils National Bank Open Tennis Channel T2 SN One SN NOW TVA Sports 10:00 PM Jakub Mensik vs Ben Shelton National Bank Open Tennis Channel</title>
+  <programme start="20260812100000 +0700" stop="20260812120000 +0700" channel="t2snonesnnowtvasports">
+    <title lang="id">Jakub Mensik vs Ben Shelton National Bank Open Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: T2, SN One, SN NOW, TVA Sports</desc>
     <category lang="id">Olahraga</category>
   </programme>

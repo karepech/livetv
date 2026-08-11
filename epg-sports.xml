@@ -55,11 +55,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260811020000 +0700" stop="20260811040000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Whitefish Bay, WI - Coon Rapids, MN</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260811030000 +0700" stop="20260811050000 +0700" channel="fubosportsespnunlimitedespn">
     <title lang="id">West Chester, PA - Washington, D.C.</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
@@ -73,6 +68,11 @@
   <programme start="20260811050000 +0700" stop="20260811070000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Alpine, UT - Henderson, NV</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260811050000 +0700" stop="20260811070000 +0700" channel="fubosportsespnunlimitedespn">
+    <title lang="id">Wisconsin - Minnesota</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260811070000 +0700" stop="20260811090000 +0700" channel="fubosportsespnunlimitedespn">
@@ -145,9 +145,9 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260811103500 +0700" stop="20260811123500 +0700" channel="ballysportslivemilb.tv">
+  <programme start="20260811103500 +0700" stop="20260811123500 +0700" channel="wgnt-tvballysportslivemilb.tv">
     <title lang="id">Gwinnett Stripers @ Norfolk Tides</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
+    <desc lang="id">[Sedang Tayang] Disiarkan di: WGNT-TV, Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260811103500 +0700" stop="20260811123500 +0700" channel="ballysportslivemilb.tv">

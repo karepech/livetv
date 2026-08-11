@@ -1,30 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
-  <programme start="20260811013800 +0700" stop="20260811033800 +0700" channel="fdsnwestrsnabtv">
-    <title lang="id">Texas Rangers @ Los Angeles Angels</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FDSN West, RSN, ABTV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260811014000 +0700" stop="20260811034000 +0700" channel="dbacks.tvrockies.tv">
-    <title lang="id">Colorado Rockies @ Arizona Diamondbacks</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Dbacks.TV, Rockies.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260811014000 +0700" stop="20260811034000 +0700" channel="nbcscarays.tv">
-    <title lang="id">Tampa Bay Rays @ Athletics</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: NBCS CA, Rays.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260811014000 +0700" stop="20260811034000 +0700" channel="padres.tvbrewers.tv">
-    <title lang="id">Milwaukee Brewers @ San Diego Padres</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Padres.TV, Brewers.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260811014500 +0700" stop="20260811034500 +0700" channel="nbcsbayarea">
-    <title lang="id">Houston Astros @ San Francisco Giants Space City HN</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: NBCS Bay Area</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260811021000 +0700" stop="20260811041000 +0700" channel="tvbelumtersedia">
     <title lang="id">Kansas City Royals @ Los Angeles Dodgers MLB Network SportsNet LA Royals.TV SNLA+</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
@@ -78,11 +53,6 @@
   <programme start="20260811103500 +0700" stop="20260811123500 +0700" channel="espnselectespnunlimited">
     <title lang="id">Sanford Mainers - Danbury Westerners</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260811010000 +0700" stop="20260811030000 +0700" channel="fubosportsespnunlimitedespn">
-    <title lang="id">Billings, MT - Lafayette, CO</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260811070500 +0700" stop="20260811090500 +0700" channel="ballysportslivemilb.tv">
@@ -165,14 +135,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260811120000 +0700" stop="20260811140000 +0700" channel="fubosportsespnunlimitedespnespndeportes">
-    <title lang="id">Toronto Tempo @ Atlanta Dream Peacock NBCS Network Atlanta News First PSN Victory+ Show more 2:00 AM Chicago Sky @ Seattle Storm The U USA Network Seattle 11 Prime Video (SEA) 11:30 PM New York Liberty @ Indiana Fever</title>
+  <programme start="20260811020000 +0700" stop="20260811040000 +0700" channel="fubosportsespnunlimitedespnespndeportes">
+    <title lang="id">Chicago Sky @ Seattle Storm The U USA Network Seattle 11 Prime Video (SEA) 11:30 PM New York Liberty @ Indiana Fever</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, ESPN Deportes</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260811123000 +0700" stop="20260811143000 +0700" channel="fanatiz">
-    <title lang="id">Espanol Osorno @ Puerto Montt</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260811113000 +0700" stop="20260811133000 +0700" channel="appletv">
@@ -183,11 +148,6 @@
   <programme start="20260811063000 +0700" stop="20260811083000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Sturm Graz vs Fenerbahçe ESPN Select ESPN Unlimited 7:00 PM Lyon vs Sparta Praha</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260811121500 +0700" stop="20260811141500 +0700" channel="fanatiz">
-    <title lang="id">Unión vs Central Córdoba SdE</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260811100000 +0700" stop="20260811120000 +0700" channel="fanatiz">
@@ -215,8 +175,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260811120000 +0700" stop="20260811140000 +0700" channel="nationalbankopensnonesnnowtvasports">
-    <title lang="id">Luciano Darderi vs Brandon Nakashima National Bank Open Tennis Channel SN One SN NOW TVA Sports 8:00 PM National Bank Open Tennis Channel T2 10:00 PM</title>
+  <programme start="20260811080000 +0700" stop="20260811100000 +0700" channel="nationalbankopensnonesnnowtvasports">
+    <title lang="id">National Bank Open Tennis Channel T2 10:00 PM</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: National Bank Open, SN One, SN NOW, TVA Sports</desc>
     <category lang="id">Olahraga</category>
   </programme>

@@ -1,5 +1,10 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
+  <programme start="20260812090000 +0700" stop="20260812110000 +0700" channel="psn">
+    <title lang="id">South Gwinnett vs. Lanier Atlanta News First</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: PSN</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260812054000 +0700" stop="20260812074000 +0700" channel="masntwins.tvmlb.tv">
     <title lang="id">Baltimore Orioles @ Minnesota Twins</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: MASN, Twins.TV, MLB.TV</desc>
@@ -155,9 +160,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260812110000 +0700" stop="20260812130000 +0700" channel="tsn5rds2">
+  <programme start="20260812110000 +0700" stop="20260812130000 +0700" channel="tsn+tsn5rds2">
     <title lang="id">Winnipeg Sea Bears @ Brampton Honey Badgers</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN5, RDS 2</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+, TSN5, RDS 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260812113000 +0700" stop="20260812133000 +0700" channel="appletv">

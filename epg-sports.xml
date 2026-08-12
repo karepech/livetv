@@ -51,7 +51,7 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260812110500 +0700" stop="20260812130500 +0700" channel="tvbelumtersedia">
-    <title lang="id">Seattle Mariners @ New York Yankees Fubo Sports ESPN Unlimited MLB.TV ESPN ESPN Deportes Show more</title>
+    <title lang="id">Seattle Mariners @ New York Yankees Fubo Sports ESPN Unlimited ESPN ESPN Deportes ESPN app Show more</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -190,9 +190,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260812110000 +0700" stop="20260812130000 +0700" channel="tsn+tsn5rds2">
+  <programme start="20260812110000 +0700" stop="20260812130000 +0700" channel="rds2">
     <title lang="id">Winnipeg Sea Bears @ Brampton Honey Badgers</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+, TSN5, RDS 2</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: RDS 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260812113000 +0700" stop="20260812133000 +0700" channel="appletv">
@@ -290,9 +290,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260812070000 +0700" stop="20260812090000 +0700" channel="peacocknbcsnetworktsn3">
+  <programme start="20260812070000 +0700" stop="20260812090000 +0700" channel="peacocknbcsnetwork">
     <title lang="id">U.S. Amateur Championship First Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBCS Network, TSN3</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBCS Network</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260812080000 +0700" stop="20260812100000 +0700" channel="nationalbankopensnonesnnowtvasports">

@@ -70,8 +70,38 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: CHSN, MLB.TV, Reds.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260812103000 +0700" stop="20260812123000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Sanford Mainers - Danbury Westerners</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260812030000 +0700" stop="20260812050000 +0700" channel="fubosportsespnunlimitedespn">
+    <title lang="id">Columbia, MO - Davenport, IA</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260812050000 +0700" stop="20260812070000 +0700" channel="fubosportsespnunlimitedespn">
+    <title lang="id">Gray, ME - Richmond, VT</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260812070000 +0700" stop="20260812090000 +0700" channel="fubosportsespnunlimitedespn">
+    <title lang="id">Tacoma, WA - Bend, Oregon</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260812090000 +0700" stop="20260812110000 +0700" channel="fubosportsespnunlimitedespn">
+    <title lang="id">Darien, CT - Port Washington, NY</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260812110000 +0700" stop="20260812130000 +0700" channel="fubosportsespnunlimitedespn2">
     <title lang="id">Iowa - Missouri</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260812110000 +0700" stop="20260812130000 +0700" channel="fubosportsespnunlimitedespn2">
+    <title lang="id">Hamilton, OH - La Grange, KY</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN2</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -251,7 +281,7 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260812041500 +0700" stop="20260812061500 +0700" channel="daznfoxdeportesdazncanada">
-    <title lang="id">Everton vs Newcastle United FOX Deportes CBS Golazo Network 6:30 PM Manchester United vs Leeds United CBS Golazo Network MUTV 6:30 PM Arsenal FC vs Como Arsenal.com 7:00 PM Deportivo La Coruña vs Real Madrid</title>
+    <title lang="id">Everton vs Newcastle United FOX Deportes CBS Golazo Network 6:30 PM Manchester United vs Leeds United CBS Golazo Network MUTV 6:30 PM Arsenal FC vs Como YouTube 7:00 PM Deportivo La Coruña vs Real Madrid</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, FOX Deportes, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>

@@ -5,74 +5,79 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: PSN</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260812054000 +0700" stop="20260812074000 +0700" channel="masntwins.tvmlb.tv">
+  <programme start="20260812054000 +0700" stop="20260812074000 +0700" channel="mlb.tvmasntwins.tv">
     <title lang="id">Baltimore Orioles @ Minnesota Twins</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: MASN, Twins.TV, MLB.TV</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: MLB.TV, MASN, Twins.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260812061500 +0700" stop="20260812081500 +0700" channel="espnunlimitednbcsphlmlb.tvcardinals.tv">
+  <programme start="20260812061500 +0700" stop="20260812081500 +0700" channel="espnunlimitedmlb.tvnbcsphlcardinals.tv">
     <title lang="id">Philadelphia Phillies @ St. Louis Cardinals</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, NBCS PHL, MLB.TV, Cardinals.TV</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, MLB.TV, NBCS PHL, Cardinals.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260812070500 +0700" stop="20260812090500 +0700" channel="nbcscamlb.tvrays.tvwmor">
+  <programme start="20260812070500 +0700" stop="20260812090500 +0700" channel="mlb.tvnbcscarays.tvwmor">
     <title lang="id">Tampa Bay Rays @ Athletics</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: NBCS CA, MLB.TV, Rays.TV, WMOR</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: MLB.TV, NBCS CA, Rays.TV, WMOR</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260812074000 +0700" stop="20260812094000 +0700" channel="dbacks.tvrockies.tvmlb.tv">
+  <programme start="20260812074000 +0700" stop="20260812094000 +0700" channel="mlb.tvdbacks.tvrockies.tv">
     <title lang="id">Colorado Rockies @ Arizona Diamondbacks</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Dbacks.TV, Rockies.TV, MLB.TV</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: MLB.TV, Dbacks.TV, Rockies.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260812074500 +0700" stop="20260812094500 +0700" channel="nbcsbayareamlb.tv">
-    <title lang="id">Houston Astros @ San Francisco Giants Space City HN</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: NBCS Bay Area, MLB.TV</desc>
+  <programme start="20260812074500 +0700" stop="20260812094500 +0700" channel="nbcsbayarea">
+    <title lang="id">Houston Astros @ San Francisco Giants MLB.TV Space City HN</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: NBCS Bay Area</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260812081000 +0700" stop="20260812101000 +0700" channel="mlbnetworkpadres.tvmlb.tvbrewers.tv">
+  <programme start="20260812081000 +0700" stop="20260812101000 +0700" channel="mlb.tvmlbnetworkpadres.tvbrewers.tv">
     <title lang="id">Milwaukee Brewers @ San Diego Padres</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: MLB Network, Padres.TV, MLB.TV, Brewers.TV</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: MLB.TV, MLB Network, Padres.TV, Brewers.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260812104000 +0700" stop="20260812124000 +0700" channel="detroitsportsnetcleguardians.tvmlb.tv">
+  <programme start="20260812104000 +0700" stop="20260812124000 +0700" channel="mlb.tvdetroitsportsnetcleguardians.tv">
     <title lang="id">Cleveland Guardians @ Detroit Tigers</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Detroit SportsNet, CleGuardians.TV, MLB.TV</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: MLB.TV, Detroit SportsNet, CleGuardians.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260812104000 +0700" stop="20260812124000 +0700" channel="fanatizsportsnetpittsburghmlb.tvmarlins.tv">
+  <programme start="20260812104000 +0700" stop="20260812124000 +0700" channel="fanatizmlb.tvsportsnetpittsburghmarlins.tv">
     <title lang="id">Pittsburgh Pirates @ Miami Marlins</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, SportsNet Pittsburgh, MLB.TV, Marlins.TV</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, MLB.TV, SportsNet Pittsburgh, Marlins.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260812104500 +0700" stop="20260812124500 +0700" channel="tvbelumtersedia">
-    <title lang="id">Chicago Cubs @ Washington Nationals Fubo Sports FOX Marquee Gray Media MLB.TV Show more</title>
+    <title lang="id">Chicago Cubs @ Washington Nationals Fubo Sports MLB.TV FOX Marquee Gray Media Show more</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260812110500 +0700" stop="20260812130500 +0700" channel="tvbelumtersedia">
-    <title lang="id">Seattle Mariners @ New York Yankees Fubo Sports ESPN Unlimited ESPN ESPN Deportes ESPN app Show more</title>
+    <title lang="id">Seattle Mariners @ New York Yankees Fubo Sports ESPN Unlimited MLB.TV ESPN ESPN Deportes Show more</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260812110700 +0700" stop="20260812130700 +0700" channel="nesnmlb.tvsportsnetsnnow">
+  <programme start="20260812110700 +0700" stop="20260812130700 +0700" channel="mlb.tvnesnsportsnetsnnow">
     <title lang="id">Boston Red Sox @ Toronto Blue Jays</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: NESN, MLB.TV, Sportsnet, SN NOW</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: MLB.TV, NESN, Sportsnet, SN NOW</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260812111500 +0700" stop="20260812131500 +0700" channel="snymlb.tvbravesvision">
+  <programme start="20260812111500 +0700" stop="20260812131500 +0700" channel="mlb.tvsnybravesvision">
     <title lang="id">New York Mets @ Atlanta Braves</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: SNY, MLB.TV, BravesVision</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: MLB.TV, SNY, BravesVision</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260812114000 +0700" stop="20260812134000 +0700" channel="chsnmlb.tvreds.tv">
+  <programme start="20260812114000 +0700" stop="20260812134000 +0700" channel="mlb.tvchsnreds.tv">
     <title lang="id">Cincinnati Reds @ Chicago White Sox</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: CHSN, MLB.TV, Reds.TV</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: MLB.TV, CHSN, Reds.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260812103000 +0700" stop="20260812123000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Sanford Mainers - Danbury Westerners</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260812060000 +0700" stop="20260812080000 +0700" channel="mlbnetwork">
+    <title lang="id">2026 All-American Game</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: MLB Network</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260812030000 +0700" stop="20260812050000 +0700" channel="fubosportsespnunlimitedespn">
@@ -178,11 +183,6 @@
   <programme start="20260812103000 +0700" stop="20260812123000 +0700" channel="ballysportslivemilb.tv">
     <title lang="id">Tampa Tarpons @ Dunedin Blue Jays</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260812090000 +0700" stop="20260812110000 +0700" channel="nextlevelsports">
-    <title lang="id">Seibu Lions @ Nippon Ham Fighters</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260812113000 +0700" stop="20260812133000 +0700" channel="espnselectespnunlimited">

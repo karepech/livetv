@@ -10,38 +10,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: PSN</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260814051000 +0700" stop="20260814071000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Cleveland Guardians @ Detroit Tigers Fubo Sports MLB.TV Detroit SportsNet FOX MLB Network Show more</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260814051000 +0700" stop="20260814071000 +0700" channel="mlb.tvsportsnetpittsburghmarlins.tv">
-    <title lang="id">Pittsburgh Pirates @ Miami Marlins</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: MLB.TV, SportsNet Pittsburgh, Marlins.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260814051000 +0700" stop="20260814071000 +0700" channel="chsnreds.tv">
-    <title lang="id">Cincinnati Reds @ Chicago White Sox</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: CHSN, Reds.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260814053500 +0700" stop="20260814073500 +0700" channel="espnunlimitedmlb.tvyesmariners.tv">
-    <title lang="id">Seattle Mariners @ New York Yankees</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, MLB.TV, YES, Mariners.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260814070700 +0700" stop="20260814090700 +0700" channel="espnunlimitedmlb.tvnesnsportsnetsnnow">
-    <title lang="id">Boston Red Sox @ Toronto Blue Jays</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, MLB.TV, NESN, Sportsnet, SN NOW</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260814080500 +0700" stop="20260814100500 +0700" channel="washingtonnationalsfanatizmlb.tvmarqueenationals.tv">
-    <title lang="id">Chicago Cubs @</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Washington Nationals, Fanatiz, MLB.TV, Marquee, Nationals.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260814113000 +0700" stop="20260814133000 +0700" channel="snnowsportsnet+">
-    <title lang="id">Philadelphia Phillies @ Minnesota Twins Field of Dreams Netflix</title>
+  <programme start="20260814070700 +0700" stop="20260814090700 +0700" channel="snnowsportsnet+">
+    <title lang="id">Boston Red Sox @ Toronto Blue Jays ESPN Unlimited MLB.TV NESN Sportsnet SN NOW 8:05 PM Chicago Cubs @ Washington Nationals Fanatiz MLB.TV Marquee Nationals.TV 11:30 PM Philadelphia Phillies @ Minnesota Twins Field of Dreams Netflix</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: SN NOW, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -63,11 +33,6 @@
   <programme start="20260814070000 +0700" stop="20260814090000 +0700" channel="fubosportsespnunlimitedespn">
     <title lang="id">Washington, D.C. - Naamans, DE Fubo Sports ESPN Unlimited ESPN 9:00 PM Alpine, UT - Billings, MT Fubo Sports ESPN Unlimited ESPN 11:00 PM Bridgewater, MA - Gray, ME</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260814050500 +0700" stop="20260814070500 +0700" channel="ballysportslivemilb.tv">
-    <title lang="id">Charlotte Knights @ Rochester Red Wings</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260814070500 +0700" stop="20260814090500 +0700" channel="ballysportslivemilb.tv">
@@ -140,6 +105,11 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260814103500 +0700" stop="20260814123500 +0700" channel="ballysportslivemilb.tv">
+    <title lang="id">Rome Emperors @ Asheville Tourists</title>
+    <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260814113000 +0700" stop="20260814133000 +0700" channel="espnselectespnunlimited">
     <title lang="id">New York Heights vs Boston Hunters</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
@@ -153,11 +123,6 @@
   <programme start="20260814110000 +0700" stop="20260814130000 +0700" channel="appletv">
     <title lang="id">Philadelphia Union vs Santos Laguna Apple TV 11:30 PM New York City vs Necaxa</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260814063000 +0700" stop="20260814083000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Anderlecht vs PAOK Qualifying ESPN Select ESPN Unlimited 6:45 PM Hearts vs Benfica Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260814080000 +0700" stop="20260814100000 +0700" channel="espnselectespnunlimited">
@@ -220,19 +185,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Fanatiz, beIN SPORTS Xtra CA, fubo Sports Network</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260814060000 +0700" stop="20260814080000 +0700" channel="foxdeportes">
-    <title lang="id">Al Diriyah vs Al Ahli FOX Soccer Plus Al Shabab vs Al Quadisiya</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Deportes</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260814080000 +0700" stop="20260814100000 +0700" channel="fanatiz">
     <title lang="id">South Africa vs Nigeria Play-In</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260814060000 +0700" stop="20260814080000 +0700" channel="fubosportsgolfchannelusards2golfchannelcanada">
-    <title lang="id">Fedex St. Jude Championship First Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, RDS 2, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260814100000 +0700" stop="20260814120000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">

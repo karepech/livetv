@@ -20,14 +20,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: MLB.TV, SportsNet Pittsburgh, Marlins.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260813051000 +0700" stop="20260813071000 +0700" channel="chsnreds.tv">
+    <title lang="id">Cincinnati Reds @ Chicago White Sox</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: CHSN, Reds.TV</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260813053500 +0700" stop="20260813073500 +0700" channel="espnunlimitedmlb.tvyesmariners.tv">
     <title lang="id">Seattle Mariners @ New York Yankees</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, MLB.TV, YES, Mariners.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260813061000 +0700" stop="20260813081000 +0700" channel="mlb.tvchsnreds.tv">
-    <title lang="id">Cincinnati Reds @ Chicago White Sox</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: MLB.TV, CHSN, Reds.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260813070700 +0700" stop="20260813090700 +0700" channel="espnunlimitedmlb.tvnesnsportsnetsnnow">
@@ -50,8 +50,13 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Ryz Sports Network</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260813020000 +0700" stop="20260813040000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Great Lakes - Northeast ESPN Select ESPN Unlimited 5:00 PM Central Plains - Western ESPN Select ESPN Unlimited 8:00 PM Northwest - Southeast ESPN Select ESPN Unlimited 11:30 PM Mid-Atlantic - Mid-South</title>
+  <programme start="20260813050000 +0700" stop="20260813070000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Central Plains - Western ESPN Select ESPN Unlimited 8:00 PM Northwest - Southeast ESPN Select ESPN Unlimited 11:30 PM Mid-Atlantic - Mid-South</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260813090000 +0700" stop="20260813110000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Dakota, Aruba - Matamoros, Tamaulipas</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -155,11 +160,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260813020000 +0700" stop="20260813040000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Purdue vs Evansville Big Ten Plus</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260813030000 +0700" stop="20260813050000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Stephen F. Austin vs Sul Ross State</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
@@ -205,6 +205,11 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260813100000 +0700" stop="20260813120000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Appalachian State vs UNC Wilmington</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260813100000 +0700" stop="20260813120000 +0700" channel="fanatiz">
     <title lang="id">Mirassol vs LDU Quito</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
@@ -225,8 +230,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260813010000 +0700" stop="20260813030000 +0700" channel="fubosportsgolfchannelusards2golfchannelcanada">
-    <title lang="id">Fedex St. Jude Championship First Round Fubo Sports ESPN Select ESPN Unlimited Hulu ESPN Show more 6:00 PM Fedex St. Jude Championship First Round</title>
+  <programme start="20260813060000 +0700" stop="20260813080000 +0700" channel="fubosportsgolfchannelusards2golfchannelcanada">
+    <title lang="id">Fedex St. Jude Championship First Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, RDS 2, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>

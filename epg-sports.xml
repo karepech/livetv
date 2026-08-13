@@ -175,6 +175,11 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260813080000 +0700" stop="20260813100000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Snow vs Idaho State</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260813100000 +0700" stop="20260813120000 +0700" channel="olddominionespnunlimitedaccnx">
     <title lang="id">Virginia Tech vs</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Old Dominion, ESPN Unlimited, ACCNX</desc>
@@ -197,11 +202,6 @@
   </programme>
   <programme start="20260813100000 +0700" stop="20260813120000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Pepperdine vs Colgate</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260813100000 +0700" stop="20260813120000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Appalachian State vs UNC Wilmington</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -261,8 +261,13 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260813070000 +0700" stop="20260813090000 +0700" channel="sportsnet+">
-    <title lang="id">Leigh Leopards @ Leeds Rhinos SN World SN NOW Sportsnet+ York City @ Warrington Wolves</title>
+    <title lang="id">Leigh Leopards @ Leeds Rhinos SN World SN NOW Sportsnet+ York City @ Warrington Wolves Sportsnet+ Catalans Dragons @ Hull Kingston Rovers</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sportsnet+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260813113000 +0700" stop="20260813133000 +0700" channel="exhibitiongameespnselectespnunlimited">
+    <title lang="id">SE Louisiana @ Xavier</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Exhibition Game, ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

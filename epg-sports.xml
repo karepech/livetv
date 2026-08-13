@@ -160,6 +160,11 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260813030000 +0700" stop="20260813050000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Stephen F. Austin vs Sul Ross State</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260813080000 +0700" stop="20260813100000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Eastern Illinois vs Valparaiso</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
@@ -200,11 +205,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260813100000 +0700" stop="20260813120000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Coastal Carolina vs Charleston Southern</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260813100000 +0700" stop="20260813120000 +0700" channel="fanatiz">
     <title lang="id">Mirassol vs LDU Quito</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
@@ -228,11 +228,6 @@
   <programme start="20260813010000 +0700" stop="20260813030000 +0700" channel="fubosportsgolfchannelusards2golfchannelcanada">
     <title lang="id">Fedex St. Jude Championship First Round Fubo Sports ESPN Select ESPN Unlimited Hulu ESPN Show more 6:00 PM Fedex St. Jude Championship First Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, RDS 2, Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260813110000 +0700" stop="20260813130000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
-    <title lang="id">Danish Golf Championship First Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260813100000 +0700" stop="20260813120000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
@@ -260,24 +255,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: National Bank Open, Sportsnet, SN 360, SN NOW, TVA Sports</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260813091500 +0700" stop="20260813111500 +0700" channel="foxsoccerplus">
-    <title lang="id">Hawthorn Hawks - Melbourne Demons</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260813050000 +0700" stop="20260813070000 +0700" channel="fubosportsfoxsports2foxsportsracing">
     <title lang="id">Saratoga Live</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, FOX Sports Racing</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260813095000 +0700" stop="20260813115000 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">Sydney Roosters @ Penrith Panthers</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260813070000 +0700" stop="20260813090000 +0700" channel="snworldsnnowsportsnet+">
-    <title lang="id">Leigh Leopards @ Leeds Rhinos</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: SN World, SN NOW, Sportsnet+</desc>
+  <programme start="20260813070000 +0700" stop="20260813090000 +0700" channel="sportsnet+">
+    <title lang="id">Leigh Leopards @ Leeds Rhinos SN World SN NOW Sportsnet+ York City @ Warrington Wolves</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

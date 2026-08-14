@@ -245,11 +245,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260814070000 +0700" stop="20260814090000 +0700" channel="u.s.amateurchampionshipnbc">
-    <title lang="id">U.S. Amateur Championship Peacock NBCS Network TSN5 8:00 PM</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: U.S. Amateur Championship, NBC</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260814070000 +0700" stop="20260814090000 +0700" channel="fubosportsfoxsports2foxone">
     <title lang="id">Ontario Honda Dealers Indy at Markham Practice</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, FOX One</desc>
@@ -308,11 +303,6 @@
   <programme start="20260814070000 +0700" stop="20260814090000 +0700" channel="snworldsnnowsportsnet+">
     <title lang="id">Castleford Tigers @ Hull FC</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: SN World, SN NOW, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260814050000 +0700" stop="20260814070000 +0700" channel="panpacificswimmingchampionshipsnbc">
-    <title lang="id">Pan Pacific Swimming Championships Peacock 7:00 PM</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Pan Pacific Swimming Championships, NBC</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

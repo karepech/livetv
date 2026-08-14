@@ -25,9 +25,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: MLB.TV, Detroit SportsNet, CHSN</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260814111000 +0700" stop="20260814131000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Washington Nationals @ New York Mets Paramount+ MLB.TV CBS WPIX Nationals.TV Show more</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
+  <programme start="20260814111000 +0700" stop="20260814131000 +0700" channel="mlb.tvwpixnationals.tvtvasports">
+    <title lang="id">Washington Nationals @ New York Mets</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: MLB.TV, WPIX, Nationals.TV, TVA Sports</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260814111000 +0700" stop="20260814131000 +0700" channel="mlb.tvpadres.tvcleguardians.tvwkyc">
@@ -55,8 +55,38 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260814050000 +0700" stop="20260814070000 +0700" channel="fubosportsespnunlimitedespn">
+    <title lang="id">Wisconsin - Iowa</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260814050000 +0700" stop="20260814070000 +0700" channel="fubosportsespnunlimitedespn">
+    <title lang="id">Davenport, IA - Whitefish Bay, WI</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260814070000 +0700" stop="20260814090000 +0700" channel="fubosportsespnunlimitedespn">
     <title lang="id">New Jersey - Connecticut</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260814070000 +0700" stop="20260814090000 +0700" channel="fubosportsespnunlimitedespn">
+    <title lang="id">West Chester, PA - Naamans, DE</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260814090000 +0700" stop="20260814110000 +0700" channel="fubosportsespnunlimitedespn">
+    <title lang="id">Southern California - Hawaii</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260814090000 +0700" stop="20260814110000 +0700" channel="fubosportsespnunlimitedespn">
+    <title lang="id">Henderson, NV - Billings, MT</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260814110000 +0700" stop="20260814130000 +0700" channel="fubosportsespnunlimitedespn">
+    <title lang="id">Bayonne, NJ - Darien, CT</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -191,7 +221,7 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260814080000 +0700" stop="20260814100000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Atlanta United 2 vs Red Bull New York II MLSNEXTPro.com 9:30 PM Real Monarchs vs Minnesota United FC 2 MLSNEXTPro.com 11:00 PM Toronto FC II vs Chattanooga FC MLSNEXTPro.com 11:00 PM Houston Dynamo 2 - Ventura County MLSNEXTPro.com</title>
+    <title lang="id">Atlanta United 2 vs Red Bull New York II MLSNEXTPro.com 11:00 PM Toronto FC II vs Chattanooga FC MLSNEXTPro.com 11:00 PM Houston Dynamo 2 - Ventura County MLSNEXTPro.com</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -225,14 +255,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, beIN USA, beIN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260814010000 +0700" stop="20260814030000 +0700" channel="fubosportsgolfchannelusards2golfchannelcanada">
-    <title lang="id">Fedex St. Jude Championship Second Round Fubo Sports ESPN Unlimited ESPN 6:00 PM Fedex St. Jude Championship Second Round</title>
+  <programme start="20260814060000 +0700" stop="20260814080000 +0700" channel="fubosportsgolfchannelusards2golfchannelcanada">
+    <title lang="id">Fedex St. Jude Championship Second Round</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, RDS 2, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260814100000 +0700" stop="20260814120000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
+  <programme start="20260814100000 +0700" stop="20260814120000 +0700" channel="fubosportsgolfchannelusarosecitysportsnetgolfchannelcanada">
     <title lang="id">Portland Classic</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Rose City SportsNet, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260814070000 +0700" stop="20260814090000 +0700" channel="fubosportsfoxsports2foxone">
@@ -265,19 +295,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: T2, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260814013000 +0700" stop="20260814033000 +0700" channel="beinusabeincanada">
-    <title lang="id">One Friday Fights</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: beIN USA, beIN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260814083000 +0700" stop="20260814103000 +0700" channel="fubosportsfoxsports2foxsportsracing">
     <title lang="id">Saratoga Live</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, FOX Sports Racing</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260814020000 +0700" stop="20260814040000 +0700" channel="peacock">
-    <title lang="id">Individuals All-Around Final</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260814070000 +0700" stop="20260814090000 +0700" channel="snworldsnnowsportsnet+">

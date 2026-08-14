@@ -5,11 +5,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: NFL+, WFOR-CBS, WUSA-CBS</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260815062000 +0700" stop="20260815082000 +0700" channel="appletv">
-    <title lang="id">St. Louis Cardinals @ Chicago Cubs</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260815101000 +0700" stop="20260815121000 +0700" channel="mlb.tvreds.tvmarlins.tv">
     <title lang="id">Miami Marlins @ Cincinnati Reds</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: MLB.TV, Reds.TV, Marlins.TV</desc>
@@ -53,16 +48,6 @@
   <programme start="20260815080000 +0700" stop="20260815100000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Northwest - Northeast ESPN Select ESPN Unlimited 11:00 PM Great Lakes - Southeast</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260815050000 +0700" stop="20260815070000 +0700" channel="fubosportsespnunlimitedespn">
-    <title lang="id">Wisconsin - Iowa</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260815050000 +0700" stop="20260815070000 +0700" channel="fubosportsespnunlimitedespn">
-    <title lang="id">Davenport, IA - Whitefish Bay, WI</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260815070000 +0700" stop="20260815090000 +0700" channel="fubosportsespnunlimitedespn">
@@ -180,11 +165,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260815050000 +0700" stop="20260815070000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Würzburger Kickers vs Wehen Wiesbaden</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260815070000 +0700" stop="20260815090000 +0700" channel="fubosportsparamount+cbssndazncanada">
     <title lang="id">Wolverhampton Wanderers vs Blackburn Rovers</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Paramount+, CBSSN, DAZN Canada</desc>
@@ -200,11 +180,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260815063000 +0700" stop="20260815083000 +0700" channel="fanatiz">
-    <title lang="id">Legia Warszawa vs Radomiak Radom</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260815071500 +0700" stop="20260815091500 +0700" channel="fanatizbeinusaespanolbeincanadaespanol">
     <title lang="id">Sporting CP vs Vitoria Guimaraes</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, beIN USA Espanol, beIN Canada Espanol</desc>
@@ -215,7 +190,7 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, beIN SPORTS Xtra, beIN SPORTS Xtra CA</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260815080000 +0700" stop="20260815100000 +0700" channel="tvbelumtersedia">
+  <programme start="20260815083000 +0700" stop="20260815103000 +0700" channel="tvbelumtersedia">
     <title lang="id">Atlanta United 2 vs Red Bull New York II MLSNEXTPro.com 11:00 PM Toronto FC II vs Chattanooga FC MLSNEXTPro.com 11:00 PM Houston Dynamo 2 - Ventura County MLSNEXTPro.com</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
@@ -235,24 +210,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260815060000 +0700" stop="20260815080000 +0700" channel="foxdeportesfoxsoccerplus">
-    <title lang="id">Al Hilal vs Al Faisaly</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Deportes, FOX Soccer Plus</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260815064500 +0700" stop="20260815084500 +0700" channel="paramount+">
     <title lang="id">Kilmarnock vs Ayr United</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260815063000 +0700" stop="20260815083000 +0700" channel="fanatizbeinusabeincanada">
-    <title lang="id">Galatasaray vs Çorum FK</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, beIN USA, beIN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260815060000 +0700" stop="20260815080000 +0700" channel="fubosportsgolfchannelusards2golfchannelcanada">
-    <title lang="id">Fedex St. Jude Championship Second Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, RDS 2, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260815100000 +0700" stop="20260815120000 +0700" channel="fubosportsgolfchannelusarosecitysportsnetgolfchannelcanada">
@@ -270,19 +230,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, truTV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260815050000 +0700" stop="20260815070000 +0700" channel="fubosportsfoxsports1foxone">
-    <title lang="id">Black's Tire 250 presented by BTS Rewards Practice Fubo Sports FOX Sports 2 FOX One 6:05 PM Black's Tire 250 presented by BTS Rewards Qualifying Fubo Sports FOX Sports 2 FOX One 11:30 PM Black's Tire 250 presented by BTS Rewards 250 laps / 187.5 miles</title>
+  <programme start="20260815113000 +0700" stop="20260815133000 +0700" channel="fubosportsfoxsports1foxone">
+    <title lang="id">Black's Tire 250 presented by BTS Rewards 250 laps / 187.5 miles</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, FOX One</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260815073500 +0700" stop="20260815093500 +0700" channel="dazndazncanada">
     <title lang="id">Czech Rally Stage 1</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260815050000 +0700" stop="20260815070000 +0700" channel="rds">
-    <title lang="id">Cincinnati Open Tennis Channel</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: RDS</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260815110000 +0700" stop="20260815130000 +0700" channel="t2dazncanada">

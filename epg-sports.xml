@@ -265,13 +265,13 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260814040000 +0700" stop="20260814060000 +0700" channel="rds">
-    <title lang="id">Cincinnati Open</title>
+  <programme start="20260814030000 +0700" stop="20260814050000 +0700" channel="rds">
+    <title lang="id">Cincinnati Open Tennis Channel 5:00 PM Cincinnati Open Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: RDS</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260814030000 +0700" stop="20260814050000 +0700" channel="t2dazncanada">
-    <title lang="id">Cincinnati Open T2 DAZN Canada 11:00 PM Cincinnati Open</title>
+    <title lang="id">Cincinnati Open DAZN Canada 11:00 PM Cincinnati Open</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: T2, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>

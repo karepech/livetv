@@ -295,8 +295,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260814080000 +0700" stop="20260814100000 +0700" channel="foxsoccerplus">
-    <title lang="id">Dolphins @ Manly Sea Eagles FOX Soccer Plus 10:00 AM South Sydney Rabbitohs @ Canterbury Bulldogs</title>
+  <programme start="20260814100000 +0700" stop="20260814120000 +0700" channel="foxsoccerplus">
+    <title lang="id">South Sydney Rabbitohs @ Canterbury Bulldogs</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
     <category lang="id">Olahraga</category>
   </programme>

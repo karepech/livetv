@@ -210,9 +210,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, Paramount+, CBS, CW</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260815073000 +0700" stop="20260815093000 +0700" channel="tsn2rdsinfo">
+  <programme start="20260815073000 +0700" stop="20260815093000 +0700" channel="tsn+tsn2rdsinfo">
     <title lang="id">Brampton Honey Badgers @ Winnipeg Sea Bears</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN2, RDS Info</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+, TSN2, RDS Info</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260815113000 +0700" stop="20260815133000 +0700" channel="newenglandrevolutionappletvrdstsn">
@@ -330,19 +330,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260815120000 +0700" stop="20260815140000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Fortuna Köln vs Alemannia Aachen</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260815090000 +0700" stop="20260815110000 +0700" channel="foxsoccerplustsn5onesoccer">
     <title lang="id">Cavalry vs Forge</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus, TSN5, OneSoccer</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260815113000 +0700" stop="20260815133000 +0700" channel="paramount+cbsgolazonetwork">
-    <title lang="id">Bolton Wanderers vs Preston North End</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, CBS Golazo Network</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260815020000 +0700" stop="20260815040000 +0700" channel="paramount+">
@@ -440,11 +430,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260815113000 +0700" stop="20260815133000 +0700" channel="fubosportsparamount+cbssndazncanada">
-    <title lang="id">Notts County vs Leicester City</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Paramount+, CBSSN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260815020000 +0700" stop="20260815040000 +0700" channel="paramount+dazncanada">
     <title lang="id">York City vs Bristol Rovers</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, DAZN Canada</desc>
@@ -505,28 +490,18 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, beIN SPORTS Xtra, beIN SPORTS Xtra CA</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260815040000 +0700" stop="20260815060000 +0700" channel="tsn4">
+    <title lang="id">Odense Bulldogs @ Cardiff</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN4</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260815070000 +0700" stop="20260815090000 +0700" channel="flohockey">
     <title lang="id">Victoriaville Tigres @ Sherbrooke Phoenix</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FloHockey</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260815114500 +0700" stop="20260815134500 +0700" channel="espnselectespnunlimitedtsn+">
-    <title lang="id">Fedex St. Jude Championship Third Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260815030000 +0700" stop="20260815050000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Fedex St. Jude Championship Third Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260815050000 +0700" stop="20260815070000 +0700" channel="fubosportsespnselectespnunlimitedgolfchannelusagolfchannelcanada">
-    <title lang="id">Fedex St. Jude Championship Third Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Select, ESPN Unlimited, Golf Channel USA, Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260815070000 +0700" stop="20260815090000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Fedex St. Jude Championship Third Round ESPN Unlimited Paramount+ CBS CW RDS Show more</title>
+  <programme start="20260815030000 +0700" stop="20260815050000 +0700" channel="tvbelumtersedia">
+    <title lang="id">Fedex St. Jude Championship Third Round ESPN Select ESPN Unlimited 5:00 PM Fedex St. Jude Championship Third Round Fubo Sports ESPN Select ESPN Unlimited Golf Channel USA Golf Channel Canada 7:00 PM Fedex St. Jude Championship Third Round ESPN Unlimited Paramount+ CBS CW RDS Show more</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -535,13 +510,13 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260815070000 +0700" stop="20260815090000 +0700" channel="peacocknbc">
+  <programme start="20260815070000 +0700" stop="20260815090000 +0700" channel="peacocknbctsn+">
     <title lang="id">U.S. Amateur Championship Semifinals</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBC</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBC, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260815063000 +0700" stop="20260815083000 +0700" channel="fubosportsfoxonetsn5">
-    <title lang="id">Ontario Honda Dealers Indy at Markham Practice Fubo Sports FOX Sports 1 FOX One TSN+ TSN5 10:30 PM Ontario Honda Dealers Indy at Markham Qualifying</title>
+  <programme start="20260815020000 +0700" stop="20260815040000 +0700" channel="fubosportsfoxonetsn5">
+    <title lang="id">Ontario Honda Dealers Indy at Markham Practice Fubo Sports FOX Sports 2 FOX One TSN+ 6:30 PM Ontario Honda Dealers Indy at Markham Practice Fubo Sports FOX Sports 1 FOX One TSN+ TSN5 10:30 PM Ontario Honda Dealers Indy at Markham Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX One, TSN5</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -565,9 +540,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN5, TVA Sports</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260815083000 +0700" stop="20260815103000 +0700" channel="tvasports2revtv">
+  <programme start="20260815083000 +0700" stop="20260815103000 +0700" channel="tvasports2tsn3revtv">
     <title lang="id">Markham Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TVA Sports 2, REV TV</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TVA Sports 2, TSN3, REV TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260815023000 +0700" stop="20260815043000 +0700" channel="floracing">
@@ -593,11 +568,6 @@
   <programme start="20260815030000 +0700" stop="20260815050000 +0700" channel="t2dazncanada">
     <title lang="id">Cincinnati Open T2 TSN+ TSN3 DAZN Canada 11:00 PM Cincinnati Open</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: T2, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260815121000 +0700" stop="20260815141000 +0700" channel="dazndazncanada">
-    <title lang="id">Rajadamnern World Series</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260815090000 +0700" stop="20260815110000 +0700" channel="paramount+sportsnet+">

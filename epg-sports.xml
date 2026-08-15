@@ -35,16 +35,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, CBSSN, TSN1, TSN4, TSN 4K</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260815021000 +0700" stop="20260815041000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Milwaukee Brewers @ Los Angeles Dodgers ESPN Unlimited MLB.TV SportsNet LA Brewers.TV SNLA+ Show more</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260815021500 +0700" stop="20260815041500 +0700" channel="mlb.tvnbcsbayarearockies.tv">
-    <title lang="id">Colorado Rockies @ San Francisco Giants</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: MLB.TV, NBCS Bay Area, Rockies.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260815051000 +0700" stop="20260815071000 +0700" channel="mlb.tvdetroitsportsnetmlbnetworkchsn">
     <title lang="id">Chicago White Sox @ Detroit Tigers</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: MLB.TV, Detroit SportsNet, MLB Network, CHSN</desc>
@@ -263,6 +253,11 @@
   <programme start="20260815103000 +0700" stop="20260815123000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Providence vs Rhode Island</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260815103000 +0700" stop="20260815123000 +0700" channel="mw+">
+    <title lang="id">Hawai'i vs Kansas State</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: MW+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260815110000 +0700" stop="20260815130000 +0700" channel="espnselectespnunlimited">
@@ -515,8 +510,23 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: FloHockey</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260815114500 +0700" stop="20260815134500 +0700" channel="tvbelumtersedia">
-    <title lang="id">Fedex St. Jude Championship Third Round ESPN Select ESPN Unlimited 5:00 PM Fedex St. Jude Championship Third Round Fubo Sports ESPN Select ESPN Unlimited Golf Channel USA Golf Channel Canada 7:00 PM Fedex St. Jude Championship Third Round Paramount+ CBS RDS TSN4 CTV2 Show more</title>
+  <programme start="20260815114500 +0700" stop="20260815134500 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Fedex St. Jude Championship Third Round</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260815030000 +0700" stop="20260815050000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Fedex St. Jude Championship Third Round</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260815050000 +0700" stop="20260815070000 +0700" channel="fubosportsespnselectespnunlimitedgolfchannelusagolfchannelcanada">
+    <title lang="id">Fedex St. Jude Championship Third Round</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Select, ESPN Unlimited, Golf Channel USA, Golf Channel Canada</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260815070000 +0700" stop="20260815090000 +0700" channel="tvbelumtersedia">
+    <title lang="id">Fedex St. Jude Championship Third Round Paramount+ CBS RDS TSN4 CTV2 Show more</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -543,6 +553,11 @@
   <programme start="20260815110000 +0700" stop="20260815130000 +0700" channel="slingtvhbomaxusanetworktsn3">
     <title lang="id">Cook Out 400 400 laps / 300 miles</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, USA Network, TSN3</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260815040000 +0700" stop="20260815060000 +0700" channel="foxone">
+    <title lang="id">Black's Tire 250 presented by BTS Rewards 250 laps / 187.5 miles</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: FOX One</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260815064500 +0700" stop="20260815084500 +0700" channel="dazndazncanada">
@@ -620,28 +635,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, SN 360, SN NOW, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260815023500 +0700" stop="20260815043500 +0700" channel="foxsoccerplustsn2">
-    <title lang="id">St. Kilda Saints @ Richmond Tigers</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus, TSN2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260815054500 +0700" stop="20260815074500 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">Geelong Cats @ North Melbourne Kangaroos</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260815061500 +0700" stop="20260815081500 +0700" channel="brisbanelionsfoxsoccerplus">
-    <title lang="id">Gold Coast Suns @</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Brisbane Lions, FOX Soccer Plus</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260815094000 +0700" stop="20260815114000 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">Collingwood Magpies @ Hawthorn Hawks</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260815101000 +0700" stop="20260815121000 +0700" channel="foxsoccerplus">
-    <title lang="id">Melbourne Demons @ Port Adelaide Power</title>
+  <programme start="20260815054500 +0700" stop="20260815074500 +0700" channel="foxsoccerplus">
+    <title lang="id">Geelong Cats @ North Melbourne Kangaroos Fubo Sports FOX Sports 2 6:15 AM Gold Coast Suns @ Brisbane Lions FOX Soccer Plus 9:40 AM Collingwood Magpies @ Hawthorn Hawks Fubo Sports FOX Sports 2 10:10 AM Melbourne Demons @ Port Adelaide Power</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
     <category lang="id">Olahraga</category>
   </programme>

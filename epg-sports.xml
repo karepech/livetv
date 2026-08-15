@@ -530,11 +530,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260815103000 +0700" stop="20260815123000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
-    <title lang="id">Danish Golf Championship Third Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260815070000 +0700" stop="20260815090000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
     <title lang="id">Portland Classic</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
@@ -560,8 +555,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX One</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260815095400 +0700" stop="20260815115400 +0700" channel="dazndazncanada">
-    <title lang="id">Czech Rally Stage 4 DAZN DAZN Canada 12:52 PM Czech Rally Stage 5 DAZN DAZN Canada 3:58 PM Czech Rally Stage 7</title>
+  <programme start="20260815125200 +0700" stop="20260815145200 +0700" channel="dazndazncanada">
+    <title lang="id">Czech Rally Stage 5 DAZN DAZN Canada 3:58 PM Czech Rally Stage 7</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -578,11 +573,6 @@
   <programme start="20260815023000 +0700" stop="20260815043000 +0700" channel="floracing">
     <title lang="id">Rolex Monterey Motorsports Reunion REV TV 8:00 PM Hasty Bake High Limit Room at Knoxville Nationals FloRacing 10:45 PM USAC Racing</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FloRacing</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260815091000 +0700" stop="20260815111000 +0700" channel="dazndazncanada">
-    <title lang="id">Porsche Carrera Cup Germany Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260815020000 +0700" stop="20260815040000 +0700" channel="peacock">
@@ -640,19 +630,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260815094000 +0700" stop="20260815114000 +0700" channel="foxsoccerplus">
-    <title lang="id">Collingwood Magpies @ Hawthorn Hawks Fubo Sports FOX Sports 2 10:10 AM Melbourne Demons @ Port Adelaide Power</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260815062500 +0700" stop="20260815082500 +0700" channel="fubosportsfoxsports2foxsportsracing">
     <title lang="id">Saratoga Live Fubo Sports FOX Sports 2 7:00 PM Saratoga Saturday FOX Sports Racing 9:00 PM Saratoga Saturday Fubo Sports FOX 10:00 PM Saratoga Live</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, FOX Sports Racing</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260815090000 +0700" stop="20260815110000 +0700" channel="peacock">
-    <title lang="id">Groups All-Around Final</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260815060000 +0700" stop="20260815080000 +0700" channel="fubosportsespnunlimitedespntsn+">

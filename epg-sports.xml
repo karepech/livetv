@@ -330,39 +330,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260815023000 +0700" stop="20260815043000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Verl vs MSV Duisburg</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260815090000 +0700" stop="20260815110000 +0700" channel="foxsoccerplustsn5onesoccer">
     <title lang="id">Cavalry vs Forge</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus, TSN5, OneSoccer</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260815020000 +0700" stop="20260815040000 +0700" channel="paramount+">
-    <title lang="id">Bristol City vs Millwall</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260815020000 +0700" stop="20260815040000 +0700" channel="paramount+">
-    <title lang="id">Charlton Athletic vs Derby County</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260815020000 +0700" stop="20260815040000 +0700" channel="fubosportsparamount+cbssndazncanada">
-    <title lang="id">Middlesbrough vs Lincoln City</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Paramount+, CBSSN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260815020000 +0700" stop="20260815040000 +0700" channel="westbromwichalbionparamount+">
-    <title lang="id">Norwich City vs</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: West Bromwich Albion, Paramount+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260815020000 +0700" stop="20260815040000 +0700" channel="paramount+">
-    <title lang="id">Portsmouth vs Queens Park Rangers</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260815020000 +0700" stop="20260815040000 +0700" channel="paramount+">
-    <title lang="id">Stoke City vs Swansea City</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260815043000 +0700" stop="20260815063000 +0700" channel="paramount+cbsgolazonetworkdazncanada">
@@ -385,8 +360,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Nacional, Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260815124500 +0700" stop="20260815144500 +0700" channel="fanatiz">
-    <title lang="id">Zagłębie Lubin vs Śląsk Wrocław Fanatiz 3:30 PM Piast Gliwice vs Wieczysta Kraków Fanatiz 6:15 PM Widzew Łódź vs Korona Kielce</title>
+  <programme start="20260815033000 +0700" stop="20260815053000 +0700" channel="fanatiz">
+    <title lang="id">Piast Gliwice vs Wieczysta Kraków Fanatiz 6:15 PM Widzew Łódź vs Korona Kielce</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -395,44 +370,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: PSV, ESPN Select, ESPN Unlimited, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260815013000 +0700" stop="20260815033000 +0700" channel="fubosportsfanatizbeinsportsxtracafubosportsnetwork">
-    <title lang="id">Borussia Mönchengladbach vs Aston Villa</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Fanatiz, beIN SPORTS Xtra CA, fubo Sports Network</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260815020000 +0700" stop="20260815040000 +0700" channel="cbsgolazonetwork">
-    <title lang="id">Newcastle United vs Bayer Leverkusen</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: CBS Golazo Network</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260815020000 +0700" stop="20260815040000 +0700" channel="dazndazncanada">
-    <title lang="id">Tottenham Hotspur vs TSG 1899 Hoffenheim</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260815024500 +0700" stop="20260815044500 +0700" channel="tvbelumtersedia">
-    <title lang="id">Manchester United vs AC Milan Fanatiz beIN USA beIN USA Espanol MUTV beIN Canada Show more</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260815033000 +0700" stop="20260815053000 +0700" channel="daznfoxdeportesdazncanada">
-    <title lang="id">Borussia Dortmund vs Roma</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, FOX Deportes, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260815053000 +0700" stop="20260815073000 +0700" channel="dazndazncanada">
-    <title lang="id">Inter vs Real Betis</title>
+  <programme start="20260815024500 +0700" stop="20260815044500 +0700" channel="dazndazncanada">
+    <title lang="id">Manchester United vs AC Milan Fanatiz beIN USA beIN USA Espanol MUTV beIN Canada Show more 3:30 PM Borussia Dortmund vs Roma DAZN FOX Deportes DAZN Canada 5:30 PM Inter vs Real Betis</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260815050000 +0700" stop="20260815070000 +0700" channel="espnselectespnunlimited">
     <title lang="id">Real Oviedo vs Granada ESPN Select ESPN Unlimited 7:30 PM Mallorca vs Real Valladolid</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260815020000 +0700" stop="20260815040000 +0700" channel="paramount+dazncanada">
-    <title lang="id">York City vs Bristol Rovers</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260815094500 +0700" stop="20260815114500 +0700" channel="vix">
@@ -448,16 +393,6 @@
   <programme start="20260815080000 +0700" stop="20260815100000 +0700" channel="tvbelumtersedia">
     <title lang="id">Chicago Fire FC II vs Orlando City B MLSNEXTPro.com 10:00 PM Columbus Crew 2 vs New York City FC II MLSNEXTPro.com</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260815020000 +0700" stop="20260815040000 +0700" channel="dazndazncanada">
-    <title lang="id">Aldershot Town vs Hartlepool United DAZN DAZN Canada Barrow vs AFC Hornchurch DAZN DAZN Canada Halifax Town vs Boreham Wood DAZN DAZN Canada Gateshead vs Woking DAZN DAZN Canada Kidderminster Harriers vs Eastleigh</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260815020000 +0700" stop="20260815040000 +0700" channel="dazndazncanada">
-    <title lang="id">Hereford vs Marine DAZN DAZN Canada Braintree Town vs Chesham United</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260815064500 +0700" stop="20260815084500 +0700" channel="dazndazncanada">
@@ -515,8 +450,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBC, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260815020000 +0700" stop="20260815040000 +0700" channel="fubosportsfoxonetsn5">
-    <title lang="id">Ontario Honda Dealers Indy at Markham Practice Fubo Sports FOX Sports 2 FOX One TSN+ 6:30 PM Ontario Honda Dealers Indy at Markham Practice Fubo Sports FOX Sports 1 FOX One TSN+ TSN5 10:30 PM Ontario Honda Dealers Indy at Markham Qualifying</title>
+  <programme start="20260815063000 +0700" stop="20260815083000 +0700" channel="fubosportsfoxonetsn5">
+    <title lang="id">Ontario Honda Dealers Indy at Markham Practice Fubo Sports FOX Sports 1 FOX One TSN+ TSN5 10:30 PM Ontario Honda Dealers Indy at Markham Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX One, TSN5</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -525,19 +460,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max, USA Network, TSN3</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260815040000 +0700" stop="20260815060000 +0700" channel="foxone">
+  <programme start="20260815040000 +0700" stop="20260815060000 +0700" channel="fubosportsfoxsports2foxone">
     <title lang="id">Black's Tire 250 presented by BTS Rewards 250 laps / 187.5 miles</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX One</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2, FOX One</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260815125200 +0700" stop="20260815145200 +0700" channel="dazndazncanada">
-    <title lang="id">Czech Rally Stage 5 DAZN DAZN Canada 3:58 PM Czech Rally Stage 7</title>
+  <programme start="20260815035800 +0700" stop="20260815055800 +0700" channel="dazndazncanada">
+    <title lang="id">Czech Rally Stage 7</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260815020500 +0700" stop="20260815040500 +0700" channel="tsn5tvasports">
-    <title lang="id">London E-Prix Race 1</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN5, TVA Sports</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260815083000 +0700" stop="20260815103000 +0700" channel="tvasports2tsn3revtv">
@@ -550,9 +480,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: FloRacing</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260815020000 +0700" stop="20260815040000 +0700" channel="peacock">
-    <title lang="id">Unadilla Race Day Live Peacock 5:00 PM Unadilla Gate Drop</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: Peacock</desc>
+  <programme start="20260815050000 +0700" stop="20260815070000 +0700" channel="peacock">
+    <title lang="id">Unadilla Gate Drop</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260815030000 +0700" stop="20260815050000 +0700" channel="tvbelumtersedia">

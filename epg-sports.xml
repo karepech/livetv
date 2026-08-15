@@ -390,6 +390,11 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260815053000 +0700" stop="20260815073000 +0700" channel="dazndazncanada">
+    <title lang="id">Bayern München vs Vfl Wolfsburg</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260815070000 +0700" stop="20260815090000 +0700" channel="nacionalfanatiz">
     <title lang="id">Club Guaraní vs Rubio Ñú Fanatiz 9:30 PM Sportivo Trinidense vs</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Nacional, Fanatiz</desc>
@@ -545,9 +550,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260815020000 +0700" stop="20260815040000 +0700" channel="fubosportsfoxsports1foxonetsn5">
-    <title lang="id">Ontario Honda Dealers Indy at Markham Practice Fubo Sports FOX Sports 2 FOX One 6:25 PM Ontario Honda Dealers Indy at Markham Qualifying</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 1, FOX One, TSN5</desc>
+  <programme start="20260815063000 +0700" stop="20260815083000 +0700" channel="fubosportsfoxonetsn5">
+    <title lang="id">Ontario Honda Dealers Indy at Markham Practice Fubo Sports FOX Sports 1 FOX One 10:30 PM Ontario Honda Dealers Indy at Markham Qualifying</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX One, TSN5</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260815110000 +0700" stop="20260815130000 +0700" channel="slingtvhbomaxusanetworktsn3">
@@ -635,8 +640,13 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, SN 360, SN NOW, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260815054500 +0700" stop="20260815074500 +0700" channel="foxsoccerplus">
-    <title lang="id">Geelong Cats @ North Melbourne Kangaroos Fubo Sports FOX Sports 2 6:15 AM Gold Coast Suns @ Brisbane Lions FOX Soccer Plus 9:40 AM Collingwood Magpies @ Hawthorn Hawks Fubo Sports FOX Sports 2 10:10 AM Melbourne Demons @ Port Adelaide Power</title>
+  <programme start="20260815113000 +0700" stop="20260815133000 +0700" channel="paramount+sportsnet+">
+    <title lang="id">Eduardo Henrique vs Charles Johnson .</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260815094000 +0700" stop="20260815114000 +0700" channel="foxsoccerplus">
+    <title lang="id">Collingwood Magpies @ Hawthorn Hawks Fubo Sports FOX Sports 2 10:10 AM Melbourne Demons @ Port Adelaide Power</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -661,8 +671,13 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260815043000 +0700" stop="20260815063000 +0700" channel="sportsnet+">
-    <title lang="id">St Helens @ Wakefield Trinity Sportsnet+ 7:00 PM Huddersfield Giants @ Toulouse Olympique</title>
+    <title lang="id">St Helens @ Wakefield Trinity Sportsnet+ 5:30 PM Wigan Warriors @ Bradford Sportsnet+ 7:00 PM Huddersfield Giants @ Toulouse Olympique</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sportsnet+</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
+  <programme start="20260815113000 +0700" stop="20260815133000 +0700" channel="paramount+">
+    <title lang="id">Argentina A @ USA A</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260815040000 +0700" stop="20260815060000 +0700" channel="fubosportsespnunlimitedespn">

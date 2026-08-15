@@ -195,11 +195,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260815080000 +0700" stop="20260815100000 +0700" channel="seibulionsnextlevelsports">
-    <title lang="id">Chiba Lotte Marines @</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Seibu Lions, Next Level Sports</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260815060000 +0700" stop="20260815080000 +0700" channel="espnselectespnunlimited">
     <title lang="id">New York Heights vs San Francisco Firebells ESPN Select ESPN Unlimited 11:30 PM Boston Hunters vs Los Angeles Queens</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
@@ -210,9 +205,9 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Spectrum SportsNet</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260815040000 +0700" stop="20260815060000 +0700" channel="paramount+cbs">
+  <programme start="20260815040000 +0700" stop="20260815060000 +0700" channel="espnunlimitedparamount+cbscw">
     <title lang="id">BIG3 Basketball</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, CBS</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, Paramount+, CBS, CW</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260815073000 +0700" stop="20260815093000 +0700" channel="tsn2rdsinfo">
@@ -225,9 +220,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: New England Revolution, Apple TV, RDS, TSN</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260815053000 +0700" stop="20260815073000 +0700" channel="fubosportsespnselectespnunlimitedespndeportes">
-    <title lang="id">Deportivo Alavés vs Getafe Fubo Sports ESPN Select ESPN Unlimited ESPN Deportes 7:30 PM Sevilla vs Rayo Vallecano</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Select, ESPN Unlimited, ESPN Deportes</desc>
+  <programme start="20260815053000 +0700" stop="20260815073000 +0700" channel="fubosportsespnselectespnunlimitedespndeportestsn+">
+    <title lang="id">Deportivo Alavés vs Getafe Fubo Sports ESPN Select ESPN Unlimited ESPN Deportes TSN+ 7:30 PM Sevilla vs Rayo Vallecano</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Select, ESPN Unlimited, ESPN Deportes, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260815103000 +0700" stop="20260815123000 +0700" channel="ion">
@@ -515,9 +510,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: FloHockey</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260815114500 +0700" stop="20260815134500 +0700" channel="espnselectespnunlimited">
+  <programme start="20260815114500 +0700" stop="20260815134500 +0700" channel="espnselectespnunlimitedtsn+">
     <title lang="id">Fedex St. Jude Championship Third Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260815030000 +0700" stop="20260815050000 +0700" channel="espnselectespnunlimited">
@@ -531,7 +526,7 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260815070000 +0700" stop="20260815090000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Fedex St. Jude Championship Third Round Paramount+ CBS RDS TSN4 CTV2 Show more</title>
+    <title lang="id">Fedex St. Jude Championship Third Round ESPN Unlimited Paramount+ CBS CW RDS Show more</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -545,13 +540,13 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260815070000 +0700" stop="20260815090000 +0700" channel="peacock">
+  <programme start="20260815070000 +0700" stop="20260815090000 +0700" channel="peacocknbc">
     <title lang="id">U.S. Amateur Championship Semifinals</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock, NBC</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260815063000 +0700" stop="20260815083000 +0700" channel="fubosportsfoxonetsn5">
-    <title lang="id">Ontario Honda Dealers Indy at Markham Practice Fubo Sports FOX Sports 1 FOX One 10:30 PM Ontario Honda Dealers Indy at Markham Qualifying</title>
+    <title lang="id">Ontario Honda Dealers Indy at Markham Practice Fubo Sports FOX Sports 1 FOX One TSN+ TSN5 10:30 PM Ontario Honda Dealers Indy at Markham Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX One, TSN5</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -565,8 +560,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX One</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260815064500 +0700" stop="20260815084500 +0700" channel="dazndazncanada">
-    <title lang="id">Czech Rally Stage 2 DAZN DAZN Canada 9:54 AM Czech Rally Stage 4 DAZN DAZN Canada 12:52 PM Czech Rally Stage 5 DAZN DAZN Canada 3:58 PM Czech Rally Stage 7</title>
+  <programme start="20260815095400 +0700" stop="20260815115400 +0700" channel="dazndazncanada">
+    <title lang="id">Czech Rally Stage 4 DAZN DAZN Canada 12:52 PM Czech Rally Stage 5 DAZN DAZN Canada 3:58 PM Czech Rally Stage 7</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -595,8 +590,8 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260815110000 +0700" stop="20260815130000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Cincinnati Open Tennis Channel</title>
+  <programme start="20260815030000 +0700" stop="20260815050000 +0700" channel="tvbelumtersedia">
+    <title lang="id">Cincinnati Open TSN+ 5:00 PM Cincinnati Open TSN+ 11:00 PM Cincinnati Open Tennis Channel</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -606,7 +601,7 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260815030000 +0700" stop="20260815050000 +0700" channel="t2dazncanada">
-    <title lang="id">Cincinnati Open T2 DAZN Canada 11:00 PM Cincinnati Open</title>
+    <title lang="id">Cincinnati Open T2 TSN+ TSN3 DAZN Canada 11:00 PM Cincinnati Open</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: T2, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -660,14 +655,14 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260815060000 +0700" stop="20260815080000 +0700" channel="fubosportsespnunlimitedespn">
+  <programme start="20260815060000 +0700" stop="20260815080000 +0700" channel="fubosportsespnunlimitedespntsn+">
     <title lang="id">New York Atlas @ Philadelphia Waterdogs</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260815090000 +0700" stop="20260815110000 +0700" channel="fubosportsespnunlimitedespn">
+  <programme start="20260815090000 +0700" stop="20260815110000 +0700" channel="fubosportsespnunlimitedespntsn+">
     <title lang="id">California Palms @ Maryland Charm</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260815043000 +0700" stop="20260815063000 +0700" channel="sportsnet+">
@@ -680,9 +675,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260815040000 +0700" stop="20260815060000 +0700" channel="fubosportsespnunlimitedespn">
+  <programme start="20260815040000 +0700" stop="20260815060000 +0700" channel="fubosportsespnunlimitedespntsn+">
     <title lang="id">Team Klingler - Team Brown</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Unlimited, ESPN, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

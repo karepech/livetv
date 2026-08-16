@@ -385,8 +385,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260816055800 +0700" stop="20260816075800 +0700" channel="dazndazncanada">
-    <title lang="id">Czech Rally Stage 8 DAZN DAZN Canada 11:34 AM Czech Rally Stage 11 DAZN DAZN Canada 12:32 PM Czech Rally Stage 12 DAZN DAZN Canada 2:00 PM Czech Rally Stage 13</title>
+  <programme start="20260816113400 +0700" stop="20260816133400 +0700" channel="dazndazncanada">
+    <title lang="id">Czech Rally Stage 11 DAZN DAZN Canada 12:32 PM Czech Rally Stage 12 DAZN DAZN Canada 2:00 PM Czech Rally Stage 13</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -420,8 +420,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: T2, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260816051500 +0700" stop="20260816071500 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">Carlton Blues @ Western Bulldogs FOX Soccer Plus 6:40 AM Sydney Swans @ Essendon Bombers</title>
+  <programme start="20260816064000 +0700" stop="20260816084000 +0700" channel="fubosportsfoxsports2">
+    <title lang="id">Sydney Swans @ Essendon Bombers</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
     <category lang="id">Olahraga</category>
   </programme>

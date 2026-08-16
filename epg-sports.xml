@@ -205,6 +205,11 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260816033000 +0700" stop="20260816053000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Missouri State vs Kansas</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260816040000 +0700" stop="20260816060000 +0700" channel="tvbelumtersedia">
     <title lang="id">Maryland vs Fordham Big Ten Plus</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
@@ -235,23 +240,13 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260816050000 +0700" stop="20260816070000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Indiana vs Youngstown State Big Ten Plus</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260816030000 +0700" stop="20260816050000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Sacramento Republic vs Lexington</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260816103000 +0700" stop="20260816123000 +0700" channel="fubosportscbssn">
     <title lang="id">Portland Hearts of Pine vs Forward Madison ESPN Select ESPN Unlimited NESN 11:00 PM Union Omaha vs Richmond Kickers</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, CBSSN</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260816031000 +0700" stop="20260816051000 +0700" channel="tudnvix">
-    <title lang="id">Atlas vs Tigres UANL TUDN Univision ViX 6:00 PM Pumas UNAM vs Querétaro TUDN Univision ViX 11:00 PM América vs Atlético San Luis</title>
+  <programme start="20260816060000 +0700" stop="20260816080000 +0700" channel="tudnvix">
+    <title lang="id">Pumas UNAM vs Querétaro TUDN Univision ViX 11:00 PM América vs Atlético San Luis</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TUDN, ViX</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -425,18 +420,13 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: T2, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260816030000 +0700" stop="20260816050000 +0700" channel="paramount+sportsnet+dazncanada">
-    <title lang="id">Ian Garry vs Islam Makhachev Title Fight</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, Sportsnet+, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260816034000 +0700" stop="20260816054000 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">West Coast Eagles @ Greater Western Sydney Giants Fubo Sports FOX Sports 2 5:15 AM Carlton Blues @ Western Bulldogs FOX Soccer Plus 6:40 AM Sydney Swans @ Essendon Bombers</title>
+  <programme start="20260816051500 +0700" stop="20260816071500 +0700" channel="fubosportsfoxsports2">
+    <title lang="id">Carlton Blues @ Western Bulldogs FOX Soccer Plus 6:40 AM Sydney Swans @ Essendon Bombers</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260816043500 +0700" stop="20260816063500 +0700" channel="tsn5">
-    <title lang="id">Fremantle Dockers - Port Adelaide Power TSN5 6:45 AM Greater Western Sydney Giants - West Coast Eagles</title>
+  <programme start="20260816064500 +0700" stop="20260816084500 +0700" channel="tsn5">
+    <title lang="id">Greater Western Sydney Giants - West Coast Eagles</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN5</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -455,8 +445,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260816034500 +0700" stop="20260816054500 +0700" channel="foxsoccerplus">
-    <title lang="id">New Zealand Warriors W @ Wests Tigers W FOX Soccer Plus 8:15 AM Cronulla Sharks W @ NQ Cowboys W</title>
+  <programme start="20260816081500 +0700" stop="20260816101500 +0700" channel="foxsoccerplus">
+    <title lang="id">Cronulla Sharks W @ NQ Cowboys W</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
     <category lang="id">Olahraga</category>
   </programme>

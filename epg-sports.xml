@@ -160,11 +160,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260816080000 +0700" stop="20260816100000 +0700" channel="seibulionsnextlevelsports">
-    <title lang="id">Chiba Lotte Marines @</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Seibu Lions, Next Level Sports</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260816113000 +0700" stop="20260816133000 +0700" channel="espnselectespnunlimited">
     <title lang="id">New York Heights vs Boston Hunters</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
@@ -415,19 +410,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: RDS 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260816073000 +0700" stop="20260816093000 +0700" channel="t2dazncanada">
-    <title lang="id">Dubai Championship Tennis Channel 3:00 PM Cincinnati Open T2 TSN+ TSN2 DAZN Canada 11:00 PM Cincinnati Open</title>
+  <programme start="20260816030000 +0700" stop="20260816050000 +0700" channel="t2dazncanada">
+    <title lang="id">Cincinnati Open T2 TSN+ TSN2 DAZN Canada 11:00 PM Cincinnati Open</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: T2, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260816064000 +0700" stop="20260816084000 +0700" channel="fubosportsfoxsports2">
-    <title lang="id">Sydney Swans @ Essendon Bombers</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, FOX Sports 2</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260816064500 +0700" stop="20260816084500 +0700" channel="tsn5">
-    <title lang="id">Greater Western Sydney Giants - West Coast Eagles</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN5</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260816050000 +0700" stop="20260816070000 +0700" channel="foxsportsracing">
@@ -445,9 +430,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260816081500 +0700" stop="20260816101500 +0700" channel="foxsoccerplus">
-    <title lang="id">Cronulla Sharks W @ NQ Cowboys W</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus</desc>
+  <programme start="20260816042000 +0700" stop="20260816062000 +0700" channel="nbc">
+    <title lang="id">European Aquatics Championships Finals</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: NBC</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260816080000 +0700" stop="20260816100000 +0700" channel="tvbelumtersedia">

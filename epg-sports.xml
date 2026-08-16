@@ -250,13 +250,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260816113000 +0700" stop="20260816133000 +0700" channel="dazncanada">
-    <title lang="id">Hannover 96 vs Wolfsburg</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260816113000 +0700" stop="20260816133000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Hansa Rostock vs Waldhof Mannheim ESPN Select ESPN Unlimited 2:30 PM Jahn Regensburg vs Saarbrücken</title>
+  <programme start="20260816023000 +0700" stop="20260816043000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">Jahn Regensburg vs Saarbrücken</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -320,11 +315,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, TSN4, TSN5, RDS 2</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260816113000 +0700" stop="20260816133000 +0700" channel="dazndazncanada">
-    <title lang="id">SK Beveren vs Anderlecht</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260816030000 +0700" stop="20260816050000 +0700" channel="paramount+">
     <title lang="id">Rangers F.C. vs St. Mirren</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
@@ -355,8 +345,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: FloHockey</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260816114500 +0700" stop="20260816134500 +0700" channel="tvbelumtersedia">
-    <title lang="id">Fedex St. Jude Championship Final Round ESPN Select ESPN Unlimited TSN+ 4:00 PM Fedex St. Jude Championship Final Round Fubo Sports ESPN Select ESPN Unlimited Golf Channel USA Golf Channel Canada 6:00 PM Fedex St. Jude Championship Final Round Paramount+ CBS RDS TSN3 CTV2 Show more</title>
+  <programme start="20260816040000 +0700" stop="20260816060000 +0700" channel="tvbelumtersedia">
+    <title lang="id">Fedex St. Jude Championship Final Round Fubo Sports ESPN Select ESPN Unlimited Golf Channel USA Golf Channel Canada 6:00 PM Fedex St. Jude Championship Final Round Paramount+ CBS RDS TSN3 CTV2 Show more</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -375,8 +365,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260816113400 +0700" stop="20260816133400 +0700" channel="dazndazncanada">
-    <title lang="id">Czech Rally Stage 11 DAZN DAZN Canada 12:32 PM Czech Rally Stage 12 DAZN DAZN Canada 2:00 PM Czech Rally Stage 13</title>
+  <programme start="20260816123200 +0700" stop="20260816143200 +0700" channel="dazndazncanada">
+    <title lang="id">Czech Rally Stage 12 DAZN DAZN Canada 2:00 PM Czech Rally Stage 13</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>

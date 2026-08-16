@@ -360,11 +360,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260816100000 +0700" stop="20260816120000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
-    <title lang="id">Danish Golf Championship Final Round</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260816060000 +0700" stop="20260816080000 +0700" channel="fubosportsgolfchannelusagolfchannelcanada">
     <title lang="id">Portland Classic</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Golf Channel USA, Golf Channel Canada</desc>
@@ -385,14 +380,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260816094000 +0700" stop="20260816114000 +0700" channel="tsn+tsn5tvasports">
-    <title lang="id">London E-Prix Qualifying TSN+ 2:05 PM London E-Prix Race 2</title>
+  <programme start="20260816020500 +0700" stop="20260816040500 +0700" channel="tsn+tsn5tvasports">
+    <title lang="id">London E-Prix Race 2</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+, TSN5, TVA Sports</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260816090000 +0700" stop="20260816110000 +0700" channel="dazndazncanada">
-    <title lang="id">Porsche Carrera Cup Germany Race</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260816040000 +0700" stop="20260816060000 +0700" channel="foxsportsracing">
@@ -418,11 +408,6 @@
   <programme start="20260816050000 +0700" stop="20260816070000 +0700" channel="foxsportsracing">
     <title lang="id">Saratoga Live Fubo Sports FOX Sports 1 8:00 PM Saratoga Live</title>
     <desc lang="id">[Sedang Tayang] Disiarkan di: FOX Sports Racing</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260816090000 +0700" stop="20260816110000 +0700" channel="peacock">
-    <title lang="id">Apparatus Finals</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Peacock</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260816050000 +0700" stop="20260816070000 +0700" channel="espnselectespnunlimitedtsn+">

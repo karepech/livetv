@@ -260,8 +260,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus, OneSoccer</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260816123000 +0700" stop="20260816143000 +0700" channel="fubosportsparamount+cbssndazncanada">
-    <title lang="id">Watford vs Southampton Paramount+ CBS Golazo Network DAZN Canada 3:00 PM Burnley vs West Ham United</title>
+  <programme start="20260816030000 +0700" stop="20260816050000 +0700" channel="fubosportsparamount+cbssndazncanada">
+    <title lang="id">Burnley vs West Ham United</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Paramount+, CBSSN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -270,24 +270,19 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, Paramount+, CBSSN, TLN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260816010000 +0700" stop="20260816030000 +0700" channel="fanatiz">
-    <title lang="id">Cerro Porteño vs Sportivo San Lorenzo Fanatiz 7:00 PM Sportivo Luqueño vs Libertad Fanatiz 9:30 PM Olimpia vs Sportivo Ameliano</title>
+  <programme start="20260816070000 +0700" stop="20260816090000 +0700" channel="fanatiz">
+    <title lang="id">Sportivo Luqueño vs Libertad Fanatiz 9:30 PM Olimpia vs Sportivo Ameliano</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260816124500 +0700" stop="20260816144500 +0700" channel="fanatiz">
-    <title lang="id">Lublin vs GKS Katowice Fanatiz 3:30 PM Cracovia Kraków vs Raków Częstochowa Fanatiz beIN USA beIN USA Espanol beIN Canada beIN Canada Espanol 6:15 PM Górnik Zabrze vs Wisła Kraków</title>
+  <programme start="20260816033000 +0700" stop="20260816053000 +0700" channel="fanatiz">
+    <title lang="id">Cracovia Kraków vs Raków Częstochowa Fanatiz beIN USA beIN USA Espanol beIN Canada beIN Canada Espanol 6:15 PM Górnik Zabrze vs Wisła Kraków</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260816123000 +0700" stop="20260816143000 +0700" channel="espnselectespnunlimitedsportsnet+">
-    <title lang="id">Feyenoord vs Go Ahead Eagles ESPN Select ESPN Unlimited Sportsnet+ 2:45 PM Ajax vs Heerenveen</title>
+  <programme start="20260816024500 +0700" stop="20260816044500 +0700" channel="espnselectespnunlimitedsportsnet+">
+    <title lang="id">Ajax vs Heerenveen</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited, Sportsnet+</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260816020000 +0700" stop="20260816040000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Arsenal FC vs Manchester City Fubo Sports ESPN Select ESPN Unlimited ESPN ESPN Deportes Show more</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260816030000 +0700" stop="20260816050000 +0700" channel="daznfoxdeportescbsgolazonetworkdazncanada">
@@ -320,8 +315,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260816020000 +0700" stop="20260816040000 +0700" channel="fanatiz">
-    <title lang="id">Chapecoense vs Bahia Fanatiz 7:00 PM Vasco da Gama vs Santos Fanatiz 7:00 PM Atlético Mineiro vs Grêmio Fanatiz 9:30 PM Mirassol vs Flamengo Fanatiz 9:30 PM Vitória vs Botafogo Fanatiz 10:30 PM Corinthians vs Cruzeiro</title>
+  <programme start="20260816070000 +0700" stop="20260816090000 +0700" channel="fanatiz">
+    <title lang="id">Vasco da Gama vs Santos Fanatiz Atlético Mineiro vs Grêmio Fanatiz 9:30 PM Mirassol vs Flamengo Fanatiz 9:30 PM Vitória vs Botafogo Fanatiz 10:30 PM Corinthians vs Cruzeiro</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -360,19 +355,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: U.S. Amateur Championship, NBC</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260816123000 +0700" stop="20260816143000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Ontario Honda Dealers Indy at Markham Warm Up Fubo Sports FOX Sports 2 FOX One 4:00 PM Ontario Honda Dealers Indy at Markham Race Fubo Sports FOX FOX One TSN+ TSN1 Show more</title>
+  <programme start="20260816040000 +0700" stop="20260816060000 +0700" channel="tvbelumtersedia">
+    <title lang="id">Ontario Honda Dealers Indy at Markham Race Fubo Sports FOX FOX One TSN+ TSN1 Show more</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260816123200 +0700" stop="20260816143200 +0700" channel="dazndazncanada">
-    <title lang="id">Czech Rally Stage 12 DAZN DAZN Canada 2:00 PM Czech Rally Stage 13</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260816020500 +0700" stop="20260816040500 +0700" channel="tsn+tsn5tvasports">
-    <title lang="id">London E-Prix Race 2</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+, TSN5, TVA Sports</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260816040000 +0700" stop="20260816060000 +0700" channel="foxsportsracing">

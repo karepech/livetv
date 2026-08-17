@@ -1,13 +1,8 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
   <programme start="20260817054000 +0700" stop="20260817074000 +0700" channel="espnunlimitedmlb.tvcardinals.tvreds.tv">
-    <title lang="id">St. Louis Cardinals @ Cincinnati Reds</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, MLB.TV, Cardinals.TV, Reds.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260817054000 +0700" stop="20260817074000 +0700" channel="mlb.tvcardinals.tvreds.tv">
     <title lang="id">St. Louis Cardinals @ Cincinnati Reds Makeup of May 24 game</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: MLB.TV, Cardinals.TV, Reds.TV</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, MLB.TV, Cardinals.TV, Reds.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260817100500 +0700" stop="20260817120500 +0700" channel="mlb.tvmasnrays.tvsportsnetsnnow">

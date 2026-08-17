@@ -70,14 +70,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Select, ESPN Unlimited, ESPN Deportes</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260817030000 +0700" stop="20260817050000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">UC Davis vs Sacramento State MW+ 2:00 PM The Citadel vs Southern Utah ESPN Select ESPN Unlimited 3:00 PM Kentucky vs Kent State ESPN Unlimited SECN+ 8:00 PM Boston College vs St. John's (NY) ESPN Unlimited ACCNX 8:00 PM Mount St. Mary's vs Towson</title>
+  <programme start="20260817020000 +0700" stop="20260817040000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">The Citadel vs Southern Utah ESPN Select ESPN Unlimited 3:00 PM Kentucky vs Kent State ESPN Unlimited SECN+ 8:00 PM Boston College vs St. John's (NY) ESPN Unlimited ACCNX 8:00 PM Mount St. Mary's vs Towson</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260817030000 +0700" stop="20260817050000 +0700" channel="tudn">
-    <title lang="id">Tijuana vs Cruz Azul</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TUDN</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260817054500 +0700" stop="20260817074500 +0700" channel="fanatiz">

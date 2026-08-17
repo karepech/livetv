@@ -50,11 +50,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, ESPN U</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260817010500 +0700" stop="20260817030500 +0700" channel="kvvu-foxballysportslivemilb.tv">
-    <title lang="id">Sacramento River Cats @ Las Vegas Aviators SSSEN</title>
-    <desc lang="id">[Sedang Tayang] Disiarkan di: KVVU-FOX, Bally Sports Live, MiLB.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260817100000 +0700" stop="20260817120000 +0700" channel="nbatv">
     <title lang="id">SLAM Summer Classic</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: NBA TV</desc>
@@ -70,23 +65,18 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260817023000 +0700" stop="20260817043000 +0700" channel="appletv">
-    <title lang="id">Seattle Sounders vs Vancouver Whitecaps</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Apple TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260817070000 +0700" stop="20260817090000 +0700" channel="fubosportsespnselectespnunlimitedespndeportes">
     <title lang="id">Deportivo La Coruña vs Elche</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Select, ESPN Unlimited, ESPN Deportes</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260817030000 +0700" stop="20260817050000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">UC Davis vs Sacramento State MW+ 2:00 PM The Citadel vs Southern Utah ESPN Select ESPN Unlimited 8:00 PM Boston College vs St. John's (NY) ESPN Unlimited ACCNX 8:00 PM Mount St. Mary's vs Towson</title>
+    <title lang="id">UC Davis vs Sacramento State MW+ 2:00 PM The Citadel vs Southern Utah ESPN Select ESPN Unlimited 3:00 PM Kentucky vs Kent State ESPN Unlimited SECN+ 8:00 PM Boston College vs St. John's (NY) ESPN Unlimited ACCNX 8:00 PM Mount St. Mary's vs Towson</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260817011000 +0700" stop="20260817031000 +0700" channel="tudn">
-    <title lang="id">Santos Laguna vs Guadalajara TUDN ViX 3:00 AM Tijuana vs Cruz Azul</title>
+  <programme start="20260817030000 +0700" stop="20260817050000 +0700" channel="tudn">
+    <title lang="id">Tijuana vs Cruz Azul</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TUDN</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -113,11 +103,6 @@
   <programme start="20260817071500 +0700" stop="20260817091500 +0700" channel="beinusabeinusaespanolbeincanadaespanol">
     <title lang="id">Casa Pia vs Benfica</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: beIN USA, beIN USA Espanol, beIN Canada Espanol</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260817020000 +0700" stop="20260817040000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Los Angeles FC 2 vs Tacoma Defiance MLSNEXTPro.com 2:30 AM San Jose Earthquakes II vs St Louis CITY2 MLSNEXTPro.com</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260817110000 +0700" stop="20260817130000 +0700" channel="fanatiz">

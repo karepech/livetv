@@ -40,8 +40,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: MLB.TV, Twins.TV, BravesVision</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260818080000 +0700" stop="20260818100000 +0700" channel="espnunlimitedespnu">
-    <title lang="id">Tupelo, MS - Portland, OR Semifinal ESPN Unlimited ESPN U 11:00 PM Midland, MI - Lincoln NE</title>
+  <programme start="20260818110000 +0700" stop="20260818130000 +0700" channel="espnunlimitedespnu">
+    <title lang="id">Midland, MI - Lincoln NE</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, ESPN U</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -60,39 +60,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260818070000 +0700" stop="20260818090000 +0700" channel="fubosportsespnselectespnunlimitedespndeportes">
-    <title lang="id">Deportivo La Coruña VS Elche</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fubo Sports, ESPN Select, ESPN Unlimited, ESPN Deportes</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260818080000 +0700" stop="20260818100000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Boston College VS St. John's (NY) ESPN Unlimited ACCNX Mount St. Mary's VS Towson</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260818080000 +0700" stop="20260818100000 +0700" channel="fanatiz">
-    <title lang="id">Lanús VS Independiente Fanatiz FOX Deportes 10:15 PM Vélez Sarsfield VS Defensa y Justicia</title>
+  <programme start="20260818101500 +0700" stop="20260818121500 +0700" channel="fanatiz">
+    <title lang="id">Vélez Sarsfield VS Defensa y Justicia</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260818070000 +0700" stop="20260818090000 +0700" channel="paramount+dazncanada">
-    <title lang="id">Cardiff City VS Wrexham</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260818064500 +0700" stop="20260818084500 +0700" channel="paramount+tlndazncanada">
-    <title lang="id">Cremonese VS Sampdoria Paramount+ DAZN Canada 7:15 PM Palermo VS Lecce</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, TLN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260818073000 +0700" stop="20260818093000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Almería VS Eldense</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260818071500 +0700" stop="20260818091500 +0700" channel="fanatizbeinusa">
-    <title lang="id">Casa Pia VS Benfica</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, beIN USA</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260818110000 +0700" stop="20260818130000 +0700" channel="fanatiz">

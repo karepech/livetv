@@ -1,10 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
-  <programme start="20260818054000 +0700" stop="20260818074000 +0700" channel="espnunlimitedmlb.tvcardinals.tvreds.tv">
-    <title lang="id">St. Louis Cardinals @ Cincinnati Reds Makeup of May 24 game</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, MLB.TV, Cardinals.TV, Reds.TV</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260818100500 +0700" stop="20260818120500 +0700" channel="mlb.tvmasnrays.tvsportsnetsnnow">
     <title lang="id">Baltimore Orioles @ Tampa Bay Rays</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: MLB.TV, MASN, Rays.TV, Sportsnet, SN NOW</desc>
@@ -60,8 +55,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: NBA TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260818060000 +0700" stop="20260818080000 +0700" channel="dazndazncanada">
-    <title lang="id">South Sudan @ Brazil Qualifying DAZN DAZN Canada 8:45 PM New Zealand @ Argentina Qualifying DAZN DAZN Canada 11:30 PM Senegal @ Canada Qualifying</title>
+  <programme start="20260818084500 +0700" stop="20260818104500 +0700" channel="dazndazncanada">
+    <title lang="id">New Zealand @ Argentina Qualifying DAZN DAZN Canada 11:30 PM Senegal @ Canada Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -75,8 +70,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260818054500 +0700" stop="20260818074500 +0700" channel="fanatiz">
-    <title lang="id">Estudiantes Río Cuarto VS Atlético Tucumán Fanatiz 8:00 PM Lanús VS Independiente Fanatiz FOX Deportes 10:15 PM Vélez Sarsfield VS Defensa y Justicia</title>
+  <programme start="20260818080000 +0700" stop="20260818100000 +0700" channel="fanatiz">
+    <title lang="id">Lanús VS Independiente Fanatiz FOX Deportes 10:15 PM Vélez Sarsfield VS Defensa y Justicia</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>

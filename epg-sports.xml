@@ -5,13 +5,18 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, MLB.TV, Cardinals.TV, Reds.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
+  <programme start="20260817054000 +0700" stop="20260817074000 +0700" channel="mlb.tvcardinals.tvreds.tv">
+    <title lang="id">St. Louis Cardinals @ Cincinnati Reds Makeup of May 24 game</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: MLB.TV, Cardinals.TV, Reds.TV</desc>
+    <category lang="id">Olahraga</category>
+  </programme>
   <programme start="20260817100500 +0700" stop="20260817120500 +0700" channel="mlb.tvmasnrays.tvsportsnetsnnow">
     <title lang="id">Baltimore Orioles @ Tampa Bay Rays</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: MLB.TV, MASN, Rays.TV, Sportsnet, SN NOW</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260817104000 +0700" stop="20260817124000 +0700" channel="mlb.tvcardinals.tvreds.tv">
-    <title lang="id">St. Louis Cardinals @ Cincinnati Reds</title>
+    <title lang="id">St. Louis Cardinals @ Cincinnati Reds DH Game 2</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: MLB.TV, Cardinals.TV, Reds.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -95,9 +100,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260817071500 +0700" stop="20260817091500 +0700" channel="beinusabeinusaespanolbeincanadaespanol">
+  <programme start="20260817071500 +0700" stop="20260817091500 +0700" channel="beinusabeinusaespanol">
     <title lang="id">Casa Pia vs Benfica</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: beIN USA, beIN USA Espanol, beIN Canada Espanol</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: beIN USA, beIN USA Espanol</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260817110000 +0700" stop="20260817130000 +0700" channel="fanatiz">

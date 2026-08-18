@@ -145,11 +145,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260819070000 +0700" stop="20260819090000 +0700" channel="paramount+dazncbsgolazonetworkdazncanada">
-    <title lang="id">Levski Sofia vs. AEK Athens Play-off Paramount+ TUDN DAZN Canada Dinamo Zagreb vs. Viking Play-off Paramount+ DAZN Canada Fenerbahçe vs. Lyon Play-off</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, DAZN, CBS Golazo Network, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260819100000 +0700" stop="20260819120000 +0700" channel="espnselectespnunlimited">
     <title lang="id">North Florida vs. Saint Leo</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
@@ -165,34 +160,19 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, CBS Golazo Network</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260819080000 +0700" stop="20260819100000 +0700" channel="fanatiz">
-    <title lang="id">Deportivo Riestra vs. Gimnasia La Plata</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260819100000 +0700" stop="20260819120000 +0700" channel="fanatizbeinusabeinusaespanolbeincanadabeincanadaespanol">
     <title lang="id">Deportivo Recoleta vs. Boca Juniors</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz, beIN USA, beIN USA Espanol, beIN Canada, beIN Canada Espanol</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260819064500 +0700" stop="20260819084500 +0700" channel="dazndazncanada">
-    <title lang="id">Brackley Town vs. King's Lynn Town DAZN DAZN Canada Morecambe vs. South Shields DAZN DAZN Canada Torquay United vs. Weston-super-Mare DAZN DAZN Canada Walton &amp; Hersham vs. Dagenham &amp; Redbridge</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260819063000 +0700" stop="20260819083000 +0700" channel="tsn+">
-    <title lang="id">Cincinnati Open TSN+ 9:00 PM Cincinnati Open</title>
+  <programme start="20260819090000 +0700" stop="20260819110000 +0700" channel="tsn+">
+    <title lang="id">Cincinnati Open</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260819110000 +0700" stop="20260819130000 +0700" channel="t2tsn3dazncanada">
     <title lang="id">Cincinnati Open</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: T2, TSN3, DAZN Canada</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260819070000 +0700" stop="20260819090000 +0700" channel="foxsoccerplussnworldsnnowsportsnet+">
-    <title lang="id">Warrington Wolves @ Hull KR</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: FOX Soccer Plus, SN World, SN NOW, Sportsnet+</desc>
     <category lang="id">Olahraga</category>
   </programme>
 </tv>

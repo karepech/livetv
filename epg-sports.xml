@@ -160,11 +160,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260818030600 +0700" stop="20260818050600 +0700" channel="tudn">
-    <title lang="id">Pachuca VS Puebla</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TUDN</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260818100000 +0700" stop="20260818120000 +0700" channel="fanatiz">
     <title lang="id">Independiente Rivadavia VS Fluminense</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>

@@ -140,13 +140,13 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260818020000 +0700" stop="20260818040000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Dallas Wings @ Golden State Valkyries Peacock NBCS Network KFAA 29 KPIX-CBS CBS News Sacramento 11:00 PM Los Angeles Sparks @ Connecticut Sun WNBA League Pass NBCS Boston Spectrum SportsNet 11:00 PM Indiana Fever @ Toronto Tempo Fubo Sports ESPN Unlimited ESPN ESPN Deportes MeTV Indianapolis Show more</title>
+  <programme start="20260818110000 +0700" stop="20260818130000 +0700" channel="tvbelumtersedia">
+    <title lang="id">Los Angeles Sparks @ Connecticut Sun WNBA League Pass NBCS Boston Spectrum SportsNet Indiana Fever @ Toronto Tempo Fubo Sports ESPN Unlimited ESPN ESPN Deportes MeTV Indianapolis Show more</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260818023000 +0700" stop="20260818043000 +0700" channel="dazndazncanada">
-    <title lang="id">Philippines @ Mexico Qualifying DAZN DAZN Canada 11:30 PM Argentina @ South Sudan Qualifying</title>
+  <programme start="20260818113000 +0700" stop="20260818133000 +0700" channel="dazndazncanada">
+    <title lang="id">Argentina @ South Sudan Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -155,13 +155,13 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260818013000 +0700" stop="20260818033000 +0700" channel="espnselectespnunlimited">
-    <title lang="id">Utah Valley VS Utah ESPN Select ESPN Unlimited 10:00 PM North Florida VS Saint Leo</title>
+  <programme start="20260818100000 +0700" stop="20260818120000 +0700" channel="espnselectespnunlimited">
+    <title lang="id">North Florida VS Saint Leo</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Select, ESPN Unlimited</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260818010000 +0700" stop="20260818030000 +0700" channel="tudn">
-    <title lang="id">Necaxa VS León FOX Deportes 3:06 AM Pachuca VS Puebla</title>
+  <programme start="20260818030600 +0700" stop="20260818050600 +0700" channel="tudn">
+    <title lang="id">Pachuca VS Puebla</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TUDN</desc>
     <category lang="id">Olahraga</category>
   </programme>
@@ -195,9 +195,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260818030000 +0700" stop="20260818050000 +0700" channel="tsn5">
-    <title lang="id">Cincinnati Open</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TSN5</desc>
+  <programme start="20260818030000 +0700" stop="20260818050000 +0700" channel="tsn+">
+    <title lang="id">Cincinnati Open TSN+ TSN5 9:00 PM Cincinnati Open</title>
+    <desc lang="id">[Akan Tayang] Disiarkan di: TSN+</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260818030000 +0700" stop="20260818050000 +0700" channel="rds">
@@ -206,18 +206,13 @@
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260818030000 +0700" stop="20260818050000 +0700" channel="t2tsn3dazncanada">
-    <title lang="id">Cincinnati Open T2 TSN3 DAZN Canada 11:00 PM Cincinnati Open</title>
+    <title lang="id">Cincinnati Open T2 TSN+ TSN3 DAZN Canada 11:00 PM Cincinnati Open</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: T2, TSN3, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260818123500 +0700" stop="20260818143500 +0700" channel="slingtvhbomax">
     <title lang="id">Tour du Limousin Stage 1</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: Sling TV, HBO Max</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260818013000 +0700" stop="20260818033000 +0700" channel="espnunlimitedespnu">
-    <title lang="id">Oklahoma Women's Gymnastics Grit and Gold: The Chase to Eight</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: ESPN Unlimited, ESPN U</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260818070000 +0700" stop="20260818090000 +0700" channel="foxsoccerplussnworldsnnowsportsnet+">

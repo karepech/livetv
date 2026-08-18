@@ -135,11 +135,6 @@
     <desc lang="id">[Sedang Tayang] Disiarkan di: Bally Sports Live, MiLB.TV</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260818050000 +0700" stop="20260818070000 +0700" channel="nextlevelsports">
-    <title lang="id">Fukuoka @ Nippon Ham Fighters</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Next Level Sports</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260818110000 +0700" stop="20260818130000 +0700" channel="tvbelumtersedia">
     <title lang="id">Los Angeles Sparks @ Connecticut Sun WNBA League Pass NBCS Boston Spectrum SportsNet Indiana Fever @ Toronto Tempo Fubo Sports ESPN Unlimited ESPN ESPN Deportes MeTV Indianapolis Show more</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
@@ -150,9 +145,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260818070000 +0700" stop="20260818090000 +0700" channel="paramount+dazndazncanada">
+  <programme start="20260818070000 +0700" stop="20260818090000 +0700" channel="paramount+dazncbsgolazonetworkdazncanada">
     <title lang="id">Levski Sofia VS AEK Athens Play-off Paramount+ TUDN DAZN Canada Dinamo Zagreb VS Viking Play-off Paramount+ DAZN Canada Fenerbahçe VS Lyon Play-off</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, DAZN, DAZN Canada</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, DAZN, CBS Golazo Network, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260818100000 +0700" stop="20260818120000 +0700" channel="espnselectespnunlimited">
@@ -165,9 +160,9 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260818100000 +0700" stop="20260818120000 +0700" channel="paramount+">
+  <programme start="20260818100000 +0700" stop="20260818120000 +0700" channel="paramount+cbsgolazonetwork">
     <title lang="id">Mount Pleasant Academy VS Cibao</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+</desc>
+    <desc lang="id">[Akan Tayang] Disiarkan di: Paramount+, CBS Golazo Network</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260818080000 +0700" stop="20260818100000 +0700" channel="fanatiz">

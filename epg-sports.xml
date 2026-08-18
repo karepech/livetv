@@ -1,15 +1,5 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Auto EPG Smart Sports">
-  <programme start="20260818120500 +0700" stop="20260818140500 +0700" channel="tvbelumtersedia">
-    <title lang="id">Chicago White Sox @ Chicago Cubs Fanatiz MLB.TV Marquee CHSN The U Show more</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260818124000 +0700" stop="20260818144000 +0700" channel="tvbelumtersedia">
-    <title lang="id">Los Angeles Dodgers @ Colorado Rockies MLB.TV SportsNet LA Rockies.TV SNLA+</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260818103500 +0700" stop="20260818123500 +0700" channel="mlb.tvmasnyessnnowsportsnet+">
     <title lang="id">New York Yankees @ Baltimore Orioles</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: MLB.TV, MASN, YES, SN NOW, Sportsnet+</desc>
@@ -155,11 +145,6 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: TV Belum Tersedia</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260818123000 +0700" stop="20260818143000 +0700" channel="fanatiz">
-    <title lang="id">Valdivia @ Las Animas</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
   <programme start="20260818023000 +0700" stop="20260818043000 +0700" channel="dazndazncanada">
     <title lang="id">Philippines @ Mexico Qualifying DAZN DAZN Canada 11:30 PM Argentina @ South Sudan Qualifying</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
@@ -178,11 +163,6 @@
   <programme start="20260818010000 +0700" stop="20260818030000 +0700" channel="tudn">
     <title lang="id">Necaxa VS León FOX Deportes 3:06 AM Pachuca VS Puebla</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TUDN</desc>
-    <category lang="id">Olahraga</category>
-  </programme>
-  <programme start="20260818123000 +0700" stop="20260818143000 +0700" channel="fanatiz">
-    <title lang="id">Gimnasia Mendoza VS Talleres de Córdoba</title>
-    <desc lang="id">[Akan Tayang] Disiarkan di: Fanatiz</desc>
     <category lang="id">Olahraga</category>
   </programme>
   <programme start="20260818100000 +0700" stop="20260818120000 +0700" channel="fanatiz">
@@ -215,8 +195,8 @@
     <desc lang="id">[Akan Tayang] Disiarkan di: DAZN, DAZN Canada</desc>
     <category lang="id">Olahraga</category>
   </programme>
-  <programme start="20260818123000 +0700" stop="20260818143000 +0700" channel="tsn5">
-    <title lang="id">Cincinnati Open Tennis Channel 3:00 PM Cincinnati Open</title>
+  <programme start="20260818030000 +0700" stop="20260818050000 +0700" channel="tsn5">
+    <title lang="id">Cincinnati Open</title>
     <desc lang="id">[Akan Tayang] Disiarkan di: TSN5</desc>
     <category lang="id">Olahraga</category>
   </programme>
